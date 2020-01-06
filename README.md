@@ -22,6 +22,7 @@ For information on contributing to this project, please see the [contributing gu
 * [Data Validation](#data-validation)
 * [Development](#development)
 * [Dictionaries](#dictionaries)
+* [Disasters](#disasters)
 * [Documents & Productivity](#documents--productivity)
 * [Environment](#environment)
 * [Events](#events)
@@ -82,6 +83,7 @@ API | Description | Auth | HTTPS | CORS |
 | [Jikan](https://jikan.moe) | Unofficial MyAnimeList API | No | Yes | Yes |
 | [Kitsu](http://docs.kitsu.apiary.io/) | Anime discovery platform | `OAuth` | Yes | Unknown |
 | [Studio Ghibli](https://ghibliapi.herokuapp.com) | Resources from Studio Ghibli films | No | Yes | Unknown |
+| [What Anime](https://soruly.github.io/trace.moe/) | Scan anime image to get specific detail | `apiKey` | Yes | Unknown |
 
 **[⬆ Back to Index](#index)**
 ### Anti-Malware
@@ -119,6 +121,8 @@ API | Description | Auth | HTTPS | CORS |
 | [LibGen](http://garbage.world/posts/libgen/) | Library Genesis search engine | No | No | Unknown |
 | [Open Library](https://openlibrary.org/developers/api) | Books, book covers and related data | No | Yes | Unknown |
 | [Penguin Publishing](http://www.penguinrandomhouse.biz/webservices/rest/) | Books, book covers and related data | No | Yes | Unknown |
+| [Rig Veda](https://aninditabasu.github.io/indica/html/rv.html) | Gods and poets, their categories, and the verse meters, with the mandal and sukta number | No | Yes | Unknown |
+| [Vedic Society](https://aninditabasu.github.io/indica/html/vs.html) | Descriptions of all nouns (names, places, animals, things) from vedic literature | No | Yes | Unknown |
 
 **[⬆ Back to Index](#index)**
 ### Business
@@ -145,6 +149,7 @@ API | Description | Auth | HTTPS | CORS |
 | [Czech Namedays Calendar](http://svatky.adresa.info/) | Lookup for a name and returns nameday date | No | No | Unknown |
 | [Google Calendar](https://developers.google.com/google-apps/calendar/) | Display, create and modify Google calendar events | `OAuth` | Yes | Unknown |
 | [Hebrew Calendar](https://www.hebcal.com/home/developer-apis) | Convert between Gregorian and Hebrew, fetch Shabbat and Holiday times, etc | No | No | Unknown |
+| [Holiday API](https://holidayapi.pl/) | Enterprise-grade holiday and observance API for developers by developers | `apiKey` | Yes | Yes |
 | [Holidays](https://holidayapi.com/) | Historical data regarding holidays | `apiKey` | Yes | Unknown |
 | [LectServe](http://www.lectserve.com) | Protestant liturgical calendar | No | No | Unknown |
 | [Nager.Date](https://date.nager.at) | Public holidays for more than 90 countries | No | Yes | No |
@@ -162,6 +167,7 @@ API | Description | Auth | HTTPS | CORS |
 | [Google Drive](https://developers.google.com/drive/) | File Sharing and Storage | `OAuth` | Yes | Unknown |
 | [OneDrive](https://dev.onedrive.com/) | File Sharing and Storage | `OAuth` | Yes | Unknown |
 | [Pastebin](https://pastebin.com/api/) | Plain Text Storage | `apiKey` | Yes | Unknown |
+| [Restwords](https://www.restwords.com) | Plain Text Storage | `apiKey` | Yes | No |
 | [Temporal](https://gateway.temporal.cloud/ipns/docs.api.temporal.cloud) | IPFS based file storage and sharing with optional IPNS naming | `apiKey` | Yes | No |
 | [WeTransfer](https://developers.wetransfer.com) | File Sharing | `apiKey` | Yes | Yes |
 
@@ -199,6 +205,7 @@ API | Description | Auth | HTTPS | CORS |
 | [CoinRanking](https://docs.coinranking.com/) | Live Cryptocurrency data | No | Yes | Unknown |
 | [CryptoCompare](https://www.cryptocompare.com/api#) | Cryptocurrencies Comparison | No | Yes | Unknown |
 | [Cryptonator](https://www.cryptonator.com/api/) | Cryptocurrencies Exchange Rates | No | Yes | Unknown |
+| [Gates.io](https://www.gate.io/api2) | Blockchain Assets Exchange | No | Yes | Unknown |
 | [Gemini](https://docs.gemini.com/rest-api/) | Cryptocurrencies Exchange | No | Yes | Unknown |
 | [ICObench](https://icobench.com/developers) | Various information on listing, ratings, stats, and more | `apiKey` | Yes | Unknown |
 | [Livecoin](https://www.livecoin.net/api) | Cryptocurrency Exchange | No | Yes | Unknown |
@@ -255,7 +262,7 @@ API | Description | Auth | HTTPS | CORS |
 | [CDNJS](https://api.cdnjs.com/libraries/jquery) | Library info on CDNJS | No | Yes | Unknown |
 | [Changelogs.md](https://changelogs.md) | Structured changelog metadata from open source projects | No | Yes | Unknown |
 | [CountAPI](https://countapi.xyz) | Free and simple counting service. You can use it to track page hits and specific events | No | Yes | Yes |
-| [DigitalOcean Status](https://status.digitalocean.com/api/v1) | Status of all DigitalOcean services | No | Yes | Unknown |
+| [DigitalOcean Status](https://status.digitalocean.com/api/v2) | Status of all DigitalOcean services | No | Yes | Unknown |
 | [DomainDb Info](https://domainsdb.info/apidomainsdb/index.php) | Domain name search to find all domains containing particular words/phrases/etc | No | Yes | Unknown |
 | [ExtendsClass](https://extendsclass.com/json-storage.html) | A simple JSON store API | No | Yes | Yes |
 | [Faceplusplus](https://www.faceplusplus.com/) | A tool to detect face | `OAuth` | Yes | Unknown |
@@ -294,6 +301,7 @@ API | Description | Auth | HTTPS | CORS |
 | [StackExchange](https://api.stackexchange.com/) | Q&A forum for developers | `OAuth` | Yes | Unknown |
 | [Verse](https://verse.pawelad.xyz/) | Check what's the latest version of your favorite open-source project | No | Yes | Unknown |
 | [XML to JSON](https://developers.wso2apistore.com/) | Integration developer utility APIs | No | Yes | Unknown |
+| [IPFinder](https://ipfinder.io/) | Geolocation API,ASN API,IP Ranges API,IP Firewall API,Domain API | Yes | Yes | Yes |
 
 **[⬆ Back to Index](#index)**
 ### Dictionaries
@@ -306,6 +314,15 @@ API | Description | Auth | HTTPS | CORS |
 | [Oxford](https://developer.oxforddictionaries.com/) | Dictionary Data | `apiKey` | Yes | No |
 | [Wordnik](http://developer.wordnik.com) | Dictionary Data | `apiKey` | No | Unknown |
 | [Words](https://www.wordsapi.com/) | Definitions and synonyms for more than 150,000 words | `apiKey` | Yes | Unknown |
+
+**[⬆ Back to Index](#index)**
+### Disasters
+API | Description | Auth | HTTPS | CORS |
+|---|---|---|---|---|
+| [USGS](https://earthquake.usgs.gov/fdsnws/event/1/) | Earthquake Data | `apiKey` | Yes | Unknown
+| [RWLabs](https://apidoc.rwlabs.org/#api-use) | All types of disaster data | `apiKey` | Yes | Unknown
+| [PredictHQ](https://developer.predicthq.com/) | Events and natural disasters data | oAuth | Yes | Unknown
+
 
 **[⬆ Back to Index](#index)**
 ### Documents & Productivity
@@ -358,6 +375,7 @@ API | Description | Auth | HTTPS | CORS |
 | [RoutingNumbers.info](https://www.routingnumbers.info/api/index.html) | ACH/NACHA Bank Routing Numbers | No | Yes | Unknown |
 | [Tradier](https://developer.tradier.com) | US equity/option market data (delayed, intraday, historical) | `OAuth` | Yes | Yes |
 | [VAT Rates](https://jsonvat.com/) | A collection of all VAT rates for EU countries | No | Yes | Unknown |
+| [World Trading Data](https://www.worldtradingdata.com/) | Market data provider | `apiKey` | Yes | Unknown |
 | [YNAB](https://api.youneedabudget.com/) | Budgeting & Planning | `OAuth` | Yes | Yes |
 
 **[⬆ Back to Index](#index)**
@@ -377,6 +395,8 @@ API | Description | Auth | HTTPS | CORS |
 | [TheCocktailDB](https://www.thecocktaildb.com/api.php) | Cocktail Recipes | `apiKey` | Yes | Yes |
 | [TheMealDB](https://www.themealdb.com/api.php) | Meal Recipes | `apiKey` | Yes | Yes |
 | [What's on the menu?](http://nypl.github.io/menus-api/) | NYPL human-transcribed historical menu collection | `apiKey` | No | Unknown |
+| [WhiskyHunter](https://whiskyhunter.net/api/) | Past online whisky auctions statistical data | No | Yes | Unknown |
+| [Zestful](https://zestfuldata.com/) | Parse recipe ingredients | `apiKey` | Yes | Yes |
 | [Zomato](https://developers.zomato.com/api) | Discover restaurants | `apiKey` | Yes | Unknown |
 
 **[⬆ Back to Index](#index)**
@@ -490,6 +510,7 @@ API | Description | Auth | HTTPS | CORS |
 | [ViaCep](https://viacep.com.br) | Brazil RESTful zip codes API | No | Yes | Unknown |
 | [ZipCodeAPI](https://www.zipcodeapi.com) | US zip code distance, radius and location API | `apiKey` | Yes | Unknown |
 | [Zippopotam](http://www.zippopotam.us) | Get information about place such as country, city, state, etc | No | No | Unknown |
+| [Ziptastic](https://ziptasticapi.com/) | Get the country, state, and city of any US zip-code | No | Yes | Unknown |
 
 **[⬆ Back to Index](#index)**
 ### Government
@@ -810,6 +831,7 @@ API | Description | Auth | HTTPS | CORS |
 | [NFL Arrests](http://nflarrest.com/api/) | NFL Arrest Data | No | No | Unknown |
 | [NHL Records and Stats](https://gitlab.com/dword4/nhlapi) | NHL historical data and statistics | No | Yes | Unknown |
 | [Pro Motocross](http://promotocrossapi.com) | The RESTful AMA Pro Motocross lap times for every racer on the start gate | No | No | Unknown |
+| [Sport List & Data](https://developers.decathlon.com/products/sports) | List of and ressources related to sports | No | Yes | Yes |
 | [Strava](https://strava.github.io/api/) | Connect with athletes, activities and more | `OAuth` | Yes | Unknown |
 | [SuredBits](https://suredbits.com/api/) | Query sports data, including teams, players, games, scores and statistics | No | No | No |
 | [TheSportsDB](https://www.thesportsdb.com/api.php) | Crowd-Sourced Sports Data and Artwork | `apiKey` | Yes | Yes |
@@ -877,6 +899,7 @@ API | Description | Auth | HTTPS | CORS |
 | [Izi](http://api-docs.izi.travel/) | Audio guide for travellers | `apiKey` | Yes | Unknown |
 | [Metro Lisboa](http://app.metrolisboa.pt/status/getLinhas.php) | Delays in subway lines | No | No | No |
 | [Navitia](https://api.navitia.io/) | The open API for building cool stuff with transport data | `apiKey` | Yes | Unknown |
+| [Open Charge Map](https://openchargemap.org/site/develop/api) |  Global public registry of electric vehicle charging locations | No | Yes | Unknown |
 | [REFUGE Restrooms](https://www.refugerestrooms.org/api/docs/#!/restrooms) | Provides safe restroom access for transgender, intersex and gender nonconforming individuals | No | Yes | Unknown |
 | [Schiphol Airport](https://developer.schiphol.nl/) | Schiphol | `apiKey` | Yes | Unknown |
 | [TransitLand](https://transit.land/documentation/datastore/api-endpoints.html) | Transit Aggregation | No | Yes | Unknown |
@@ -906,7 +929,7 @@ API | Description | Auth | HTTPS | CORS |
 | [Transport for Paris, France](http://restratpws.azurewebsites.net/swagger/) | Live schedules made simple | No | No | Unknown |
 | [Transport for Paris, France](http://data.ratp.fr/api/v1/console/datasets/1.0/search/) | RATP Open Data API | No | No | Unknown |
 | [Transport for Philadelphia, US](http://www3.septa.org/hackathon/) | SEPTA APIs | No | No | Unknown |
-| [Transport for Sao Paulo, Brazil](http://www.sptrans.com.br/desenvolvedores/APIOlhoVivo/Documentacao.aspx) | SPTrans | `OAuth` | No | Unknown |
+| [Transport for Sao Paulo, Brazil](http://www.sptrans.com.br/desenvolvedores/api-do-olho-vivo-guia-de-referencia/documentacao-api/) | SPTrans | `OAuth` | No | Unknown |
 | [Transport for Sweden](https://www.trafiklab.se/api) | Public Transport consumer | `OAuth` | Yes | Unknown |
 | [Transport for Switzerland](https://opentransportdata.swiss/en/) | Official Swiss Public Transport Open Data | `apiKey` | Yes | Unknown |
 | [Transport for Switzerland](https://transport.opendata.ch/) | Swiss public transport API | No | Yes | Unknown |
