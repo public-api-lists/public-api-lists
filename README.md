@@ -1,5 +1,9 @@
 # Public API Lists
 
+[![Issues](https://img.shields.io/github/issues/public-api-lists/public-api-lists)](https://img.shields.io/github/issues/public-api-lists/public-api-lists)
+[![Forks](https://img.shields.io/github/forks/public-api-lists/public-api-lists)](https://img.shields.io/github/forks/public-api-lists/public-api-lists)
+[![Stars](https://img.shields.io/github/stars/public-api-lists/public-api-lists)](https://img.shields.io/github/stars/public-api-lists/public-api-lists)
+
 A collective list of free APIs for use in software and web development. 
 
 Forked from [public-apis](https://github.com/public-apis/public-apis)
