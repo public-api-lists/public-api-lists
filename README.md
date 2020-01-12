@@ -194,7 +194,7 @@ API | Description | Auth | HTTPS | CORS |
 | [BitcoinCharts](https://bitcoincharts.com/about/exchanges/) | Financial and Technical Data related to the Bitcoin Network | No | Yes | Unknown |
 | [Bitfinex](https://docs.bitfinex.com/docs/getting-started) | Cryptocurrency Trading Platform | `apiKey` | Yes | Unknown |
 | [Bitmex](https://www.bitmex.com/app/apiOverview) | Real-Time Cryptocurrency derivatives trading platform based in Hong Kong | `apiKey` | Yes | Unknown |
-| [Bittrex](https://bittrex.com/Home/Api) | Next Generation Crypto Trading Platform | `apiKey` | Yes | Unknown |
+| [Bithumb](https://apidocs.bithumb.com/) | Cryptocurrency Trading Platform | `apiKey` | Yes | Unknown |
 | [Block](https://www.block.io/docs/basic) | Bitcoin Payment, Wallet & Transaction Data | `apiKey` | Yes | Unknown |
 | [Blockchain](https://www.blockchain.info/api) | Bitcoin Payment, Wallet & Transaction Data | No | Yes | Unknown |
 | [BlockFacts](https://blockfacts.io/) | Real-time crypto data from multiple exchanges via a single unified API, and much more | `apiKey` | Yes | Unknown |
