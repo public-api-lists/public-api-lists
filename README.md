@@ -61,7 +61,7 @@ For information on contributing to this project, please see the [contributing gu
 * [Weather](#weather)
 
 ### Animals
-API | Description | Auth | HTTPS | CORS |
+| API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [Cat Facts](https://alexwohlbruck.github.io/cat-facts/) | Daily cat facts | No | Yes | No |
 | [Cats](https://docs.thecatapi.com/) | Pictures of cats from Tumblr | `apiKey` | Yes | Unknown |
@@ -80,7 +80,7 @@ API | Description | Auth | HTTPS | CORS |
 
 **[⬆ Back to Index](#index)**
 ### Anime
-API | Description | Auth | HTTPS | CORS |
+| API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [AniList](https://github.com/AniList/ApiV2-GraphQL-Docs) | Anime discovery & tracking | `OAuth` | Yes | Unknown |
 | [AnimeNewsNetwork](https://www.animenewsnetwork.com/encyclopedia/api.php) | Anime industry news | No | Yes | Yes |
@@ -91,7 +91,7 @@ API | Description | Auth | HTTPS | CORS |
 
 **[⬆ Back to Index](#index)**
 ### Anti-Malware
-API | Description | Auth | HTTPS | CORS |
+| API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [AbuseIPDB](https://docs.abuseipdb.com/) | IP/domain/URL reputation | `apiKey` | Yes | Unknown |
 | [AlienVault Open Threat Exchange (OTX)](https://otx.alienvault.com/api/) | IP/domain/URL reputation | `apiKey` | Yes | Unknown |
@@ -102,7 +102,7 @@ API | Description | Auth | HTTPS | CORS |
 
 **[⬆ Back to Index](#index)**
 ### Art & Design
-API | Description | Auth | HTTPS | CORS |
+| API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [Behance](https://www.behance.net/dev) | Design | `apiKey` | Yes | Unknown |
 | [Cooper Hewitt](https://collection.cooperhewitt.org/api) | Smithsonian Design Museum | `apiKey` | Yes | Unknown |
@@ -117,7 +117,7 @@ API | Description | Auth | HTTPS | CORS |
 
 **[⬆ Back to Index](#index)**
 ### Books
-API | Description | Auth | HTTPS | CORS |
+| API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [Bhagavad Gita](https://bhagavadgita.io/api) | Bhagavad Gita text | `OAuth` | Yes | Yes |
 | [British National Bibliography](http://bnb.data.bl.uk/) | Books | No | No | Unknown |
@@ -131,7 +131,7 @@ API | Description | Auth | HTTPS | CORS |
 
 **[⬆ Back to Index](#index)**
 ### Business
-API | Description | Auth | HTTPS | CORS |
+| API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [Charity Search](http://charityapi.orghunter.com/) | Non-profit charity data | `apiKey` | No | Unknown |
 | [Clearbit Logo](https://clearbit.com/docs#logo-api) | Search for company logos and embed them in your projects | `apiKey` | Yes | Unknown |
@@ -149,7 +149,7 @@ API | Description | Auth | HTTPS | CORS |
 
 **[⬆ Back to Index](#index)**
 ### Calendar
-API | Description | Auth | HTTPS | CORS |
+| API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [Calendar Index](https://www.calendarindex.com/) | Worldwide Holidays and Working Days | `apiKey` | Yes | Yes |
 | [Church Calendar](http://calapi.inadiutorium.cz/) | Catholic liturgical calendar | No | No | Unknown |
@@ -166,7 +166,7 @@ API | Description | Auth | HTTPS | CORS |
 
 **[⬆ Back to Index](#index)**
 ### Cloud Storage & File Sharing
-API | Description | Auth | HTTPS | CORS |
+| API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [Box](https://developer.box.com/) | File Sharing and Storage | `OAuth` | Yes | Unknown |
 | [Dropbox](https://www.dropbox.com/developers) | File Sharing and Storage | `OAuth` | Yes | Unknown |
@@ -180,7 +180,7 @@ API | Description | Auth | HTTPS | CORS |
 
 **[⬆ Back to Index](#index)**
 ### Continuous Integration
-API | Description | Auth | HTTPS | CORS |
+| API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [CircleCI](https://circleci.com/docs/api/v1-reference/) | Automate the software development process using continuous integration and continuous delivery | `apiKey` | Yes | Unknown |
 | [Codeship](https://apidocs.codeship.com/) | Codeship is a Continuous Integration Platform in the cloud | `apiKey` | Yes | Unknown |
@@ -188,7 +188,7 @@ API | Description | Auth | HTTPS | CORS |
 
 **[⬆ Back to Index](#index)**
 ### Cryptocurrency
-API | Description | Auth | HTTPS | CORS |
+| API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [Binance](https://github.com/binance-exchange/binance-official-api-docs) | Exchange for Trading Cryptocurrencies based in China | `apiKey` | Yes | Unknown |
 | [BitcoinAverage](https://apiv2.bitcoinaverage.com/) | Digital Asset Price Data for the blockchain industry | `apiKey` | Yes | Unknown |
@@ -226,7 +226,7 @@ API | Description | Auth | HTTPS | CORS |
 
 **[⬆ Back to Index](#index)**
 ### Currency Exchange
-API | Description | Auth | HTTPS | CORS |
+| API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [1Forge](https://1forge.com/forex-data-api/api-documentation) | Forex currency market data | `apiKey` | Yes | Unknown |
 | [Currency (LabStack)](https://labstack.com/currency) | Convert one currency to another with reliable exchanges rates | `apiKey` | Yes | Yes |
@@ -240,7 +240,7 @@ API | Description | Auth | HTTPS | CORS |
 
 **[⬆ Back to Index](#index)**
 ### Data Validation
-API | Description | Auth | HTTPS | CORS |
+| API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [Cloudmersive Validate](https://cloudmersive.com/validate-api) | Validate email addresses, phone numbers, VAT numbers and domain names | `apiKey` | Yes | Yes |
 | [Email (LabStack)](https://labstack.com/email) | Instant email address verification to filter legit addresses | `apiKey` | Yes | Yes |
@@ -258,7 +258,7 @@ API | Description | Auth | HTTPS | CORS |
 
 **[⬆ Back to Index](#index)**
 ### Development
-API | Description | Auth | HTTPS | CORS |
+| API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [24 Pull Requests](https://24pullrequests.com/api) | Project to promote open source collaboration during December | No | Yes | No |
 | [Agify.io](https://agify.io) | Estimates the age from a first name | No | Yes | Yes |
@@ -321,7 +321,7 @@ API | Description | Auth | HTTPS | CORS |
 
 **[⬆ Back to Index](#index)**
 ### Dictionaries
-API | Description | Auth | HTTPS | CORS |
+| API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [Glosbe](https://glosbe.com/a-api) | Dictionary and Translation Memory API | `apiKey` | Yes | Unknown |
 | [Lingua Robot](https://www.linguarobot.io) | Word definitions, pronunciations, synonyms, antonyms and others | `apiKey` | Yes | Yes |
@@ -333,7 +333,7 @@ API | Description | Auth | HTTPS | CORS |
 
 **[⬆ Back to Index](#index)**
 ### Disasters
-API | Description | Auth | HTTPS | CORS |
+| API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [USGS](https://earthquake.usgs.gov/fdsnws/event/1/) | Earthquake Data | `apiKey` | Yes | Unknown
 | [RWLabs](https://apidoc.rwlabs.org/#api-use) | All types of disaster data | `apiKey` | Yes | Unknown
@@ -342,7 +342,7 @@ API | Description | Auth | HTTPS | CORS |
 
 **[⬆ Back to Index](#index)**
 ### Documents & Productivity
-API | Description | Auth | HTTPS | CORS |
+| API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [Cloudmersive Document and Data Conversion](https://cloudmersive.com/convert-api) | HTML/URL to PDF/PNG, Office documents to PDF, image conversion | `apiKey` | Yes | Yes |
 | [File.io](https://www.file.io) | File Sharing | No | Yes | Unknown |
@@ -359,7 +359,7 @@ API | Description | Auth | HTTPS | CORS |
 
 **[⬆ Back to Index](#index)**
 ### Environment
-API | Description | Auth | HTTPS | CORS |
+| API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [AirVisual](https://airvisual.com/api) | Air quality and weather data | `apiKey` | Yes | Unknown |
 | [GrünstromIndex](https://www.corrently.de/hintergrund/gruenstromindex/index.html) | Green Power Index for Germany (Grünstromindex/GSI) | No | No | Yes |
@@ -371,7 +371,7 @@ API | Description | Auth | HTTPS | CORS |
 
 **[⬆ Back to Index](#index)**
 ### Events
-API | Description | Auth | HTTPS | CORS |
+| API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [Eventbrite](https://www.eventbrite.com/developer/v3/) | Find events | `OAuth` | Yes | Unknown |
 | [Picatic](http://developer.picatic.com/?utm_medium=web&utm_source=github&utm_campaign=public-apis%20repo&utm_content=toddmotto) | Sell tickets anywhere | `apiKey` | Yes | Unknown |
@@ -379,7 +379,7 @@ API | Description | Auth | HTTPS | CORS |
 
 **[⬆ Back to Index](#index)**
 ### Finance
-API | Description | Auth | HTTPS | CORS |
+| API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [Alpha Vantage](https://www.alphavantage.co/) | Realtime and historical stock data | `apiKey` | Yes | Unknown |
 | [Barchart OnDemand](https://www.barchartondemand.com/free) | Stock, Futures and Forex Market Data | `apiKey` | Yes | Unknown |
@@ -399,7 +399,7 @@ API | Description | Auth | HTTPS | CORS |
 
 **[⬆ Back to Index](#index)**
 ### Food & Drink
-API | Description | Auth | HTTPS | CORS |
+| API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [Edamam](https://developer.edamam.com/) | Recipe Search | `apiKey` | Yes | Unknown |
 | [LCBO](https://lcboapi.com/) | Alcohol | `apiKey` | Yes | Unknown |
@@ -420,7 +420,7 @@ API | Description | Auth | HTTPS | CORS |
 
 **[⬆ Back to Index](#index)**
 ### Fraud Prevention
-API | Description | Auth | HTTPS | CORS |
+| API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [FraudLabs Pro](https://www.fraudlabspro.com/developer/api/screen-order) | Screen order information using AI to detect frauds | `apiKey` | Yes | Unknown |
 | [Whitepages Pro](https://pro.whitepages.com/developer/documentation/identity-check-api/) | Global identity verification with phone, address, email and IP | `apiKey` | Yes | Unknown |
@@ -431,7 +431,7 @@ API | Description | Auth | HTTPS | CORS |
 
 **[⬆ Back to Index](#index)**
 ### Games & Comics
-API | Description | Auth | HTTPS | CORS |
+| API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [Age of Empires II](https://age-of-empires-2-api.herokuapp.com) | Get information about Age of Empires II resources | No | Yes | Unknown |
 | [AmiiboAPI](http://www.amiiboapi.com/) | Amiibo Information | No | No | Yes |
@@ -480,7 +480,7 @@ API | Description | Auth | HTTPS | CORS |
 
 **[⬆ Back to Index](#index)**
 ### Geocoding
-API | Description | Auth | HTTPS | CORS |
+| API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [adresse.data.gouv.fr](https://adresse.data.gouv.fr) | Address database of France, geocoding and reverse | No | Yes | Unknown |
 | [Battuta](http://battuta.medunes.net) | A (country/region/city) in-cascade location API | `apiKey` | No | Unknown |
@@ -538,7 +538,7 @@ API | Description | Auth | HTTPS | CORS |
 
 **[⬆ Back to Index](#index)**
 ### Government
-API | Description | Auth | HTTPS | CORS |
+| API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [BCLaws](http://www.bclaws.ca/civix/template/complete/api/index.html) | Access to the laws of British Columbia | No | No | Unknown |
 | [BusinessUSA](https://business.usa.gov/developer) | Authoritative information on U.S. programs, events, services and more | `apiKey` | Yes | Unknown |
@@ -573,7 +573,7 @@ API | Description | Auth | HTTPS | CORS |
 
 **[⬆ Back to Index](#index)**
 ### Health
-API | Description | Auth | HTTPS | CORS |
+| API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [BetterDoctor](https://developer.betterdoctor.com/) | Detailed information about doctors in your area | `apiKey` | Yes | Unknown |
 | [Diabetes](http://predictbgl.com/api/) | Logging and retrieving diabetes information | No | No | Unknown |
@@ -590,7 +590,7 @@ API | Description | Auth | HTTPS | CORS |
 
 **[⬆ Back to Index](#index)**
 ### Jobs
-API | Description | Auth | HTTPS | CORS |
+| API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [Adzuna](https://developer.adzuna.com/overview) | Job board aggregator | `apiKey` | Yes | Unknown |
 | [Authentic Jobs](https://authenticjobs.com/api/docs) | Job board for designers, hackers and creative pros | `apiKey` | Yes | Unknown |
@@ -612,7 +612,7 @@ API | Description | Auth | HTTPS | CORS |
 
 **[⬆ Back to Index](#index)**
 ### Machine Learning
-API | Description | Auth | HTTPS | CORS |
+| API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [Clarifai](https://developer.clarifai.com/) | Computer Vision | `OAuth` | Yes | Unknown |
 | [Cloudmersive](https://www.cloudmersive.com/image-recognition-and-processing-api) | Image captioning, face recognition, NSFW classification | `apiKey` | Yes | Yes |
@@ -626,7 +626,7 @@ API | Description | Auth | HTTPS | CORS |
 
 **[⬆ Back to Index](#index)**
 ### Music
-API | Description | Auth | HTTPS | CORS |
+| API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [AI Mastering](https://aimastering.com/api_docs/) | Automated Music Mastering | `apiKey` | Yes | Yes |
 | [Bandsintown](https://app.swaggerhub.com/apis/Bandsintown/PublicAPI/3.0.0) | Music Events | No | Yes | Unknown |
@@ -655,7 +655,7 @@ API | Description | Auth | HTTPS | CORS |
 
 **[⬆ Back to Index](#index)**
 ### News
-API | Description | Auth | HTTPS | CORS |
+| API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [Associated Press](https://developer.ap.org/) | Search for news and metadata from Associated Press | `apiKey` | Yes | Unknown |
 | [Chronicling America](http://chroniclingamerica.loc.gov/about/api/) | Provides access to millions of pages of historic US newspapers from the Library of Congress | No | No | Unknown |
@@ -670,7 +670,7 @@ API | Description | Auth | HTTPS | CORS |
 
 **[⬆ Back to Index](#index)**
 ### Open Data
-API | Description | Auth | HTTPS | CORS |
+| API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [18F](http://18f.github.io/API-All-the-X/) | Unofficial US Federal Government API Development | No | No | Unknown |
 | [Abbreviation](https://market.mashape.com/daxeel/abbreviations) | Get abbreviations and meanings | `X-Mashape-Key` | Yes | Unknown |
@@ -702,7 +702,7 @@ API | Description | Auth | HTTPS | CORS |
 
 **[⬆ Back to Index](#index)**
 ### Open Source Projects
-API | Description | Auth | HTTPS | CORS |
+| API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [Countly](http://resources.count.ly/docs) | Countly web analytics | No | No | Unknown |
 | [Drupal.org](https://www.drupal.org/drupalorg/docs/api) | Drupal.org | No | Yes | Unknown |
@@ -711,7 +711,7 @@ API | Description | Auth | HTTPS | CORS |
 
 **[⬆ Back to Index](#index)**
 ### Patent
-API | Description | Auth | HTTPS | CORS |
+| API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [EPO](https://developers.epo.org/) | European patent search system api | `OAuth` | Yes | Unknown |
 | [TIPO](https://tiponet.tipo.gov.tw/Gazette/OpenData/OD/OD05.aspx?QryDS=API00) | Taiwan patent search system api | `apiKey` | Yes | Unknown |
@@ -719,7 +719,7 @@ API | Description | Auth | HTTPS | CORS |
 
 **[⬆ Back to Index](#index)**
 ### Personality
-API | Description | Auth | HTTPS | CORS |
+| API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [Advice Slip](http://api.adviceslip.com/) | Generate random advice slips | No | Yes | Unknown |
 | [chucknorris.io](https://api.chucknorris.io) | JSON API for hand curated Chuck Norris jokes | No | Yes | Unknown |
@@ -738,7 +738,7 @@ API | Description | Auth | HTTPS | CORS |
 
 **[⬆ Back to Index](#index)**
 ### Photography
-API | Description | Auth | HTTPS | CORS |
+| API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [Flickr](https://www.flickr.com/services/api/) | Flickr Services | `OAuth` | Yes | Unknown |
 | [Getty Images](http://developers.gettyimages.com/en/) | Build applications using the world's most powerful imagery | `OAuth` | Yes | Unknown |
@@ -757,7 +757,7 @@ API | Description | Auth | HTTPS | CORS |
 
 **[⬆ Back to Index](#index)**
 ### Science & Math
-API | Description | Auth | HTTPS | CORS |
+| API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [arcsecond.io](https://api.arcsecond.io/) | Multiple astronomy data sources | No | Yes | Unknown |
 | [CORE](https://core.ac.uk/services#api) | Access the world's Open Access research papers | `apiKey` | Yes | Unknown |
@@ -784,7 +784,7 @@ API | Description | Auth | HTTPS | CORS |
 
 **[⬆ Back to Index](#index)**
 ### Security
-API | Description | Auth | HTTPS | CORS |
+| API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [Censys.io](https://censys.io/api) | Search engine for Internet connected host and devices | `apiKey` | Yes | No |
 | [CRXcavator](https://crxcavator.io/apidocs) | Chrome extension risk scoring | `apiKey` | Yes | Unknown |
@@ -797,7 +797,7 @@ API | Description | Auth | HTTPS | CORS |
 
 **[⬆ Back to Index](#index)**
 ### Shopping
-API | Description | Auth | HTTPS | CORS |
+| API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [Best Buy](https://bestbuyapis.github.io/api-documentation/#overview) | Products, Buying Options, Categories, Recommendations, Stores and Commerce | `apiKey` | Yes | Unknown |
 | [Bratabase](https://developers.bratabase.com/) | Database of different types of Bra Sizes | `OAuth` | Yes | Unknown |
@@ -807,7 +807,7 @@ API | Description | Auth | HTTPS | CORS |
 
 **[⬆ Back to Index](#index)**
 ### Social
-API | Description | Auth | HTTPS | CORS |
+| API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [Buffer](https://buffer.com/developers/api) | Access to pending and sent updates in Buffer | `OAuth` | Yes | Unknown |
 | [Cisco Spark](https://developer.ciscospark.com) | Team Collaboration Software | `OAuth` | Yes | Unknown |
@@ -840,7 +840,7 @@ API | Description | Auth | HTTPS | CORS |
 
 **[⬆ Back to Index](#index)**
 ### Sports & Fitness
-API | Description | Auth | HTTPS | CORS |
+| API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [balldontlie](https://balldontlie.io) | Ballldontlie provides access to stats data from the NBA | No | Yes | Yes |
 | [BikeWise](https://www.bikewise.org/documentation/api_v2) | Bikewise is a place to learn about and report bike crashes, hazards and thefts | No | Yes | Unknown |
@@ -866,7 +866,7 @@ API | Description | Auth | HTTPS | CORS |
 
 **[⬆ Back to Index](#index)**
 ### Test Data
-API | Description | Auth | HTTPS | CORS |
+| API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [Adorable Avatars](http://avatars.adorable.io) | Generate random cartoon avatars | No | Yes | Unknown |
 | [Bacon Ipsum](https://baconipsum.com/json-api/) | A Meatier Lorem Ipsum Generator | No | Yes | Unknown |
@@ -890,7 +890,7 @@ API | Description | Auth | HTTPS | CORS |
 
 **[⬆ Back to Index](#index)**
 ### Text Analysis
-API | Description | Auth | HTTPS | CORS |
+| API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [Aylien Text Analysis](http://docs.aylien.com/) | A collection of information retrieval and natural language APIs | `apiKey` | Yes | Unknown |
 | [Cloudmersive Natural Language Processing](https://www.cloudmersive.com/nlp-api) | Natural language processing and text analysis | `apiKey` | Yes | Yes |
@@ -902,7 +902,7 @@ API | Description | Auth | HTTPS | CORS |
 
 **[⬆ Back to Index](#index)**
 ### Tracking
-API | Description | Auth | HTTPS | CORS |
+| API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [Postmon](http://postmon.com.br) | An API to query Brazilian ZIP codes and orders easily, quickly and free | No | No | Unknown |
 | [Sweden](https://developer.postnord.com/docs2) | Provides information about parcels in transport | `apiKey` | No | Unknown |
@@ -911,7 +911,7 @@ API | Description | Auth | HTTPS | CORS |
 
 **[⬆ Back to Index](#index)**
 ### Transportation
-API | Description | Auth | HTTPS | CORS |
+| API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [ADS-B Exchange](https://www.adsbexchange.com/data/) | Access real-time and historical data of any and all airborne aircraft | No | Yes | Unknown |
 | [AIS Hub](http://www.aishub.net/api) | Real-time data of any marine and inland vessel equipped with AIS tracking system | `apiKey` | No | Unknown |
@@ -973,7 +973,7 @@ API | Description | Auth | HTTPS | CORS |
 
 **[⬆ Back to Index](#index)**
 ### URL Shorteners
-API | Description | Auth | HTTPS | CORS |
+| API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [Bitly](http://dev.bitly.com/get_started.html) | URL shortener and link management | `OAuth` | Yes | Unknown |
 | [CleanURI](https://cleanuri.com/docs) | URL shortener service | `No` | Yes | Yes |
@@ -983,7 +983,7 @@ API | Description | Auth | HTTPS | CORS |
 
 **[⬆ Back to Index](#index)**
 ### Vehicle
-API | Description | Auth | HTTPS | CORS |
+| API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [Brazilian Vehicles and Prices](https://deividfortuna.github.io/fipe/) | Vehicles information from Fundação Instituto de Pesquisas Econômicas - Fipe | No | Yes | Unknown |
 | [CarsXE API](https://api.carsxe.com/?ref=public-apis-github) | Vehicle data and vin decoder, specs, plates, market value, ownership cost and images | `apiKey` | Yes | Unknown |
@@ -994,7 +994,7 @@ API | Description | Auth | HTTPS | CORS |
 
 **[⬆ Back to Index](#index)**
 ### Video
-API | Description | Auth | HTTPS | CORS |
+| API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [An API of Ice And Fire](https://anapioficeandfire.com/) | Game Of Thrones API | No | Yes | Unknown |
 | [Breaking Bad](https://breakingbadapi.com/documentation) | Breaking Bad API | No | Yes | Unknown |
@@ -1017,7 +1017,7 @@ API | Description | Auth | HTTPS | CORS |
 
 **[⬆ Back to Index](#index)**
 ### Weather
-API | Description | Auth | HTTPS | CORS |
+| API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [7Timer!](http://www.7timer.info/doc.php?lang=en) | Weather, especially for Astroweather | No | No | Unknown |
 | [APIXU](https://www.apixu.com/doc/request.aspx) | Weather | `apiKey` | Yes | Unknown |
