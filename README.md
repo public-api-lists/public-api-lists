@@ -1,17 +1,17 @@
-# Public API Lists
+# Public API Lists  
 
-[![Issues](https://img.shields.io/github/issues/public-api-lists/public-api-lists)](https://img.shields.io/github/issues/public-api-lists/public-api-lists)
-[![Forks](https://img.shields.io/github/forks/public-api-lists/public-api-lists)](https://img.shields.io/github/forks/public-api-lists/public-api-lists)
-[![Stars](https://img.shields.io/github/stars/public-api-lists/public-api-lists)](https://img.shields.io/github/stars/public-api-lists/public-api-lists)
+[![Stars](https://img.shields.io/github/stars/public-api-lists/public-api-lists?style=flat-square)](https://github.com/public-api-lists/public-api-lists/stargazers)
+[![Fork](https://img.shields.io/github/forks/public-api-lists/public-api-lists?style=flat-square)](https://github.com/public-api-lists/public-api-lists/fork)
+[![Issues](https://img.shields.io/github/issues/public-api-lists/public-api-lists?style=flat-square)](https://github.com/public-api-lists/public-api-lists/issues/new)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/public-api-lists/public-api-lists/pulls)
 
 A collective list of free APIs for use in software and web development.
 
-Forked from [public-apis](https://github.com/public-apis/public-apis)
-
 For information on contributing to this project, please see the [contributing guide](.github/CONTRIBUTING.md).
 
-## Index
+(Forked from [public-apis](https://github.com/public-apis/public-apis))
 
+## Index
 -   [Animals](#animals)
 -   [Anime](#anime)
 -   [Anti-Malware](#anti-malware)
