@@ -9,8 +9,6 @@ A collective list of free APIs for use in software and web development.
 
 For information on contributing to this project, please see the [contributing guide](.github/CONTRIBUTING.md).
 
-(Forked from [public-apis](https://github.com/public-apis/public-apis))
-
 ## Index
 -   [Animals](#animals)
 -   [Anime](#anime)
