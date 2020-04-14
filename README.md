@@ -956,6 +956,7 @@ For information on contributing to this project, please see the [contributing gu
 | [Lorem Text](https://market.mashape.com/montanaflynn/lorem-text-generator) | Generates Lorem Ipsum text                                  | `X-Mashape-Key` |  Yes  | Unknown |
 |                   [LoremPicsum](http://lorempicsum.com)                    | Generate placeholder pictures                               |       No        |  No   | Unknown |
 |                      [Loripsum](http://loripsum.net/)                      | The "lorem ipsum" generator that doesn't suck               |       No        |  No   | Unknown |
+|                      [PIPL](https://pipl.ir/)                      | Free and public API that generates random and fake people's data in JSON               |       No        |  Yes   | No |
 |               [Micro-Jaymock](https://micro-jaymock.now.sh/)               | Tiny API mocking microservice for generating fake JSON data |       No        |  Yes  |   No    |
 |                    [RandomUser](https://randomuser.me)                     | Generates random user data                                  |       No        |  Yes  | Unknown |
 |                     [RoboHash](https://robohash.org/)                      | Generate random robot/alien avatars                         |       No        |  Yes  | Unknown |
