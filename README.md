@@ -813,6 +813,7 @@ For information on contributing to this project, please see the [contributing gu
 |          [Gyazo](https://gyazo.com/api/docs)          | Upload images                                              | `apiKey` |  Yes  | Unknown |
 |          [Imgur](https://apidocs.imgur.com/)          | Images                                                     | `OAuth`  |  Yes  | Unknown |
 |        [Lorem Picsum](https://picsum.photos/)         | Images from Unsplash                                       |    No    |  Yes  | Unknown |
+|          [ObjectCut](https://objectcut.com/)          | Image Background removal                                   | `apiKey` |  Yes  |   Yes   |
 |         [Pexels](https://www.pexels.com/api/)         | Free Stock Photos and Videos                               | `apiKey` |  Yes  |   Yes   |
 | [Pixabay](https://pixabay.com/sk/service/about/api/)  | Photography                                                | `apiKey` |  Yes  | Unknown |
 |     [Pixhost](https://pixhost.org/api/index.html)     | Upload images, photos, galleries                           |    No    |  Yes  | Unknown |
