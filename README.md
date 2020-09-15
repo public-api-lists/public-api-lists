@@ -162,6 +162,7 @@ For information on contributing to this project, please see the [contributing gu
 
 |                                  API                                   | Description                                                                                            |   Auth   | HTTPS |  CORS   |
 | :--------------------------------------------------------------------: | ------------------------------------------------------------------------------------------------------ | :------: | :---: | :-----: |
+|       [Abstract's Holiday API](https://www.abstractapi.com/holidays-api)        | National, regional, and religious holidays for 120+ countries & 100+ years                     |    Yes    |  Yes  |   Yes    |
 |            [Calendar Index](https://www.calendarindex.com/)            | Worldwide Holidays and Working Days                                                                    | `apiKey` |  Yes  |   Yes   |
 |           [Church Calendar](http://calapi.inadiutorium.cz/)            | Catholic liturgical calendar                                                                           |    No    |  No   | Unknown |
 |         [Czech Namedays Calendar](http://svatky.adresa.info/)          | Lookup for a name and returns nameday date                                                             |    No    |  No   | Unknown |
@@ -174,6 +175,7 @@ For information on contributing to this project, please see the [contributing gu
 |              [Namedays Calendar](https://api.abalin.net/)              | Provides namedays for multiple countries                                                               |    No    |  Yes  |   Yes   |
 |          [Non-Working Days](https://github.com/gadael/icsdb)           | Database of ICS files for non working days                                                             |    No    |  Yes  | Unknown |
 |       [Russian Calendar](https://github.com/egno/work-calendar)        | Check if a date is a Russian holiday or not                                                            |    No    |  Yes  |   No    |
+
 
 **[⬆ Back to Index](#index)**
 
