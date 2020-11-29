@@ -163,6 +163,7 @@ For information on contributing to this project, please see the [contributing gu
 |                                  API                                   | Description                                                                                            |   Auth   | HTTPS |  CORS   |
 | :--------------------------------------------------------------------: | ------------------------------------------------------------------------------------------------------ | :------: | :---: | :-----: |
 |       [Abstract's Holiday API](https://www.abstractapi.com/holidays-api)        | National, regional, and religious holidays for 120+ countries & 100+ years                     |    Yes    |  Yes  |   Yes    |
+|     [Byabbe](https://byabbe.se/on-this-day/#/default/get__month___day__events_json)      | Seach histories from wikipedia for a perticular day                             |    No    |  Yes   | Unknown |
 |            [Calendar Index](https://www.calendarindex.com/)            | Worldwide Holidays and Working Days                                                                    | `apiKey` |  Yes  |   Yes   |
 |           [Church Calendar](http://calapi.inadiutorium.cz/)            | Catholic liturgical calendar                                                                           |    No    |  No   | Unknown |
 |         [Czech Namedays Calendar](http://svatky.adresa.info/)          | Lookup for a name and returns nameday date                                                             |    No    |  No   | Unknown |
@@ -183,6 +184,7 @@ For information on contributing to this project, please see the [contributing gu
 
 |                                   API                                   | Description                                                   |   Auth   | HTTPS |  CORS   |
 | :---------------------------------------------------------------------: | ------------------------------------------------------------- | :------: | :---: | :-----: |
+|            [AnonFiles](https://anonfiles.com/docs/api)                  | File Sharing and Storage                                      | No  |  Yes  | Unknown |
 |                    [Box](https://developer.box.com/)                    | File Sharing and Storage                                      | `OAuth`  |  Yes  | Unknown |
 |              [Dropbox](https://www.dropbox.com/developers)              | File Sharing and Storage                                      | `OAuth`  |  Yes  | Unknown |
 |                [Fast.io](https://www.fast.io/developers)                | File Hosting CDN synced from Cloud Storage                    | `apiKey` |  Yes  | Unknown |
@@ -375,6 +377,7 @@ For information on contributing to this project, please see the [contributing gu
 |                                        API                                        | Description                                                    |   Auth   | HTTPS |  CORS   |
 | :-------------------------------------------------------------------------------: | -------------------------------------------------------------- | :------: | :---: | :-----: |
 | [Cloudmersive Document and Data Conversion](https://cloudmersive.com/convert-api) | HTML/URL to PDF/PNG, Office documents to PDF, image conversion | `apiKey` |  Yes  |   Yes   |
+|               [Base](https://www.base-api.io/reference)                | Authentication,Emails sending,File uploading and shearing, forms filluping                                                     | `apiKey` |  Yes  | Unknown |
 |                          [File.io](https://www.file.io)                           | File Sharing                                                   |    No    |  Yes  | Unknown |
 |               [Mercury](https://mercury.postlight.com/web-parser/)                | Web parser                                                     | `apiKey` |  Yes  | Unknown |
 |                         [pdflayer](https://pdflayer.com)                          | HTML/URL to PDF                                                | `apiKey` |  Yes  | Unknown |
