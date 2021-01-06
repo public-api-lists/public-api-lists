@@ -891,6 +891,8 @@ For information on contributing to this project, please see the [contributing gu
 | :--------------------------------------------------------------------------: | ------------------------------------------------------------------------------------------------- | :------: | :---: | :-----: |
 |                 [Buffer](https://buffer.com/developers/api)                  | Access to pending and sent updates in Buffer                                                      | `OAuth`  |  Yes  | Unknown |
 |               [Cisco Spark](https://developer.ciscospark.com)                | Team Collaboration Software                                                                       | `OAuth`  |  Yes  | Unknown |
+            | [Dangerous Discord Database](https://discord.riverside.rocks/docs/index.php) | Database of malicious Discord accounts 
+| `apiKey` | Yes | Unknown |
 |           [Discord](https://discordapp.com/developers/docs/intro)            | Make bots for Discord, integrate Discord onto an external platform                                | `OAuth`  |  Yes  | Unknown |
 |                 [Disqus](https://disqus.com/api/docs/auth/)                  | Communicate with Disqus data                                                                      | `OAuth`  |  Yes  | Unknown |
 |                 [Facebook](https://developers.facebook.com/)                 | Facebook Login, Share on FB, Social Plugins, Analytics and more                                   | `OAuth`  |  Yes  | Unknown |
