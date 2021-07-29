@@ -244,7 +244,7 @@ For information on contributing to this project, please see the [contributing gu
 |              [Poloniex](https://poloniex.com/support/api/)               | US based digital asset exchange                                                       | `apiKey` |  Yes  | Unknown |
 |       [Technical Analysis API](https://technical-analysis-api.com)       | Cryptocurrency prices and technical analysis                                          | `apiKey` |  Yes  |   No    |
 |       [WorldCoinIndex](https://www.worldcoinindex.com/apiservice)        | Cryptocurrencies Prices                                                               | `apiKey` |  Yes  | Unknown |
-|       [Covalent](https://www.covalenthq.com/docs/api/)                   | Multi-blockchain data aggregator platform                                             | `apiKey` |  Yes  | Unknown |
+|       [Covalent](https://www.covalenthq.com/docs/api/)                   | Multi-blockchain data aggregator platform                                            | `apiKey` |  Yes  | Unknown |
 
 **[⬆ Back to Index](#index)**
 
