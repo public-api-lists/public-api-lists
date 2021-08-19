@@ -226,6 +226,7 @@ For information on contributing to this project, please see the [contributing gu
 |             [CoinMarketCap](https://coinmarketcap.com/api/)              | Cryptocurrencies Prices                                                               | `apiKey` |  Yes  | Unknown |
 |                [Coinpaprika](https://api.coinpaprika.com)                | Cryptocurrencies prices, volume and more                                              |    No    |  Yes  |   Yes   |
 |               [CoinRanking](https://docs.coinranking.com/)               | Live Cryptocurrency data                                                              |    No    |  Yes  | Unknown |
+|               [Covalent](https://www.covalenthq.com/docs/api/)           | Multi-blockchain data aggregator                                                      |    Yes   |  Yes  | Unknown |
 |           [CryptoCompare](https://www.cryptocompare.com/api#)            | Cryptocurrencies Comparison                                                           |    No    |  Yes  | Unknown |
 |             [Cryptonator](https://www.cryptonator.com/api/)              | Cryptocurrencies Exchange Rates                                                       |    No    |  Yes  | Unknown |
 |                   [Gates.io](https://www.gate.io/api2)                   | Blockchain Assets Exchange                                                            |    No    |  Yes  | Unknown |
