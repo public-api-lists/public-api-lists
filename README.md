@@ -1064,6 +1064,7 @@ For information on contributing to this project, please see the [contributing gu
 | [Meteorologisk Institutt](https://api.met.no/weatherapi/documentation) | Weather and climate data                    |    No    |  Yes  | Unknown |
 |        [NOAA Climate Data](https://www.ncdc.noaa.gov/cdo-web/)         | Weather and climate data                    | `apiKey` |  Yes  | Unknown |
 |       [ODWeather](http://api.oceandrivers.com/static/docs.html)        | Weather and weather webcams                 |    No    |  No   | Unknown |
+|                [Open-Meteo](https://open-meteo.com/)                   | Global weather forecast API for non-commercial use | No | Yes  | Yes     |
 |                    [OpenUV](https://www.openuv.io)                     | Real-time UV Index Forecast                 | `apiKey` |  Yes  | Unknown |
 |            [OpenWeatherMap](http://openweathermap.org/api)             | Weather                                     | `apiKey` |  No   | Unknown |
 |                 [Storm Glass](https://stormglass.io/)                  | Global marine weather from multiple sources | `apiKey` |  Yes  |   Yes   |
