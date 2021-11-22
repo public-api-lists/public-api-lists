@@ -153,6 +153,7 @@ For information on contributing to this project, please see the [contributing gu
 |                   [markerapi](http://www.markerapi.com/)                   | Trademark Search                                                          |    No    |  No   | Unknown |
 |                       [Ticksel](https://ticksel.com)                       | Friendly website analytics made for humans                                |    No    |  Yes  | Unknown |
 |                  [Trello](https://developers.trello.com/)                  | Boards, lists and cards to help you organize and prioritize your projects | `OAuth`  |  Yes  | Unknown |
+| [Tomba Email finder](https://tomba.io/)                                    | Email Finder for B2B sales and email marketing                            | `apiKey` |  Yes  | Yes     |
 
 **[⬆ Back to Index](#index)**
 
