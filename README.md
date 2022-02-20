@@ -500,6 +500,7 @@ For information on contributing to this project, please see the [contributing gu
 |             [Scryfall](https://scryfall.com/docs/api)             | Magic: The Gathering database                                              |       No        |  Yes  |   Yes   |
 |  [Steam](https://developer.valvesoftware.com/wiki/Steam_Web_API)  | Steam Client Interaction                                                   |     `OAuth`     |  Yes  | Unknown |
 |              [SuperHeroes](https://superheroapi.com)              | All SuperHeroes and Villains data from all universes under a single API    |    `apiKey`     |  Yes  | Unknown |
+|            [TCGdex](https://www.tcgdex.dev/)                      | A Multilanguage Pokémon TCG Database with Cards Pictures and most of the informations contained on the cards |       No        |  Yes  | Yes |
 |            [Tronald Dump](https://www.tronalddump.io/)            | The dumbest things Donald Trump has ever said                              |       No        |  Yes  | Unknown |
 |        [Wargaming.net](https://developers.wargaming.net/)         | Wargaming.net info and stats                                               |    `apiKey`     |  Yes  |   No    |
 |                [xkcd](https://xkcd.com/json.html)                 | Retrieve xkcd comics as JSON                                               |       No        |  Yes  |   No    |
