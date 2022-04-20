@@ -497,7 +497,6 @@ For information on contributing to this project, please see the [contributing gu
 |       [Random Facts](https://fungenerators.com/api/facts/)        | Random Facts from hundreds of categories                                   |    `apiKey`     |  Yes  |   Yes   |
 |           [Rick and Morty](https://rickandmortyapi.com)           | All the Rick and Morty information, including images                       |       No        |  Yes  |   Yes   |
 |          [Riot Games](https://developer.riotgames.com/)           | League of Legends Game Information                                         |    `apiKey`     |  Yes  | Unknown |
-|  [Steam](https://developer.valvesoftware.com/wiki/Steam_Web_API)  | Steam Client Interaction                                                   |     `OAuth`     |  Yes  | Unknown |
 |             [Scryfall](https://scryfall.com/docs/api)             | Magic: The Gathering database                                              |       No        |  Yes  |   Yes   |
 |  [Steam](https://developer.valvesoftware.com/wiki/Steam_Web_API)  | Steam Client Interaction                                                   |     `OAuth`     |  Yes  | Unknown |
 |              [SuperHeroes](https://superheroapi.com)              | All SuperHeroes and Villains data from all universes under a single API    |    `apiKey`     |  Yes  | Unknown |
