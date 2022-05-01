@@ -763,6 +763,7 @@ For information on contributing to this project, please see the [contributing gu
 |                    [FavQs.com](https://favqs.com/api)                     | FavQs allows you to collect, discover and share your favorite quotes   | `apiKey` |  Yes  | Unknown |
 |                      [FOAAS](http://www.foaas.com/)                       | Fuck Off As A Service                                                  |    No    |  No   | Unknown |
 |                [Forismatic](http://forismatic.com/en/api/)                | Inspirational Quotes                                                   |    No    |  No   | Unknown |
+|             [Hindi Quotes](https://hindi-quotes.vercel.app/)              | Get random Hindi quotes of different categories.                       |    No    |  Yes  |   Yes   |
 |             [icanhazdadjoke](https://icanhazdadjoke.com/api)              | The largest selection of dad jokes on the internet                     |    No    |  Yes  | Unknown |
 |                     [kanye.rest](https://kanye.rest)                      | REST API for random Kanye West quotes                                  |    No    |  Yes  |   Yes   |
 |            [Medium](https://github.com/Medium/medium-api-docs)            | Community of readers and writers offering unique perspectives on ideas | `OAuth`  |  Yes  | Unknown |
