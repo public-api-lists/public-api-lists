@@ -231,6 +231,7 @@ For information on contributing to this project, please see the [contributing gu
 |               [Covalent](https://www.covalenthq.com/docs/api/)           | Multi-blockchain data aggregator                                                      |    Yes   |  Yes  | Unknown |
 |           [CryptoCompare](https://www.cryptocompare.com/api#)            | Cryptocurrencies Comparison                                                           |    No    |  Yes  | Unknown |
 |             [Cryptonator](https://www.cryptonator.com/api/)              | Cryptocurrencies Exchange Rates                                                       |    No    |  Yes  | Unknown |
+|             [CurrencyAPI](https://currencyapi.com)                       | Currency Conversion API                                                               | `apiKey` |  Yes  | Unknown |
 |                   [Gates.io](https://www.gate.io/api2)                   | Blockchain Assets Exchange                                                            |    No    |  Yes  | Unknown |
 |               [Gemini](https://docs.gemini.com/rest-api/)                | Cryptocurrencies Exchange                                                             |    No    |  Yes  | Unknown |
 |             [Nexchange](https://nexchange2.docs.apiary.io/)              | Automated cryptocurrency exchange service                                             |    No    |  No   |   Yes   |
