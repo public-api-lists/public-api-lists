@@ -476,7 +476,7 @@ For information on contributing to this project, please see the [contributing gu
 |             [Final Fantasy XIV](https://xivapi.com/)              | Final Fantasy XIV Game data API                                            |       No        |  Yes  |   Yes   |
 |               [Fortnite](https://fortniteapi.com/)                | Fortnite Stats & Cosmetics                                                 |    `apiKey`     |  Yes  |   Yes   |
 |         [Fortnite](https://fortnitetracker.com/site-api)          | Fortnite Stats                                                             |    `apiKey`     |  Yes  | Unknown |
-|     [Forza](https://docs.forza-api.tk) | Random images of Forza cars | No | Yes | Unknown
+|     [Forza](https://docs.forza-api.tk)                            | Random images of Forza cars                                                | No              |  Yes  | Unknown |
 |     [Giant Bomb](https://www.giantbomb.com/api/documentation)     | Video Games                                                                |       No        |  Yes  | Unknown |
 |     [Guild Wars 2](https://wiki.guildwars2.com/wiki/API:Main)     | Guild Wars 2 Game Information                                              |    `apiKey`     |  Yes  | Unknown |
 |              [Halo](https://developer.haloapi.com/)               | Halo 5 and Halo Wars 2 Information                                         |    `apiKey`     |  Yes  | Unknown |
