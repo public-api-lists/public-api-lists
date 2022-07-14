@@ -152,6 +152,7 @@ For information on contributing to this project, please see the [contributing gu
 |                    [mailgun](https://www.mailgun.com/)                     | Email Service                                                             | `apiKey` |  Yes  | Unknown |
 |                    [Mailjet](https://www.mailjet.com/)                     | Email Service                                                             | `apiKey` |  Yes  | Unknown |
 |                   [markerapi](http://www.markerapi.com/)                   | Trademark Search                                                          |    No    |  No   | Unknown |
+| [Repetiti](https://developers.repetiti.com) | Repetiti 3d Printer Management Service, access and control 3d Printers easily  | `apiKey` | Yes | Yes |
 |                       [Ticksel](https://ticksel.com)                       | Friendly website analytics made for humans                                |    No    |  Yes  | Unknown |
 |                  [Trello](https://developers.trello.com/)                  | Boards, lists and cards to help you organize and prioritize your projects | `OAuth`  |  Yes  | Unknown |
 | [Tomba Email finder](https://tomba.io/)                                    | Email Finder for B2B sales and email marketing                            | `apiKey` |  Yes  | Yes     |
