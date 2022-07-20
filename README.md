@@ -724,6 +724,7 @@ For information on contributing to this project, please see the [contributing gu
 |     [Enigma Public](http://docs.enigma.com/public/public_v20_api_about)     | Broadest collection of public data                                                                 |    `apiKey`     |  Yes  |   Yes   |
 |                  [fonoApi](https://fonoapi.freshpixl.com/)                  | Mobile Device Description                                                                          |       No        |  Yes  | Unknown |
 |          [French Address Search](https://geo.api.gouv.fr/adresse)           | Address search via the French Government                                                           |       No        |  Yes  | Unknown |
+|          [Fruits](https://fruits-api.netlify.app/graphql)           | Information of fruit trees of the world                                                                               |     No     |  Yes  | No |
 |                 [LinkPreview](https://www.linkpreview.net)                  | Get JSON formatted summary with title, description and preview image for any requested URL         |    `apiKey`     |  Yes  |   Yes   |
 |             [Marijuana Strains](http://strains.evanbusse.com/)              | Marijuana strains, races, flavors and effects                                                      |    `apiKey`     |  No   | Unknown |
 |                    [Microlink.io](https://microlink.io)                     | Extract structured data from any website                                                           |       No        |  Yes  |   Yes   |
@@ -738,7 +739,6 @@ For information on contributing to this project, please see the [contributing gu
 |         [Wikidata](https://www.wikidata.org/w/api.php?action=help)          | Collaboratively edited knowledge base operated by the Wikimedia Foundation                         |     `OAuth`     |  Yes  | Unknown |
 |          [Wikipedia](https://www.mediawiki.org/wiki/API:Main_page)          | Mediawiki Encyclopedia                                                                             |       No        |  Yes  | Unknown |
 |          [Yelp](https://www.yelp.com/developers/documentation/v3)           | Find Local Business                                                                                |     `OAuth`     |  Yes  | Unknown |
-|          [Fruits](https://fruits-api.netlify.app/graphql)           | Information of fruit trees of the world                                                                               |     No     |  Yes  | No |
 
 **[⬆ Back to Index](#index)**
 
