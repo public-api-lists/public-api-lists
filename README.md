@@ -1060,6 +1060,7 @@ For information on contributing to this project, please see the [contributing gu
 |                                [TVMaze](http://www.tvmaze.com/api)                                 | TV Show Data                                     |       No        |  No   | Unknown |
 |                               [Vimeo](https://developer.vimeo.com/)                                | Vimeo Developer API                              |     `OAuth`     |  Yes  | Unknown |
 |                         [YouTube](https://developers.google.com/youtube/)                          | Add YouTube functionality to your sites and apps |     `OAuth`     |  Yes  | Unknown |
+|                         [Shotstack](https://shotstack.io/)                          | Develop video applications with cloud-based video editing API |     `apiKey`     |  Yes  | Unknown |
 
 **[⬆ Back to Index](#index)**
 
