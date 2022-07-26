@@ -118,6 +118,7 @@ For information on contributing to this project, please see the [contributing gu
 |       [Noun Project](http://api.thenounproject.com/index.html)       | Icons                                 | `OAuth`  |  No   | Unknown |
 |           [Rijksmuseum](https://www.rijksmuseum.nl/en/api)           | Art                                   | `apiKey` |  Yes  | Unknown |
 |      [Metropolitan Museum of Art](https://metmuseum.github.io/)      | Art                                   |    No    |  Yes  | Unknown |
+|      [Wallpaper](https://use.wallpaperapi.tk/)                    | Random wallpapers                     |    No    |  Yes  | Unknown |
 
 **[⬆ Back to Index](#index)**
 
