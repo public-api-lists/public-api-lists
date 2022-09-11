@@ -772,6 +772,7 @@ For information on contributing to this project, please see the [contributing gu
 |             [icanhazdadjoke](https://icanhazdadjoke.com/api)              | The largest selection of dad jokes on the internet                     |    No    |  Yes  | Unknown |
 |                     [kanye.rest](https://kanye.rest)                      | REST API for random Kanye West quotes                                  |    No    |  Yes  |   Yes   |
 |            [Medium](https://github.com/Medium/medium-api-docs)            | Community of readers and writers offering unique perspectives on ideas | `OAuth`  |  Yes  | Unknown |
+|             [Meme](https://github.com/D3vd/Meme_Api)                      | JSON API for a random meme scraped from reddit                         |    No    |  Yes  | Unknown |
 |             [NaMoMemes](https://github.com/theIYD/NaMoMemes)              | Memes on Narendra Modi                                                 |    No    |  Yes  | Unknown |
 | [Programming Quotes](https://github.com/skolakoda/programming-quotes-api) | Programming Quotes API for open source projects                        |    No    |  Yes  | Unknown |
 |      [Quote Garden](https://pprathameshmore.github.io/QuoteGarden/)       | REST API for more than 5000 famous quotes                              |    No    |  Yes  | Unknown |
