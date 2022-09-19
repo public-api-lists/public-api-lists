@@ -368,7 +368,7 @@ For information on contributing to this project, please see the [contributing gu
 | :-------------------------------------------------------------------------------: | -------------------------------------------------------------- | :------: | :---: | :-----: |
 | [Cloudmersive Document and Data Conversion](https://cloudmersive.com/convert-api) | HTML/URL to PDF/PNG, Office documents to PDF, image conversion | `apiKey` |  Yes  |   Yes   |
 |               [Base](https://www.base-api.io/reference)                | Authentication,Emails sending,File uploading and shearing, forms filluping                                                     | `apiKey` |  Yes  | Unknown |
-|                       [DynamicDocs](https://advicement.io)                        | Generate dynamic PDFs with JSON to PDF API with LaTeX templates| `apiKey` |  Yes  | Unknown |
+|                       [DynamicDocs](https://advicement.io)                        | Generate dynamic PDFs with JSON to PDF API based on LaTeX      | `apiKey` |  Yes  | Unknown |
 |                          [File.io](https://www.file.io)                           | File Sharing                                                   |    No    |  Yes  | Unknown |
 |               [Mercury](https://mercury.postlight.com/web-parser/)                | Web parser                                                     | `apiKey` |  Yes  | Unknown |
 |                         [pdflayer](https://pdflayer.com)                          | HTML/URL to PDF                                                | `apiKey` |  Yes  | Unknown |
