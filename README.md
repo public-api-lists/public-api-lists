@@ -776,6 +776,7 @@ For information on contributing to this project, please see the [contributing gu
 | [Programming Quotes](https://github.com/skolakoda/programming-quotes-api) | Programming Quotes API for open source projects                        |    No    |  Yes  | Unknown |
 |      [Quote Garden](https://pprathameshmore.github.io/QuoteGarden/)       | REST API for more than 5000 famous quotes                              |    No    |  Yes  | Unknown |
 |            [Quotes on Design](https://quotesondesign.com/api/)            | Inspirational Quotes                                                   |    No    |  Yes  | Unknown |
+|               [Riddles API](https://riddles-api.vercel.app/) 	            | Get random riddles on every API call.                                  |    No    |  Yes  |   Yes   |
 |              [Traitify](https://app.traitify.com/developer)               | Assess, collect and analyze Personality                                |    No    |  Yes  | Unknown |
 |               [tronalddump.io](https://www.tronalddump.io)                | Api & web archive for the things Donald Trump has said                 |    No    |  Yes  | Unknown |
 
