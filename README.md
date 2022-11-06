@@ -275,6 +275,7 @@ For information on contributing to this project, please see the [contributing gu
 |   [US Street Address](https://smartystreets.com/docs/cloud/us-street-api)   | Validate and append data for any US postal address                    | `apiKey` |  Yes  |   Yes   |
 |                      [vatlayer](https://vatlayer.com)                       | VAT number validation                                                 |    No    |  Yes  | Unknown |
 |                      [Veriphone](https://veriphone.io)                      | Phone number validation & carrier lookup                              | `apiKey` |  Yes  |   Yes   |
+|                      [Scraper.run](https://scraper.run)                     | Email address validation                                              |    No    |  Yes  |   Yes   |
 
 **[⬆ Back to Index](#index)**
 
@@ -338,6 +339,7 @@ For information on contributing to this project, please see the [contributing gu
 |                         [XML to JSON](https://developers.wso2apistore.com/)                         | Integration developer utility APIs                                                                  |       No        |  Yes  | Unknown |
 |         [Image to Link](https://www.contentful.com/developers/docs/references/images-api/)          | Generate link from image(Integration developer utility APIs)                                        |       No        |  Yes  |   YES   |
 |                                  [IPFinder](https://ipfinder.io/)                                   | Geolocation API,ASN API,IP Ranges API,IP Firewall API,Domain API                                    |       Yes       |  Yes  |   Yes   |
+|                                  [Scraper.run](https://scraper.run/)                                | Geolocation API,lookup DNS & whois record of a domain                             |       No        |  Yes  |   Yes   |
 
 **[⬆ Back to Index](#index)**
 
