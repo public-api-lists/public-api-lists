@@ -89,7 +89,7 @@ For information on contributing to this project, please see the [contributing gu
 |                   [Kitsu](http://docs.kitsu.apiary.io/)                   | Anime discovery platform                | `OAuth`  |  Yes  | Unknown |
 |             [Studio Ghibli](https://ghibliapi.herokuapp.com)              | Resources from Studio Ghibli films      |    No    |  Yes  | Unknown |
 |             [What Anime](https://soruly.github.io/trace.moe/)             | Scan anime image to get specific detail | `apiKey` |  Yes  | Unknown |
-|             [Mangadex](https://api.mangadex.org/docs/)             | ad-free manga reader offering high-quality images | `apiKey` |  Yes  | Unknown |
+|             [Mangadex](https://api.mangadex.org/docs/)             | ad-free manga reader offering high-quality images | No |  Yes  | Unknown |
 
 **[⬆ Back to Index](#index)**
 
