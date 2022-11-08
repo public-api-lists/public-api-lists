@@ -132,7 +132,7 @@ For information on contributing to this project, please see the [contributing gu
 |               [LibGen](http://garbage.world/posts/libgen/)                | Library Genesis search engine                                                            |    No    |  No   | Unknown |
 |          [Open Library](https://openlibrary.org/developers/api)           | Books, book covers and related data                                                      |    No    |  Yes  | Unknown |
 | [Penguin Publishing](http://www.penguinrandomhouse.biz/webservices/rest/) | Books, book covers and related data                                                      |    No    |  Yes  | Unknown |
-|      [Rig Veda](https://aninditabasu.github.io/indica/html/rv.html)       | Gods and poets, their categories, and the verse meters, with the mandal and sukta number |    No    |  Yes  | Unknown |
+|      [Rig Veda](https://aninditabasu.github.io/indica/)       | Gods and poets, their categories, and the verse meters, with the mandal and sukta number |    No    |  Yes  | Unknown |
 |    [Vedic Society](https://aninditabasu.github.io/indica/html/vs.html)    | Descriptions of all nouns (names, places, animals, things) from vedic literature         |    No    |  Yes  | Unknown |
 
 **[⬆ Back to Index](#index)**
@@ -275,6 +275,7 @@ For information on contributing to this project, please see the [contributing gu
 |   [US Street Address](https://smartystreets.com/docs/cloud/us-street-api)   | Validate and append data for any US postal address                    | `apiKey` |  Yes  |   Yes   |
 |                      [vatlayer](https://vatlayer.com)                       | VAT number validation                                                 |    No    |  Yes  | Unknown |
 |                      [Veriphone](https://veriphone.io)                      | Phone number validation & carrier lookup                              | `apiKey` |  Yes  |   Yes   |
+|                      [Scraper.run](https://scraper.run)                     | Email address validation                                              |    No    |  Yes  |   Yes   |
 
 **[⬆ Back to Index](#index)**
 
@@ -293,6 +294,7 @@ For information on contributing to this project, please see the [contributing gu
 |                               [Changelogs.md](https://changelogs.md)                                | Structured changelog metadata from open source projects                                             |       No        |  Yes  | Unknown |
 |                                  [CountAPI](https://countapi.xyz)                                   | Free and simple counting service. You can use it to track page hits and specific events             |       No        |  Yes  |   Yes   |
 |                    [DigitalOcean Status](https://status.digitalocean.com/api/v2)                    | Status of all DigitalOcean services                                                                 |       No        |  Yes  | Unknown |
+| [Dynamic QR Code](https://rapidapi.com/updeploy-tools/api/qr-code-dynamic-and-static1/details)      | Generate dynamic and static QR Codes                                                                | `X-RapidAPI-Key` |  Yes  |   Yes   |
 |                     [ExtendsClass](https://extendsclass.com/json-storage.html)                      | A simple JSON store API                                                                             |       No        |  Yes  |   Yes   |
 |                            [Faceplusplus](https://www.faceplusplus.com/)                            | A tool to detect face                                                                               |     `OAuth`     |  Yes  | Unknown |
 |                            [Form2Channel](https://form2channel.com/)                                | Send static html form submissions to Google Sheets, Email, Slack or Telegram                        |       No        |  Yes  |   Yes   |
@@ -326,17 +328,19 @@ For information on contributing to this project, please see the [contributing gu
 |                          [QR Code](https://fungenerators.com/api/qrcode/)                           | Create new QR Code or decode existing one                                                           |    `apiKey`     |  Yes  |   Yes   |
 |                                  [QR code](http://qrtag.net/api/)                                   | Create an easy to read QR code and URL shortener                                                    |       No        |  Yes  |   Yes   |
 |                                   [QR code](http://goqr.me/api/)                                    | Generate and decode / read QR code graphics                                                         |       No        |  Yes  | Unknown |
-|                                [QuickChart](https://quickchart.io/)                                 | Generate chart and graph images                                                                     |       No        |  Yes  |   Yes   |
+|                                    [QuickChart](https://quickchart.io/)                                 | Generate chart and graph images                                                                     |       No        |  Yes  |   Yes   |
 |                                    [ReqRes](https://reqres.in/)                                     | A hosted REST-API ready to respond to your AJAX requests                                            |       No        |  Yes  | Unknown |
 |                              [ScraperApi](https://www.scraperapi.com)                               | Easily build scalable web scrapers                                                                  |    `apiKey`     |  Yes  | Unknown |
 |                           [ScreenshotAPI.net](https://screenshotapi.net/)                           | Create pixel-perfect website screenshots                                                            |    `apiKey`     |  Yes  |   Yes   |
 |                                [Screenshots](https://screenshotson.click/)                          | Free capture a full screenshot of the website with high resolution and without watermarks           |    `apiKey`     |  Yes  |   Yes   |
+|                           [Shadify](https://github.com/cheatsnake/shadify)                          | Service for generating data and executing logic to create various games and puzzles                 |        No       |  Yes  |   Yes   |
 |                                 [SHOUTCLOUD](http://shoutcloud.io/)                                 | ALL-CAPS AS A SERVICE                                                                               |       No        |  No   | Unknown |
 |                           [StackExchange](https://api.stackexchange.com/)                           | Q&A forum for developers                                                                            |     `OAuth`     |  Yes  | Unknown |
 |                         [Unixtime](https://unixtime.co.za/)                         | Convert Unixtime to DateTime and vice versa                                                                  |       No        |  Yes  | Yes |
 |                         [XML to JSON](https://developers.wso2apistore.com/)                         | Integration developer utility APIs                                                                  |       No        |  Yes  | Unknown |
 |         [Image to Link](https://www.contentful.com/developers/docs/references/images-api/)          | Generate link from image(Integration developer utility APIs)                                        |       No        |  Yes  |   YES   |
 |                                  [IPFinder](https://ipfinder.io/)                                   | Geolocation API,ASN API,IP Ranges API,IP Firewall API,Domain API                                    |       Yes       |  Yes  |   Yes   |
+|                                  [Scraper.run](https://scraper.run/)                                | Geolocation API,lookup DNS & whois record of a domain                             |       No        |  Yes  |   Yes   |
 
 **[⬆ Back to Index](#index)**
 
@@ -369,6 +373,7 @@ For information on contributing to this project, please see the [contributing gu
 | :-------------------------------------------------------------------------------: | -------------------------------------------------------------- | :------: | :---: | :-----: |
 | [Cloudmersive Document and Data Conversion](https://cloudmersive.com/convert-api) | HTML/URL to PDF/PNG, Office documents to PDF, image conversion | `apiKey` |  Yes  |   Yes   |
 |               [Base](https://www.base-api.io/reference)                | Authentication,Emails sending,File uploading and shearing, forms filluping                                                     | `apiKey` |  Yes  | Unknown |
+|                       [DynamicDocs](https://advicement.io)                        | Generate dynamic PDFs with JSON to PDF API based on LaTeX      | `apiKey` |  Yes  | Unknown |
 |                          [File.io](https://www.file.io)                           | File Sharing                                                   |    No    |  Yes  | Unknown |
 |               [Mercury](https://mercury.postlight.com/web-parser/)                | Web parser                                                     | `apiKey` |  Yes  | Unknown |
 |                         [pdflayer](https://pdflayer.com)                          | HTML/URL to PDF                                                | `apiKey` |  Yes  | Unknown |
@@ -502,6 +507,7 @@ For information on contributing to this project, please see the [contributing gu
 |       [Random Facts](https://fungenerators.com/api/facts/)        | Random Facts from hundreds of categories                                   |    `apiKey`     |  Yes  |   Yes   |
 |           [Rick and Morty](https://rickandmortyapi.com)           | All the Rick and Morty information, including images                       |       No        |  Yes  |   Yes   |
 |          [Riot Games](https://developer.riotgames.com/)           | League of Legends Game Information                                         |    `apiKey`     |  Yes  | Unknown |
+|      [Scoresaber](https://scoresaber.com/api/documentation)       | Scoresaber Stats                                                           |       No        |  Yes  | Unknown |
 |             [Scryfall](https://scryfall.com/docs/api)             | Magic: The Gathering database                                              |       No        |  Yes  |   Yes   |
 |  [Steam](https://developer.valvesoftware.com/wiki/Steam_Web_API)  | Steam Client Interaction                                                   |     `OAuth`     |  Yes  | Unknown |
 |              [SuperHeroes](https://superheroapi.com)              | All SuperHeroes and Villains data from all universes under a single API    |    `apiKey`     |  Yes  | Unknown |
@@ -669,7 +675,7 @@ For information on contributing to this project, please see the [contributing gu
 |                                                       API                                                        | Description                                                                       |   Auth   | HTTPS |  CORS   |
 | :--------------------------------------------------------------------------------------------------------------: | --------------------------------------------------------------------------------- | :------: | :---: | :-----: |
 |                                [AI Mastering](https://aimastering.com/api_docs/)                                 | Automated Music Mastering                                                         | `apiKey` |  Yes  |   Yes   |
-|                    [Bandsintown](https://app.swaggerhub.com/apis/Bandsintown/PublicAPI/3.0.0)                    | Music Events                                                                      |    No    |  Yes  | Unknown |
+|                    [Bandsintown](https://app.swaggerhub.com/apis/Bandsintown/PublicAPI/3.0.1)                    | Music Events                                                                      |    No    |  Yes  | Unknown |
 |                                   [Deezer](https://developers.deezer.com/api)                                    | Music                                                                             | `OAuth`  |  Yes  | Unknown |
 |                                  [Discogs](https://www.discogs.com/developers/)                                  | Music                                                                             | `OAuth`  |  Yes  | Unknown |
 |                                   [Freesound](https://freesound.org/docs/api/)                                   | Music Samples                                                                     | `apiKey` |  Yes  | Unknown |
@@ -773,10 +779,12 @@ For information on contributing to this project, please see the [contributing gu
 |             [icanhazdadjoke](https://icanhazdadjoke.com/api)              | The largest selection of dad jokes on the internet                     |    No    |  Yes  | Unknown |
 |                     [kanye.rest](https://kanye.rest)                      | REST API for random Kanye West quotes                                  |    No    |  Yes  |   Yes   |
 |            [Medium](https://github.com/Medium/medium-api-docs)            | Community of readers and writers offering unique perspectives on ideas | `OAuth`  |  Yes  | Unknown |
+|             [Meme](https://github.com/D3vd/Meme_Api)                      | JSON API for a random meme scraped from reddit                         |    No    |  Yes  | Unknown |
 |             [NaMoMemes](https://github.com/theIYD/NaMoMemes)              | Memes on Narendra Modi                                                 |    No    |  Yes  | Unknown |
 | [Programming Quotes](https://github.com/skolakoda/programming-quotes-api) | Programming Quotes API for open source projects                        |    No    |  Yes  | Unknown |
 |      [Quote Garden](https://pprathameshmore.github.io/QuoteGarden/)       | REST API for more than 5000 famous quotes                              |    No    |  Yes  | Unknown |
 |            [Quotes on Design](https://quotesondesign.com/api/)            | Inspirational Quotes                                                   |    No    |  Yes  | Unknown |
+|               [Riddles API](https://riddles-api.vercel.app/) 	            | Get random riddles on every API call.                                  |    No    |  Yes  |   Yes   |
 |              [Traitify](https://app.traitify.com/developer)               | Assess, collect and analyze Personality                                |    No    |  Yes  | Unknown |
 |               [tronalddump.io](https://www.tronalddump.io)                | Api & web archive for the things Donald Trump has said                 |    No    |  Yes  | Unknown |
 
@@ -1052,6 +1060,7 @@ For information on contributing to this project, please see the [contributing gu
 |                            [Dune](https://github.com/ywalia01/dune-api)                            | Dune API                                         |       No        |  Yes  | Unknown |
 |                             [Harry Potter](https://www.potterapi.com/)                             | Harry Potter API                                 |    `apiKey`     |  Yes  |   Yes   |
 |                           [Open Movie Database](http://www.omdbapi.com/)                           | Movie information                                |    `apiKey`     |  Yes  | Unknown |
+| [Potter DB](https://potterdb.com) |  Data from the Harry Potter Universe: Characters, Movies, Books, Spells and Potions                               |       No        |  Yes  | Unknown |
 | [Ron Swanson Quotes](https://github.com/jamesseanwright/ron-swanson-quotes#ron-swanson-quotes-api) | Television                                       |       No        |  Yes  | Unknown |
 |                                      [STAPI](http://stapi.co)                                      | Information on all things Star Trek              |       No        |  No   |   No    |
 |                    [The Lord of the Rings](https://the-one-api.herokuapp.com/)                     | The Lord of the Rings API                        |    `apiKey`     |  Yes  | Unknown |
@@ -1061,6 +1070,7 @@ For information on contributing to this project, please see the [contributing gu
 |                                [TVMaze](http://www.tvmaze.com/api)                                 | TV Show Data                                     |       No        |  No   | Unknown |
 |                               [Vimeo](https://developer.vimeo.com/)                                | Vimeo Developer API                              |     `OAuth`     |  Yes  | Unknown |
 |                         [YouTube](https://developers.google.com/youtube/)                          | Add YouTube functionality to your sites and apps |     `OAuth`     |  Yes  | Unknown |
+|                         [Shotstack](https://shotstack.io/)                          | Develop video applications with cloud-based video editing API |     `apiKey`     |  Yes  | Unknown |
 
 **[⬆ Back to Index](#index)**
 
