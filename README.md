@@ -1057,27 +1057,28 @@ For information on contributing to this project, please see the [contributing gu
 
 ### Video
 
-|                                                API                                                 | Description                                      |      Auth       | HTTPS |  CORS   |
-| :------------------------------------------------------------------------------------------------: | ------------------------------------------------ | :-------------: | :---: | :-----: |
-|                      [An API of Ice And Fire](https://anapioficeandfire.com/)                      | Game Of Thrones API                              |       No        |  Yes  | Unknown |
-|                      [Breaking Bad](https://breakingbadapi.com/documentation)                      | Breaking Bad API                                 |       No        |  Yes  | Unknown |
-|               [Breaking Bad Quotes](https://github.com/shevabam/breaking-bad-quotes)               | Some Breaking Bad quotes                         |       No        |  Yes  | Unknown |
-|                  [Czech Television](http://www.ceskatelevize.cz/xml/tv-program/)                   | TV programme of Czech TV                         |       No        |  No   | Unknown |
-|                         [Dailymotion](https://developer.dailymotion.com/)                          | Dailymotion Developer API                        |     `OAuth`     |  Yes  | Unknown |
-|                            [Dune](https://github.com/ywalia01/dune-api)                            | Dune API                                         |       No        |  Yes  | Unknown |
-|                             [Harry Potter](https://www.potterapi.com/)                             | Harry Potter API                                 |    `apiKey`     |  Yes  |   Yes   |
-|                           [Open Movie Database](http://www.omdbapi.com/)                           | Movie information                                |    `apiKey`     |  Yes  | Unknown |
-| [Potter DB](https://potterdb.com) |  Data from the Harry Potter Universe: Characters, Movies, Books, Spells and Potions                               |       No        |  Yes  | Unknown |
-| [Ron Swanson Quotes](https://github.com/jamesseanwright/ron-swanson-quotes#ron-swanson-quotes-api) | Television                                       |       No        |  Yes  | Unknown |
-|                                      [STAPI](http://stapi.co)                                      | Information on all things Star Trek              |       No        |  No   |   No    |
-|                    [The Lord of the Rings](https://the-one-api.herokuapp.com/)                     | The Lord of the Rings API                        |    `apiKey`     |  Yes  | Unknown |
-|                        [TMDb](https://www.themoviedb.org/documentation/api)                        | Community-based movie data                       |    `apiKey`     |  Yes  | Unknown |
-|                                [Trakt](https://trakt.tv/b/api-docs)                                | Movie and TV Data                                |    `apiKey`     |  Yes  |   Yes   |
-|                              [TVDB](https://api.thetvdb.com/swagger)                               | Television data                                  |    `apiKey`     |  Yes  | Unknown |
-|                                [TVMaze](http://www.tvmaze.com/api)                                 | TV Show Data                                     |       No        |  No   | Unknown |
-|                               [Vimeo](https://developer.vimeo.com/)                                | Vimeo Developer API                              |     `OAuth`     |  Yes  | Unknown |
-|                         [YouTube](https://developers.google.com/youtube/)                          | Add YouTube functionality to your sites and apps |     `OAuth`     |  Yes  | Unknown |
-|                         [Shotstack](https://shotstack.io/)                          | Develop video applications with cloud-based video editing API |     `apiKey`     |  Yes  | Unknown |
+|                                                API                                                 | Description                                                                        |      Auth       | HTTPS |  CORS   |
+| :------------------------------------------------------------------------------------------------: | ---------------------------------------------------------------------------------- | :-------------: | :---: | :-----: |
+|                      [An API of Ice And Fire](https://anapioficeandfire.com/)                      | Game Of Thrones API                                                                |       No        |  Yes  | Unknown |
+|                      [Breaking Bad](https://breakingbadapi.com/documentation)                      | Breaking Bad API                                                                   |       No        |  Yes  | Unknown |
+|               [Breaking Bad Quotes](https://github.com/shevabam/breaking-bad-quotes)               | Some Breaking Bad quotes                                                           |       No        |  Yes  | Unknown |
+|                  [Czech Television](http://www.ceskatelevize.cz/xml/tv-program/)                   | TV programme of Czech TV                                                           |       No        |  No   | Unknown |
+|                         [Dailymotion](https://developer.dailymotion.com/)                          | Dailymotion Developer API                                                          |     `OAuth`     |  Yes  | Unknown |
+|                            [Dune](https://github.com/ywalia01/dune-api)                            | Dune API                                                                           |       No        |  Yes  | Unknown |
+|                             [Harry Potter](https://www.potterapi.com/)                             | Harry Potter API                                                                   |    `apiKey`     |  Yes  |   Yes   |
+|                           [Open Movie Database](http://www.omdbapi.com/)                           | Movie information                                                                  |    `apiKey`     |  Yes  | Unknown |
+|                    [Owen Wilson Wow](https://owen-wilson-wow-api.onrender.com/)                    | API for actor Owen Wilson's "wow" exclamations in movies                           |       No        |  Yes  |   Yes   |
+|                                  [Potter DB](https://potterdb.com)                                 | Data from the Harry Potter Universe: Characters, Movies, Books, Spells and Potions |       No        |  Yes  | Unknown |
+| [Ron Swanson Quotes](https://github.com/jamesseanwright/ron-swanson-quotes#ron-swanson-quotes-api) | Television                                                                         |       No        |  Yes  | Unknown |
+|                                      [STAPI](http://stapi.co)                                      | Information on all things Star Trek                                                |       No        |  No   |   No    |
+|                    [The Lord of the Rings](https://the-one-api.herokuapp.com/)                     | The Lord of the Rings API                                                          |    `apiKey`     |  Yes  | Unknown |
+|                        [TMDb](https://www.themoviedb.org/documentation/api)                        | Community-based movie data                                                         |    `apiKey`     |  Yes  | Unknown |
+|                                [Trakt](https://trakt.tv/b/api-docs)                                | Movie and TV Data                                                                  |    `apiKey`     |  Yes  |   Yes   |
+|                              [TVDB](https://api.thetvdb.com/swagger)                               | Television data                                                                    |    `apiKey`     |  Yes  | Unknown |
+|                                [TVMaze](http://www.tvmaze.com/api)                                 | TV Show Data                                                                       |       No        |  No   | Unknown |
+|                               [Vimeo](https://developer.vimeo.com/)                                | Vimeo Developer API                                                                |     `OAuth`     |  Yes  | Unknown |
+|                         [YouTube](https://developers.google.com/youtube/)                          | Add YouTube functionality to your sites and apps                                   |     `OAuth`     |  Yes  | Unknown |
+|                                [Shotstack](https://shotstack.io/)                                  | Develop video applications with cloud-based video editing API                      |    `apiKey`     |  Yes  | Unknown |
 
 **[⬆ Back to Index](#index)**
 
