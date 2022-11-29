@@ -238,6 +238,7 @@ For information on contributing to this project, please see the [contributing gu
 |             [CurrencyAPI](https://currencyapi.com)                       | Currency Conversion API                                                               | `apiKey` |  Yes  | Unknown |
 |                   [Gates.io](https://www.gate.io/api2)                   | Blockchain Assets Exchange                                                            |    No    |  Yes  | Unknown |
 |               [Gemini](https://docs.gemini.com/rest-api/)                | Cryptocurrencies Exchange                                                             |    No    |  Yes  | Unknown |
+|                  [MEXC Global](https://mxcdevelop.github.io/apidocs)                  | Crypto asset exchange for trading Marketplace                                                     | `apiKey` |  Yes  | Unknown |
 |             [Nexchange](https://nexchange2.docs.apiary.io/)              | Automated cryptocurrency exchange service                                             |    No    |  No   |   Yes   |
 |                  [NiceHash](https://docs.nicehash.com/)                  | Largest Crypto Mining Marketplace                                                     | `apiKey` |  Yes  | Unknown |
 |              [Poloniex](https://poloniex.com/support/api/)               | US based digital asset exchange                                                       | `apiKey` |  Yes  | Unknown |
