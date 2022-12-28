@@ -132,7 +132,6 @@ For information on contributing to this project, please see the [contributing gu
 |          [British National Bibliography](http://bnb.data.bl.uk/)          | Books                                                                                    |    No    |  No   | Unknown |
 |                [Goodreads](https://www.goodreads.com/api)                 | Books                                                                                    | `apiKey` |  Yes  | Unknown |
 |           [Google Books](https://developers.google.com/books/)            | Books                                                                                    | `OAuth`  |  Yes  | Unknown |
-|               [LibGen](http://garbage.world/posts/libgen/)                | Library Genesis search engine                                                            |    No    |  No   | Unknown |
 |          [Open Library](https://openlibrary.org/developers/api)           | Books, book covers and related data                                                      |    No    |  Yes  | Unknown |
 | [Penguin Publishing](http://www.penguinrandomhouse.biz/webservices/rest/) | Books, book covers and related data                                                      |    No    |  Yes  | Unknown |
 |      [Rig Veda](https://aninditabasu.github.io/indica/)       | Gods and poets, their categories, and the verse meters, with the mandal and sukta number |    No    |  Yes  | Unknown |
