@@ -961,6 +961,7 @@ For information on contributing to this project, please see the [contributing gu
 |             [ParallelDots AI APIs](https://apis.paralleldots.com/text_docs/index.html)   | Suite of Text Analysis APIs such as sentiment analysis, keyword extract and named entity extraction                            | `apiKey` |  Yes  | Yes |
 |                                       [Semantira](https://semantria.readme.io/docs)      | Text Analytics with sentiment analysis, categorization & named entity extraction                                         |     `OAuth`     |  Yes  | Unknown |
 | [Watson Natural Language Understanding](https://www.ibm.com/watson/developercloud/natural-language-understanding/api/v1/) | Natural language processing for advanced text analysis                                     |     `OAuth`     |  Yes  | Unknown |
+| [Yomi](https://github.com/ookii-tsuki/yomi) | Japanese tokenizer and morphological analysis web API | No | Yes | Yes |
 
 **[⬆ Back to Index](#index)**
 
