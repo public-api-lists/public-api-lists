@@ -1080,6 +1080,7 @@ For information on contributing to this project, please see the [contributing gu
 |                               [Vimeo](https://developer.vimeo.com/)                                | Vimeo Developer API                                                                |     `OAuth`     |  Yes  | Unknown |
 |                         [YouTube](https://developers.google.com/youtube/)                          | Add YouTube functionality to your sites and apps                                   |     `OAuth`     |  Yes  | Unknown |
 |                                [Shotstack](https://shotstack.io/)                                  | Develop video applications with cloud-based video editing API                      |    `apiKey`     |  Yes  | Unknown |
+|                                [YouTube video download data API](https://www.f4nsix.xyz/api/)                                  | YouTube video download data API                      |    No     |  Yes  | Yes |
 
 **[⬆ Back to Index](#index)**
 
