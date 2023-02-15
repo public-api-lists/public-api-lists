@@ -86,6 +86,7 @@ For information on contributing to this project, please see the [contributing gu
 |                                    API                                    | Description                             |   Auth   | HTTPS |  CORS   |
 | :-----------------------------------------------------------------------: | --------------------------------------- | :------: | :---: | :-----: |
 |         [AniList](https://github.com/AniList/ApiV2-GraphQL-Docs)          | Anime discovery & tracking              | `OAuth`  |  Yes  | Unknown |
+|             [Animechan](https://animechan.vercel.app/docs)                | Random anime quote generation           |    No    |  Yes  | Unknown |
 | [AnimeNewsNetwork](https://www.animenewsnetwork.com/encyclopedia/api.php) | Anime industry news                     |    No    |  Yes  |   Yes   |
 |                        [Jikan](https://jikan.moe)                         | Unofficial MyAnimeList API              |    No    |  Yes  |   Yes   |
 |                   [Kitsu](http://docs.kitsu.apiary.io/)                   | Anime discovery platform                | `OAuth`  |  Yes  | Unknown |
