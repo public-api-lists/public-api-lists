@@ -167,7 +167,7 @@ For information on contributing to this project, please see the [contributing gu
 |                                  API                                   | Description                                                                                            |   Auth   | HTTPS |  CORS   |
 | :--------------------------------------------------------------------: | ------------------------------------------------------------------------------------------------------ | :------: | :---: | :-----: |
 |       [Abstract's Holiday API](https://www.abstractapi.com/holidays-api)        | National, regional, and religious holidays for 120+ countries & 100+ years                     |    Yes    |  Yes  |   Yes    |
-|     [Byabbe](https://byabbe.se/on-this-day/#/default/get__month___day__events_json)      | Seach histories from wikipedia for a perticular day                             |    No    |  Yes   | Unknown |
+|     [Byabbe](https://byabbe.se/on-this-day/#/default/get__month___day__events_json)      | Seach histories from wikipedia for a particular day                             |    No    |  Yes   | Unknown |
 |            [Calendar Index](https://www.calendarindex.com/)            | Worldwide Holidays and Working Days                                                                    | `apiKey` |  Yes  |   Yes   |
 |           [Church Calendar](http://calapi.inadiutorium.cz/)            | Catholic liturgical calendar                                                                           |    No    |  No   | Unknown |
 |         [Czech Namedays Calendar](http://svatky.adresa.info/)          | Lookup for a name and returns nameday date                                                             |    No    |  No   | Unknown |
