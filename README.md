@@ -728,6 +728,7 @@ For information on contributing to this project, please see the [contributing gu
 |                                     API                                     | Description                                                                                        |      Auth       | HTTPS |  CORS   |
 | :-------------------------------------------------------------------------: | -------------------------------------------------------------------------------------------------- | :-------------: | :---: | :-----: |
 |                 [18F](http://18f.github.io/API-All-the-X/)                  | Unofficial US Federal Government API Development                                                   |       No        |  No   | Unknown |
+| [API-Colombia](https://api-colombia.com/) | Obtain a variety of information about the country "Colombia" | No | Yes | No |
 |                [Archive.org](https://archive.readme.io/docs)                | The Internet Archive                                                                               |       No        |  Yes  | Unknown |
 |                    [Callook.info](https://callook.info)                     | United States ham radio callsigns                                                                  |       No        |  Yes  | Unknown |
 |                         [CARTO](https://carto.com/)                         | Location Information Prediction                                                                    |    `apiKey`     |  Yes  | Unknown |
