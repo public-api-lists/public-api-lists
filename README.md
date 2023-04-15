@@ -389,6 +389,7 @@ For information on contributing to this project, please see the [contributing gu
 |                         [Restpack](https://restpack.io/)                          | Provides screenshot, HTML to PDF and content extraction APIs               | `apiKey` |  Yes  | Unknown |
 |                     [Todoist](https://developer.todoist.com)                      | Todo Lists                                                                 | `OAuth`  |  Yes  | Unknown |
 |                      [Vector Express](http://vector.express)                      | Free vector file converting API                                            |    No    |  No   |   Yes   |
+|               [Vertopal](https://www.vertopal.com/en/developer/api)               | Convert files using Vertopal API                                           | `apiKey` |  Yes  |   No    |
 |                    [WakaTime](https://wakatime.com/developers)                    | Automated time tracking leaderboards for programmers                       |    No    |  Yes  | Unknown |
 |                [Webpage (Labstack)](https://labstack.com/webpage)                 | High resolution, retina display and responsive screenshot                  | `apiKey` |  Yes  |   Yes   |
 
