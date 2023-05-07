@@ -790,7 +790,7 @@ For information on contributing to this project, please see the [contributing gu
 |            [Medium](https://github.com/Medium/medium-api-docs)            | Community of readers and writers offering unique perspectives on ideas | `OAuth`  |  Yes  | Unknown |
 |                 [Meme](https://github.com/D3vd/Meme_Api)                  | JSON API for a random meme scraped from reddit                         |    No    |  Yes  | Unknown |
 |             [NaMoMemes](https://github.com/theIYD/NaMoMemes)              | Memes on Narendra Modi                                                 |    No    |  Yes  | Unknown |
-| [Programming Quotes](https://github.com/skolakoda/programming-quotes-api) | Programming Quotes API for open source projects                        |    No    |  Yes  | Unknown |
+| [Programming Quotes](https://programming-quotesapi.vercel.app/)           | An api which generates quotes from programmers                         |    No    |  Yes  |   Yes   |
 |      [Quote Garden](https://pprathameshmore.github.io/QuoteGarden/)       | REST API for more than 5000 famous quotes                              |    No    |  Yes  | Unknown |
 |            [Quotes on Design](https://quotesondesign.com/api/)            | Inspirational Quotes                                                   |    No    |  Yes  | Unknown |
 |              [Riddles API](https://riddles-api.vercel.app/)               | Get random riddles on every API call.                                  |    No    |  Yes  |   Yes   |
