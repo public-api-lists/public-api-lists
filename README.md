@@ -132,6 +132,7 @@ For information on contributing to this project, please see the [contributing gu
 |                                    API                                    | Description                                                                              |   Auth   | HTTPS |  CORS   |
 | :-----------------------------------------------------------------------: | ---------------------------------------------------------------------------------------- | :------: | :---: | :-----: |
 |               [Bhagavad Gita](https://bhagavadgita.io/api)                | Bhagavad Gita text                                                                       | `OAuth`  |  Yes  |   Yes   |
+|               [Bible API](https://github.com/wldeh/bible-api)             | Lightning-fast Bible API, featuring support for over 200+ translations and counting      |    No    |  Yes  |   Yes   |
 |          [British National Bibliography](http://bnb.data.bl.uk/)          | Books                                                                                    |    No    |  No   | Unknown |
 |                [Goodreads](https://www.goodreads.com/api)                 | Books                                                                                    | `apiKey` |  Yes  | Unknown |
 |           [Google Books](https://developers.google.com/books/)            | Books                                                                                    | `OAuth`  |  Yes  | Unknown |
