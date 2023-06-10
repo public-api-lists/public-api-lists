@@ -929,6 +929,7 @@ For information on contributing to this project, please see the [contributing gu
 |                [SuredBits](https://suredbits.com/api/)                | Query sports data, including teams, players, games, scores and statistics                   |       No        |  No   |   No    |
 |          [TheSportsDB](https://www.thesportsdb.com/api.php)           | Crowd-Sourced Sports Data and Artwork                                                       |    `apiKey`     |  Yes  |   Yes   |
 |                [Wger](https://wger.de/en/software/api)                | Workout manager data as exercises, muscles or equipment                                     |    `apiKey`     |  Yes  | Unknown |
+|                [CricData](https://cricketdata.org/)                | Ultimate Cricket data API - Score, Scorecard, Players data, Fantasy API                                     |    `apiKey`     |  Yes  | Unknown |
 
 **[⬆ Back to Index](#index)**
 
