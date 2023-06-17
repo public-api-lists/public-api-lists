@@ -400,7 +400,7 @@ For information on contributing to this project, please see the [contributing gu
 
 |                                        API                                        | Description                                                                |   Auth   | HTTPS |  CORS   |
 | :-------------------------------------------------------------------------------: | -------------------------------------------------------------------------- | :------: | :---: | :-----: |
-| [Current Affairs](https://rapidapi.com/malaithiru370/api/current-affairs-of-india) | Current International Affairs, quizzes and more             | No |  Yes  |   No   |
+| [Current Affairs](https://rapidapi.com/malaithiru370/api/current-affairs-of-india) | Current International Affairs, quizzes and more             | `apiKey` |  Yes  |   No   |
 
 **[⬆ Back to Index](#index)**
 
