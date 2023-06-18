@@ -92,7 +92,6 @@ For information on contributing to this project, please see the [contributing gu
 | [AnimeNewsNetwork](https://www.animenewsnetwork.com/encyclopedia/api.php) | Anime industry news                               |    No    |  Yes  |   Yes   |
 |                        [Jikan](https://jikan.moe)                         | Unofficial MyAnimeList API                        |    No    |  Yes  |   Yes   |
 |                   [Kitsu](http://docs.kitsu.apiary.io/)                   | Anime discovery platform                          | `OAuth`  |  Yes  | Unknown |
-|             [Studio Ghibli](https://ghibliapi.herokuapp.com)              | Resources from Studio Ghibli films                |    No    |  Yes  | Unknown |
 |          [What Anime](https://soruly.github.io/trace.moe-api/#/)          | Scan anime image to get specific detail           | `apiKey` |  Yes  | Unknown |
 |                [Mangadex](https://api.mangadex.org/docs/)                 | ad-free manga reader offering high-quality images |    No    |  Yes  | Unknown |
 
@@ -326,7 +325,6 @@ For information on contributing to this project, please see the [contributing gu
 |                         [MAC address vendor lookup](https://macaddress.io)                          | Retrieve vendor details and other information regarding a given MAC address or an OUI               |     `apiKey`     |  Yes  |   Yes   |
 |                              [Nationalize.io](https://nationalize.io)                               | Estimate the nationality of a first name                                                            |        No        |  Yes  |   Yes   |
 |                                   [OOPSpam](https://oopspam.com/)                                   | Multiple spam filtering service                                                                     |        No        |  Yes  |   Yes   |
-|                                [Plino](https://plino.herokuapp.com/)                                | Spam filtering system                                                                               |        No        |  Yes  | Unknown |
 |                             [Postman](https://docs.api.getpostman.com/)                             | Tool for testing APIs                                                                               |     `apiKey`     |  Yes  | Unknown |
 |                                [ProxyCrawl](https://proxycrawl.com)                                 | Scraping and crawling anticaptcha service                                                           |     `apiKey`     |  Yes  | Unknown |
 |                      [Public APIs](https://github.com/davemachado/public-api)                       | A collective list of free JSON APIs for use in web development                                      |        No        |  Yes  | Unknown |
@@ -447,7 +445,6 @@ For information on contributing to this project, please see the [contributing gu
 |                           [LCBO](https://lcboapi.com/)                           | Alcohol                                           | `apiKey` |  Yes  | Unknown |
 |                 [Open Brewery DB](https://www.openbrewerydb.org)                 | Breweries, Cideries and Craft Beer Bottle Shops   |    No    |  Yes  |   Yes   |
 |             [Open Food Facts](https://world.openfoodfacts.org/data)              | Food Products Database                            |    No    |  Yes  | Unknown |
-|           [Order Pizza](https://order-pizza-api.herokuapp.com/api/ui)            | Pizza ordering system                             | `apiKey` |  Yes  |   Yes   |
 |                         [PunkAPI](https://punkapi.com/)                          | Brewdog Beer Recipes                              |    No    |  Yes  | Unknown |
 |              [Recipe Puppy](http://www.recipepuppy.com/about/api/)               | Food                                              |    No    |  No   | Unknown |
 |                 [Spoonacular](https://spoonacular.com/food-api)                  | Food and Recipes                                  | `apikey` |  Yes  | Unknown |
@@ -478,7 +475,6 @@ For information on contributing to this project, please see the [contributing gu
 
 |                                API                                | Description                                                                                                  |      Auth       | HTTPS |  CORS   |
 | :---------------------------------------------------------------: | ------------------------------------------------------------------------------------------------------------ | :-------------: | :---: | :-----: |
-|  [Age of Empires II](https://age-of-empires-2-api.herokuapp.com)  | Get information about Age of Empires II resources                                                            |       No        |  Yes  | Unknown |
 |              [AmiiboAPI](http://www.amiiboapi.com/)               | Amiibo Information                                                                                           |       No        |  No   |   Yes   |
 |               [Battle.net](https://dev.battle.net/)               | Blizzard Entertainment                                                                                       |    `apiKey`     |  Yes  | Unknown |
 |    [Blue Archive](https://github.com/arufars/api-blue-archive)    | Blue Archive Game data API Characters                                                                        |       No        |  Yes  | Unknown |
@@ -834,7 +830,6 @@ For information on contributing to this project, please see the [contributing gu
 |         [Launch Library](https://launchlibrary.net/docs/1.3/api.html)          | Upcoming Space Launches                                                                                 |    No    |  Yes  | Unknown |
 |               [Minor Planet Center](http://www.asterank.com/mpc)               | Asterank.com Information                                                                                |    No    |  No   | Unknown |
 |                          [NASA](https://api.nasa.gov)                          | NASA data, including imagery                                                                            |    No    |  Yes  | Unknown |
-|          [NASA APOD (unofficial API)](https://apodapi.herokuapp.com/)          | API for getting APOD (Astronomy Image of the Day) images along with metadata                            |    No    |  Yes  |   Yes   |
 |                        [Newton](https://newton.now.sh/)                        | Symbolic and Arithmetic Math Calculator                                                                 |    No    |  Yes  | Unknown |
 |                   [Numbers](https://math.tools/api/numbers/)                   | Number of the day, random number generation, number facts and anything else you want to do with numbers | `apiKey` |  Yes  |   Yes   |
 |                        [Numbers](http://numbersapi.com)                        | Facts about numbers                                                                                     |    No    |  No   | Unknown |
@@ -902,7 +897,6 @@ For information on contributing to this project, please see the [contributing gu
 |               [Tumblr](https://www.tumblr.com/docs/en/api/v2)                | Read and write Tumblr Data                                                                        | `OAuth`  |  Yes  | Unknown |
 |                     [Twitch](https://dev.twitch.tv/docs)                     | Game Streaming API                                                                                | `OAuth`  |  Yes  | Unknown |
 |               [Twitter](https://developer.twitter.com/en/docs)               | Read and write Twitter data                                                                       | `OAuth`  |  Yes  |   No    |
-| [Twitter Public ID Media Images](https://sharadcodes-twee-api.herokuapp.com) | Twitter Public ID Media Images                                                                    |    No    |  Yes  |   Yes   |
 |                        [vk](https://vk.com/dev/sites)                        | Read and write vk data                                                                            | `OAuth`  |  Yes  | Unknown |
 
 **[⬆ Back to Index](#index)**
@@ -1075,7 +1069,6 @@ For information on contributing to this project, please see the [contributing gu
 |                                 [Potter DB](https://potterdb.com)                                  | Data from the Harry Potter Universe: Characters, Movies, Books, Spells and Potions |    No    |  Yes  | Unknown |
 | [Ron Swanson Quotes](https://github.com/jamesseanwright/ron-swanson-quotes#ron-swanson-quotes-api) | Television                                                                         |    No    |  Yes  | Unknown |
 |                                     [STAPI](https://stapi.co)                                      | Information on all things Star Trek                                                |    No    |  Yes  |   Yes   |
-|                    [The Lord of the Rings](https://the-one-api.herokuapp.com/)                     | The Lord of the Rings API                                                          | `apiKey` |  Yes  | Unknown |
 |                        [TMDb](https://www.themoviedb.org/documentation/api)                        | Community-based movie data                                                         | `apiKey` |  Yes  | Unknown |
 |                                [Trakt](https://trakt.tv/b/api-docs)                                | Movie and TV Data                                                                  | `apiKey` |  Yes  |   Yes   |
 |                              [TVDB](https://api.thetvdb.com/swagger)                               | Television data                                                                    | `apiKey` |  Yes  | Unknown |
