@@ -29,6 +29,7 @@ For information on contributing to this project, please see the [contributing gu
 - [Dictionaries](#dictionaries)
 - [Disasters](#disasters)
 - [Documents & Productivity](#documents--productivity)
+- [Education](#education)
 - [Environment](#environment)
 - [Events](#events)
 - [Finance](#finance)
@@ -392,6 +393,14 @@ For information on contributing to this project, please see the [contributing gu
 |               [Vertopal](https://www.vertopal.com/en/developer/api)               | Convert files using Vertopal API                                           | `apiKey` |  Yes  |   No    |
 |                    [WakaTime](https://wakatime.com/developers)                    | Automated time tracking leaderboards for programmers                       |    No    |  Yes  | Unknown |
 |                [Webpage (Labstack)](https://labstack.com/webpage)                 | High resolution, retina display and responsive screenshot                  | `apiKey` |  Yes  |   Yes   |
+
+**[⬆ Back to Index](#index)**
+
+### Education
+
+|                                        API                                        | Description                                                                |   Auth   | HTTPS |  CORS   |
+| :-------------------------------------------------------------------------------: | -------------------------------------------------------------------------- | :------: | :---: | :-----: |
+| [Current Affairs](https://rapidapi.com/malaithiru370/api/current-affairs-of-india) | Current International Affairs, quizzes and more             | `apiKey` |  Yes  |   No   |
 
 **[⬆ Back to Index](#index)**
 
