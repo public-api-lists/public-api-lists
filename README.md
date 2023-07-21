@@ -1078,6 +1078,7 @@ For information on contributing to this project, please see the [contributing gu
 |                    [Owen Wilson Wow](https://owen-wilson-wow-api.onrender.com/)                    | API for actor Owen Wilson's "wow" exclamations in movies                           |    No    |  Yes  |   Yes   |
 |                                 [Potter DB](https://potterdb.com)                                  | Data from the Harry Potter Universe: Characters, Movies, Books, Spells and Potions |    No    |  Yes  | Unknown |
 | [Ron Swanson Quotes](https://github.com/jamesseanwright/ron-swanson-quotes#ron-swanson-quotes-api) | Television                                                                         |    No    |  Yes  | Unknown |
+| [South Park Quotes](https://github.com/Thatskat/southpark-quotes-api) | A pretty simple API to let you retrieve some of the best quotes from South Park, mmkay! | No | Yes | Yes |
 |                                     [STAPI](https://stapi.co)                                      | Information on all things Star Trek                                                |    No    |  Yes  |   Yes   |
 |                        [TMDb](https://www.themoviedb.org/documentation/api)                        | Community-based movie data                                                         | `apiKey` |  Yes  | Unknown |
 |                                [Trakt](https://trakt.tv/b/api-docs)                                | Movie and TV Data                                                                  | `apiKey` |  Yes  |   Yes   |
