@@ -70,6 +70,7 @@ For information on contributing to this project, please see the [contributing gu
 |                            [Cats](https://docs.thecatapi.com/)                             | Pictures of cats from Tumblr                | `apiKey` |  Yes  | Unknown |
 |                               [Cataas](https://cataas.com/)                                | Cat as a service (cats pictures and gifs)   |    No    |  Yes  | Unknown |
 |                              [Dogs](https://dog.ceo/dog-api/)                              | Based on the Stanford Dogs Dataset          |    No    |  Yes  |   Yes   |
+|                                 [Foxes](https://foxes.cool)                                | Random fox images with different tags       |    No    |  Yes  |   Yes   |
 |                                [HTTPCat](https://http.cat/)                                | Cat for every HTTP Status                   |    No    |  Yes  | Unknown |
 |                               [HTTP Dogs](https://http.dog/)                               | Dogs for every HTTP status code             |    No    |  Yes  | Unknown |
 |                      [IUCN](http://apiv3.iucnredlist.org/api/v3/docs)                      | IUCN Red List of Threatened Species         | `apiKey` |  No   | Unknown |
