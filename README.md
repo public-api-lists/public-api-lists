@@ -1047,6 +1047,7 @@ For information on contributing to this project, please see the [contributing gu
 |                   [CleanURI](https://cleanuri.com/docs)                    | URL shortener service                              |   `No`   |  Yes  |   Yes   |
 | [ClickMeter](https://support.clickmeter.com/hc/en-us/categories/201474986) | Monitor, compare and optimize your marketing links | `apiKey` |  Yes  | Unknown |
 |           [Rebrandly](https://developers.rebrandly.com/v1/docs)            | Custom URL shortener for sharing branded links     | `apiKey` |  Yes  | Unknown |
+|                 [F4NSIX](https://www.f4nsix.xyz/api/docs)                  | URL shortener and track shorten urls               | `apiKey` |  Yes  |   Yes   |
 
 **[⬆ Back to Index](#index)**
 
