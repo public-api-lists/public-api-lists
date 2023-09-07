@@ -183,6 +183,7 @@ For information on contributing to this project, please see the [contributing gu
 |                  [Namedays Calendar](https://api.abalin.net/)                   | Provides namedays for multiple countries                                                               |    No    |  Yes  |   Yes   |
 |               [Non-Working Days](https://github.com/gadael/icsdb)               | Database of ICS files for non working days                                                             |    No    |  Yes  | Unknown |
 |            [Russian Calendar](https://github.com/egno/work-calendar)            | Check if a date is a Russian holiday or not                                                            |    No    |  Yes  |   No    |
+|       [TimeZones iCal Library](https://tz.add-to-calendar-technology.com/)      | Database of official time zones and corresponding iCal VTIMEZONE blocks                                |    No    |  Yes  | Unknown |
 
 **[⬆ Back to Index](#index)**
 
