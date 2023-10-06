@@ -257,8 +257,8 @@ For information on contributing to this project, please see the [contributing gu
 |                             [Currency (LabStack)](https://labstack.com/currency)                             | Convert one currency to another with reliable exchanges rates | `apiKey` |  Yes  |   Yes   |
 |                           [Currencylayer](https://currencylayer.com/documentation)                           | Exchange rates and currency conversion                        | `apiKey` |  Yes  | Unknown |
 | [Czech National Bank](https://www.cnb.cz/cs/financni_trhy/devizovy_trh/kurzy_devizoveho_trhu/denni_kurz.xml) | A collection of exchange rates                                |    No    |  Yes  | Unknown |
-|                             [ExchangeRate-API](https://www.exchangerate-api.com)                             | Free currency conversion                                      |    No    |  Yes  |   Yes   |
-|                              [Exchangeratesapi.io](https://exchangeratesapi.io)                              | Exchange rates with currency conversion                       |    No    |  Yes  |   Yes   |
+|                             [ExchangeRate-API](https://www.exchangerate-api.com)                             | Free currency conversion                                      | `apiKey` |  Yes  |   Yes   |
+|                              [Exchangeratesapi.io](https://exchangeratesapi.io)                              | Exchange rates with currency conversion                       | `apiKey` |  Yes  |   Yes   |
 |                                         [Fixer.io](http://fixer.io)                                          | Exchange rates and currency conversion                        | `apiKey` |  Yes  | Unknown |
 |                               [Frankfurter](https://www.frankfurter.app/docs)                                | Exchange rates, currency conversion and time series           |    No    |  Yes  |   Yes   |
 |                                       [ratesapi](https://ratesapi.io)                                        | Free exchange rates and historical rates                      |    No    |  Yes  | Unknown |
