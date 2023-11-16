@@ -1104,7 +1104,6 @@ For information on contributing to this project, please see the [contributing gu
 |           [7Timer!](http://www.7timer.info/doc.php?lang=en)            | Weather, especially for Astroweather               |    No    |  No   | Unknown |
 |            [APIXU](https://www.apixu.com/doc/request.aspx)             | Weather                                            | `apiKey` |  Yes  | Unknown |
 |                  [Dark Sky](https://darksky.net/dev/)                  | Weather                                            | `apiKey` |  Yes  |   No    |
-|            [MetaWeather](https://www.metaweather.com/api/)             | Weather                                            |    No    |  Yes  |   No    |
 |     [MetaWeather with CORS](https://metaweather-with-cors.now.sh/)     | Weather                                            |    No    |  Yes  |   Yes   |
 | [Meteorologisk Institutt](https://api.met.no/weatherapi/documentation) | Weather and climate data                           |    No    |  Yes  | Unknown |
 |        [NOAA Climate Data](https://www.ncdc.noaa.gov/cdo-web/)         | Weather and climate data                           | `apiKey` |  Yes  | Unknown |
