@@ -455,6 +455,7 @@ For information on contributing to this project, please see the [contributing gu
 
 |                                       API                                        | Description                                       |   Auth   | HTTPS |  CORS   |
 | :------------------------------------------------------------------------------: | ------------------------------------------------- | :------: | :---: | :-----: |
+|                     [CoffeeFacts](https://coffee-facts-frontend-mv7sw.ondigitalocean.app/)                      | Coffee Facts                                     | No |  Yes  | Unknown |
 |                     [Edamam](https://developer.edamam.com/)                      | Recipe Search                                     | `apiKey` |  Yes  | Unknown |
 |                           [LCBO](https://lcboapi.com/)                           | Alcohol                                           | `apiKey` |  Yes  | Unknown |
 |                 [Open Brewery DB](https://www.openbrewerydb.org)                 | Breweries, Cideries and Craft Beer Bottle Shops   |    No    |  Yes  |   Yes   |
