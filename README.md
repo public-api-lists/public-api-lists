@@ -297,7 +297,7 @@ For information on contributing to this project, please see the [contributing gu
 |                                 [BetterMeta](http://bettermeta.io)                                  | Return a site's meta tags in JSON format                                                            | `X-Mashape-Key`  |  Yes  | Unknown |
 |                                 [Bored](https://www.boredapi.com/)                                  | Find random activities to fight boredom                                                             |        No        |  Yes  | Unknown |
 |                         [Browshot](https://browshot.com/api/documentation)                          | Easily make screenshots of web pages in any screen size, as any device                              |     `apiKey`     |  Yes  | Unknown |
-|                              [BrowserCat](https://www.browsercat.com/)                              | Headless browser API for automation, scraping, and more    
+|                              [BrowserCat](https://www.browsercat.com/)                              | Headless browser API for automation, scraping, and more
                                         |     `apiKey`     |  Yes  |   Yes   |
 |                           [CDNJS](https://api.cdnjs.com/libraries/jquery)                           | Library info on CDNJS                                                                               |        No        |  Yes  | Unknown |
 |                               [Changelogs.md](https://changelogs.md)                                | Structured changelog metadata from open source projects                                             |        No        |  Yes  | Unknown |
@@ -461,7 +461,6 @@ For information on contributing to this project, please see the [contributing gu
 |                 [Open Brewery DB](https://www.openbrewerydb.org)                 | Breweries, Cideries and Craft Beer Bottle Shops   |    No    |  Yes  |   Yes   |
 |             [Open Food Facts](https://world.openfoodfacts.org/data)              | Food Products Database                            |    No    |  Yes  | Unknown |
 |                         [PunkAPI](https://punkapi.com/)                          | Brewdog Beer Recipes                              |    No    |  Yes  | Unknown |
-|              [Recipe Puppy](http://www.recipepuppy.com/about/api/)               | Food                                              |    No    |  No   | Unknown |
 |                 [Spoonacular](https://spoonacular.com/food-api)                  | Food and Recipes                                  | `apikey` |  Yes  | Unknown |
 |                [TacoFancy](https://github.com/evz/tacofancy-api)                 | Community-driven taco database                    |    No    |  No   | Unknown |
 | [The Report of the Week](https://github.com/andyklimczak/TheReportOfTheWeek-API) | Food & Drink Reviews                              |    No    |  Yes  | Unknown |
