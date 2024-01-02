@@ -289,7 +289,7 @@ For information on contributing to this project, please see the [contributing gu
 ### Development
 
 |                                                 API                                                 | Description                                                                                         |       Auth       | HTTPS |  CORS   |
-| :-------------------------------------------------------------------------------------------------: | --------------------------------------------------------------------------------------------------- | :--------------: | :---: | :-----: |
+|:---------------------------------------------------------------------------------------------------:|-----------------------------------------------------------------------------------------------------| :--------------: | :---: | :-----: |
 |                         [24 Pull Requests](https://24pullrequests.com/api)                          | Project to promote open source collaboration during December                                        |        No        |  Yes  |   No    |
 |                                    [Agify.io](https://agify.io)                                     | Estimates the age from a first name                                                                 |        No        |  Yes  |   Yes   |
 |                                  [ApiFlash](https://apiflash.com/)                                  | Chrome based screenshot API for developers                                                          |     `apiKey`     |  Yes  | Unknown |
@@ -297,12 +297,12 @@ For information on contributing to this project, please see the [contributing gu
 |                                 [BetterMeta](http://bettermeta.io)                                  | Return a site's meta tags in JSON format                                                            | `X-Mashape-Key`  |  Yes  | Unknown |
 |                                 [Bored](https://www.boredapi.com/)                                  | Find random activities to fight boredom                                                             |        No        |  Yes  | Unknown |
 |                         [Browshot](https://browshot.com/api/documentation)                          | Easily make screenshots of web pages in any screen size, as any device                              |     `apiKey`     |  Yes  | Unknown |
-|                              [BrowserCat](https://www.browsercat.com/)                              | Headless browser API for automation, scraping, and more
-                                        |     `apiKey`     |  Yes  |   Yes   |
+|                              [BrowserCat](https://www.browsercat.com/)                              | Headless browser API for automation, scraping, and more                                             |     `apiKey`     |  Yes  |   Yes   |
 |                           [CDNJS](https://api.cdnjs.com/libraries/jquery)                           | Library info on CDNJS                                                                               |        No        |  Yes  | Unknown |
 |                               [Changelogs.md](https://changelogs.md)                                | Structured changelog metadata from open source projects                                             |        No        |  Yes  | Unknown |
 |                                  [CountAPI](https://countapi.xyz)                                   | Free and simple counting service. You can use it to track page hits and specific events             |        No        |  Yes  |   Yes   |
 |                    [DigitalOcean Status](https://status.digitalocean.com/api/v2)                    | Status of all DigitalOcean services                                                                 |        No        |  Yes  | Unknown |
+|               [Doczillla](https://www.doczilla.app/)                                | SaaS API empowering the generation of screenshots or PDFs directly from HTML/CSS/JS code            |     `apiKey`     |  Yes  |   Unknown   |
 |   [Dynamic QR Code](https://rapidapi.com/updeploy-tools/api/qr-code-dynamic-and-static1/details)    | Generate dynamic and static QR Codes                                                                | `X-RapidAPI-Key` |  Yes  |   Yes   |
 |                     [ExtendsClass](https://extendsclass.com/json-storage.html)                      | A simple JSON store API                                                                             |        No        |  Yes  |   Yes   |
 |                            [Faceplusplus](https://www.faceplusplus.com/)                            | A tool to detect face                                                                               |     `OAuth`      |  Yes  | Unknown |
@@ -328,7 +328,7 @@ For information on contributing to this project, please see the [contributing gu
 |           [License-API](https://github.com/cmccandless/license-api/blob/master/README.md)           | Unofficial REST API for choosealicense.com                                                          |        No        |  Yes  |   No    |
 |                      [LiveEdu](https://www.liveedu.tv/developer/applications/)                      | Live Coding Streaming                                                                               |     `OAuth`      |  Yes  | Unknown |
 |                         [MAC address vendor lookup](https://macaddress.io)                          | Retrieve vendor details and other information regarding a given MAC address or an OUI               |     `apiKey`     |  Yes  |   Yes   |
-|                                  [MyJSON.online](https://myjson.online)                             | A RESTful API for flexible storage of JSON data                                                     |     `apiKey`     |  Yes  |   Yes   |
+|                               [MyJSON.online](https://myjson.online)                                | A RESTful API for flexible storage of JSON data                                                     |     `apiKey`     |  Yes  |   Yes   |
 |                              [Nationalize.io](https://nationalize.io)                               | Estimate the nationality of a first name                                                            |        No        |  Yes  |   Yes   |
 |                                   [OOPSpam](https://oopspam.com/)                                   | Multiple spam filtering service                                                                     |        No        |  Yes  |   Yes   |
 |                             [Postman](https://docs.api.getpostman.com/)                             | Tool for testing APIs                                                                               |     `apiKey`     |  Yes  | Unknown |
@@ -351,7 +351,7 @@ For information on contributing to this project, please see the [contributing gu
 |         [Image to Link](https://www.contentful.com/developers/docs/references/images-api/)          | Generate link from image(Integration developer utility APIs)                                        |        No        |  Yes  |   YES   |
 |                                  [IPFinder](https://ipfinder.io/)                                   | Geolocation API,ASN API,IP Ranges API,IP Firewall API,Domain API                                    |       Yes        |  Yes  |   Yes   |
 |                                 [Scraper.run](https://scraper.run/)                                 | Geolocation API,lookup DNS & whois record of a domain                                               |        No        |  Yes  |   Yes   |
-|                                [SearchApi](https://www.searchapi.io/)                               | Real-time search engines SERP API                                                                   |     `apiKey`     |  Yes  |   No    |
+|                               [SearchApi](https://www.searchapi.io/)                                | Real-time search engines SERP API                                                                   |     `apiKey`     |  Yes  |   No    |
 
 **[⬆ Back to Index](#index)**
 
