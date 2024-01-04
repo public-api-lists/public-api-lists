@@ -133,7 +133,6 @@ For information on contributing to this project, please see the [contributing gu
 | :-----------------------------------------------------------------------: | ---------------------------------------------------------------------------------------- | :------: | :---: | :-----: |
 |               [Bhagavad Gita](https://bhagavadgita.io/api)                | Bhagavad Gita text                                                                       | `OAuth`  |  Yes  |   Yes   |
 |          [British National Bibliography](http://bnb.data.bl.uk/)          | Books                                                                                    |    No    |  No   | Unknown |
-|                [Goodreads](https://www.goodreads.com/api)                 | Books                                                                                    | `apiKey` |  Yes  | Unknown |
 |           [Google Books](https://developers.google.com/books/)            | Books                                                                                    | `OAuth`  |  Yes  | Unknown |
 |          [Open Library](https://openlibrary.org/developers/api)           | Books, book covers and related data                                                      |    No    |  Yes  | Unknown |
 | [Penguin Publishing](http://www.penguinrandomhouse.biz/webservices/rest/) | Books, book covers and related data                                                      |    No    |  Yes  | Unknown |
