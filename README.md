@@ -204,7 +204,7 @@ For information on contributing to this project, please see the [contributing gu
 
 |                           API                           | Description                                                                                    |   Auth   | HTTPS |  CORS   |
 | :-----------------------------------------------------: | ---------------------------------------------------------------------------------------------- | :------: | :---: | :-----: |
-| [CircleCI](https://circleci.com/docs/api/v1-reference/) | Automate the software development process using continuous integration and continuous delivery | `apiKey` |  Yes  | Unknown |
+| [CircleCI](https://circleci.com/docs/api/v2/) | Automate the software development process using continuous integration and continuous delivery | `apiKey` |  Yes  | Unknown |
 |        [Codeship](https://apidocs.codeship.com/)        | Codeship is a Continuous Integration Platform in the cloud                                     | `apiKey` |  Yes  | Unknown |
 |      [Travis CI](https://docs.travis-ci.com/api/)       | Sync your GitHub projects with Travis CI to test your code in minutes                          | `apiKey` |  Yes  | Unknown |
 
@@ -253,7 +253,6 @@ For information on contributing to this project, please see the [contributing gu
 |                                                     API                                                      | Description                                                   |   Auth   | HTTPS |  CORS   |
 | :----------------------------------------------------------------------------------------------------------: | ------------------------------------------------------------- | :------: | :---: | :-----: |
 |                        [1Forge](https://1forge.com/forex-data-api/api-documentation)                         | Forex currency market data                                    | `apiKey` |  Yes  | Unknown |
-|                             [Currency (LabStack)](https://labstack.com/currency)                             | Convert one currency to another with reliable exchanges rates | `apiKey` |  Yes  |   Yes   |
 |                           [Currencylayer](https://currencylayer.com/documentation)                           | Exchange rates and currency conversion                        | `apiKey` |  Yes  | Unknown |
 | [Czech National Bank](https://www.cnb.cz/cs/financni_trhy/devizovy_trh/kurzy_devizoveho_trhu/denni_kurz.xml) | A collection of exchange rates                                |    No    |  Yes  | Unknown |
 |                             [ExchangeRate-API](https://www.exchangerate-api.com)                             | Free currency conversion                                      | `apiKey` |  Yes  |   Yes   |
@@ -914,6 +913,8 @@ For information on contributing to this project, please see the [contributing gu
 |                     [Twitch](https://dev.twitch.tv/docs)                     | Game Streaming API                                                                                | `OAuth`  |  Yes  | Unknown |
 |               [Twitter](https://developer.twitter.com/en/docs)               | Read and write Twitter data                                                                       | `OAuth`  |  Yes  |   No    |
 |                        [vk](https://vk.com/dev/sites)                        | Read and write vk data                                                                            | `OAuth`  |  Yes  | Unknown |
+|               [SharedCount](http://docs.sharedcount.com/)                | 'apiKey' | Yes | Unknown |
+data
 
 **[⬆ Back to Index](#index)**
 
@@ -1077,7 +1078,6 @@ For information on contributing to this project, please see the [contributing gu
 |                                                API                                                 | Description                                                                        |   Auth   | HTTPS |  CORS   |
 | :------------------------------------------------------------------------------------------------: | ---------------------------------------------------------------------------------- | :------: | :---: | :-----: |
 |                      [An API of Ice And Fire](https://anapioficeandfire.com/)                      | Game Of Thrones API                                                                |    No    |  Yes  | Unknown |
-|                      [Breaking Bad](https://breakingbadapi.com/documentation)                      | Breaking Bad API                                                                   |    No    |  Yes  | Unknown |
 |               [Breaking Bad Quotes](https://github.com/shevabam/breaking-bad-quotes)               | Some Breaking Bad quotes                                                           |    No    |  Yes  | Unknown |
 |                  [Czech Television](http://www.ceskatelevize.cz/xml/tv-program/)                   | TV programme of Czech TV                                                           |    No    |  No   | Unknown |
 |                         [Dailymotion](https://developer.dailymotion.com/)                          | Dailymotion Developer API                                                          | `OAuth`  |  Yes  | Unknown |

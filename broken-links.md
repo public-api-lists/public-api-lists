@@ -54,7 +54,6 @@ I saved this broken links in separate file so that some links can be updated to 
 | Shopping | [Wal-Mart](https://developer.walmartlabs.com/docs) | HTTPSConnectionPool error |
 | Social | [LinkedIn](https://developer.linkedin.com/docs/rest-api) | 404 |
 | Social | [Mixer](https://dev.mixer.com/) | HTTPSConnectionPool error |
-| Social | [SharedCount](http://docs.sharedcount.com/) | 404 |
 | Sports & Fitness | [Cricket Live Scores](https://market.mashape.com/dev132/cricket-live-scores) | HTTPSConnectionPool error |
 | Sports & Fitness | [NFL Arrests](http://nflarrest.com/api/) | 404 |
 | Sports & Fitness | [Pro Motocross](http://promotocrossapi.com) | HTTPSConnectionPool error |
