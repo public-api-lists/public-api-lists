@@ -349,6 +349,8 @@ For information on contributing to this project, please see the [contributing gu
 |                                  [IPFinder](https://ipfinder.io/)                                   | Geolocation API,ASN API,IP Ranges API,IP Firewall API,Domain API                                    |       Yes        |  Yes  |   Yes   |
 |                                 [Scraper.run](https://scraper.run/)                                 | Geolocation API,lookup DNS & whois record of a domain                                               |        No        |  Yes  |   Yes   |
 |                                [SearchApi](https://www.searchapi.io/)                               | Real-time search engines SERP API                                                                   |     `apiKey`     |  Yes  |   No    |
+|                            [Who-Dat](https://github.com/lissy93/who-dat)                            | Free & open source public ICANN domain whois lookup service                                         |        No        |  Yes  |   No    |
+
 
 **[⬆ Back to Index](#index)**
 
