@@ -815,7 +815,6 @@ For information on contributing to this project, please see the [contributing gu
 | :---------------------------------------------------: | ---------------------------------------------------------- | :------: | :---: | :-----: |
 |    [Flickr](https://www.flickr.com/services/api/)     | Flickr Services                                            | `OAuth`  |  Yes  | Unknown |
 | [Getty Images](http://developers.gettyimages.com/en/) | Build applications using the world's most powerful imagery | `OAuth`  |  Yes  | Unknown |
-|     [Gfycat](https://developers.gfycat.com/api/)      | Jiffier GIFs                                               | `OAuth`  |  Yes  | Unknown |
 |      [Giphy](https://developers.giphy.com/docs/)      | Get all your gifs                                          | `apiKey` |  Yes  | Unknown |
 |          [Gyazo](https://gyazo.com/api/docs)          | Upload images                                              | `apiKey` |  Yes  | Unknown |
 |          [Imgur](https://apidocs.imgur.com/)          | Images                                                     | `OAuth`  |  Yes  | Unknown |
