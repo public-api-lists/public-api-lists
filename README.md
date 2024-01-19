@@ -69,6 +69,7 @@ For information on contributing to this project, please see the [contributing gu
 |                  [Cat Facts](https://alexwohlbruck.github.io/cat-facts/)                   | Daily cat facts                             |    No    |  Yes  |   No    |
 |                            [Cats](https://docs.thecatapi.com/)                             | Pictures of cats from Tumblr                | `apiKey` |  Yes  | Unknown |
 |                               [Cataas](https://cataas.com/)                                | Cat as a service (cats pictures and gifs)   |    No    |  Yes  | Unknown |
+|                               [Dog API](https://dogapi.dog)                                | Fun facts on dog breeds and groups          |    No    |  Yes  | Unknown |
 |                              [Dogs](https://dog.ceo/dog-api/)                              | Based on the Stanford Dogs Dataset          |    No    |  Yes  |   Yes   |
 |                                 [Foxes](https://foxes.cool)                                | Random fox images with different tags       |    No    |  Yes  |   Yes   |
 |                                [HTTPCat](https://http.cat/)                                | Cat for every HTTP Status                   |    No    |  Yes  | Unknown |
@@ -381,10 +382,9 @@ For information on contributing to this project, please see the [contributing gu
 |                                        API                                        | Description                                                                |   Auth   | HTTPS |  CORS   |
 | :-------------------------------------------------------------------------------: | -------------------------------------------------------------------------- | :------: | :---: | :-----: |
 | [Cloudmersive Document and Data Conversion](https://cloudmersive.com/convert-api) | HTML/URL to PDF/PNG, Office documents to PDF, image conversion             | `apiKey` |  Yes  |   Yes   |
-|                     [Base](https://www.base-api.io/reference)                     | Authentication,Emails sending,File uploading and shearing, forms filluping | `apiKey` |  Yes  | Unknown |
 |                       [DynamicDocs](https://advicement.io)                        | Generate dynamic PDFs with JSON to PDF API based on LaTeX                  | `apiKey` |  Yes  | Unknown |
 |                          [File.io](https://www.file.io)                           | File Sharing                                                               |    No    |  Yes  | Unknown |
-|               [Mercury](https://mercury.postlight.com/web-parser/)                | Web parser                                                                 | `apiKey` |  Yes  | Unknown |
+|               [Mercury](https://reader.postlight.com)                | Web parser                                                                 | `apiKey` |  Yes  | Unknown |
 |                      [pdfEndpoint](https://pdfendpoint.com)                       | HTML or URL to PDF                                                         | `apiKey` |  Yes  |   No    |
 |                         [pdflayer](https://pdflayer.com)                          | HTML/URL to PDF                                                            | `apiKey` |  Yes  | Unknown |
 |                    [Pocket](https://getpocket.com/developer/)                     | Bookmarking service                                                        | `OAuth`  |  Yes  | Unknown |
@@ -424,7 +424,6 @@ For information on contributing to this project, please see the [contributing gu
 |                                                               API                                                               | Description                           |   Auth   | HTTPS |  CORS   |
 | :-----------------------------------------------------------------------------------------------------------------------------: | ------------------------------------- | :------: | :---: | :-----: |
 |                                     [Eventbrite](https://www.eventbrite.com/developer/v3/)                                      | Find events                           | `OAuth`  |  Yes  | Unknown |
-| [Picatic](http://developer.picatic.com/?utm_medium=web&utm_source=github&utm_campaign=public-apis%20repo&utm_content=toddmotto) | Sell tickets anywhere                 | `apiKey` |  Yes  | Unknown |
 |                                           [SeatGeek](https://platform.seatgeek.com/)                                            | Search events, venues and performers  | `apiKey` |  Yes  | Unknown |
 |                    [Ticketmaster](http://developer.ticketmaster.com/products-and-docs/apis/getting-started/)                    | Search events, attractions, or venues | `apiKey` |  Yes  | Unknown |
 
