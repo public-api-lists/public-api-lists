@@ -663,6 +663,7 @@ For information on contributing to this project, please see the [contributing gu
 |                     [DevITjobs](https://devitjobs.us/api/jobsLight)                      | Jobs for software developers                                               |    No    |  Yes  | Unknown |
 |                         [GraphQL Jobs](https://api.graphql.jobs)                         | Jobs with GraphQL                                                          |    No    |  Yes  |   Yes   |
 |                        [Indeed](https://www.indeed.com/publisher)                        | Job board aggregator                                                       | `apiKey` |  Yes  | Unknown |
+|                        [Jobicy](https://jobicy.com/jobs-rss-feed)                        | The latest remote job listings from a diverse range of industries and companies | No |  Yes  | Yes |
 |                 [Jobs2Careers](http://api.jobs2careers.com/api/spec.pdf)                 | Job aggregator                                                             | `apiKey` |  Yes  | Unknown |
 |                        [Jooble](https://us.jooble.org/api/about)                         | Job search engine                                                          | `apiKey` |  Yes  | Unknown |
 |                       [Juju](http://www.juju.com/publisher/spec/)                        | Job search engine                                                          | `apiKey` |  No   | Unknown |
