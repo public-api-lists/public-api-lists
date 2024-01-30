@@ -965,6 +965,7 @@ data
 |         [UUID Generator](https://www.uuidtools.com/docs)         | Generate UUIDs                                                           |    No    |  Yes  |   No    |
 |                 [Yes No](https://yesno.wtf/api)                  | Generate yes or no randomly                                              |    No    |  Yes  | Unknown |
 |         [Randommer](https://randommer.io/randommer-api)          | Random data generator                                                    | `apiKey` |  Yes  |   Yes   |
+|            [Softwium](https://softwium.com/fake-api/)            | Test data for testing and prototyping                                    |    No    |  Yes  |   Yes   |
 
 **[⬆ Back to Index](#index)**
 
