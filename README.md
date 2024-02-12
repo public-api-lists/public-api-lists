@@ -667,6 +667,7 @@ For information on contributing to this project, please see the [contributing gu
 |                 [Jobs2Careers](http://api.jobs2careers.com/api/spec.pdf)                 | Job aggregator                                                             | `apiKey` |  Yes  | Unknown |
 |                        [Jooble](https://us.jooble.org/api/about)                         | Job search engine                                                          | `apiKey` |  Yes  | Unknown |
 |                       [Juju](http://www.juju.com/publisher/spec/)                        | Job search engine                                                          | `apiKey` |  No   | Unknown |
+|                       [OkJob](https://okjob.io/api)                                       | 4 day week job board                                                       | `apiKey` |  Yes  | Unknown |
 | [Open Skills](https://github.com/workforce-data-initiative/skills-api/wiki/API-Overview) | Job titles, skills and related jobs data                                   |    No    |  No   | Unknown |
 |                        [Reed](https://www.reed.co.uk/developers)                         | Job board aggregator                                                       | `apiKey` |  Yes  | Unknown |
 |                [Search.gov Jobs](https://search.gov/developer/jobs.html)                 | Tap into a list of current jobs openings with the United States government |    No    |  Yes  | Unknown |
