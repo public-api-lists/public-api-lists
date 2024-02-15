@@ -870,11 +870,11 @@ For information on contributing to this project, please see the [contributing gu
 |                         [CRXcavator](https://crxcavator.io/apidocs)                         | Chrome extension risk scoring                                                          | `apiKey` |  Yes  | Unknown |
 |                     [HaveIBeenPwned](https://haveibeenpwned.com/API/v3)                     | Passwords which have previously been exposed in data breaches                          | `apiKey` |  Yes  | Unknown |
 | [National Vulnerability Database](https://nvd.nist.gov/vuln/Data-Feeds/JSON-feed-changelog) | U.S. National Vulnerability Database                                                   |    No    |  Yes  | Unknown |
+|            [Secrets-APi](https://secrets-api.appbrewery.com/)    | Used For Learning purpose Learn all security types with this api         |    All   |  Yes  |  Unkown |
 |                  [SecurityTrails](https://securitytrails.com/corp/apidocs)                  | Domain and IP related information such as current and historical WHOIS and DNS records | `apiKey` |  Yes  | Unknown |
 |                           [Shodan](https://developer.shodan.io/)                            | Search engine for Internet connected devices                                           | `apiKey` |  Yes  | Unknown |
 |                          [UK Police](https://data.police.uk/docs/)                          | UK Police data                                                                         |    No    |  Yes  | Unknown |
 | [Whoisfreaks](https://whoisfreaks.com/) | Domain and DNS related information that will equip organizaion with comprehensive threat intelligence and attack surface analysis capabilities for enhanced security | `apiKey` | Yes | No |
-|            [Secrets-APi](https://secrets-api.appbrewery.com/)    | Used For Learning purpose Learn all security types with this api         |    All   |  Yes  |  Unkown |
 
 **[⬆ Back to Index](#index)**
 
