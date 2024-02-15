@@ -405,6 +405,7 @@ For information on contributing to this project, please see the [contributing gu
 |                                        API                                        | Description                                                                |   Auth   | HTTPS |  CORS   |
 | :-------------------------------------------------------------------------------: | -------------------------------------------------------------------------- | :------: | :---: | :-----: |
 | [Current Affairs](https://rapidapi.com/malaithiru370/api/current-affairs-of-india) | Current International Affairs, quizzes and more             | `apiKey` |  Yes  |   No   |
+|            [Secrets-APi](https://secrets-api.appbrewery.com/)    | Used For Learning purpose Learn all security types with this api         |    All   |  Yes  |  Unkown |
 
 **[⬆ Back to Index](#index)**
 
@@ -873,6 +874,7 @@ For information on contributing to this project, please see the [contributing gu
 |                           [Shodan](https://developer.shodan.io/)                            | Search engine for Internet connected devices                                           | `apiKey` |  Yes  | Unknown |
 |                          [UK Police](https://data.police.uk/docs/)                          | UK Police data                                                                         |    No    |  Yes  | Unknown |
 | [Whoisfreaks](https://whoisfreaks.com/) | Domain and DNS related information that will equip organizaion with comprehensive threat intelligence and attack surface analysis capabilities for enhanced security | `apiKey` | Yes | No |
+|            [Secrets-APi](https://secrets-api.appbrewery.com/)    | Used For Learning purpose Learn all security types with this api         |    All   |  Yes  |  Unkown |
 
 **[⬆ Back to Index](#index)**
 
@@ -967,6 +969,7 @@ data
 |                 [Yes No](https://yesno.wtf/api)                  | Generate yes or no randomly                                              |    No    |  Yes  | Unknown |
 |         [Randommer](https://randommer.io/randommer-api)          | Random data generator                                                    | `apiKey` |  Yes  |   Yes   |
 |            [Softwium](https://softwium.com/fake-api/)            | Test data for testing and prototyping                                    |    No    |  Yes  |   Yes   |
+
 
 **[⬆ Back to Index](#index)**
 
