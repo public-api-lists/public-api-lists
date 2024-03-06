@@ -375,7 +375,7 @@ For information on contributing to this project, please see the [contributing gu
 | :-------------------------------------------------: | --------------------------------- | :------: | :---: | :-----: |
 | [USGS](https://earthquake.usgs.gov/fdsnws/event/1/) | Earthquake Data                   | `apiKey` |  Yes  | Unknown |
 |    [RWLabs](https://apidoc.rwlabs.org/#api-use)     | All types of disaster data        | `apiKey` |  Yes  | Unknown |
-|    [PredictHQ](https://developer.predicthq.com/)    | Events and natural disasters data |  oAuth   |  Yes  | Unknown |
+|    [PredictHQ](https://docs.predicthq.com/)         | Events and natural disasters data |  oAuth   |  Yes  | Unknown |
 
 **[⬆ Back to Index](#index)**
 
