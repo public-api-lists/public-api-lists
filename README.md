@@ -799,7 +799,6 @@ For information on contributing to this project, please see the [contributing gu
 |                 [Advice Slip](http://api.adviceslip.com/)                 | Generate random advice slips                                           |    No    |  Yes  | Unknown |
 |               [chucknorris.io](https://api.chucknorris.io)                | JSON API for hand curated Chuck Norris jokes                           |    No    |  Yes  | Unknown |
 |                    [FavQs.com](https://favqs.com/api)                     | FavQs allows you to collect, discover and share your favorite quotes   | `apiKey` |  Yes  | Unknown |
-|                      [FOAAS](http://www.foaas.com/)                       | Fuck Off As A Service                                                  |    No    |  No   | Unknown |
 |                [Forismatic](http://forismatic.com/en/api/)                | Inspirational Quotes                                                   |    No    |  No   | Unknown |
 |             [Hindi Quotes](https://hindi-quotes.vercel.app/)              | Get random Hindi quotes of different categories.                       |    No    |  Yes  |   Yes   |
 |             [icanhazdadjoke](https://icanhazdadjoke.com/api)              | The largest selection of dad jokes on the internet                     |    No    |  Yes  | Unknown |
