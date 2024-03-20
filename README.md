@@ -956,12 +956,11 @@ data
 |                               API                                | Description                                                              |   Auth   | HTTPS |  CORS   |
 | :--------------------------------------------------------------: | ------------------------------------------------------------------------ | :------: | :---: | :-----: |
 |         [Bacon Ipsum](https://baconipsum.com/json-api/)          | A Meatier Lorem Ipsum Generator                                          |    No    |  Yes  | Unknown |
+|         [Beeceptor's CRUD APIs](https://beeceptor.com/crud-api/?ref=public-api-lists)          | Free stateful CRUD APIs                    |    No    |  Yes  |   Yes   |
 |        [Dicebear Avatars](https://avatars.dicebear.com/)         | Generate random pixel-art avatars                                        |    No    |  Yes  |   No    |
 |                 [FakeJSON](https://fakejson.com)                 | Service to generate test and fake data                                   | `apiKey` |  Yes  |   Yes   |
-|       [Identicon](https://www.kwelo.com/media/identicon/)        | Generates abstract avatar image                                          |    No    |  Yes  |   Yes   |
 |     [JSONPlaceholder](http://jsonplaceholder.typicode.com/)      | Fake data for testing and prototyping                                    |    No    |  No   | Unknown |
 |                 [Loripsum](http://loripsum.net/)                 | The "lorem ipsum" generator that doesn't suck                            |    No    |  No   | Unknown |
-|                     [PIPL](https://pipl.ir/)                     | Free and public API that generates random and fake people's data in JSON |    No    |  Yes  |   No    |
 |          [Micro-Jaymock](https://micro-jaymock.now.sh/)          | Tiny API mocking microservice for generating fake JSON data              |    No    |  Yes  |   No    |
 |               [RandomUser](https://randomuser.me)                | Generates random user data                                               |    No    |  Yes  | Unknown |
 |                [RoboHash](https://robohash.org/)                 | Generate random robot/alien avatars                                      |    No    |  Yes  | Unknown |
