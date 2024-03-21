@@ -283,6 +283,7 @@ For information on contributing to this project, please see the [contributing gu
 |                      [vatlayer](https://vatlayer.com)                       | VAT number validation                                                 |    No    |  Yes  | Unknown |
 |                      [Veriphone](https://veriphone.io)                      | Phone number validation & carrier lookup                              | `apiKey` |  Yes  |   Yes   |
 |                     [Scraper.run](https://scraper.run)                      | Email address validation                                              |    No    |  Yes  |   Yes   |
+| [ ApyHub's Data Validation APIs](https://apyhub.com/catalog/data-validation)| BIC and IBAN codes, academic emails, IFSC codes, Indian postcodes     | `apiKey` |  Yes  |   Yes   | 
 **[⬆ Back to Index](#index)**
 
 ### Development
