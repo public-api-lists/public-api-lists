@@ -266,8 +266,8 @@ For information on contributing to this project, please see the [contributing gu
 
 ### Data Validation
 
-|                                     API                                     | Description                                                           |   Auth   | HTTPS |  CORS   |
-| :-------------------------------------------------------------------------: | --------------------------------------------------------------------- | :------: | :---: | :-----: |
+|                                                     API                                                      | Description                                                   |   Auth   | HTTPS |  CORS   |
+| :----------------------------------------------------------------------------------------------------------: | ------------------------------------------------------------- | :------: | :---: | :-----: |
 |       [Cloudmersive Validate](https://cloudmersive.com/validate-api)        | Validate email addresses, phone numbers, VAT numbers and domain names | `apiKey` |  Yes  |   Yes   |
 |               [Email (LabStack)](https://labstack.com/email)                | Instant email address verification to filter legit addresses          | `apiKey` |  Yes  |   Yes   |
 |                 [languagelayer](https://languagelayer.com)                  | Language detection                                                    |    No    |  Yes  | Unknown |
