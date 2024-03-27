@@ -612,6 +612,7 @@ For information on contributing to this project, please see the [contributing gu
 |                  [BusinessUSA](https://business.usa.gov/developer)                  | Authoritative information on U.S. programs, events, services and more                     | `apiKey` |  Yes  | Unknown |
 |         [Census.gov](https://www.census.gov/data/developers/data-sets.html)         | The US Census Bureau provides various APIs and data sets on demographics and businesses   |    No    |  Yes  | Unknown |
 |          [City, Lyon Opendata](https://data.beta.grandlyon.com/fr/accueil)          | Lyon(FR) City Open Data                                                                   | `apiKey` |  Yes  | Unknown |
+|          [City, Bologna Opendata](https://dati.comune.bologna.it)                   | Bologna(IT) City Open Data                                                                |    No    |  Yes  | Unknown |
 |        [City, Nantes Opendata](https://data.nantesmetropole.fr/pages/home/)         | Nantes(FR) City Open Data                                                                 | `apiKey` |  Yes  | Unknown |
 |                [City, Prague Opendata](http://opendata.praha.eu/en)                 | Prague(CZ) City Open Data                                                                 |    No    |  No   | Unknown |
 |                            [Code.gov](https://code.gov)                             | The primary platform for Open Source and code sharing for the U.S. Federal Government     | `apiKey` |  Yes  | Unknown |
