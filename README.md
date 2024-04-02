@@ -214,6 +214,7 @@ For information on contributing to this project, please see the [contributing gu
 |                                   API                                    | Description                                                                           |   Auth   | HTTPS |  CORS   |
 | :----------------------------------------------------------------------: | ------------------------------------------------------------------------------------- | :------: | :---: | :-----: |
 | [Binance](https://github.com/binance-exchange/binance-official-api-docs) | Exchange for Trading Cryptocurrencies based in China                                  | `apiKey` |  Yes  | Unknown |
+| [Bitquery](https://bitquery.io/) | Bitquery provides blockchain data, offering real-time streaming APIs for 40+ chains, NFT APIs, and a money flow investigation tool                                  | `apiKey` |  Yes  | Unknown |
 |           [BitcoinAverage](https://apiv2.bitcoinaverage.com/)            | Digital Asset Price Data for the blockchain industry                                  | `apiKey` |  Yes  | Unknown |
 |       [BitcoinCharts](https://bitcoincharts.com/about/exchanges/)        | Financial and Technical Data related to the Bitcoin Network                           |    No    |  Yes  | Unknown |
 |             [Bitmex](https://www.bitmex.com/app/apiOverview)             | Real-Time Cryptocurrency derivatives trading platform based in Hong Kong              | `apiKey` |  Yes  | Unknown |
