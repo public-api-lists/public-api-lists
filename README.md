@@ -354,6 +354,7 @@ For information on contributing to this project, please see the [contributing gu
 |                                  [IPFinder](https://ipfinder.io/)                                   | Geolocation API,ASN API,IP Ranges API,IP Firewall API,Domain API                                    |       Yes        |  Yes  |   Yes   |
 |                                 [Scraper.run](https://scraper.run/)                                 | Geolocation API,lookup DNS & whois record of a domain                                               |        No        |  Yes  |   Yes   |
 |                               [SearchApi](https://www.searchapi.io/)                                | Real-time search engines SERP API                                                                   |     `apiKey`     |  Yes  |   No    |
+|                               [SerpApi](https://serpapi.com/)                                       | Scrape Google and other search engines                                                              |     `apiKey`     |  Yes  |   No    |
 
 **[⬆ Back to Index](#index)**
 
