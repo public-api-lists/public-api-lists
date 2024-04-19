@@ -393,6 +393,7 @@ For information on contributing to this project, please see the [contributing gu
 |                         [pdflayer](https://pdflayer.com)                          | HTML/URL to PDF                                                            | `apiKey` |  Yes  | Unknown |
 |                    [Pocket](https://getpocket.com/developer/)                     | Bookmarking service                                                        | `OAuth`  |  Yes  | Unknown |
 |                         [PrexView](https://prexview.com)                          | Data from XML or JSON to PDF, HTML or Image                                | `apiKey` |  Yes  | Unknown |
+|                       [RenderPDF.io](https://renderpdf.io/)                       | Fastest HTML to PDF, free 500 pdfs/month                                   | `apiKey` |  Yes  |   Yes   |
 |                         [Restpack](https://restpack.io/)                          | Provides screenshot, HTML to PDF and content extraction APIs               | `apiKey` |  Yes  | Unknown |
 |                     [Todoist](https://developer.todoist.com)                      | Todo Lists                                                                 | `OAuth`  |  Yes  | Unknown |
 |                      [Vector Express](http://vector.express)                      | Free vector file converting API                                            |    No    |  No   |   Yes   |
