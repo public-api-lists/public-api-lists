@@ -996,6 +996,7 @@ data
 
 |                       API                        | Description                                                             |   Auth   | HTTPS |  CORS   |
 | :----------------------------------------------: | ----------------------------------------------------------------------- | :------: | :---: | :-----: |
+|     [Let's Count](https://letscountapi.com)      | Create, retrieve, update, increment, and decrement counters             |    No    |  Yes  | Unknown |
 |         [Postmon](http://postmon.com.br)         | An API to query Brazilian ZIP codes and orders easily, quickly and free |    No    |  No   | Unknown |
 |  [Sweden](https://developer.postnord.com/docs2)  | Provides information about parcels in transport                         | `apiKey` |  No   | Unknown |
 |    [UPS](https://www.ups.com/upsdeveloperkit)    | Shipment and Address information                                        | `apiKey` |  Yes  | Unknown |
