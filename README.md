@@ -175,7 +175,6 @@ For information on contributing to this project, please see the [contributing gu
 |              [Czech Namedays Calendar](http://svatky.adresa.info/)              | Lookup for a name and returns nameday date                                                             |    No    |  No   | Unknown |
 |     [Google Calendar](https://developers.google.com/google-apps/calendar/)      | Display, create and modify Google calendar events                                                      | `OAuth`  |  Yes  | Unknown |
 |          [Hebrew Calendar](https://www.hebcal.com/home/developer-apis)          | Convert between Gregorian and Hebrew, fetch Shabbat and Holiday times, etc                             |    No    |  No   | Unknown |
-|                      [Holiday API](https://holidayapi.pl/)                      | Enterprise-grade holiday and observance API for developers by developers                               | `apiKey` |  Yes  |   Yes   |
 |                       [Holidays](https://holidayapi.com/)                       | Historical data regarding holidays                                                                     | `apiKey` |  Yes  | Unknown |
 |                     [Non-working Days](https://isdayoff.ru)                     | Simple API for checking working, non-working or short days for Russia, Ukraine, Belarus and Kazakhstan |    No    |  Yes  |   Yes   |
 |                       [Nager.Date](https://date.nager.at)                       | Public holidays for more than 90 countries                                                             |    No    |  Yes  |   No    |
@@ -244,7 +243,7 @@ For information on contributing to this project, please see the [contributing gu
 |           [MEXC Global](https://mxcdevelop.github.io/apidocs)            | Crypto asset exchange for trading Marketplace                                         | `apiKey` |  Yes  | Unknown |
 |             [Nexchange](https://nexchange2.docs.apiary.io/)              | Automated cryptocurrency exchange service                                             |    No    |  No   |   Yes   |
 |                  [NiceHash](https://docs.nicehash.com/)                  | Largest Crypto Mining Marketplace                                                     | `apiKey` |  Yes  | Unknown |
-|              [Poloniex](https://poloniex.com/support/api/)               | US based digital asset exchange                                                       | `apiKey` |  Yes  | Unknown |
+|              [Poloniex](https://api-docs.poloniex.com/spot)               | US based digital asset exchange                                                       | `apiKey` |  Yes  | Unknown |
 |       [WorldCoinIndex](https://www.worldcoinindex.com/apiservice)        | Cryptocurrencies Prices                                                               | `apiKey` |  Yes  | Unknown |
 
 **[⬆ Back to Index](#index)**
@@ -269,22 +268,22 @@ For information on contributing to this project, please see the [contributing gu
 
 |                                                     API                                                      | Description                                                   |   Auth   | HTTPS |  CORS   |
 | :----------------------------------------------------------------------------------------------------------: | ------------------------------------------------------------- | :------: | :---: | :-----: |
-|       [Cloudmersive Validate](https://cloudmersive.com/validate-api)        | Validate email addresses, phone numbers, VAT numbers and domain names | `apiKey` |  Yes  |   Yes   |
-|               [Email (LabStack)](https://labstack.com/email)                | Instant email address verification to filter legit addresses          | `apiKey` |  Yes  |   Yes   |
-|                 [languagelayer](https://languagelayer.com)                  | Language detection                                                    |    No    |  Yes  | Unknown |
-|                         [Lob.com](https://lob.com/)                         | US Address Verification                                               | `apiKey` |  Yes  | Unknown |
-|                  [mailboxlayer](https://mailboxlayer.com)                   | Email address validation                                              |    No    |  Yes  | Unknown |
-|                   [NumValidate](https://numvalidate.com)                    | Open Source phone number validation                                   |    No    |  Yes  | Unknown |
-|                     [numverify](https://numverify.com)                      | Phone number validation                                               |    No    |  Yes  | Unknown |
-|         [Phone Validation](https://trestleiq.com/phone-validation-api/)     | Validates the phone number and provides phone metadata                | `apiKey` |  Yes  |   Yes   |
-|                   [PurgoMalum](http://www.purgomalum.com)                   | Content validator against profanity & obscenity                       |    No    |  No   | Unknown |
-| [US Autocomplete](https://smartystreets.com/docs/cloud/us-autocomplete-api) | Enter address data quickly with real-time address suggestions         | `apiKey` |  Yes  |   Yes   |
-|    [US Extract](https://smartystreets.com/products/apis/us-extract-api)     | Extract postal addresses from any text including emails               | `apiKey` |  Yes  |   Yes   |
-|   [US Street Address](https://smartystreets.com/docs/cloud/us-street-api)   | Validate and append data for any US postal address                    | `apiKey` |  Yes  |   Yes   |
-|                      [vatlayer](https://vatlayer.com)                       | VAT number validation                                                 |    No    |  Yes  | Unknown |
-|                      [Veriphone](https://veriphone.io)                      | Phone number validation & carrier lookup                              | `apiKey` |  Yes  |   Yes   |
-|                     [Scraper.run](https://scraper.run)                      | Email address validation                                              |    No    |  Yes  |   Yes   |
-| [ ApyHub's Data Validation APIs](https://apyhub.com/catalog/data-validation)| BIC and IBAN codes, academic emails, IFSC codes, Indian postcodes     | `apiKey` |  Yes  |   Yes   | 
+| [Cloudmersive Validate](https://cloudmersive.com/validate-api)              | Validate email addresses, phone numbers, VAT numbers and domain names | `apiKey` | Yes   | Yes   | No  | No      |         |
+| [Email (LabStack)](https://labstack.com/email)                              | Instant email address verification to filter legit addresses          | `apiKey` | Yes   | No    | No  | No      |         |
+| [languagelayer](https://languagelayer.com)                                  | Language detection                                                    | No       | Yes   | No    | No  | No      | Unknown |
+| [Lob.com](https://lob.com/)                                                 | US Address Verification                                               | `apiKey` | No    | No    | No  | Yes     | Unknown |
+| [mailboxlayer](https://mailboxlayer.com)                                    | Email address validation                                              | No       | Yes   | No    | No  | No      | Unknown |
+| [NumValidate](https://numvalidate.com)                                      | Open Source phone number validation                                   | No       | No    | Yes   | No  | No      | Unknown |
+| [numverify](https://numverify.com)                                          | Phone number validation                                               | No       | No    | Yes   | No  | No      | Unknown |
+| [Phone Validation](https://trestleiq.com/phone-validation-api/)              | Validates the phone number and provides phone metadata                | `apiKey` | No    | Yes   | No  | No      |         |
+| [PurgoMalum](http://www.purgomalum.com)                                     | Content validator against profanity & obscenity                       | No       | No    | No    | No  | No      | Unknown |
+| [US Autocomplete](https://smartystreets.com/docs/cloud/us-autocomplete-api) | Enter address data quickly with real-time address suggestions         | `apiKey` | No    | No    | No  | Yes     |         |
+| [US Extract](https://smartystreets.com/products/apis/us-extract-api)        | Extract postal addresses from any text including emails               | `apiKey` | No    | No    | No  | Yes     |         |
+| [US Street Address](https://smartystreets.com/docs/cloud/us-street-api)     | Validate and append data for any US postal address                    | `apiKey` | No    | No    | No  | Yes     |         |
+| [vatlayer](https://vatlayer.com)                                            | VAT number validation                                                 | No       | No    | No    | Yes | No      | Unknown |
+| [Veriphone](https://veriphone.io)                                           | Phone number validation & carrier lookup                              | `apiKey` | No    | Yes   | No  | No      |         |
+| [Scraper.run](https://scraper.run)                                          | Email address validation                                              | No       | Yes   | No    | No  | No      | Yes     |
+| [ApyHub's Data Validation APIs](https://apyhub.com/catalog/data-validation) | BIC and IBAN codes, academic emails, IFSC codes, Indian postcodes     | `apiKey` | Yes   | Yes   | No  | No      |         |
 **[⬆ Back to Index](#index)**
 
 ### Development
@@ -300,7 +299,6 @@ For information on contributing to this project, please see the [contributing gu
 |                         [Browshot](https://browshot.com/api/documentation)                          | Easily make screenshots of web pages in any screen size, as any device                              |     `apiKey`     |  Yes  | Unknown |
 |                              [BrowserCat](https://www.browsercat.com/)                              | Headless browser API for automation, scraping, and more                                             |     `apiKey`     |  Yes  |   Yes   |
 |                           [CDNJS](https://api.cdnjs.com/libraries/jquery)                           | Library info on CDNJS                                                                               |        No        |  Yes  | Unknown |
-|                               [Changelogs.md](https://changelogs.md)                                | Structured changelog metadata from open source projects                                             |        No        |  Yes  | Unknown |
 |                                  [CountAPI](https://countapi.xyz)                                   | Free and simple counting service. You can use it to track page hits and specific events             |        No        |  Yes  |   Yes   |
 |                    [DigitalOcean Status](https://status.digitalocean.com/api/v2)                    | Status of all DigitalOcean services                                                                 |        No        |  Yes  | Unknown |
 |               [Doczillla](https://www.doczilla.app/)                                | SaaS API empowering the generation of screenshots or PDFs directly from HTML/CSS/JS code            |     `apiKey`     |  Yes  |   Unknown   |
@@ -450,7 +448,6 @@ For information on contributing to this project, please see the [contributing gu
 |                       [Plaid](https://plaid.com/)                        | Connect with users’ bank accounts and access transaction data | `apiKey` |  Yes  | Unknown |
 |               [Razorpay IFSC](https://ifsc.razorpay.com/)                | Indian Financial Systems Code (Bank Branch Codes)             |    No    |  Yes  | Unknown |
 | [Indian Bank Data API](https://github.com/kaustubhk24/Indian-Banks-Data) | All Banks IFSC Code data,Search by IFSc or other details      |    No    |  Yes  | Unknown |
-|  [RoutingNumbers.info](https://www.routingnumbers.info/api/index.html)   | ACH/NACHA Bank Routing Numbers                                |    No    |  Yes  | Unknown |
 |                 [Tradier](https://developer.tradier.com)                 | US equity/option market data (delayed, intraday, historical)  | `OAuth`  |  Yes  |   Yes   |
 |         [World Trading Data](https://www.worldtradingdata.com/)          | Market data provider                                          | `apiKey` |  Yes  | Unknown |
 |                 [YNAB](https://api.youneedabudget.com/)                  | Budgeting & Planning                                          | `OAuth`  |  Yes  |   Yes   |
@@ -526,7 +523,7 @@ For information on contributing to this project, please see the [contributing gu
 |                   [mod.io](https://docs.mod.io)                   | Cross Platform Mod API                                                                                       |    `apiKey`     |  Yes  | Unknown |
 |         [Open Trivia](https://opentdb.com/api_config.php)         | Trivia Questions                                                                                             |       No        |  Yes  | Unknown |
 |              [PandaScore](https://api.pandascore.co)              | E-sports games and results                                                                                   |    `apiKey`     |  Yes  | Unknown |
-| [PlayerUnknown's Battlegrounds](https://pubgtracker.com/site-api) | PUBG Stats                                                                                                   |    `apiKey`     |  Yes  | Unknown |
+| [PlayerUnknown's Battlegrounds](https://tracker.gg/developers) | PUBG Stats                                                                                                   |    `apiKey`     |  Yes  | Unknown |
 |                   [Pokéapi](https://pokeapi.co)                   | Pokémon Information                                                                                          |       No        |  Yes  | Unknown |
 |               [Pokémon TCG](https://pokemontcg.io)                | Pokémon TCG Information                                                                                      |       No        |  Yes  | Unknown |
 |                 [Puns](https://www.punapi.rest)                   | Puns and Pun Memes                                                                                           |       No        |  Yes  |   Yes   |
