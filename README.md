@@ -357,6 +357,7 @@ For information on contributing to this project, please see the [contributing gu
 |                                 [Scraper.run](https://scraper.run/)                                 | Geolocation API,lookup DNS & whois record of a domain                                               |        No        |  Yes  |   Yes   |
 |                               [SearchApi](https://www.searchapi.io/)                                | Real-time search engines SERP API                                                                   |     `apiKey`     |  Yes  |   No    |
 |                               [SerpApi](https://serpapi.com/)                                       | Scrape Google and other search engines                                                              |     `apiKey`     |  Yes  |   No    |
+|                             [WebCrawlerAPI](https://webcrawlerapi.com/)                             | Easily extract content from websites                                                                |     `apiKey`     |  Yes  |   Yes   |
 
 **[⬆ Back to Index](#index)**
 
