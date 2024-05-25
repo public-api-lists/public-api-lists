@@ -925,9 +925,8 @@ For information on contributing to this project, please see the [contributing gu
 |                     [Twitch](https://dev.twitch.tv/docs)                     | Game Streaming API                                                                                | `OAuth`  |   Yes   | Unknown |
 |               [Twitter](https://developer.twitter.com/en/docs)               | Read and write Twitter data                                                                       | `OAuth`  |   Yes   |   No    |
 |                        [vk](https://vk.com/dev/sites)                        | Read and write vk data                                                                            | `OAuth`  |   Yes   | Unknown |
-|                 [SharedCount](http://docs.sharedcount.com/)                  | 'apiKey'                                                                                          |   Yes    | Unknown |
+|               [SharedCount](http://docs.sharedcount.com/) | Track Pinterest & Facebook Shares | `apiKey`  | Yes | Unknown |
 
-data
 
 **[⬆ Back to Index](#index)**
 
@@ -948,7 +947,6 @@ data
 |           [JCDecaux Bike](https://developer.jcdecaux.com/)            | JCDecaux's self-service bicycles                                                            |    `apiKey`     |  Yes  | Unknown |
 | [NBA Stats](https://any-api.com/nba_com/nba_com/docs/API_Description) | Current and historical NBA Statistics                                                       |       No        |  Yes  | Unknown |
 |       [NHL Records and Stats](https://gitlab.com/dword4/nhlapi)       | NHL historical data and statistics                                                          |       No        |  Yes  | Unknown |
-| [Sport List & Data](https://developers.decathlon.com/products/sports) | List of and ressources related to sports                                                    |       No        |  Yes  |   Yes   |
 |                [Strava](https://strava.github.io/api/)                | Connect with athletes, activities and more                                                  |     `OAuth`     |  Yes  | Unknown |
 |                [SuredBits](https://suredbits.com/api/)                | Query sports data, including teams, players, games, scores and statistics                   |       No        |  No   |   No    |
 |          [TheSportsDB](https://www.thesportsdb.com/api.php)           | Crowd-Sourced Sports Data and Artwork                                                       |    `apiKey`     |  Yes  |   Yes   |
@@ -1068,9 +1066,7 @@ data
 | :------------------------------------------------------------------------: | -------------------------------------------------- | :------: | :---: | :-----: |
 |               [Bitly](http://dev.bitly.com/get_started.html)               | URL shortener and link management                  | `OAuth`  |  Yes  | Unknown |
 |                   [CleanURI](https://cleanuri.com/docs)                    | URL shortener service                              |   `No`   |  Yes  |   Yes   |
-| [ClickMeter](https://support.clickmeter.com/hc/en-us/categories/201474986) | Monitor, compare and optimize your marketing links | `apiKey` |  Yes  | Unknown |
 |           [Rebrandly](https://developers.rebrandly.com/v1/docs)            | Custom URL shortener for sharing branded links     | `apiKey` |  Yes  | Unknown |
-|                 [F4NSIX](https://www.f4nsix.xyz/api/docs)                  | URL shortener and track shorten urls               | `apiKey` |  Yes  |   Yes   |
 
 **[⬆ Back to Index](#index)**
 
