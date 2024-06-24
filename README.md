@@ -917,6 +917,7 @@ For information on contributing to this project, please see the [contributing gu
 |                [Pinterest](https://developers.pinterest.com/)                | The world's catalog of ideas                                                                      | `OAuth`  |   Yes   | Unknown |
 |                  [PWRTelegram bot](https://pwrtelegram.xyz)                  | Boosted version of the Telegram bot API                                                           | `apiKey` |   Yes   | Unknown |
 |                   [Reddit](https://www.reddit.com/dev/api)                   | Homepage of the internet                                                                          | `OAuth`  |   Yes   | Unknown |
+|                   [SocialData API](https://socialdata.tools)                 | Unofficial API to read Twitter data                                                               | `apiKey` |   Yes   |   No    |
 |                       [Slack](https://api.slack.com/)                        | Team Instant Messaging                                                                            | `OAuth`  |   Yes   | Unknown |
 |              [Telegram Bot](https://core.telegram.org/bots/api)              | Simplified HTTP version of the MTProto API for bots                                               | `OAuth`  |   Yes   | Unknown |
 |      [Telegram MTProto](https://core.telegram.org/api#getting-started)       | Read and write Telegram data                                                                      | `apiKey` |   Yes   | Unknown |
@@ -925,7 +926,7 @@ For information on contributing to this project, please see the [contributing gu
 |                     [Twitch](https://dev.twitch.tv/docs)                     | Game Streaming API                                                                                | `OAuth`  |   Yes   | Unknown |
 |               [Twitter](https://developer.twitter.com/en/docs)               | Read and write Twitter data                                                                       | `OAuth`  |   Yes   |   No    |
 |                        [vk](https://vk.com/dev/sites)                        | Read and write vk data                                                                            | `OAuth`  |   Yes   | Unknown |
-|               [SharedCount](http://docs.sharedcount.com/) | Track Pinterest & Facebook Shares | `apiKey`  | Yes | Unknown |
+|               [SharedCount](http://docs.sharedcount.com/)                    | Track Pinterest & Facebook Shares                                                                 | `apiKey` |   Yes   | Unknown |
 
 
 **[⬆ Back to Index](#index)**
