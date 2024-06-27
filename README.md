@@ -882,6 +882,7 @@ For information on contributing to this project, please see the [contributing gu
 |                           [Shodan](https://developer.shodan.io/)                            | Search engine for Internet connected devices                                                                                                                         | `apiKey` |  Yes  | Unknown |
 |                          [UK Police](https://data.police.uk/docs/)                          | UK Police data                                                                                                                                                       |    No    |  Yes  | Unknown |
 |                           [Whoisfreaks](https://whoisfreaks.com/)                           | Domain and DNS related information that will equip organizaion with comprehensive threat intelligence and attack surface analysis capabilities for enhanced security | `apiKey` |  Yes  |   No    |
+|                           [WhoisJSONApi](https://whoisjsonapi.com/)                         | Domain WHOIS information to detect and prevent online threats, enhancing overall online safety for individuals and organizations                                     | `apiKey` |  Yes  |   No    |
 
 **[⬆ Back to Index](#index)**
 
