@@ -135,7 +135,8 @@ For information on contributing to this project, please see the [contributing gu
 |               [Bhagavad Gita](https://bhagavadgita.io/api)                | Bhagavad Gita text                                                                       | `OAuth` |  Yes  |   Yes   |
 |          [British National Bibliography](http://bnb.data.bl.uk/)          | Books                                                                                    |   No    |  No   | Unknown |
 |           [Google Books](https://developers.google.com/books/)            | Books                                                                                    | `OAuth` |  Yes  | Unknown |
-|          [Open Library](https://openlibrary.org/developers/api)           | Books, book covers and related data                                                      |   No    |  Yes  | Unknown |
+| [Harry Potter API](https://github.com/fedeperin/potterapi) | API to get data from Harry Potter books, movies, characters and spells | No | Yes | Yes |
+|            [Open Library](https://openlibrary.org/developers/api)           | Books, book covers and related data                                                      |   No    |  Yes  | Unknown |
 | [Penguin Publishing](http://www.penguinrandomhouse.biz/webservices/rest/) | Books, book covers and related data                                                      |   No    |  Yes  | Unknown |
 |            [Rig Veda](https://aninditabasu.github.io/indica/)             | Gods and poets, their categories, and the verse meters, with the mandal and sukta number |   No    |  Yes  | Unknown |
 |    [Vedic Society](https://aninditabasu.github.io/indica/html/vs.html)    | Descriptions of all nouns (names, places, animals, things) from vedic literature         |   No    |  Yes  | Unknown |
