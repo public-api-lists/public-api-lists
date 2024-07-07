@@ -1066,7 +1066,7 @@ For information on contributing to this project, please see the [contributing gu
 |                          API                          | Description                                    |   Auth   | HTTPS |  CORS   |
 | :---------------------------------------------------: | ---------------------------------------------- | :------: | :---: | :-----: |
 |    [Bitly](http://dev.bitly.com/get_started.html)     | URL shortener and link management              | `OAuth`  |  Yes  | Unknown |
-|         [CleanURI](https://cleanuri.com/docs)         | URL shortener service                          |   `No`   |  Yes  |   Yes   |
+|         [CleanURI](https://cleanuri.com/docs)         | URL shortener service                          |    No    |  Yes  |   Yes   |
 | [Rebrandly](https://developers.rebrandly.com/v1/docs) | Custom URL shortener for sharing branded links | `apiKey` |  Yes  | Unknown |
 
 **[⬆ Back to Index](#index)**
