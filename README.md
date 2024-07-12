@@ -169,7 +169,7 @@ For information on contributing to this project, please see the [contributing gu
 
 |                                       API                                       | Description                                                                                            |   Auth   | HTTPS |  CORS   |
 | :-----------------------------------------------------------------------------: | ------------------------------------------------------------------------------------------------------ | :------: | :---: | :-----: |
-|       [Abstract's Holiday API](https://www.abstractapi.com/holidays-api)        | National, regional, and religious holidays for 120+ countries & 100+ years                             |   Yes    |  Yes  |   Yes   |
+|       [Abstract's Holiday API](https://www.abstractapi.com/holidays-api)        | National, regional, and religious holidays for 120+ countries & 100+ years                             | `apiKey` |  Yes  |   Yes   |
 | [Byabbe](https://byabbe.se/on-this-day/#/default/get__month___day__events_json) | Seach histories from wikipedia for a particular day                                                    |    No    |  Yes  | Unknown |
 |                [Calendar Index](https://www.calendarindex.com/)                 | Worldwide Holidays and Working Days                                                                    | `apiKey` |  Yes  |   Yes   |
 |                [Church Calendar](http://calapi.inadiutorium.cz/)                | Catholic liturgical calendar                                                                           |    No    |  No   | Unknown |
@@ -344,8 +344,8 @@ For information on contributing to this project, please see the [contributing gu
 |                                 [SHOUTCLOUD](http://shoutcloud.io/)                                 | ALL-CAPS AS A SERVICE                                                                               |        No        |  No   | Unknown |
 |                           [StackExchange](https://api.stackexchange.com/)                           | Q&A forum for developers                                                                            |     `OAuth`      |  Yes  | Unknown |
 |                         [XML to JSON](https://developers.wso2apistore.com/)                         | Integration developer utility APIs                                                                  |        No        |  Yes  | Unknown |
-|         [Image to Link](https://www.contentful.com/developers/docs/references/images-api/)          | Generate link from image(Integration developer utility APIs)                                        |        No        |  Yes  |   YES   |
-|                                  [IPFinder](https://ipfinder.io/)                                   | Geolocation API,ASN API,IP Ranges API,IP Firewall API,Domain API                                    |       Yes        |  Yes  |   Yes   |
+|         [Image to Link](https://www.contentful.com/developers/docs/references/images-api/)          | Generate link from image(Integration developer utility APIs)                                        |        No        |  Yes  |   Yes   |
+|                                  [IPFinder](https://ipfinder.io/)                                   | Geolocation API,ASN API,IP Ranges API,IP Firewall API,Domain API                                    |     `apiKey`     |  Yes  |   Yes   |
 |                                 [Scraper.run](https://scraper.run/)                                 | Geolocation API,lookup DNS & whois record of a domain                                               |        No        |  Yes  |   Yes   |
 |                               [SearchApi](https://www.searchapi.io/)                                | Real-time search engines SERP API                                                                   |     `apiKey`     |  Yes  |   No    |
 |                                   [SerpApi](https://serpapi.com/)                                   | Scrape Google and other search engines                                                              |     `apiKey`     |  Yes  |   No    |
@@ -1055,7 +1055,7 @@ For information on contributing to this project, please see the [contributing gu
 |                          API                          | Description                                    |   Auth   | HTTPS |  CORS   |
 | :---------------------------------------------------: | ---------------------------------------------- | :------: | :---: | :-----: |
 |    [Bitly](http://dev.bitly.com/get_started.html)     | URL shortener and link management              | `OAuth`  |  Yes  | Unknown |
-|         [CleanURI](https://cleanuri.com/docs)         | URL shortener service                          |   `No`   |  Yes  |   Yes   |
+|         [CleanURI](https://cleanuri.com/docs)         | URL shortener service                          |    No    |  Yes  |   Yes   |
 | [Rebrandly](https://developers.rebrandly.com/v1/docs) | Custom URL shortener for sharing branded links | `apiKey` |  Yes  | Unknown |
 
 **[⬆ Back to Index](#index)**
