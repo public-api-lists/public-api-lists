@@ -839,7 +839,6 @@ For information on contributing to this project, please see the [contributing gu
 |                    [CORE](https://core.ac.uk/services#api)                     | Access the world's Open Access research papers                                                          | `apiKey` |  Yes  | Unknown |
 |                        [GBIF](http://api.gbif.org/v1/)                         | Global Biodiversity Information Facility                                                                |    No    |  Yes  |   Yes   |
 |         [iDigBio](https://github.com/idigbio/idigbio-search-api/wiki)          | Access millions of museum specimens from organizations around the world                                 |    No    |  Yes  | Unknown |
-|          [inspirehep.net](https://inspirehep.net/info/hep/api?ln=en)           | High Energy Physics info. system                                                                        |    No    |  Yes  | Unknown |
 |                [ITIS](https://www.itis.gov/ws_description.html)                | Integrated Taxonomic Information System                                                                 |    No    |  Yes  | Unknown |
 |         [Launch Library](https://launchlibrary.net/docs/1.3/api.html)          | Upcoming Space Launches                                                                                 |    No    |  Yes  | Unknown |
 |               [Minor Planet Center](http://www.asterank.com/mpc)               | Asterank.com Information                                                                                |    No    |  No   | Unknown |
@@ -867,7 +866,7 @@ For information on contributing to this project, please see the [contributing gu
 |                     [HaveIBeenPwned](https://haveibeenpwned.com/API/v3)                     | Passwords which have previously been exposed in data breaches                                                                                                        | `apiKey` |  Yes  | Unknown |
 | [National Vulnerability Database](https://nvd.nist.gov/vuln/Data-Feeds/JSON-feed-changelog) | U.S. National Vulnerability Database                                                                                                                                 |    No    |  Yes  | Unknown |
 |                     [Secrets-APi](https://secrets-api.appbrewery.com/)                      | Used For Learning purpose Learn all security types with this api                                                                                                     |   All    |  Yes  | Unkown  |
-|                  [SecurityTrails](https://securitytrails.com/corp/apidocs)                  | Domain and IP related information such as current and historical WHOIS and DNS records                                                                               | `apiKey` |  Yes  | Unknown |
+|                  [SecurityTrails](https://securitytrails.com/corp/api)                  | Domain and IP related information such as current and historical WHOIS and DNS records                                                                               | `apiKey` |  Yes  | Unknown |
 |                           [Shodan](https://developer.shodan.io/)                            | Search engine for Internet connected devices                                                                                                                         | `apiKey` |  Yes  | Unknown |
 |                          [UK Police](https://data.police.uk/docs/)                          | UK Police data                                                                                                                                                       |    No    |  Yes  | Unknown |
 |                           [Whoisfreaks](https://whoisfreaks.com/)                           | Domain and DNS related information that will equip organizaion with comprehensive threat intelligence and attack surface analysis capabilities for enhanced security | `apiKey` |  Yes  |   No    |
@@ -892,12 +891,10 @@ For information on contributing to this project, please see the [contributing gu
 | :--------------------------------------------------------------------------: | ------------------------------------------------------------------------------------------------- | :------: | :---: | :-----: |
 |                 [Buffer](https://buffer.com/developers/api)                  | Access to pending and sent updates in Buffer                                                      | `OAuth`  |  Yes  | Unknown |
 |               [Cisco Spark](https://developer.ciscospark.com)                | Team Collaboration Software                                                                       | `OAuth`  |  Yes  | Unknown |
-| [Dangerous Discord Database](https://discord.riverside.rocks/docs/index.php) | Database of malicious Discord accounts                                                            | `apiKey` |  Yes  | Unknown |
 |           [Discord](https://discordapp.com/developers/docs/intro)            | Make bots for Discord, integrate Discord onto an external platform                                | `OAuth`  |  Yes  | Unknown |
 |                 [Disqus](https://disqus.com/api/docs/auth/)                  | Communicate with Disqus data                                                                      | `OAuth`  |  Yes  | Unknown |
 |                 [Facebook](https://developers.facebook.com/)                 | Facebook Login, Share on FB, Social Plugins, Analytics and more                                   | `OAuth`  |  Yes  | Unknown |
 |               [Foursquare](https://developer.foursquare.com/)                | Interact with Foursquare users and places (geolocation-based checkins, photos, tips, events, etc) | `OAuth`  |  Yes  | Unknown |
-|                [Fuck Off as a Service](https://www.foaas.com)                | Asks someone to fuck off                                                                          |    No    |  Yes  | Unknown |
 |         [Full Contact](https://www.fullcontact.com/developer/docs/)          | Get Social Media profiles and contact Information                                                 | `OAuth`  |  Yes  | Unknown |
 |               [HackerNews](https://github.com/HackerNews/API)                | Social news for CS and entrepreneurship                                                           |    No    |  Yes  | Unknown |
 |              [Instagram](https://www.instagram.com/developer/)               | Instagram Login, Share on Instagram, Social Plugins and more                                      | `OAuth`  |  Yes  | Unknown |
@@ -1057,6 +1054,7 @@ For information on contributing to this project, please see the [contributing gu
 |    [Bitly](http://dev.bitly.com/get_started.html)     | URL shortener and link management              | `OAuth`  |  Yes  | Unknown |
 |         [CleanURI](https://cleanuri.com/docs)         | URL shortener service                          |    No    |  Yes  |   Yes   |
 | [Rebrandly](https://developers.rebrandly.com/v1/docs) | Custom URL shortener for sharing branded links | `apiKey` |  Yes  | Unknown |
+| [T.LY](https://t.ly/docs/) | URL Shortener With Short Links | `apiKey` |  Yes  | Unknown |
 
 **[⬆ Back to Index](#index)**
 
@@ -1115,6 +1113,5 @@ For information on contributing to this project, please see the [contributing gu
 |                 [Storm Glass](https://stormglass.io/)                  | Global marine weather from multiple sources        | `apiKey` |  Yes  |   Yes   |
 |      [Weather Hacks](http://weather.livedoor.com/weather_hacks/)       | Weather, for Japan                                 |    No    |  No   |   No    |
 |              [Weatherbit](https://www.weatherbit.io/api)               | Weather                                            | `apiKey` |  Yes  | Unknown |
-|         [Yahoo! Weather](https://developer.yahoo.com/weather/)         | Weather                                            | `apiKey` |  Yes  | Unknown |
 
 **[⬆ Back to Index](#index)**
