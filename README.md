@@ -289,6 +289,9 @@ For information on contributing to this project, please see the [contributing gu
 
 |                                                 API                                                 | Description                                                                                         |      Auth       | HTTPS |  CORS   |
 | :-------------------------------------------------------------------------------------------------: | --------------------------------------------------------------------------------------------------- | :-------------: | :---: | :-----: |
+|                               [0ms DNS Accelerator](https://0ms.dev/)                               | The Accelerator variant can be used to test & accelerate any DoH providers                          |       No        |  Yes  |   No    |
+|                                [0ms Get IP](https://0ms.dev/get-ip)                                 | A simple API to get information such as IP, ISP name, Location, etc. based on user request          |       No        |  Yes  |   No    |
+|                               [0ms Mirrors](https://0ms.dev/mirrors/)                               | A powerful caching proxy API that can be used for development/production websites                   |       No        |  Yes  |   No    |
 |                         [24 Pull Requests](https://24pullrequests.com/api)                          | Project to promote open source collaboration during December                                        |       No        |  Yes  |   No    |
 |                              [Abacus](https://abacus.jasoncameron.dev)                              | Free and simple counting service. You can use it to track page hits and specific events             |       No        |  Yes  |   Yes   |
 |                                    [Agify.io](https://agify.io)                                     | Estimates the age from a first name                                                                 |       No        |  Yes  |   Yes   |
@@ -866,7 +869,7 @@ For information on contributing to this project, please see the [contributing gu
 |                     [HaveIBeenPwned](https://haveibeenpwned.com/API/v3)                     | Passwords which have previously been exposed in data breaches                                                                                                        | `apiKey` |  Yes  | Unknown |
 | [National Vulnerability Database](https://nvd.nist.gov/vuln/Data-Feeds/JSON-feed-changelog) | U.S. National Vulnerability Database                                                                                                                                 |    No    |  Yes  | Unknown |
 |                     [Secrets-APi](https://secrets-api.appbrewery.com/)                      | Used For Learning purpose Learn all security types with this api                                                                                                     |   All    |  Yes  | Unkown  |
-|                  [SecurityTrails](https://securitytrails.com/corp/api)                  | Domain and IP related information such as current and historical WHOIS and DNS records                                                                               | `apiKey` |  Yes  | Unknown |
+|                    [SecurityTrails](https://securitytrails.com/corp/api)                    | Domain and IP related information such as current and historical WHOIS and DNS records                                                                               | `apiKey` |  Yes  | Unknown |
 |                           [Shodan](https://developer.shodan.io/)                            | Search engine for Internet connected devices                                                                                                                         | `apiKey` |  Yes  | Unknown |
 |                          [UK Police](https://data.police.uk/docs/)                          | UK Police data                                                                                                                                                       |    No    |  Yes  | Unknown |
 |                           [Whoisfreaks](https://whoisfreaks.com/)                           | Domain and DNS related information that will equip organizaion with comprehensive threat intelligence and attack surface analysis capabilities for enhanced security | `apiKey` |  Yes  |   No    |
@@ -887,33 +890,33 @@ For information on contributing to this project, please see the [contributing gu
 
 ### Social
 
-|                                     API                                      | Description                                                                                       |   Auth   | HTTPS |  CORS   |
-| :--------------------------------------------------------------------------: | ------------------------------------------------------------------------------------------------- | :------: | :---: | :-----: |
-|                 [Buffer](https://buffer.com/developers/api)                  | Access to pending and sent updates in Buffer                                                      | `OAuth`  |  Yes  | Unknown |
-|               [Cisco Spark](https://developer.ciscospark.com)                | Team Collaboration Software                                                                       | `OAuth`  |  Yes  | Unknown |
-|           [Discord](https://discordapp.com/developers/docs/intro)            | Make bots for Discord, integrate Discord onto an external platform                                | `OAuth`  |  Yes  | Unknown |
-|                 [Disqus](https://disqus.com/api/docs/auth/)                  | Communicate with Disqus data                                                                      | `OAuth`  |  Yes  | Unknown |
-|                 [Facebook](https://developers.facebook.com/)                 | Facebook Login, Share on FB, Social Plugins, Analytics and more                                   | `OAuth`  |  Yes  | Unknown |
-|               [Foursquare](https://developer.foursquare.com/)                | Interact with Foursquare users and places (geolocation-based checkins, photos, tips, events, etc) | `OAuth`  |  Yes  | Unknown |
-|         [Full Contact](https://www.fullcontact.com/developer/docs/)          | Get Social Media profiles and contact Information                                                 | `OAuth`  |  Yes  | Unknown |
-|               [HackerNews](https://github.com/HackerNews/API)                | Social news for CS and entrepreneurship                                                           |    No    |  Yes  | Unknown |
-|              [Instagram](https://www.instagram.com/developer/)               | Instagram Login, Share on Instagram, Social Plugins and more                                      | `OAuth`  |  Yes  | Unknown |
-|               [Meetup.com](https://www.meetup.com/meetup_api/)               | Data about Meetups from Meetup.com                                                                | `apiKey` |  Yes  | Unknown |
-|                    [MySocialApp](https://mysocialapp.io)                     | Seamless Social Networking features, API, SDK to any app                                          | `apiKey` |  Yes  | Unknown |
-|    [Open Collective](https://docs.opencollective.com/help/developers/api)    | Get Open Collective data                                                                          |    No    |  Yes  | Unknown |
-|                [Pinterest](https://developers.pinterest.com/)                | The world's catalog of ideas                                                                      | `OAuth`  |  Yes  | Unknown |
-|                  [PWRTelegram bot](https://pwrtelegram.xyz)                  | Boosted version of the Telegram bot API                                                           | `apiKey` |  Yes  | Unknown |
-|                   [Reddit](https://www.reddit.com/dev/api)                   | Homepage of the internet                                                                          | `OAuth`  |  Yes  | Unknown |
-|                  [SocialData API](https://socialdata.tools)                  | Unofficial API to read Twitter data                                                               | `apiKey` |  Yes  |   No    |
-|                       [Slack](https://api.slack.com/)                        | Team Instant Messaging                                                                            | `OAuth`  |  Yes  | Unknown |
-|              [Telegram Bot](https://core.telegram.org/bots/api)              | Simplified HTTP version of the MTProto API for bots                                               | `OAuth`  |  Yes  | Unknown |
-|      [Telegram MTProto](https://core.telegram.org/api#getting-started)       | Read and write Telegram data                                                                      | `apiKey` |  Yes  | Unknown |
-|             [Trash Nothing](https://trashnothing.com/developer)              | A freecycling community with thousands of free items posted every day                             | `OAuth`  |  Yes  |   Yes   |
-|               [Tumblr](https://www.tumblr.com/docs/en/api/v2)                | Read and write Tumblr Data                                                                        | `OAuth`  |  Yes  | Unknown |
-|                     [Twitch](https://dev.twitch.tv/docs)                     | Game Streaming API                                                                                | `OAuth`  |  Yes  | Unknown |
-|               [Twitter](https://developer.twitter.com/en/docs)               | Read and write Twitter data                                                                       | `OAuth`  |  Yes  |   No    |
-|                        [vk](https://vk.com/dev/sites)                        | Read and write vk data                                                                            | `OAuth`  |  Yes  | Unknown |
-|                 [SharedCount](http://docs.sharedcount.com/)                  | Track Pinterest & Facebook Shares                                                                 | `apiKey` |  Yes  | Unknown |
+|                                  API                                   | Description                                                                                       |   Auth   | HTTPS |  CORS   |
+| :--------------------------------------------------------------------: | ------------------------------------------------------------------------------------------------- | :------: | :---: | :-----: |
+|              [Buffer](https://buffer.com/developers/api)               | Access to pending and sent updates in Buffer                                                      | `OAuth`  |  Yes  | Unknown |
+|            [Cisco Spark](https://developer.ciscospark.com)             | Team Collaboration Software                                                                       | `OAuth`  |  Yes  | Unknown |
+|        [Discord](https://discordapp.com/developers/docs/intro)         | Make bots for Discord, integrate Discord onto an external platform                                | `OAuth`  |  Yes  | Unknown |
+|              [Disqus](https://disqus.com/api/docs/auth/)               | Communicate with Disqus data                                                                      | `OAuth`  |  Yes  | Unknown |
+|              [Facebook](https://developers.facebook.com/)              | Facebook Login, Share on FB, Social Plugins, Analytics and more                                   | `OAuth`  |  Yes  | Unknown |
+|            [Foursquare](https://developer.foursquare.com/)             | Interact with Foursquare users and places (geolocation-based checkins, photos, tips, events, etc) | `OAuth`  |  Yes  | Unknown |
+|      [Full Contact](https://www.fullcontact.com/developer/docs/)       | Get Social Media profiles and contact Information                                                 | `OAuth`  |  Yes  | Unknown |
+|            [HackerNews](https://github.com/HackerNews/API)             | Social news for CS and entrepreneurship                                                           |    No    |  Yes  | Unknown |
+|           [Instagram](https://www.instagram.com/developer/)            | Instagram Login, Share on Instagram, Social Plugins and more                                      | `OAuth`  |  Yes  | Unknown |
+|            [Meetup.com](https://www.meetup.com/meetup_api/)            | Data about Meetups from Meetup.com                                                                | `apiKey` |  Yes  | Unknown |
+|                 [MySocialApp](https://mysocialapp.io)                  | Seamless Social Networking features, API, SDK to any app                                          | `apiKey` |  Yes  | Unknown |
+| [Open Collective](https://docs.opencollective.com/help/developers/api) | Get Open Collective data                                                                          |    No    |  Yes  | Unknown |
+|             [Pinterest](https://developers.pinterest.com/)             | The world's catalog of ideas                                                                      | `OAuth`  |  Yes  | Unknown |
+|               [PWRTelegram bot](https://pwrtelegram.xyz)               | Boosted version of the Telegram bot API                                                           | `apiKey` |  Yes  | Unknown |
+|                [Reddit](https://www.reddit.com/dev/api)                | Homepage of the internet                                                                          | `OAuth`  |  Yes  | Unknown |
+|               [SocialData API](https://socialdata.tools)               | Unofficial API to read Twitter data                                                               | `apiKey` |  Yes  |   No    |
+|                    [Slack](https://api.slack.com/)                     | Team Instant Messaging                                                                            | `OAuth`  |  Yes  | Unknown |
+|           [Telegram Bot](https://core.telegram.org/bots/api)           | Simplified HTTP version of the MTProto API for bots                                               | `OAuth`  |  Yes  | Unknown |
+|   [Telegram MTProto](https://core.telegram.org/api#getting-started)    | Read and write Telegram data                                                                      | `apiKey` |  Yes  | Unknown |
+|          [Trash Nothing](https://trashnothing.com/developer)           | A freecycling community with thousands of free items posted every day                             | `OAuth`  |  Yes  |   Yes   |
+|            [Tumblr](https://www.tumblr.com/docs/en/api/v2)             | Read and write Tumblr Data                                                                        | `OAuth`  |  Yes  | Unknown |
+|                  [Twitch](https://dev.twitch.tv/docs)                  | Game Streaming API                                                                                | `OAuth`  |  Yes  | Unknown |
+|            [Twitter](https://developer.twitter.com/en/docs)            | Read and write Twitter data                                                                       | `OAuth`  |  Yes  |   No    |
+|                     [vk](https://vk.com/dev/sites)                     | Read and write vk data                                                                            | `OAuth`  |  Yes  | Unknown |
+|              [SharedCount](http://docs.sharedcount.com/)               | Track Pinterest & Facebook Shares                                                                 | `apiKey` |  Yes  | Unknown |
 
 **[⬆ Back to Index](#index)**
 
@@ -1054,7 +1057,7 @@ For information on contributing to this project, please see the [contributing gu
 |    [Bitly](http://dev.bitly.com/get_started.html)     | URL shortener and link management              | `OAuth`  |  Yes  | Unknown |
 |         [CleanURI](https://cleanuri.com/docs)         | URL shortener service                          |    No    |  Yes  |   Yes   |
 | [Rebrandly](https://developers.rebrandly.com/v1/docs) | Custom URL shortener for sharing branded links | `apiKey` |  Yes  | Unknown |
-| [T.LY](https://t.ly/docs/) | URL Shortener With Short Links | `apiKey` |  Yes  | Unknown |
+|              [T.LY](https://t.ly/docs/)               | URL Shortener With Short Links                 | `apiKey` |  Yes  | Unknown |
 
 **[⬆ Back to Index](#index)**
 
