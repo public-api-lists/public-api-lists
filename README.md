@@ -1102,19 +1102,20 @@ For information on contributing to this project, please see the [contributing gu
 
 ### Weather
 
-|                                  API                                   | Description                                        |   Auth   | HTTPS |  CORS   |
-| :--------------------------------------------------------------------: | -------------------------------------------------- | :------: | :---: | :-----: |
-|           [7Timer!](http://www.7timer.info/doc.php?lang=en)            | Weather, especially for Astroweather               |    No    |  No   | Unknown |
-|            [APIXU](https://www.apixu.com/doc/request.aspx)             | Weather                                            | `apiKey` |  Yes  | Unknown |
-|                  [Dark Sky](https://darksky.net/dev/)                  | Weather                                            | `apiKey` |  Yes  |   No    |
-| [Meteorologisk Institutt](https://api.met.no/weatherapi/documentation) | Weather and climate data                           |    No    |  Yes  | Unknown |
-|        [NOAA Climate Data](https://www.ncdc.noaa.gov/cdo-web/)         | Weather and climate data                           | `apiKey` |  Yes  | Unknown |
-|       [ODWeather](http://api.oceandrivers.com/static/docs.html)        | Weather and weather webcams                        |    No    |  No   | Unknown |
-|                 [Open-Meteo](https://open-meteo.com/)                  | Global weather forecast API for non-commercial use |    No    |  Yes  |   Yes   |
-|                    [OpenUV](https://www.openuv.io)                     | Real-time UV Index Forecast                        | `apiKey` |  Yes  | Unknown |
-|            [OpenWeatherMap](http://openweathermap.org/api)             | Weather                                            | `apiKey` |  No   | Unknown |
-|                 [Storm Glass](https://stormglass.io/)                  | Global marine weather from multiple sources        | `apiKey` |  Yes  |   Yes   |
-|      [Weather Hacks](http://weather.livedoor.com/weather_hacks/)       | Weather, for Japan                                 |    No    |  No   |   No    |
-|              [Weatherbit](https://www.weatherbit.io/api)               | Weather                                            | `apiKey` |  Yes  | Unknown |
+|                                  API                                   | Description                                                                                                                    |   Auth   | HTTPS |  CORS   |
+| :--------------------------------------------------------------------: | ------------------------------------------------------------------------------------------------------------------------------ | :------: | :---: | :-----: |
+|           [7Timer!](http://www.7timer.info/doc.php?lang=en)            | Weather, especially for Astroweather                                                                                           |    No    |  No   | Unknown |
+|            [APIXU](https://www.apixu.com/doc/request.aspx)             | Weather                                                                                                                        | `apiKey` |  Yes  | Unknown |
+|                  [Dark Sky](https://darksky.net/dev/)                  | Weather                                                                                                                        | `apiKey` |  Yes  |   No    |
+|                  [DWD API](https://dwd.api.bund.dev/)                  | API of the German Weather Service (DWD): weather data, data from specific weather stations, warnings (local, coast, sea, alps) |    No    |  Yes  | Unknown |
+| [Meteorologisk Institutt](https://api.met.no/weatherapi/documentation) | Weather and climate data                                                                                                       |    No    |  Yes  | Unknown |
+|        [NOAA Climate Data](https://www.ncdc.noaa.gov/cdo-web/)         | Weather and climate data                                                                                                       | `apiKey` |  Yes  | Unknown |
+|       [ODWeather](http://api.oceandrivers.com/static/docs.html)        | Weather and weather webcams                                                                                                    |    No    |  No   | Unknown |
+|                 [Open-Meteo](https://open-meteo.com/)                  | Global weather forecast API for non-commercial use                                                                             |    No    |  Yes  |   Yes   |
+|                    [OpenUV](https://www.openuv.io)                     | Real-time UV Index Forecast                                                                                                    | `apiKey` |  Yes  | Unknown |
+|            [OpenWeatherMap](http://openweathermap.org/api)             | Weather                                                                                                                        | `apiKey` |  No   | Unknown |
+|                 [Storm Glass](https://stormglass.io/)                  | Global marine weather from multiple sources                                                                                    | `apiKey` |  Yes  |   Yes   |
+|      [Weather Hacks](http://weather.livedoor.com/weather_hacks/)       | Weather, for Japan                                                                                                             |    No    |  No   |   No    |
+|              [Weatherbit](https://www.weatherbit.io/api)               | Weather                                                                                                                        | `apiKey` |  Yes  | Unknown |
 
 **[⬆ Back to Index](#index)**
