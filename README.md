@@ -197,6 +197,7 @@ For information on contributing to this project, please see the [contributing gu
 |        [OneDrive](https://dev.onedrive.com/)         | File Sharing and Storage | `OAuth`  |  Yes  | Unknown |
 |        [Pastebin](https://pastebin.com/api/)         | Plain Text Storage       | `apiKey` |  Yes  | Unknown |
 |   [WeTransfer](https://developers.wetransfer.com)    | File Sharing             | `apiKey` |  Yes  |   Yes   |
+|   [Mega.nz](https://mega.io/developers)    | File Sharing And Storage            | No |  Yes  |   Unknown   |
 
 **[⬆ Back to Index](#index)**
 
@@ -417,6 +418,7 @@ For information on contributing to this project, please see the [contributing gu
 |                                     [AQICN](http://aqicn.org/api)                                      | Real-time air quality index                                                    | `apiKey` |  No   | Unknown |
 |                      [PVWatts](https://developer.nrel.gov/docs/solar/pvwatts/v6/)                      | Energy production photovoltaic (PV) energy systems                             | `apiKey` |  Yes  | Unknown |
 | [UK Carbon Intensity](https://carbon-intensity.github.io/api-definitions/#carbon-intensity-api-v1-0-0) | The Official Carbon Intensity API for Great Britain developed by National Grid |    No    |  Yes  | Unknown |
+| [NOAA Climate Data](https://www.ncdc.noaa.gov/cdo-web/webservices/v2) | The Official Climate Data API By National Oceanic And Atmopspheric Administration | `apiKey` |  Yes  | Unknown |
 
 **[⬆ Back to Index](#index)**
 
@@ -427,6 +429,7 @@ For information on contributing to this project, please see the [contributing gu
 |                  [Eventbrite](https://www.eventbrite.com/developer/v3/)                   | Find events                           | `OAuth`  |  Yes  | Unknown |
 |                        [SeatGeek](https://platform.seatgeek.com/)                         | Search events, venues and performers  | `apiKey` |  Yes  | Unknown |
 | [Ticketmaster](http://developer.ticketmaster.com/products-and-docs/apis/getting-started/) | Search events, attractions, or venues | `apiKey` |  Yes  | Unknown |
+| [Songkick](https://www.songkick.com/developer) | Upcoming Concerts API  | `apiKey` |  Yes  | Unknown |
 
 **[⬆ Back to Index](#index)**
 
@@ -478,6 +481,8 @@ For information on contributing to this project, please see the [contributing gu
 |   [Whitepages Pro](https://pro.whitepages.com/developer/documentation/reverse-phone-api/)    | Get an owner’s name, address, demographics based on the phone number  | `apiKey` |  Yes  | Unknown |
 | [Whitepages Pro](https://pro.whitepages.com/developer/documentation/phone-intelligence-api/) | Phone number validation, line_type, carrier append                    | `apiKey` |  Yes  | Unknown |
 |  [Whitepages Pro](https://pro.whitepages.com/developer/documentation/reverse-address-api/)   | Get normalized physical address, residents, address type and validity | `apiKey` |  Yes  | Unknown |
+| [Jumio](https://www.jumio.com/developer/) | Provides identity verification, KYC (Know Your Customer), and AML (Anti-Money Laundering) solutions, including document verification and biometric authentication. | `apiKey` | Yes | Unknown |
+| [Onfido](https://onfido.com/developers/) | Offers identity verification and background check services, including document verification and facial recognition. | `apiKey` | Yes | Unknown |
 
 **[⬆ Back to Index](#index)**
 
