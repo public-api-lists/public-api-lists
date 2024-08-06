@@ -799,11 +799,12 @@ For information on contributing to this project, please see the [contributing gu
 ### Personality
 
 |                               API                               | Description                                                            |   Auth   | HTTPS |  CORS   |
-| :-------------------------------------------------------------: | ---------------------------------------------------------------------- | :------: | :---: | :-----: |
+|:---------------------------------------------------------------:|------------------------------------------------------------------------| :------: | :---: | :-----: |
 |            [Advice Slip](http://api.adviceslip.com/)            | Generate random advice slips                                           |    No    |  Yes  | Unknown |
 |          [chucknorris.io](https://api.chucknorris.io)           | JSON API for hand curated Chuck Norris jokes                           |    No    |  Yes  | Unknown |
 |               [FavQs.com](https://favqs.com/api)                | FavQs allows you to collect, discover and share your favorite quotes   | `apiKey` |  Yes  | Unknown |
 |           [Forismatic](http://forismatic.com/en/api/)           | Inspirational Quotes                                                   |    No    |  No   | Unknown |
+|              [HideMyMind](https://hidemymind.com/)              | Private, encrypted notes service with link access                      |    No    |  Yes  | Unknown |
 |        [Hindi Quotes](https://hindi-quotes.vercel.app/)         | Get random Hindi quotes of different categories.                       |    No    |  Yes  |   Yes   |
 |        [icanhazdadjoke](https://icanhazdadjoke.com/api)         | The largest selection of dad jokes on the internet                     |    No    |  Yes  | Unknown |
 |                [kanye.rest](https://kanye.rest)                 | REST API for random Kanye West quotes                                  |    No    |  Yes  |   Yes   |
