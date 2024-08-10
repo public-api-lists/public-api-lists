@@ -162,6 +162,7 @@ For information on contributing to this project, please see the [contributing gu
 |                  [Trello](https://developers.trello.com/)                  | Boards, lists and cards to help you organize and prioritize your projects     | `OAuth`  |  Yes  | Unknown |
 |                  [Tomba Email finder](https://tomba.io/)                   | Email Finder for B2B sales and email marketing                                | `apiKey` |  Yes  |   Yes   |
 |                   [Valid Email](https://validemail.io/)                    | Verify email addresses for spam and delivery                                  |    No    |  Yes  |   No    |
+|                    [Clientsbee](https://clientsbee.com)                    | Free leads for bussiness and technographics data                              | `apikey` | Yes   | No       |
 
 **[⬆ Back to Index](#index)**
 
