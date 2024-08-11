@@ -101,15 +101,15 @@ For information on contributing to this project, please see the [contributing gu
 
 ### Anti-Malware
 
-|                                  API                                  | Description                  |   Auth   | HTTPS |  CORS   |
-| :-------------------------------------------------------------------: | ---------------------------- | :------: | :---: | :-----: |
-|               [AbuseIPDB](https://docs.abuseipdb.com/)                | IP/domain/URL reputation     | `apiKey` |  Yes  | Unknown |
-|                          [FishFish](https://fishfish.gg/)                                   | A volunteer cybersecurity project focused on providing resources and services that improve safety across Discord                                                     |    No    |  Yes  | Unknown |
-| [Google Safe Browsing](https://developers.google.com/safe-browsing/)  | Google Link/Domain Flagging  | `apiKey` |  Yes  | Unknown |
-|                   [Metacert](https://metacert.com/)                   | Metacert Link Flagging       | `apiKey` |  Yes  | Unknown |
-|                          [phish.directory](https://phish.directory/)                        | API for phish.directory, a community-driven anti-phishing tool. Helping catch, prevent, and catalog phishing links & attempts.                                       | `apiKey` |  Yes  | Unknown |
-| [VirusTotal](https://www.virustotal.com/en/documentation/public-api/) | VirusTotal File/URL Analysis | `apiKey` |  Yes  | Unknown |
-|          [Web Of Trust (WOT)](https://www.mywot.com/en/API)           | Website reputation           | `apiKey` |  Yes  | Unknown |
+|                                  API                                  | Description                                                                                                                    |   Auth   | HTTPS |  CORS   |
+| :-------------------------------------------------------------------: | ------------------------------------------------------------------------------------------------------------------------------ | :------: | :---: | :-----: |
+|               [AbuseIPDB](https://docs.abuseipdb.com/)                | IP/domain/URL reputation                                                                                                       | `apiKey` |  Yes  | Unknown |
+|                   [FishFish](https://fishfish.gg/)                    | A volunteer cybersecurity project focused on providing resources and services that improve safety across Discord               |    No    |  Yes  | Unknown |
+| [Google Safe Browsing](https://developers.google.com/safe-browsing/)  | Google Link/Domain Flagging                                                                                                    | `apiKey` |  Yes  | Unknown |
+|                   [Metacert](https://metacert.com/)                   | Metacert Link Flagging                                                                                                         | `apiKey` |  Yes  | Unknown |
+|              [phish.directory](https://phish.directory/)              | API for phish.directory, a community-driven anti-phishing tool. Helping catch, prevent, and catalog phishing links & attempts. | `apiKey` |  Yes  | Unknown |
+| [VirusTotal](https://www.virustotal.com/en/documentation/public-api/) | VirusTotal File/URL Analysis                                                                                                   | `apiKey` |  Yes  | Unknown |
+|          [Web Of Trust (WOT)](https://www.mywot.com/en/API)           | Website reputation                                                                                                             | `apiKey` |  Yes  | Unknown |
 
 **[⬆ Back to Index](#index)**
 
@@ -164,7 +164,7 @@ For information on contributing to this project, please see the [contributing gu
 |                  [Trello](https://developers.trello.com/)                  | Boards, lists and cards to help you organize and prioritize your projects     | `OAuth`  |  Yes  | Unknown |
 |                  [Tomba Email finder](https://tomba.io/)                   | Email Finder for B2B sales and email marketing                                | `apiKey` |  Yes  |   Yes   |
 |                   [Valid Email](https://validemail.io/)                    | Verify email addresses for spam and delivery                                  |    No    |  Yes  |   No    |
-|                    [Clientsbee](https://clientsbee.com)                    | Free leads for bussiness and technographics data                              | `apikey` | Yes   | No       |
+|                    [Clientsbee](https://clientsbee.com)                    | Free leads for bussiness and technographics data                              | `apikey` |  Yes  |   No    |
 
 **[⬆ Back to Index](#index)**
 
@@ -200,7 +200,7 @@ For information on contributing to this project, please see the [contributing gu
 |        [OneDrive](https://dev.onedrive.com/)         | File Sharing and Storage | `OAuth`  |  Yes  | Unknown |
 |        [Pastebin](https://pastebin.com/api/)         | Plain Text Storage       | `apiKey` |  Yes  | Unknown |
 |   [WeTransfer](https://developers.wetransfer.com)    | File Sharing             | `apiKey` |  Yes  |   Yes   |
-|   [Mega.nz](https://mega.io/developers)    | File Sharing And Storage            | No |  Yes  |   Unknown   |
+|        [Mega.nz](https://mega.io/developers)         | File Sharing And Storage |    No    |  Yes  | Unknown |
 
 **[⬆ Back to Index](#index)**
 
@@ -414,14 +414,14 @@ For information on contributing to this project, please see the [contributing gu
 
 ### Environment
 
-|                                                  API                                                   | Description                                                                    |   Auth   | HTTPS |  CORS   |
-| :----------------------------------------------------------------------------------------------------: | ------------------------------------------------------------------------------ | :------: | :---: | :-----: |
-|                                 [AirVisual](https://airvisual.com/api)                                 | Air quality and weather data                                                   | `apiKey` |  Yes  | Unknown |
-|                                   [OpenAQ](https://docs.openaq.org/)                                   | Open air quality data                                                          | `apiKey` |  Yes  | Unknown |
-|                                     [AQICN](http://aqicn.org/api)                                      | Real-time air quality index                                                    | `apiKey` |  No   | Unknown |
-|                      [PVWatts](https://developer.nrel.gov/docs/solar/pvwatts/v6/)                      | Energy production photovoltaic (PV) energy systems                             | `apiKey` |  Yes  | Unknown |
-| [UK Carbon Intensity](https://carbon-intensity.github.io/api-definitions/#carbon-intensity-api-v1-0-0) | The Official Carbon Intensity API for Great Britain developed by National Grid |    No    |  Yes  | Unknown |
-| [NOAA Climate Data](https://www.ncdc.noaa.gov/cdo-web/webservices/v2) | The Official Climate Data API By National Oceanic And Atmopspheric Administration | `apiKey` |  Yes  | Unknown |
+|                                                  API                                                   | Description                                                                       |   Auth   | HTTPS |  CORS   |
+| :----------------------------------------------------------------------------------------------------: | --------------------------------------------------------------------------------- | :------: | :---: | :-----: |
+|                                 [AirVisual](https://airvisual.com/api)                                 | Air quality and weather data                                                      | `apiKey` |  Yes  | Unknown |
+|                                   [OpenAQ](https://docs.openaq.org/)                                   | Open air quality data                                                             | `apiKey` |  Yes  | Unknown |
+|                                     [AQICN](http://aqicn.org/api)                                      | Real-time air quality index                                                       | `apiKey` |  No   | Unknown |
+|                      [PVWatts](https://developer.nrel.gov/docs/solar/pvwatts/v6/)                      | Energy production photovoltaic (PV) energy systems                                | `apiKey` |  Yes  | Unknown |
+| [UK Carbon Intensity](https://carbon-intensity.github.io/api-definitions/#carbon-intensity-api-v1-0-0) | The Official Carbon Intensity API for Great Britain developed by National Grid    |    No    |  Yes  | Unknown |
+|                 [NOAA Climate Data](https://www.ncdc.noaa.gov/cdo-web/webservices/v2)                  | The Official Climate Data API By National Oceanic And Atmopspheric Administration | `apiKey` |  Yes  | Unknown |
 
 **[⬆ Back to Index](#index)**
 
@@ -432,7 +432,7 @@ For information on contributing to this project, please see the [contributing gu
 |                  [Eventbrite](https://www.eventbrite.com/developer/v3/)                   | Find events                           | `OAuth`  |  Yes  | Unknown |
 |                        [SeatGeek](https://platform.seatgeek.com/)                         | Search events, venues and performers  | `apiKey` |  Yes  | Unknown |
 | [Ticketmaster](http://developer.ticketmaster.com/products-and-docs/apis/getting-started/) | Search events, attractions, or venues | `apiKey` |  Yes  | Unknown |
-| [Songkick](https://www.songkick.com/developer) | Upcoming Concerts API  | `apiKey` |  Yes  | Unknown |
+|                      [Songkick](https://www.songkick.com/developer)                       | Upcoming Concerts API                 | `apiKey` |  Yes  | Unknown |
 
 **[⬆ Back to Index](#index)**
 
@@ -476,16 +476,16 @@ For information on contributing to this project, please see the [contributing gu
 
 ### Fraud Prevention
 
-|                                             API                                              | Description                                                           |   Auth   | HTTPS |  CORS   |
-| :------------------------------------------------------------------------------------------: | --------------------------------------------------------------------- | :------: | :---: | :-----: |
-|           [FraudLabs Pro](https://www.fraudlabspro.com/developer/api/screen-order)           | Screen order information using AI to detect frauds                    | `apiKey` |  Yes  | Unknown |
-|   [Whitepages Pro](https://pro.whitepages.com/developer/documentation/identity-check-api/)   | Global identity verification with phone, address, email and IP        | `apiKey` |  Yes  | Unknown |
-|  [Whitepages Pro](https://pro.whitepages.com/developer/documentation/phone-reputation-api/)  | Phone reputation to detect spammy phones                              | `apiKey` |  Yes  | Unknown |
-|   [Whitepages Pro](https://pro.whitepages.com/developer/documentation/reverse-phone-api/)    | Get an owner’s name, address, demographics based on the phone number  | `apiKey` |  Yes  | Unknown |
-| [Whitepages Pro](https://pro.whitepages.com/developer/documentation/phone-intelligence-api/) | Phone number validation, line_type, carrier append                    | `apiKey` |  Yes  | Unknown |
-|  [Whitepages Pro](https://pro.whitepages.com/developer/documentation/reverse-address-api/)   | Get normalized physical address, residents, address type and validity | `apiKey` |  Yes  | Unknown |
-| [Jumio](https://www.jumio.com/developer/) | Provides identity verification, KYC (Know Your Customer), and AML (Anti-Money Laundering) solutions, including document verification and biometric authentication. | `apiKey` | Yes | Unknown |
-| [Onfido](https://onfido.com/developers/) | Offers identity verification and background check services, including document verification and facial recognition. | `apiKey` | Yes | Unknown |
+|                                             API                                              | Description                                                                                                                                                        |   Auth   | HTTPS |  CORS   |
+| :------------------------------------------------------------------------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :------: | :---: | :-----: |
+|           [FraudLabs Pro](https://www.fraudlabspro.com/developer/api/screen-order)           | Screen order information using AI to detect frauds                                                                                                                 | `apiKey` |  Yes  | Unknown |
+|   [Whitepages Pro](https://pro.whitepages.com/developer/documentation/identity-check-api/)   | Global identity verification with phone, address, email and IP                                                                                                     | `apiKey` |  Yes  | Unknown |
+|  [Whitepages Pro](https://pro.whitepages.com/developer/documentation/phone-reputation-api/)  | Phone reputation to detect spammy phones                                                                                                                           | `apiKey` |  Yes  | Unknown |
+|   [Whitepages Pro](https://pro.whitepages.com/developer/documentation/reverse-phone-api/)    | Get an owner’s name, address, demographics based on the phone number                                                                                               | `apiKey` |  Yes  | Unknown |
+| [Whitepages Pro](https://pro.whitepages.com/developer/documentation/phone-intelligence-api/) | Phone number validation, line_type, carrier append                                                                                                                 | `apiKey` |  Yes  | Unknown |
+|  [Whitepages Pro](https://pro.whitepages.com/developer/documentation/reverse-address-api/)   | Get normalized physical address, residents, address type and validity                                                                                              | `apiKey` |  Yes  | Unknown |
+|                          [Jumio](https://www.jumio.com/developer/)                           | Provides identity verification, KYC (Know Your Customer), and AML (Anti-Money Laundering) solutions, including document verification and biometric authentication. | `apiKey` |  Yes  | Unknown |
+|                           [Onfido](https://onfido.com/developers/)                           | Offers identity verification and background check services, including document verification and facial recognition.                                                | `apiKey` |  Yes  | Unknown |
 
 **[⬆ Back to Index](#index)**
 
@@ -802,7 +802,7 @@ For information on contributing to this project, please see the [contributing gu
 ### Personality
 
 |                               API                               | Description                                                            |   Auth   | HTTPS |  CORS   |
-|:---------------------------------------------------------------:|------------------------------------------------------------------------| :------: | :---: | :-----: |
+| :-------------------------------------------------------------: | ---------------------------------------------------------------------- | :------: | :---: | :-----: |
 |            [Advice Slip](http://api.adviceslip.com/)            | Generate random advice slips                                           |    No    |  Yes  | Unknown |
 |          [chucknorris.io](https://api.chucknorris.io)           | JSON API for hand curated Chuck Norris jokes                           |    No    |  Yes  | Unknown |
 |               [FavQs.com](https://favqs.com/api)                | FavQs allows you to collect, discover and share your favorite quotes   | `apiKey` |  Yes  | Unknown |
@@ -875,10 +875,10 @@ For information on contributing to this project, please see the [contributing gu
 | :-----------------------------------------------------------------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------: | :---: | :-----: |
 |                             [Censys.io](https://censys.io/api)                              | Search engine for Internet connected host and devices                                                                                                                | `apiKey` |  Yes  |   No    |
 |                         [CRXcavator](https://crxcavator.io/apidocs)                         | Chrome extension risk scoring                                                                                                                                        | `apiKey` |  Yes  | Unknown |
-|                          [FishFish](https://fishfish.gg/)                                   | A volunteer cybersecurity project focused on providing resources and services that improve safety across Discord                                                     |    No    |  Yes  | Unknown |
+|                              [FishFish](https://fishfish.gg/)                               | A volunteer cybersecurity project focused on providing resources and services that improve safety across Discord                                                     |    No    |  Yes  | Unknown |
 |                     [HaveIBeenPwned](https://haveibeenpwned.com/API/v3)                     | Passwords which have previously been exposed in data breaches                                                                                                        | `apiKey` |  Yes  | Unknown |
 | [National Vulnerability Database](https://nvd.nist.gov/vuln/Data-Feeds/JSON-feed-changelog) | U.S. National Vulnerability Database                                                                                                                                 |    No    |  Yes  | Unknown |
-|                          [phish.directory](https://phish.directory/)                        | API for phish.directory, a community-driven anti-phishing tool. Helping catch, prevent, and catalog phishing links & attempts.                                       | `apiKey` |  Yes  | Unknown |
+|                         [phish.directory](https://phish.directory/)                         | API for phish.directory, a community-driven anti-phishing tool. Helping catch, prevent, and catalog phishing links & attempts.                                       | `apiKey` |  Yes  | Unknown |
 |                     [Secrets-APi](https://secrets-api.appbrewery.com/)                      | Used For Learning purpose Learn all security types with this api                                                                                                     |   All    |  Yes  | Unkown  |
 |                    [SecurityTrails](https://securitytrails.com/corp/api)                    | Domain and IP related information such as current and historical WHOIS and DNS records                                                                               | `apiKey` |  Yes  | Unknown |
 |                           [Shodan](https://developer.shodan.io/)                            | Search engine for Internet connected devices                                                                                                                         | `apiKey` |  Yes  | Unknown |
