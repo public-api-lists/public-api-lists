@@ -357,6 +357,7 @@ For information on contributing to this project, please see the [contributing gu
 |                               [SearchApi](https://www.searchapi.io/)                                | Real-time search engines SERP API                                                                   |    `apiKey`     |  Yes  |   No    |
 |                                   [SerpApi](https://serpapi.com/)                                   | Scrape Google and other search engines                                                              |    `apiKey`     |  Yes  |   No    |
 |                             [WebCrawlerAPI](https://webcrawlerapi.com/)                             | Easily extract content from websites                                                                |    `apiKey`     |  Yes  |   Yes   |
+|                                     [Zuplo](https://zuplo.com/)                                     | API platform for Development, Deployment, and Docs - add auth, rate-limiting, and monetization fast |    `apiKey`     |  Yes  |   Yes   |
 
 **[⬆ Back to Index](#index)**
 
