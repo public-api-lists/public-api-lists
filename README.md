@@ -967,6 +967,7 @@ For information on contributing to this project, please see the [contributing gu
 |            [JSONPlaceholder](http://jsonplaceholder.typicode.com/)            | Fake data for testing and prototyping                       |    No    |  No   | Unknown |
 |                       [Loripsum](http://loripsum.net/)                        | The "lorem ipsum" generator that doesn't suck               |    No    |  No   | Unknown |
 |                [Micro-Jaymock](https://micro-jaymock.now.sh/)                 | Tiny API mocking microservice for generating fake JSON data |    No    |  Yes  |   No    |
+|                         [Mockae](https://mockae.com/)                         | Fake REST API powered by Lua                                |    No    |  Yes  |   Yes   |
 |                      [RandomUser](https://randomuser.me)                      | Generates random user data                                  |    No    |  Yes  | Unknown |
 |                       [RoboHash](https://robohash.org/)                       | Generate random robot/alien avatars                         |    No    |  Yes  | Unknown |
 |       [This Person Does not Exist](https://thispersondoesnotexist.com)        | Generates real-life faces of people who do not exist        |    No    |  Yes  | Unknown |
