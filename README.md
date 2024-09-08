@@ -942,12 +942,12 @@ For information on contributing to this project, please see the [contributing gu
 |        [Cartola FC](https://github.com/wgenial/cartrolandofc)         | The Cartola FC API serves to check the partial points of your team                          |       No        |  Yes  | Unknown |
 |                [City Bikes](http://api.citybik.es/v2/)                | City Bikes around the world                                                                 |       No        |  No   | Unknown |
 |                  [Ergast F1](http://ergast.com/mrd/)                  | F1 data from the beginning of the world championships in 1950                               |       No        |  Yes  | Unknown |
-| [F1 Data API](https://github.com/Jacobbrewer1/f1-data) | Formula 1 data API that delivers data from the F1 Archive dating back to 1950 |       No        |  Yes  |   No    |
+|        [F1 Data API](https://github.com/Jacobbrewer1/f1-data)         | Formula 1 data API that delivers data from the F1 Archive dating back to 1950               |       No        |  Yes  |   No    |
 |                   [Fitbit](https://dev.fitbit.com/)                   | Fitbit Information                                                                          |     `OAuth`     |  Yes  | Unknown |
 |    [Football (Soccer) Videos](https://www.scorebat.com/video-api/)    | Embed codes for goals and highlights from Premier League, Bundesliga, Serie A and many more |       No        |  Yes  |   Yes   |
 |      [Football Prediction](https://boggio-analytics.com/fp-api/)      | Predictions for upcoming football matches, odds, results and stats                          | `X-Mashape-Key` |  Yes  | Unknown |
 |        [Football-Data.org](http://api.football-data.org/index)        | Football Data                                                                               |       No        |  No   | Unknown |
-| [Golf-Data](https://github.com/Jacobbrewer1/golf-data-docs) | Golf data API with golf course, club and hole information | No | Yes |   No    |
+|      [Golf-Data](https://github.com/Jacobbrewer1/golf-data-docs)      | Golf data API with golf course, club and hole information                                   |       No        |  Yes  |   No    |
 |           [JCDecaux Bike](https://developer.jcdecaux.com/)            | JCDecaux's self-service bicycles                                                            |    `apiKey`     |  Yes  | Unknown |
 | [NBA Stats](https://any-api.com/nba_com/nba_com/docs/API_Description) | Current and historical NBA Statistics                                                       |       No        |  Yes  | Unknown |
 |       [NHL Records and Stats](https://gitlab.com/dword4/nhlapi)       | NHL historical data and statistics                                                          |       No        |  Yes  | Unknown |
