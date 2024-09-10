@@ -967,6 +967,7 @@ For information on contributing to this project, please see the [contributing gu
 | [Beeceptor's CRUD APIs](https://beeceptor.com/crud-api/?ref=public-api-lists) | Free stateful CRUD APIs                                     |    No    |  Yes  |   Yes   |
 |               [Dicebear Avatars](https://avatars.dicebear.com/)               | Generate random pixel-art avatars                           |    No    |  Yes  |   No    |
 |                       [FakeJSON](https://fakejson.com)                        | Service to generate test and fake data                      | `apiKey` |  Yes  |   Yes   |
+|                      [JSONing](https://jsoning.com/api/)                      | Mock data for prototyping                                   |    No    |  Yes  |   Yes   |
 |            [JSONPlaceholder](http://jsonplaceholder.typicode.com/)            | Fake data for testing and prototyping                       |    No    |  No   | Unknown |
 |                       [Loripsum](http://loripsum.net/)                        | The "lorem ipsum" generator that doesn't suck               |    No    |  No   | Unknown |
 |                [Micro-Jaymock](https://micro-jaymock.now.sh/)                 | Tiny API mocking microservice for generating fake JSON data |    No    |  Yes  |   No    |
