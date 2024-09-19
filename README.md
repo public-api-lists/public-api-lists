@@ -380,6 +380,7 @@ For information on contributing to this project, please see the [contributing gu
 | [USGS](https://earthquake.usgs.gov/fdsnws/event/1/) | Earthquake Data                   | `apiKey` |  Yes  | Unknown |
 |    [RWLabs](https://apidoc.rwlabs.org/#api-use)     | All types of disaster data        | `apiKey` |  Yes  | Unknown |
 |      [PredictHQ](https://docs.predicthq.com/)       | Events and natural disasters data |  oAuth   |  Yes  | Unknown |
+|      [Ambee](https://www.getambee.com/api/natural-disasters)       | Natural Disasters API |  `apiKey`   |  Yes  | Unknown |
 
 **[⬆ Back to Index](#index)**
 
@@ -423,6 +424,8 @@ For information on contributing to this project, please see the [contributing gu
 |                      [PVWatts](https://developer.nrel.gov/docs/solar/pvwatts/v6/)                      | Energy production photovoltaic (PV) energy systems                                | `apiKey` |  Yes  | Unknown |
 | [UK Carbon Intensity](https://carbon-intensity.github.io/api-definitions/#carbon-intensity-api-v1-0-0) | The Official Carbon Intensity API for Great Britain developed by National Grid    |    No    |  Yes  | Unknown |
 |                 [NOAA Climate Data](https://www.ncdc.noaa.gov/cdo-web/webservices/v2)                  | The Official Climate Data API By National Oceanic And Atmopspheric Administration | `apiKey` |  Yes  | Unknown |
+|      [WeatherStack](https://weatherstack.com/documentation) | Humidity & Air & Pressure API | `apiKey` |  Yes  | Unknown |
+
 
 **[⬆ Back to Index](#index)**
 
@@ -480,11 +483,6 @@ For information on contributing to this project, please see the [contributing gu
 |                                             API                                              | Description                                                                                                                                                        |   Auth   | HTTPS |  CORS   |
 | :------------------------------------------------------------------------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :------: | :---: | :-----: |
 |           [FraudLabs Pro](https://www.fraudlabspro.com/developer/api/screen-order)           | Screen order information using AI to detect frauds                                                                                                                 | `apiKey` |  Yes  | Unknown |
-|   [Whitepages Pro](https://pro.whitepages.com/developer/documentation/identity-check-api/)   | Global identity verification with phone, address, email and IP                                                                                                     | `apiKey` |  Yes  | Unknown |
-|  [Whitepages Pro](https://pro.whitepages.com/developer/documentation/phone-reputation-api/)  | Phone reputation to detect spammy phones                                                                                                                           | `apiKey` |  Yes  | Unknown |
-|   [Whitepages Pro](https://pro.whitepages.com/developer/documentation/reverse-phone-api/)    | Get an owner’s name, address, demographics based on the phone number                                                                                               | `apiKey` |  Yes  | Unknown |
-| [Whitepages Pro](https://pro.whitepages.com/developer/documentation/phone-intelligence-api/) | Phone number validation, line_type, carrier append                                                                                                                 | `apiKey` |  Yes  | Unknown |
-|  [Whitepages Pro](https://pro.whitepages.com/developer/documentation/reverse-address-api/)   | Get normalized physical address, residents, address type and validity                                                                                              | `apiKey` |  Yes  | Unknown |
 |                          [Jumio](https://www.jumio.com/developer/)                           | Provides identity verification, KYC (Know Your Customer), and AML (Anti-Money Laundering) solutions, including document verification and biometric authentication. | `apiKey` |  Yes  | Unknown |
 |                           [Onfido](https://onfido.com/developers/)                           | Offers identity verification and background check services, including document verification and facial recognition.                                                | `apiKey` |  Yes  | Unknown |
 
@@ -675,7 +673,6 @@ For information on contributing to this project, please see the [contributing gu
 |                        [Indeed](https://www.indeed.com/publisher)                        | Job board aggregator                                                            | `apiKey` |  Yes  | Unknown |
 |                        [Jobicy](https://jobicy.com/jobs-rss-feed)                        | The latest remote job listings from a diverse range of industries and companies |    No    |  Yes  |   Yes   |
 |                 [Jobs2Careers](http://api.jobs2careers.com/api/spec.pdf)                 | Job aggregator                                                                  | `apiKey` |  Yes  | Unknown |
-|                        [Jooble](https://us.jooble.org/api/about)                         | Job search engine                                                               | `apiKey` |  Yes  | Unknown |
 |                       [Juju](http://www.juju.com/publisher/spec/)                        | Job search engine                                                               | `apiKey` |  No   | Unknown |
 |                              [OkJob](https://okjob.io/api)                               | 4 day week job board                                                            | `apiKey` |  Yes  | Unknown |
 | [Open Skills](https://github.com/workforce-data-initiative/skills-api/wiki/API-Overview) | Job titles, skills and related jobs data                                        |    No    |  No   | Unknown |
@@ -696,7 +693,6 @@ For information on contributing to this project, please see the [contributing gu
 |          [Deepcode](https://www.deepcode.ai/docs/Overview%252FOverview)           | AI for code review                                      |    No    |  Yes  | Unknown |
 |                       [Dialogflow](https://dialogflow.com)                        | Natural Language Processing                             | `apiKey` |  Yes  | Unknown |
 |                            [Keen IO](https://keen.io/)                            | Data Analytics                                          | `apiKey` |  Yes  | Unknown |
-|                         [Time Door](https://timedoor.io)                          | A time series analysis API                              | `apiKey` |  Yes  |   Yes   |
 |                     [Unplugg](https://unplu.gg/test_api.html)                     | Forecasting API for timeseries data                     | `apiKey` |  Yes  | Unknown |
 |                             [Wit.ai](https://wit.ai/)                             | Natural Language Processing                             | `OAuth`  |  Yes  | Unknown |
 
@@ -743,7 +739,6 @@ For information on contributing to this project, please see the [contributing gu
 |          [Feedbin](https://github.com/feedbin/feedbin-api)          | RSS reader                                                                                  | `OAuth`  |  Yes  | Unknown |
 |          [New York Times](https://developer.nytimes.com/)           | Provides news                                                                               | `apiKey` |  Yes  | Unknown |
 |                    [News](https://newsapi.org/)                     | Headlines currently published on a range of news sources and blogs                          | `apiKey` |  Yes  | Unknown |
-|                 [NPR One](http://dev.npr.org/api/)                  | Personalized news listening experience from NPR                                             | `OAuth`  |  Yes  | Unknown |
 |                     [OkSurf](https://ok.surf/)                      | Free Google News with OG Images                                                             |    No    |  Yes  |   Yes   |
 |        [The Guardian](http://open-platform.theguardian.com/)        | Access all the content the Guardian creates, categorised by tags and section                | `apiKey` |  Yes  | Unknown |
 |        [The Old Reader](https://github.com/theoldreader/api)        | RSS reader                                                                                  | `apiKey` |  Yes  | Unknown |
@@ -764,7 +759,6 @@ For information on contributing to this project, please see the [contributing gu
 |          [French Address Search](https://geo.api.gouv.fr/adresse)           | Address search via the French Government                                                           |    No    |  Yes  | Unknown |
 |              [Fruits](https://fruits-api.netlify.app/graphql)               | Information of fruit trees of the world                                                            |    No    |  Yes  |   No    |
 |                 [LinkPreview](https://www.linkpreview.net)                  | Get JSON formatted summary with title, description and preview image for any requested URL         | `apiKey` |  Yes  |   Yes   |
-|             [Marijuana Strains](http://strains.evanbusse.com/)              | Marijuana strains, races, flavors and effects                                                      | `apiKey` |  No   | Unknown |
 |                    [Microlink.io](https://microlink.io)                     | Extract structured data from any website                                                           |    No    |  Yes  |   Yes   |
 | [OpenCorporates](http://api.opencorporates.com/documentation/API-Reference) | Data on corporate entities and directors in many countries                                         | `apiKey` |  Yes  | Unknown |
 |                      [Quandl](https://www.quandl.com/)                      | Stock Market Data                                                                                  |    No    |  Yes  | Unknown |
