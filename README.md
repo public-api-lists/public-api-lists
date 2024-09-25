@@ -1119,7 +1119,6 @@ For information on contributing to this project, please see the [contributing gu
 | :--------------------------------------------------------------------: | ------------------------------------------------------------------------------------------------------------------------------ | :------: | :---: | :-----: |
 |           [7Timer!](http://www.7timer.info/doc.php?lang=en)            | Weather, especially for Astroweather                                                                                           |    No    |  No   | Unknown |
 |            [APIXU](https://www.apixu.com/doc/request.aspx)             | Weather                                                                                                                        | `apiKey` |  Yes  | Unknown |
-|                  [Dark Sky](https://darksky.net/dev/)                  | Weather                                                                                                                        | `apiKey` |  Yes  |   No    |
 |                  [DWD API](https://dwd.api.bund.dev/)                  | API of the German Weather Service (DWD): weather data, data from specific weather stations, warnings (local, coast, sea, alps) |    No    |  Yes  | Unknown |
 | [Meteorologisk Institutt](https://api.met.no/weatherapi/documentation) | Weather and climate data                                                                                                       |    No    |  Yes  | Unknown |
 |        [NOAA Climate Data](https://www.ncdc.noaa.gov/cdo-web/)         | Weather and climate data                                                                                                       | `apiKey` |  Yes  | Unknown |
@@ -1130,5 +1129,7 @@ For information on contributing to this project, please see the [contributing gu
 |                 [Storm Glass](https://stormglass.io/)                  | Global marine weather from multiple sources                                                                                    | `apiKey` |  Yes  |   Yes   |
 |      [Weather Hacks](http://weather.livedoor.com/weather_hacks/)       | Weather, for Japan                                                                                                             |    No    |  No   |   No    |
 |              [Weatherbit](https://www.weatherbit.io/api)               | Weather                                                                                                                        | `apiKey` |  Yes  | Unknown |
+|              [Stormglass](https://docs.stormglass.io/#/)               | Weather forecasts & historical data from the world’s most trusted meteorological institutions in one single API                                                                                                                      | `apiKey` |  Yes  | Unknown |
+|              [National Weather Service API](https://www.weather.gov/documentation/services-web-api)               | Weather forecasts & historical data from the world’s most trusted meteorological institutions in one single API     
 
 **[⬆ Back to Index](#index)**
