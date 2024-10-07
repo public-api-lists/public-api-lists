@@ -153,6 +153,7 @@ For information on contributing to this project, please see the [contributing gu
 |             [Charity Search](http://charityapi.orghunter.com/)             | Non-profit charity data                                                       | `apiKey` |  No   | Unknown |
 |            [Clearbit Logo](https://clearbit.com/docs#logo-api)             | Search for company logos and embed them in your projects                      | `apiKey` |  Yes  | Unknown |
 |                 [Domainsdb.info](https://domainsdb.info/)                  | Registered Domain Names Search                                                |    No    |  Yes  | Unknown |
+|                      [Favicon.im](https://favicon.im)                      | Instantly fetch and display the favicon for any website                       |    No    |  Yes  |   No    |
 |              [Freelancer](https://developers.freelancer.com)               | Hire freelancers to get work done                                             | `OAuth`  |  Yes  | Unknown |
 |             [Gmail](https://developers.google.com/gmail/api/)              | Flexible, RESTful access to the user's inbox                                  | `OAuth`  |  Yes  | Unknown |
 |        [Google Analytics](https://developers.google.com/analytics/)        | Collect, configure and analyze your data to reach the right audience          | `OAuth`  |  Yes  | Unknown |
