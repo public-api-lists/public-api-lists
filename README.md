@@ -77,7 +77,8 @@ For information on contributing to this project, please see the [contributing gu
 |                      [IUCN](http://apiv3.iucnredlist.org/api/v3/docs)                      | IUCN Red List of Threatened Species         | `apiKey` |  No   | Unknown |
 |                       [Meow Facts](https://meowfacts.herokuapp.com/)                       | 🐈 a simple api which returns a catfact     |    No    |  Yes  |   No    |
 |                  [Movebank](https://github.com/movebank/movebank-api-doc)                  | Movement and Migration data of animals      |    No    |  Yes  | Unknown |
-|                 [Petfinder](https://www.petfinder.com/developers/v2/docs/)                 | Adoption                                    | `OAuth`  |  Yes  |   Yes   |
+|                        [Open Dog Registry](https://registry.dog/)                          | Adoption                                    | `OAuth`  |  Yes  |   Yes   |
+|                 [Petfinder](https://www.petfinder.com/developers/v2/docs/)                 | Information and images of dog breeds        |    No    |  Yes  |   Yes   |
 |                      [RandomBigCat](https://randombig.cat/roar.json)                       | Random pictures of big cats                 |    No    |  Yes  |   Yes   |
 |                         [RandomDog](https://random.dog/woof.json)                          | Random pictures of dogs                     |    No    |  Yes  |   Yes   |
 |                          [RandomFox](https://randomfox.ca/floof/)                          | Random pictures of foxes                    |    No    |  Yes  |   No    |
