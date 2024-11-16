@@ -83,7 +83,6 @@ For information on contributing to this project, please see the [contributing gu
 |                         [RandomDog](https://random.dog/woof.json)                          | Random pictures of dogs                     |    No    |  Yes  |   Yes   |
 |                          [RandomFox](https://randomfox.ca/floof/)                          | Random pictures of foxes                    |    No    |  Yes  |   No    |
 | [RescueGroups](https://userguide.rescuegroups.org/display/APIDG/API+Developers+Guide+Home) | Adoption                                    |    No    |  Yes  | Unknown |
-|                            [Shibe.Online](http://shibe.online/)                            | Random pictures of Shibu Inu, cats or birds |    No    |  Yes  |   Yes   |
 
 **[⬆ Back to Index](#index)**
 
@@ -538,7 +537,6 @@ For information on contributing to this project, please see the [contributing gu
 | [Steam](https://developer.valvesoftware.com/wiki/Steam_Web_API) | Steam Client Interaction                                                                                     |     `OAuth`     |  Yes  | Unknown |
 |             [SuperHeroes](https://superheroapi.com)             | All SuperHeroes and Villains data from all universes under a single API                                      |    `apiKey`     |  Yes  | Unknown |
 |                [TCGdex](https://www.tcgdex.dev/)                | A Multilanguage Pokémon TCG Database with Cards Pictures and most of the informations contained on the cards |       No        |  Yes  |   Yes   |
-|           [Tronald Dump](https://www.tronalddump.io/)           | The dumbest things Donald Trump has ever said                                                                |       No        |  Yes  | Unknown |
 |       [Wargaming.net](https://developers.wargaming.net/)        | Wargaming.net info and stats                                                                                 |    `apiKey`     |  Yes  |   No    |
 |               [xkcd](https://xkcd.com/json.html)                | Retrieve xkcd comics as JSON                                                                                 |       No        |  Yes  |   No    |
 
@@ -576,7 +574,6 @@ For information on contributing to this project, please see the [contributing gu
 |                                        [IP (LabStack)](http://labstack.com/ip)                                         | Lookup country, region, city, time-zone, currency and language of an IP                             |    `apiKey`    |  Yes  |   Yes   |
 |                                           [IP Location](http://ip-api.com/)                                            | Find location with ip address                                                                       |       No       |  No   | Unknown |
 |                                            [IP Location](https://ipapi.co/)                                            | Find IP address location information                                                                |       No       |  Yes  | Unknown |
-|                                         [IP Sidekick](https://ipsidekick.com)                                          | Geolocation API that returns extra information about an IP address                                  |    `apiKey`    |  Yes  | Unknown |
 |                                      [IP Vigilante](https://www.ipvigilante.com/)                                      | Free IP Geolocation API                                                                             |       No       |  Yes  | Unknown |
 |                           [IP2Location](https://www.ip2location.com/web-service/ip2location)                           | IP geolocation web service to get more than 55 parameters                                           |    `apiKey`    |  Yes  | Unknown |
 |                                      [IP2Location.io](https://www.ip2location.io)                                      | Free IP geolocation API to geolocate user's location information                                    |    `apiKey`    |  Yes  |   Yes   |
@@ -587,7 +584,6 @@ For information on contributing to this project, please see the [contributing gu
 |                                      [ipgeolocation](https://ipgeolocation.com/)                                       | Find geolocation of any IP address with IP Geolocation API                                          |    `apiKey`    |  Yes  |   Yes   |
 |                                          [IsItWater](https://IsItWater.com/)                                           | A free API to determine if a lat/lon is on water or land                                            | `rapidapi-key` |  Yes  |   Yes   |
 |                          [Airtel IP](https://aether.epias.ltd/ip2country/1.1.1.1/?full=true)                           | IP Geolocation API. Collecting data from multiple sources                                           |       No       |  Yes  | Unknown |
-|                               [Kwelo Network](https://www.kwelo.com/network/ip-address)                                | Locate and get detailed information on IP address                                                   |       No       |  Yes  |   Yes   |
 |                                       [LocationIQ](https://locationiq.org/docs/)                                       | Provides forward/reverse geocoding and batch geocoding                                              |    `apiKey`    |  Yes  |   Yes   |
 |                                      [Mapbox](https://www.mapbox.com/developers/)                                      | Create/customize beautiful digital maps                                                             |    `apiKey`    |  Yes  | Unknown |
 |                                    [Mexico](https://github.com/IcaliaLabs/sepomex)                                     | Mexico RESTful zip codes API                                                                        |       No       |  Yes  | Unknown |
