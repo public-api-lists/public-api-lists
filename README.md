@@ -411,8 +411,8 @@ For information on contributing to this project, please see the [contributing gu
 |                                        API                                         | Description                                                      |   Auth   | HTTPS |  CORS  |
 | :--------------------------------------------------------------------------------: | ---------------------------------------------------------------- | :------: | :---: | :----: |
 | [Current Affairs](https://rapidapi.com/malaithiru370/api/current-affairs-of-india) | Current International Affairs, quizzes and more                  | `apiKey` |  Yes  |   No   |
-|                 [Secrets-APi](https://secrets-api.appbrewery.com/)                 | Used For Learning purpose Learn all security types with this api |   All    |  Yes  | Unkown |
 |                    [NationNode](https://nationnode.vercel.app)                     | Used to fetch the specific details about a country               |    No    |  Yes  |  Yes   |
+|                 [Secrets-APi](https://secrets-api.appbrewery.com/)                 | Used For Learning purpose Learn all security types with this api |   All    |  Yes  | Unkown |
 
 **[⬆ Back to Index](#index)**
 
