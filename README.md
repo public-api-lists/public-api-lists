@@ -64,25 +64,25 @@ For information on contributing to this project, please see the [contributing gu
 
 ### Animals
 
-|                                            API                                             | Description                                 |   Auth   | HTTPS |  CORS   |
-| :----------------------------------------------------------------------------------------: | ------------------------------------------- | :------: | :---: | :-----: |
-|                  [Cat Facts](https://alexwohlbruck.github.io/cat-facts/)                   | Daily cat facts                             |    No    |  Yes  |   No    |
-|                            [Cats](https://docs.thecatapi.com/)                             | Pictures of cats from Tumblr                | `apiKey` |  Yes  | Unknown |
-|                               [Cataas](https://cataas.com/)                                | Cat as a service (cats pictures and gifs)   |    No    |  Yes  | Unknown |
-|                               [Dog API](https://dogapi.dog)                                | Fun facts on dog breeds and groups          |    No    |  Yes  | Unknown |
-|                              [Dogs](https://dog.ceo/dog-api/)                              | Based on the Stanford Dogs Dataset          |    No    |  Yes  |   Yes   |
-|                                [Foxes](https://foxes.cool)                                 | Random fox images with different tags       |    No    |  Yes  |   Yes   |
-|                                [HTTPCat](https://http.cat/)                                | Cat for every HTTP Status                   |    No    |  Yes  | Unknown |
-|                               [HTTP Dogs](https://http.dog/)                               | Dogs for every HTTP status code             |    No    |  Yes  | Unknown |
-|                      [IUCN](http://apiv3.iucnredlist.org/api/v3/docs)                      | IUCN Red List of Threatened Species         | `apiKey` |  No   | Unknown |
-|                       [Meow Facts](https://meowfacts.herokuapp.com/)                       | 🐈 a simple api which returns a catfact     |    No    |  Yes  |   No    |
-|                  [Movebank](https://github.com/movebank/movebank-api-doc)                  | Movement and Migration data of animals      |    No    |  Yes  | Unknown |
-|                        [Open Dog Registry](https://registry.dog/)                          | Adoption                                    | `OAuth`  |  Yes  |   Yes   |
-|                 [Petfinder](https://www.petfinder.com/developers/v2/docs/)                 | Information and images of dog breeds        |    No    |  Yes  |   Yes   |
-|                      [RandomBigCat](https://randombig.cat/roar.json)                       | Random pictures of big cats                 |    No    |  Yes  |   Yes   |
-|                         [RandomDog](https://random.dog/woof.json)                          | Random pictures of dogs                     |    No    |  Yes  |   Yes   |
-|                          [RandomFox](https://randomfox.ca/floof/)                          | Random pictures of foxes                    |    No    |  Yes  |   No    |
-| [RescueGroups](https://userguide.rescuegroups.org/display/APIDG/API+Developers+Guide+Home) | Adoption                                    |    No    |  Yes  | Unknown |
+|                                            API                                             | Description                               |   Auth   | HTTPS |  CORS   |
+| :----------------------------------------------------------------------------------------: | ----------------------------------------- | :------: | :---: | :-----: |
+|                  [Cat Facts](https://alexwohlbruck.github.io/cat-facts/)                   | Daily cat facts                           |    No    |  Yes  |   No    |
+|                            [Cats](https://docs.thecatapi.com/)                             | Pictures of cats from Tumblr              | `apiKey` |  Yes  | Unknown |
+|                               [Cataas](https://cataas.com/)                                | Cat as a service (cats pictures and gifs) |    No    |  Yes  | Unknown |
+|                               [Dog API](https://dogapi.dog)                                | Fun facts on dog breeds and groups        |    No    |  Yes  | Unknown |
+|                              [Dogs](https://dog.ceo/dog-api/)                              | Based on the Stanford Dogs Dataset        |    No    |  Yes  |   Yes   |
+|                                [Foxes](https://foxes.cool)                                 | Random fox images with different tags     |    No    |  Yes  |   Yes   |
+|                                [HTTPCat](https://http.cat/)                                | Cat for every HTTP Status                 |    No    |  Yes  | Unknown |
+|                               [HTTP Dogs](https://http.dog/)                               | Dogs for every HTTP status code           |    No    |  Yes  | Unknown |
+|                      [IUCN](http://apiv3.iucnredlist.org/api/v3/docs)                      | IUCN Red List of Threatened Species       | `apiKey` |  No   | Unknown |
+|                       [Meow Facts](https://meowfacts.herokuapp.com/)                       | 🐈 a simple api which returns a catfact   |    No    |  Yes  |   No    |
+|                  [Movebank](https://github.com/movebank/movebank-api-doc)                  | Movement and Migration data of animals    |    No    |  Yes  | Unknown |
+|                         [Open Dog Registry](https://registry.dog/)                         | Adoption                                  | `OAuth`  |  Yes  |   Yes   |
+|                 [Petfinder](https://www.petfinder.com/developers/v2/docs/)                 | Information and images of dog breeds      |    No    |  Yes  |   Yes   |
+|                      [RandomBigCat](https://randombig.cat/roar.json)                       | Random pictures of big cats               |    No    |  Yes  |   Yes   |
+|                         [RandomDog](https://random.dog/woof.json)                          | Random pictures of dogs                   |    No    |  Yes  |   Yes   |
+|                          [RandomFox](https://randomfox.ca/floof/)                          | Random pictures of foxes                  |    No    |  Yes  |   No    |
+| [RescueGroups](https://userguide.rescuegroups.org/display/APIDG/API+Developers+Guide+Home) | Adoption                                  |    No    |  Yes  | Unknown |
 
 **[⬆ Back to Index](#index)**
 
@@ -376,12 +376,12 @@ For information on contributing to this project, please see the [contributing gu
 
 ### Disasters
 
-|                         API                         | Description                       |   Auth   | HTTPS |  CORS   |
-| :-------------------------------------------------: | --------------------------------- | :------: | :---: | :-----: |
-| [USGS](https://earthquake.usgs.gov/fdsnws/event/1/) | Earthquake Data                   | `apiKey` |  Yes  | Unknown |
-|    [RWLabs](https://apidoc.rwlabs.org/#api-use)     | All types of disaster data        | `apiKey` |  Yes  | Unknown |
-|      [PredictHQ](https://docs.predicthq.com/)       | Events and natural disasters data |  oAuth   |  Yes  | Unknown |
-|      [Ambee](https://www.getambee.com/api/natural-disasters)       | Natural Disasters API |  `apiKey`   |  Yes  | Unknown |
+|                           API                           | Description                       |   Auth   | HTTPS |  CORS   |
+| :-----------------------------------------------------: | --------------------------------- | :------: | :---: | :-----: |
+|   [USGS](https://earthquake.usgs.gov/fdsnws/event/1/)   | Earthquake Data                   | `apiKey` |  Yes  | Unknown |
+|      [RWLabs](https://apidoc.rwlabs.org/#api-use)       | All types of disaster data        | `apiKey` |  Yes  | Unknown |
+|        [PredictHQ](https://docs.predicthq.com/)         | Events and natural disasters data |  oAuth   |  Yes  | Unknown |
+| [Ambee](https://www.getambee.com/api/natural-disasters) | Natural Disasters API             | `apiKey` |  Yes  | Unknown |
 
 **[⬆ Back to Index](#index)**
 
@@ -411,6 +411,7 @@ For information on contributing to this project, please see the [contributing gu
 |                                        API                                         | Description                                                      |   Auth   | HTTPS |  CORS  |
 | :--------------------------------------------------------------------------------: | ---------------------------------------------------------------- | :------: | :---: | :----: |
 | [Current Affairs](https://rapidapi.com/malaithiru370/api/current-affairs-of-india) | Current International Affairs, quizzes and more                  | `apiKey` |  Yes  |   No   |
+|                    [NationNode](https://nationnode.vercel.app)                     | Used to fetch the specific details about a country               |    No    |  Yes  |  Yes   |
 |                 [Secrets-APi](https://secrets-api.appbrewery.com/)                 | Used For Learning purpose Learn all security types with this api |   All    |  Yes  | Unkown |
 
 **[⬆ Back to Index](#index)**
@@ -425,8 +426,7 @@ For information on contributing to this project, please see the [contributing gu
 |                      [PVWatts](https://developer.nrel.gov/docs/solar/pvwatts/v6/)                      | Energy production photovoltaic (PV) energy systems                                | `apiKey` |  Yes  | Unknown |
 | [UK Carbon Intensity](https://carbon-intensity.github.io/api-definitions/#carbon-intensity-api-v1-0-0) | The Official Carbon Intensity API for Great Britain developed by National Grid    |    No    |  Yes  | Unknown |
 |                 [NOAA Climate Data](https://www.ncdc.noaa.gov/cdo-web/webservices/v2)                  | The Official Climate Data API By National Oceanic And Atmopspheric Administration | `apiKey` |  Yes  | Unknown |
-|      [WeatherStack](https://weatherstack.com/documentation) | Humidity & Air & Pressure API | `apiKey` |  Yes  | Unknown |
-
+|                         [WeatherStack](https://weatherstack.com/documentation)                         | Humidity & Air & Pressure API                                                     | `apiKey` |  Yes  | Unknown |
 
 **[⬆ Back to Index](#index)**
 
@@ -481,11 +481,11 @@ For information on contributing to this project, please see the [contributing gu
 
 ### Fraud Prevention
 
-|                                             API                                              | Description                                                                                                                                                        |   Auth   | HTTPS |  CORS   |
-| :------------------------------------------------------------------------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :------: | :---: | :-----: |
-|           [FraudLabs Pro](https://www.fraudlabspro.com/developer/api/screen-order)           | Screen order information using AI to detect frauds                                                                                                                 | `apiKey` |  Yes  | Unknown |
-|                          [Jumio](https://www.jumio.com/developer/)                           | Provides identity verification, KYC (Know Your Customer), and AML (Anti-Money Laundering) solutions, including document verification and biometric authentication. | `apiKey` |  Yes  | Unknown |
-|                           [Onfido](https://onfido.com/developers/)                           | Offers identity verification and background check services, including document verification and facial recognition.                                                | `apiKey` |  Yes  | Unknown |
+|                                   API                                    | Description                                                                                                                                                        |   Auth   | HTTPS |  CORS   |
+| :----------------------------------------------------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :------: | :---: | :-----: |
+| [FraudLabs Pro](https://www.fraudlabspro.com/developer/api/screen-order) | Screen order information using AI to detect frauds                                                                                                                 | `apiKey` |  Yes  | Unknown |
+|                [Jumio](https://www.jumio.com/developer/)                 | Provides identity verification, KYC (Know Your Customer), and AML (Anti-Money Laundering) solutions, including document verification and biometric authentication. | `apiKey` |  Yes  | Unknown |
+|                 [Onfido](https://onfido.com/developers/)                 | Offers identity verification and background check services, including document verification and facial recognition.                                                | `apiKey` |  Yes  | Unknown |
 
 **[⬆ Back to Index](#index)**
 
@@ -562,7 +562,7 @@ For information on contributing to this project, please see the [contributing gu
 |                               [GeoDataSource](https://www.geodatasource.com/web-service)                               | Geocoding of city name by using latitude and longitude coordinates                                  |    `apiKey`    |  Yes  | Unknown |
 |                                               [GeoJS](https://geojs.io/)                                               | IP geolocation with ChatOps integration                                                             |       No       |  Yes  |   Yes   |
 |                                             [Geokeo](https://geokeo.com/)                                              | Forward and Reverse Geocoding with 2500 free daily limit                                            |    `apikey`    |  Yes  |   Yes   |
-|                               [Geolocated.io](https://geolocated.io/)                                | Free IP Geolocation API: 2000 daily lookups, multiple servers worldwide                             |    `apikey`    |  Yes  |   Yes   |
+|                                        [Geolocated.io](https://geolocated.io/)                                         | Free IP Geolocation API: 2000 daily lookups, multiple servers worldwide                             |    `apikey`    |  Yes  |   Yes   |
 |                                         [geoPlugin](https://www.geoplugin.com)                                         | IP geolocation and currency conversion                                                              |       No       |  Yes  |   Yes   |
 |                           [Google Earth Engine](https://developers.google.com/earth-engine/)                           | A cloud-based platform for planetary-scale environmental data analysis                              |    `apiKey`    |  Yes  | Unknown |
 |                                   [Google Maps](https://developers.google.com/maps/)                                   | Create/customize digital maps based on Google Maps data                                             |    `apiKey`    |  Yes  | Unknown |
@@ -1086,49 +1086,49 @@ For information on contributing to this project, please see the [contributing gu
 
 ### Video
 
-|                                                API                                                 | Description                                                                             |   Auth   | HTTPS |  CORS   |
-| :------------------------------------------------------------------------------------------------: | --------------------------------------------------------------------------------------- | :------: | :---: | :-----: |
-|                      [An API of Ice And Fire](https://anapioficeandfire.com/)                      | Game Of Thrones API                                                                     |    No    |  Yes  | Unknown |
-| [Bob's Burgers API](https://bobsburgersapi.com/) | The Bob's Burgers API contains data for hundreds of characters, episodes, running gags, and images from the show  | No | Yes | Yes |
-|               [Breaking Bad Quotes](https://github.com/shevabam/breaking-bad-quotes)               | Some Breaking Bad quotes                                                                |    No    |  Yes  | Unknown |
-|                  [Czech Television](http://www.ceskatelevize.cz/xml/tv-program/)                   | TV programme of Czech TV                                                                |    No    |  No   | Unknown |
-|                         [Dailymotion](https://developer.dailymotion.com/)                          | Dailymotion Developer API                                                               | `OAuth`  |  Yes  | Unknown |
-|                            [Dune](https://github.com/ywalia01/dune-api)                            | Dune API                                                                                |    No    |  Yes  | Unknown |
-|                             [Harry Potter](https://www.potterapi.com/)                             | Harry Potter API                                                                        | `apiKey` |  Yes  |   Yes   |
-|                           [Open Movie Database](http://www.omdbapi.com/)                           | Movie information                                                                       | `apiKey` |  Yes  | Unknown |
-|                    [Owen Wilson Wow](https://owen-wilson-wow-api.onrender.com/)                    | API for actor Owen Wilson's "wow" exclamations in movies                                |    No    |  Yes  |   Yes   |
-|                                 [Potter DB](https://potterdb.com)                                  | Data from the Harry Potter Universe: Characters, Movies, Books, Spells and Potions      |    No    |  Yes  | Unknown |
-| [Ron Swanson Quotes](https://github.com/jamesseanwright/ron-swanson-quotes#ron-swanson-quotes-api) | Television                                                                              |    No    |  Yes  | Unknown |
-| [Shrek Quotes](https://shrekofficial.com) | Shrek quotes and more, but mainly quotes | No | Yes | Yes |
-|               [South Park Quotes](https://github.com/Thatskat/southpark-quotes-api)                | A pretty simple API to let you retrieve some of the best quotes from South Park, mmkay! |    No    |  Yes  |   Yes   |
-|                                     [STAPI](https://stapi.co)                                      | Information on all things Star Trek                                                     |    No    |  Yes  |   Yes   |
-|                        [TMDb](https://www.themoviedb.org/documentation/api)                        | Community-based movie data                                                              | `apiKey` |  Yes  | Unknown |
-|                                [Trakt](https://trakt.tv/b/api-docs)                                | Movie and TV Data                                                                       | `apiKey` |  Yes  |   Yes   |
-|                              [TVDB](https://api.thetvdb.com/swagger)                               | Television data                                                                         | `apiKey` |  Yes  | Unknown |
-|                                [TVMaze](http://www.tvmaze.com/api)                                 | TV Show Data                                                                            |    No    |  No   | Unknown |
-|                               [Vimeo](https://developer.vimeo.com/)                                | Vimeo Developer API                                                                     | `OAuth`  |  Yes  | Unknown |
-|                         [YouTube](https://developers.google.com/youtube/)                          | Add YouTube functionality to your sites and apps                                        | `OAuth`  |  Yes  | Unknown |
-|                                 [Shotstack](https://shotstack.io/)                                 | Develop video applications with cloud-based video editing API                           | `apiKey` |  Yes  | Unknown |
+|                                                API                                                 | Description                                                                                                      |   Auth   | HTTPS |  CORS   |
+| :------------------------------------------------------------------------------------------------: | ---------------------------------------------------------------------------------------------------------------- | :------: | :---: | :-----: |
+|                      [An API of Ice And Fire](https://anapioficeandfire.com/)                      | Game Of Thrones API                                                                                              |    No    |  Yes  | Unknown |
+|                          [Bob's Burgers API](https://bobsburgersapi.com/)                          | The Bob's Burgers API contains data for hundreds of characters, episodes, running gags, and images from the show |    No    |  Yes  |   Yes   |
+|               [Breaking Bad Quotes](https://github.com/shevabam/breaking-bad-quotes)               | Some Breaking Bad quotes                                                                                         |    No    |  Yes  | Unknown |
+|                  [Czech Television](http://www.ceskatelevize.cz/xml/tv-program/)                   | TV programme of Czech TV                                                                                         |    No    |  No   | Unknown |
+|                         [Dailymotion](https://developer.dailymotion.com/)                          | Dailymotion Developer API                                                                                        | `OAuth`  |  Yes  | Unknown |
+|                            [Dune](https://github.com/ywalia01/dune-api)                            | Dune API                                                                                                         |    No    |  Yes  | Unknown |
+|                             [Harry Potter](https://www.potterapi.com/)                             | Harry Potter API                                                                                                 | `apiKey` |  Yes  |   Yes   |
+|                           [Open Movie Database](http://www.omdbapi.com/)                           | Movie information                                                                                                | `apiKey` |  Yes  | Unknown |
+|                    [Owen Wilson Wow](https://owen-wilson-wow-api.onrender.com/)                    | API for actor Owen Wilson's "wow" exclamations in movies                                                         |    No    |  Yes  |   Yes   |
+|                                 [Potter DB](https://potterdb.com)                                  | Data from the Harry Potter Universe: Characters, Movies, Books, Spells and Potions                               |    No    |  Yes  | Unknown |
+| [Ron Swanson Quotes](https://github.com/jamesseanwright/ron-swanson-quotes#ron-swanson-quotes-api) | Television                                                                                                       |    No    |  Yes  | Unknown |
+|                             [Shrek Quotes](https://shrekofficial.com)                              | Shrek quotes and more, but mainly quotes                                                                         |    No    |  Yes  |   Yes   |
+|               [South Park Quotes](https://github.com/Thatskat/southpark-quotes-api)                | A pretty simple API to let you retrieve some of the best quotes from South Park, mmkay!                          |    No    |  Yes  |   Yes   |
+|                                     [STAPI](https://stapi.co)                                      | Information on all things Star Trek                                                                              |    No    |  Yes  |   Yes   |
+|                        [TMDb](https://www.themoviedb.org/documentation/api)                        | Community-based movie data                                                                                       | `apiKey` |  Yes  | Unknown |
+|                                [Trakt](https://trakt.tv/b/api-docs)                                | Movie and TV Data                                                                                                | `apiKey` |  Yes  |   Yes   |
+|                              [TVDB](https://api.thetvdb.com/swagger)                               | Television data                                                                                                  | `apiKey` |  Yes  | Unknown |
+|                                [TVMaze](http://www.tvmaze.com/api)                                 | TV Show Data                                                                                                     |    No    |  No   | Unknown |
+|                               [Vimeo](https://developer.vimeo.com/)                                | Vimeo Developer API                                                                                              | `OAuth`  |  Yes  | Unknown |
+|                         [YouTube](https://developers.google.com/youtube/)                          | Add YouTube functionality to your sites and apps                                                                 | `OAuth`  |  Yes  | Unknown |
+|                                 [Shotstack](https://shotstack.io/)                                 | Develop video applications with cloud-based video editing API                                                    | `apiKey` |  Yes  | Unknown |
 
 **[⬆ Back to Index](#index)**
 
 ### Weather
 
-|                                  API                                   | Description                                                                                                                    |   Auth   | HTTPS |  CORS   |
-| :--------------------------------------------------------------------: | ------------------------------------------------------------------------------------------------------------------------------ | :------: | :---: | :-----: |
-|           [7Timer!](http://www.7timer.info/doc.php?lang=en)            | Weather, especially for Astroweather                                                                                           |    No    |  No   | Unknown |
-|            [APIXU](https://www.apixu.com/doc/request.aspx)             | Weather                                                                                                                        | `apiKey` |  Yes  | Unknown |
-|                  [DWD API](https://dwd.api.bund.dev/)                  | API of the German Weather Service (DWD): weather data, data from specific weather stations, warnings (local, coast, sea, alps) |    No    |  Yes  | Unknown |
-| [Meteorologisk Institutt](https://api.met.no/weatherapi/documentation) | Weather and climate data                                                                                                       |    No    |  Yes  | Unknown |
-|        [NOAA Climate Data](https://www.ncdc.noaa.gov/cdo-web/)         | Weather and climate data                                                                                                       | `apiKey` |  Yes  | Unknown |
-|       [ODWeather](http://api.oceandrivers.com/static/docs.html)        | Weather and weather webcams                                                                                                    |    No    |  No   | Unknown |
-|                 [Open-Meteo](https://open-meteo.com/)                  | Global weather forecast API for non-commercial use                                                                             |    No    |  Yes  |   Yes   |
-|                    [OpenUV](https://www.openuv.io)                     | Real-time UV Index Forecast                                                                                                    | `apiKey` |  Yes  | Unknown |
-|            [OpenWeatherMap](http://openweathermap.org/api)             | Weather                                                                                                                        | `apiKey` |  No   | Unknown |
-|                 [Storm Glass](https://stormglass.io/)                  | Global marine weather from multiple sources                                                                                    | `apiKey` |  Yes  |   Yes   |
-|      [Weather Hacks](http://weather.livedoor.com/weather_hacks/)       | Weather, for Japan                                                                                                             |    No    |  No   |   No    |
-|              [Weatherbit](https://www.weatherbit.io/api)               | Weather                                                                                                                        | `apiKey` |  Yes  | Unknown |
-|              [Stormglass](https://docs.stormglass.io/#/)               | Weather forecasts & historical data from the world’s most trusted meteorological institutions in one single API                                                                                                                      | `apiKey` |  Yes  | Unknown |
-|              [National Weather Service API](https://www.weather.gov/documentation/services-web-api)               | Weather forecasts & historical data from the world’s most trusted meteorological institutions in one single API     
+|                                          API                                           | Description                                                                                                                    |   Auth   | HTTPS |  CORS   |
+| :------------------------------------------------------------------------------------: | ------------------------------------------------------------------------------------------------------------------------------ | :------: | :---: | :-----: |
+|                   [7Timer!](http://www.7timer.info/doc.php?lang=en)                    | Weather, especially for Astroweather                                                                                           |    No    |  No   | Unknown |
+|                    [APIXU](https://www.apixu.com/doc/request.aspx)                     | Weather                                                                                                                        | `apiKey` |  Yes  | Unknown |
+|                          [DWD API](https://dwd.api.bund.dev/)                          | API of the German Weather Service (DWD): weather data, data from specific weather stations, warnings (local, coast, sea, alps) |    No    |  Yes  | Unknown |
+|         [Meteorologisk Institutt](https://api.met.no/weatherapi/documentation)         | Weather and climate data                                                                                                       |    No    |  Yes  | Unknown |
+|                [NOAA Climate Data](https://www.ncdc.noaa.gov/cdo-web/)                 | Weather and climate data                                                                                                       | `apiKey` |  Yes  | Unknown |
+|               [ODWeather](http://api.oceandrivers.com/static/docs.html)                | Weather and weather webcams                                                                                                    |    No    |  No   | Unknown |
+|                         [Open-Meteo](https://open-meteo.com/)                          | Global weather forecast API for non-commercial use                                                                             |    No    |  Yes  |   Yes   |
+|                            [OpenUV](https://www.openuv.io)                             | Real-time UV Index Forecast                                                                                                    | `apiKey` |  Yes  | Unknown |
+|                    [OpenWeatherMap](http://openweathermap.org/api)                     | Weather                                                                                                                        | `apiKey` |  No   | Unknown |
+|                         [Storm Glass](https://stormglass.io/)                          | Global marine weather from multiple sources                                                                                    | `apiKey` |  Yes  |   Yes   |
+|              [Weather Hacks](http://weather.livedoor.com/weather_hacks/)               | Weather, for Japan                                                                                                             |    No    |  No   |   No    |
+|                      [Weatherbit](https://www.weatherbit.io/api)                       | Weather                                                                                                                        | `apiKey` |  Yes  | Unknown |
+|                      [Stormglass](https://docs.stormglass.io/#/)                       | Weather forecasts & historical data from the world’s most trusted meteorological institutions in one single API                | `apiKey` |  Yes  | Unknown |
+| [National Weather Service API](https://www.weather.gov/documentation/services-web-api) | Weather forecasts & historical data from the world’s most trusted meteorological institutions in one single API                |
 
 **[⬆ Back to Index](#index)**
