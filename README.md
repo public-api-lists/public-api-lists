@@ -468,6 +468,7 @@ For information on contributing to this project, please see the [contributing gu
 |                           [LCBO](https://lcboapi.com/)                           | Alcohol                                           | `apiKey` |  Yes  | Unknown |
 |                 [Open Brewery DB](https://www.openbrewerydb.org)                 | Breweries, Cideries and Craft Beer Bottle Shops   |    No    |  Yes  |   Yes   |
 |             [Open Food Facts](https://world.openfoodfacts.org/data)              | Food Products Database                            |    No    |  Yes  | Unknown |
+|                 [PunkAPI](https://github.com/alxiw/punkapi)                      | BrewDog's DIY Dog beer catalogue as an API        |    No    |  Yes  |   Yes   |
 |                 [Spoonacular](https://spoonacular.com/food-api)                  | Food and Recipes                                  | `apikey` |  Yes  | Unknown |
 |                [TacoFancy](https://github.com/evz/tacofancy-api)                 | Community-driven taco database                    |    No    |  No   | Unknown |
 | [The Report of the Week](https://github.com/andyklimczak/TheReportOfTheWeek-API) | Food & Drink Reviews                              |    No    |  Yes  | Unknown |
