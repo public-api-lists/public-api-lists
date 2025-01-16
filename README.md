@@ -812,11 +812,11 @@ For information on contributing to this project, please see the [contributing gu
 |        [NaMoMemes](https://github.com/theIYD/NaMoMemes)         | Memes on Narendra Modi                                                 |    No    |  Yes  | Unknown |
 | [Programming Quotes](https://programming-quotesapi.vercel.app/) | An api which generates quotes from programmers                         |    No    |  Yes  |   Yes   |
 | [Quote Garden](https://pprathameshmore.github.io/QuoteGarden/)  | REST API for more than 5000 famous quotes                              |    No    |  Yes  | Unknown |
+|        [Quoterism](https://www.quoterism.com/developer)         | Inspirational Quotes                                                   |    No    |  Yes  | Unknown |
 |       [Quotes on Design](https://quotesondesign.com/api/)       | Inspirational Quotes                                                   |    No    |  Yes  | Unknown |
 |         [Riddles API](https://riddles-api.vercel.app/)          | Get random riddles on every API call.                                  |    No    |  Yes  |   Yes   |
 |         [Traitify](https://app.traitify.com/developer)          | Assess, collect and analyze Personality                                |    No    |  Yes  | Unknown |
 |          [tronalddump.io](https://www.tronalddump.io)           | Api & web archive for the things Donald Trump has said                 |    No    |  Yes  | Unknown |
-|        [Quoterism](https://www.quoterism.com/developer)         | Inspirational Quotes                                                   |    No    |  Yes  | Unknown |
 
 **[⬆ Back to Index](#index)**
 
