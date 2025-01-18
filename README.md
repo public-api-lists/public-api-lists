@@ -924,6 +924,7 @@ For information on contributing to this project, please see the [contributing gu
 |            [Twitter](https://developer.twitter.com/en/docs)            | Read and write Twitter data                                                                       | `OAuth`  |  Yes  |   No    |
 |                     [vk](https://vk.com/dev/sites)                     | Read and write vk data                                                                            | `OAuth`  |  Yes  | Unknown |
 |              [SharedCount](http://docs.sharedcount.com/)               | Track Pinterest & Facebook Shares                                                                 | `apiKey` |  Yes  | Unknown |
+|              [TwitterApi](http://twitterapi.io/)                       | Mass Twitter data read API                                                                        | `apiKey` |  Yes  | No |
 
 **[⬆ Back to Index](#index)**
 
