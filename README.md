@@ -84,7 +84,7 @@ For information on contributing to this project, please see the [contributing gu
 |                          [RandomFox](https://randomfox.ca/floof/)                          | Random pictures of foxes                  |    No    |  Yes  |   No    |
 | [RescueGroups](https://userguide.rescuegroups.org/display/APIDG/API+Developers+Guide+Home) | Adoption                                  |    No    |  Yes  | Unknown |
 
-**[⬆ Back to Index](#index)**
+*[⬆ Back to Index](#index)**
 
 ### Anime
 
