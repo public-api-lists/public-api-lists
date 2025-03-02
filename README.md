@@ -450,6 +450,7 @@ For information on contributing to this project, please see the [contributing gu
 | :----------------------------------------------------------------------: | ------------------------------------------------------------- | :------: | :---: | :-----: |
 |              [Alpha Vantage](https://www.alphavantage.co/)               | Realtime and historical stock data                            | `apiKey` |  Yes  | Unknown |
 |        [Barchart OnDemand](https://www.barchartondemand.com/free)        | Stock, Futures and Forex Market Data                          | `apiKey` |  Yes  | Unknown |
+|      [Financial Data](https://financialdata.net/)                        | Stock Market and Financial Data                               | `apiKey` |  Yes  | Unknown |
 |      [Financial Modeling Prep](https://financialmodelingprep.com/)       | Stock information and data                                    | `apiKey` |  Yes  | Unknown |
 |         [Fincept Insights](https://insights.fincept.in/)                 | finanical markets, economic, news data & analytics            | `apiKey` |  Yes  | Unknown |
 |                 [IEX](https://iextrading.com/developer/)                 | Realtime stock data                                           | `apiKey` |  Yes  |   Yes   |
