@@ -1,4 +1,4 @@
-code# Public API Lists
+# Public API Lists
 
 [![Stars](https://img.shields.io/github/stars/public-api-lists/public-api-lists?style=flat-square)](https://github.com/public-api-lists/public-api-lists/stargazers)
 [![Fork](https://img.shields.io/github/forks/public-api-lists/public-api-lists?style=flat-square)](https://github.com/public-api-lists/public-api-lists/fork)
@@ -92,13 +92,12 @@ For information on contributing to this project, please see the [contributing gu
 | :-----------------------------------------------------------------------: | ------------------------------------------------- | :------: | :---: | :-----: |
 |         [AniList](https://github.com/AniList/ApiV2-GraphQL-Docs)          | Anime discovery & tracking                        | `OAuth`  |  Yes  | Unknown |
 | [AnimeNewsNetwork](https://www.animenewsnetwork.com/encyclopedia/api.php) | Anime industry news                               |    No    |  Yes  |   Yes   |
-| [AOT quotes](https://attackontitanquotes.vercel.app/)                     | Attack on Titan Quotes API                        |    No    |  Yes  |   Yes   |
+|           [AOT quotes](https://attackontitanquotes.vercel.app/)           | Attack on Titan Quotes API                        |    No    |  Yes  |   Yes   |
 |                        [Jikan](https://jikan.moe)                         | Unofficial MyAnimeList API                        |    No    |  Yes  |   Yes   |
 |                   [Kitsu](http://docs.kitsu.apiary.io/)                   | Anime discovery platform                          | `OAuth`  |  Yes  | Unknown |
 |          [What Anime](https://soruly.github.io/trace.moe-api/#/)          | Scan anime image to get specific detail           | `apiKey` |  Yes  | Unknown |
 |                [Mangadex](https://api.mangadex.org/docs/)                 | ad-free manga reader offering high-quality images |    No    |  Yes  | Unknown |
 |                    [Nekosia API](https://nekosia.cat)                     | Anime API with cute random images                 |    No    |  Yes  | Unknown |
-
 
 **[⬆ Back to Index](#index)**
 
@@ -450,9 +449,9 @@ For information on contributing to this project, please see the [contributing gu
 | :----------------------------------------------------------------------: | ------------------------------------------------------------- | :------: | :---: | :-----: |
 |              [Alpha Vantage](https://www.alphavantage.co/)               | Realtime and historical stock data                            | `apiKey` |  Yes  | Unknown |
 |        [Barchart OnDemand](https://www.barchartondemand.com/free)        | Stock, Futures and Forex Market Data                          | `apiKey` |  Yes  | Unknown |
-|      [Financial Data](https://financialdata.net/)                        | Stock Market and Financial Data                               | `apiKey` |  Yes  | Unknown |
+|               [Financial Data](https://financialdata.net/)               | Stock Market and Financial Data                               | `apiKey` |  Yes  | Unknown |
 |      [Financial Modeling Prep](https://financialmodelingprep.com/)       | Stock information and data                                    | `apiKey` |  Yes  | Unknown |
-|         [Fincept Insights](https://insights.fincept.in/)                 | finanical markets, economic, news data & analytics            | `apiKey` |  Yes  | Unknown |
+|             [Fincept Insights](https://insights.fincept.in/)             | finanical markets, economic, news data & analytics            | `apiKey` |  Yes  | Unknown |
 |                 [IEX](https://iextrading.com/developer/)                 | Realtime stock data                                           | `apiKey` |  Yes  |   Yes   |
 |                    [IEX Cloud](https://iexcloud.io/)                     | Realtime & Historical Stock and Market Data                   | `apiKey` |  Yes  |   Yes   |
 |                 [IG](https://labs.ig.com/gettingstarted)                 | Spreadbetting and CFD Market Data                             | `apiKey` |  Yes  | Unknown |
@@ -473,7 +472,7 @@ For information on contributing to this project, please see the [contributing gu
 |                           [LCBO](https://lcboapi.com/)                           | Alcohol                                           | `apiKey` |  Yes  | Unknown |
 |                 [Open Brewery DB](https://www.openbrewerydb.org)                 | Breweries, Cideries and Craft Beer Bottle Shops   |    No    |  Yes  |   Yes   |
 |             [Open Food Facts](https://world.openfoodfacts.org/data)              | Food Products Database                            |    No    |  Yes  | Unknown |
-|                 [PunkAPI](https://github.com/alxiw/punkapi)                      | BrewDog's DIY Dog beer catalogue as an API        |    No    |  Yes  |   Yes   |
+|                   [PunkAPI](https://github.com/alxiw/punkapi)                    | BrewDog's DIY Dog beer catalogue as an API        |    No    |  Yes  |   Yes   |
 |                 [Spoonacular](https://spoonacular.com/food-api)                  | Food and Recipes                                  | `apikey` |  Yes  | Unknown |
 |                [TacoFancy](https://github.com/evz/tacofancy-api)                 | Community-driven taco database                    |    No    |  No   | Unknown |
 | [The Report of the Week](https://github.com/andyklimczak/TheReportOfTheWeek-API) | Food & Drink Reviews                              |    No    |  Yes  | Unknown |
@@ -804,14 +803,14 @@ For information on contributing to this project, please see the [contributing gu
 ### Personality
 
 |                               API                               | Description                                                            |   Auth   | HTTPS |  CORS   |
-|:---------------------------------------------------------------:|------------------------------------------------------------------------| :------: | :---: | :-----: |
+| :-------------------------------------------------------------: | ---------------------------------------------------------------------- | :------: | :---: | :-----: |
 |            [Advice Slip](http://api.adviceslip.com/)            | Generate random advice slips                                           |    No    |  Yes  | Unknown |
 |          [chucknorris.io](https://api.chucknorris.io)           | JSON API for hand curated Chuck Norris jokes                           |    No    |  Yes  | Unknown |
 |               [FavQs.com](https://favqs.com/api)                | FavQs allows you to collect, discover and share your favorite quotes   | `apiKey` |  Yes  | Unknown |
 |           [Forismatic](http://forismatic.com/en/api/)           | Inspirational Quotes                                                   |    No    |  No   | Unknown |
 |              [HideMyMind](https://hidemymind.com/)              | Private, encrypted notes service with link access                      |    No    |  Yes  | Unknown |
 |        [Hindi Quotes](https://hindi-quotes.vercel.app/)         | Get random Hindi quotes of different categories.                       |    No    |  Yes  |   Yes   |
-|        [Hindi Quotes and Shayari](https://purevichar.in/tool/apitool)         | Get Hindi quotes and shayaris of different categories for free.        |    No    |  No   | Unknown |
+| [Hindi Quotes and Shayari](https://purevichar.in/tool/apitool)  | Get Hindi quotes and shayaris of different categories for free.        |    No    |  No   | Unknown |
 |        [icanhazdadjoke](https://icanhazdadjoke.com/api)         | The largest selection of dad jokes on the internet                     |    No    |  Yes  | Unknown |
 |                [kanye.rest](https://kanye.rest)                 | REST API for random Kanye West quotes                                  |    No    |  Yes  |   Yes   |
 |       [Medium](https://github.com/Medium/medium-api-docs)       | Community of readers and writers offering unique perspectives on ideas | `OAuth`  |  Yes  | Unknown |
@@ -932,7 +931,7 @@ For information on contributing to this project, please see the [contributing gu
 |            [Twitter](https://developer.twitter.com/en/docs)            | Read and write Twitter data                                                                       | `OAuth`  |  Yes  |   No    |
 |                     [vk](https://vk.com/dev/sites)                     | Read and write vk data                                                                            | `OAuth`  |  Yes  | Unknown |
 |              [SharedCount](http://docs.sharedcount.com/)               | Track Pinterest & Facebook Shares                                                                 | `apiKey` |  Yes  | Unknown |
-|              [TwitterApi](http://twitterapi.io/)                       | Mass Twitter data read API                                                                        | `apiKey` |  Yes  | No |
+|                  [TwitterApi](http://twitterapi.io/)                   | Mass Twitter data read API                                                                        | `apiKey` |  Yes  |   No    |
 
 **[⬆ Back to Index](#index)**
 
@@ -946,7 +945,7 @@ For information on contributing to this project, please see the [contributing gu
 |        [Cartola FC](https://github.com/wgenial/cartrolandofc)         | The Cartola FC API serves to check the partial points of your team                          |       No        |  Yes  | Unknown |
 |                [City Bikes](http://api.citybik.es/v2/)                | City Bikes around the world                                                                 |       No        |  No   | Unknown |
 |                  [Ergast F1](http://ergast.com/mrd/)                  | F1 data from the beginning of the world championships in 1950                               |       No        |  Yes  | Unknown |
-|                  [F1 API](https://f1api.dev)                          | Free F1 data in real time with his own NPM package                                          |       No        |  Yes  | Unknown |
+|                      [F1 API](https://f1api.dev)                      | Free F1 data in real time with his own NPM package                                          |       No        |  Yes  | Unknown |
 |        [F1 Data API](https://github.com/Jacobbrewer1/f1-data)         | Formula 1 data API that delivers data from the F1 Archive dating back to 1950               |       No        |  Yes  |   No    |
 |                   [Fitbit](https://dev.fitbit.com/)                   | Fitbit Information                                                                          |     `OAuth`     |  Yes  | Unknown |
 |    [Football (Soccer) Videos](https://www.scorebat.com/video-api/)    | Embed codes for goals and highlights from Premier League, Bundesliga, Serie A and many more |       No        |  Yes  |   Yes   |
@@ -991,14 +990,14 @@ For information on contributing to this project, please see the [contributing gu
 ### Text Analysis
 
 |                                                            API                                                            | Description                                                                                         |   Auth   | HTTPS |  CORS   |
-| :-----------------------------------------------------------------------------------------------------------------------: | --------------------------------------------------------------------------------------------------- | :------: | :---: |:-------:|
+| :-----------------------------------------------------------------------------------------------------------------------: | --------------------------------------------------------------------------------------------------- | :------: | :---: | :-----: |
 |                                      [Aylien Text Analysis](http://docs.aylien.com/)                                      | A collection of information retrieval and natural language APIs                                     | `apiKey` |  Yes  | Unknown |
 |                     [Cloudmersive Natural Language Processing](https://www.cloudmersive.com/nlp-api)                      | Natural language processing and text analysis                                                       | `apiKey` |  Yes  |   Yes   |
 |                                      [Detect Language](https://detectlanguage.com/)                                       | Detects text language                                                                               | `apiKey` |  Yes  | Unknown |
 |                          [Google Cloud Natural](https://cloud.google.com/natural-language/docs/)                          | Natural language understanding technology, including sentiment, entity and syntax analysis          | `apiKey` |  Yes  | Unknown |
 |                        [ParallelDots AI APIs](https://apis.paralleldots.com/text_docs/index.html)                         | Suite of Text Analysis APIs such as sentiment analysis, keyword extract and named entity extraction | `apiKey` |  Yes  |   Yes   |
 |                                       [Semantira](https://semantria.readme.io/docs)                                       | Text Analytics with sentiment analysis, categorization & named entity extraction                    | `OAuth`  |  Yes  | Unknown |
-|                                           [Spam Hunter](https://spam-hunter.ru)                                           | Free service to classify text for spam using ML                    | `apiKey`  |  Yes  |   Yes   |
+|                                           [Spam Hunter](https://spam-hunter.ru)                                           | Free service to classify text for spam using ML                                                     | `apiKey` |  Yes  |   Yes   |
 | [Watson Natural Language Understanding](https://www.ibm.com/watson/developercloud/natural-language-understanding/api/v1/) | Natural language processing for advanced text analysis                                              | `OAuth`  |  Yes  | Unknown |
 |                                        [Yomi](https://github.com/ookii-tsuki/yomi)                                        | Japanese tokenizer and morphological analysis web API                                               |    No    |  Yes  |   Yes   |
 
@@ -1023,7 +1022,7 @@ For information on contributing to this project, please see the [contributing gu
 |                                        [ADS-B Exchange](https://www.adsbexchange.com/data/)                                        | Access real-time and historical data of any and all airborne aircraft                            |    No    |  Yes  | Unknown |
 |                                     [AIS Web](http://www.aisweb.aer.mil.br/api/doc/index.cfm)                                      | Aeronautical information in digital media produced by the Department of Airspace Control (DECEA) | `apiKey` |  No   | Unknown |
 |                                 [Amadeus Travel Innovation Sandbox](https://sandbox.amadeus.com/)                                  | Travel Search - Limited usage                                                                    | `apiKey` |  Yes  | Unknown |
-|                                    [Aero Key, India](https://aerokey-api.vercel.app/)                                    | Indian Domestic Airport Data                                                                   | No  |  Yes  | No |
+|                                         [Aero Key, India](https://aerokey-api.vercel.app/)                                         | Indian Domestic Airport Data                                                                     |    No    |  Yes  |   No    |
 |                                            [Uber](https://developer.uber.com/products)                                             | Uber ride requests and price estimation                                                          | `OAuth`  |  Yes  |   Yes   |
 |                                           [Bay Area Rapid Transit](http://api.bart.gov)                                            | Stations and predicted arrivals for BART                                                         | `apiKey` |  No   | Unknown |
 |                                          [Unofficial BART API](https://bart.trentwil.es)                                           | Stable version of BART's legacy API                                                              |    No    |  Yes  | Unknown |
