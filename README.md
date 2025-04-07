@@ -16,11 +16,11 @@ For information on contributing to this project, please see the [contributing gu
     - [Animals](#animals)
     - [Anime](#anime)
     - [Anti-Malware](#anti-malware)
-    - [Art & Design](#art--design)
+    - [Art \& Design](#art--design)
     - [Books](#books)
     - [Business](#business)
     - [Calendar](#calendar)
-    - [Cloud Storage & File Sharing](#cloud-storage--file-sharing)
+    - [Cloud Storage \& File Sharing](#cloud-storage--file-sharing)
     - [Continuous Integration](#continuous-integration)
     - [Cryptocurrency](#cryptocurrency)
     - [Currency Exchange](#currency-exchange)
@@ -28,14 +28,14 @@ For information on contributing to this project, please see the [contributing gu
     - [Development](#development)
     - [Dictionaries](#dictionaries)
     - [Disasters](#disasters)
-    - [Documents & Productivity](#documents--productivity)
+    - [Documents \& Productivity](#documents--productivity)
     - [Education](#education)
     - [Environment](#environment)
     - [Events](#events)
     - [Finance](#finance)
-    - [Food & Drink](#food--drink)
+    - [Food \& Drink](#food--drink)
     - [Fraud Prevention](#fraud-prevention)
-    - [Games & Comics](#games--comics)
+    - [Games \& Comics](#games--comics)
     - [Geocoding](#geocoding)
     - [Government](#government)
     - [Health](#health)
@@ -48,11 +48,11 @@ For information on contributing to this project, please see the [contributing gu
     - [Patent](#patent)
     - [Personality](#personality)
     - [Photography](#photography)
-    - [Science & Math](#science--math)
+    - [Science \& Math](#science--math)
     - [Security](#security)
     - [Shopping](#shopping)
     - [Social](#social)
-    - [Sports & Fitness](#sports--fitness)
+    - [Sports \& Fitness](#sports--fitness)
     - [Test Data](#test-data)
     - [Text Analysis](#text-analysis)
     - [Tracking](#tracking)
@@ -533,6 +533,7 @@ For information on contributing to this project, please see the [contributing gu
 |        [Open Trivia](https://opentdb.com/api_config.php)        | Trivia Questions                                                                                             |       No        |  Yes  | Unknown |
 |             [PandaScore](https://api.pandascore.co)             | E-sports games and results                                                                                   |    `apiKey`     |  Yes  | Unknown |
 | [PlayerUnknown's Battlegrounds](https://tracker.gg/developers)  | PUBG Stats                                                                                                   |    `apiKey`     |  Yes  | Unknown |
+|                  [Pokémon-3D-api ](https://documenter.getpostman.com/view/29725199/2sAYX8KMU8)                  | 3D Pokémon models for ThreeJS                                                                                          |       No        |  Yes  | Yes |
 |                  [Pokéapi](https://pokeapi.co)                  | Pokémon Information                                                                                          |       No        |  Yes  | Unknown |
 |              [Pokémon TCG](https://pokemontcg.io)               | Pokémon TCG Information                                                                                      |       No        |  Yes  | Unknown |
 |                 [Puns](https://www.punapi.rest)                 | Puns and Pun Memes                                                                                           |       No        |  Yes  |   Yes   |
