@@ -989,6 +989,7 @@ For information on contributing to this project, please see the [contributing gu
 |               [UUID Generator](https://www.uuidtools.com/docs)                | Generate UUIDs                                              |    No    |  Yes  |   No    |
 |                        [Yes No](https://yesno.wtf/api)                        | Generate yes or no randomly                                 |    No    |  Yes  | Unknown |
 |                [Randommer](https://randommer.io/randommer-api)                | Random data generator                                       | `apiKey` |  Yes  |   Yes   |
+|                  [Short Id](https://github.com/aguedo/idgen)                  | Generate unique short Ids                                   |    No    |  Yes  |   Yes   |
 |                  [Softwium](https://softwium.com/fake-api/)                   | Test data for testing and prototyping                       |    No    |  Yes  |   Yes   |
 
 **[⬆ Back to Index](#index)**
