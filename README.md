@@ -479,6 +479,7 @@ For information on contributing to this project, please see the [contributing gu
 |                 [Spoonacular](https://spoonacular.com/food-api)                  | Food and Recipes                                  | `apikey` |  Yes  | Unknown |
 |                [TacoFancy](https://github.com/evz/tacofancy-api)                 | Community-driven taco database                    |    No    |  No   | Unknown |
 | [The Report of the Week](https://github.com/andyklimczak/TheReportOfTheWeek-API) | Food & Drink Reviews                              |    No    |  Yes  | Unknown |
+|    [BoozeAPI](https://boozeapi.com/)                                             | REST API Cocktail Recipes                         | `apiKey` |  Yes  |   Yes   |
 |              [TheCocktailDB](https://www.thecocktaildb.com/api.php)              | Cocktail Recipes                                  | `apiKey` |  Yes  |   Yes   |
 |                  [TheMealDB](https://www.themealdb.com/api.php)                  | Meal Recipes                                      | `apiKey` |  Yes  |   Yes   |
 |             [What's on the menu?](http://nypl.github.io/menus-api/)              | NYPL human-transcribed historical menu collection | `apiKey` |  No   | Unknown |
