@@ -83,6 +83,7 @@ For information on contributing to this project, please see the [contributing gu
 |                         [RandomDog](https://random.dog/woof.json)                          | Random pictures of dogs                   |    No    |  Yes  |   Yes   |
 |                          [RandomFox](https://randomfox.ca/floof/)                          | Random pictures of foxes                  |    No    |  Yes  |   No    |
 | [RescueGroups](https://userguide.rescuegroups.org/display/APIDG/API+Developers+Guide+Home) | Adoption                                  |    No    |  Yes  | Unknown |
+| [Amazing Endemic Species](https://aes.shenlu.me) | Amazing endemic species all over the world                                  |    No    |  Yes  | Yes |
 
 **[⬆ Back to Index](#index)**
 
