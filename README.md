@@ -66,6 +66,7 @@ For information on contributing to this project, please see the [contributing gu
 
 |                                            API                                             | Description                               |   Auth   | HTTPS |  CORS   |
 | :----------------------------------------------------------------------------------------: | ----------------------------------------- | :------: | :---: | :-----: |
+|                  [Amazing Endemic Species](https://aes.shenlu.me)                   | Amazing endemic species all over the world                           |    No    |  Yes  |   Yes    |
 |                  [Cat Facts](https://alexwohlbruck.github.io/cat-facts/)                   | Daily cat facts                           |    No    |  Yes  |   No    |
 |                            [Cats](https://docs.thecatapi.com/)                             | Pictures of cats from Tumblr              | `apiKey` |  Yes  | Unknown |
 |                               [Cataas](https://cataas.com/)                                | Cat as a service (cats pictures and gifs) |    No    |  Yes  | Unknown |
