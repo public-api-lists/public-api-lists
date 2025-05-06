@@ -815,6 +815,7 @@ For information on contributing to this project, please see the [contributing gu
 | :-------------------------------------------------------------: | ---------------------------------------------------------------------- | :------: | :---: | :-----: |
 |            [Advice Slip](http://api.adviceslip.com/)            | Generate random advice slips                                           |    No    |  Yes  | Unknown |
 |          [chucknorris.io](https://api.chucknorris.io)           | JSON API for hand curated Chuck Norris jokes                           |    No    |  Yes  | Unknown |
+|              [Echoes](https://echoes.soferity.com)              | Quotes From Around The World                                           |    No    |  Yes  |   Yes   |
 |               [FavQs.com](https://favqs.com/api)                | FavQs allows you to collect, discover and share your favorite quotes   | `apiKey` |  Yes  | Unknown |
 |           [Forismatic](http://forismatic.com/en/api/)           | Inspirational Quotes                                                   |    No    |  No   | Unknown |
 |              [HideMyMind](https://hidemymind.com/)              | Private, encrypted notes service with link access                      |    No    |  Yes  | Unknown |
