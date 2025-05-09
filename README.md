@@ -71,15 +71,12 @@ For information on contributing to this project, please see the [contributing gu
 |                               [Cataas](https://cataas.com/)                                | Cat as a service (cats pictures and gifs) |    No    |  Yes  | Unknown |
 |                               [Dog API](https://dogapi.dog)                                | Fun facts on dog breeds and groups        |    No    |  Yes  | Unknown |
 |                              [Dogs](https://dog.ceo/dog-api/)                              | Based on the Stanford Dogs Dataset        |    No    |  Yes  |   Yes   |
-|                                [Foxes](https://foxes.cool)                                 | Random fox images with different tags     |    No    |  Yes  |   Yes   |
 |                                [HTTPCat](https://http.cat/)                                | Cat for every HTTP Status                 |    No    |  Yes  | Unknown |
 |                               [HTTP Dogs](https://http.dog/)                               | Dogs for every HTTP status code           |    No    |  Yes  | Unknown |
-|                      [IUCN](http://apiv3.iucnredlist.org/api/v3/docs)                      | IUCN Red List of Threatened Species       | `apiKey` |  No   | Unknown |
 |                       [Meow Facts](https://meowfacts.herokuapp.com/)                       | 🐈 a simple api which returns a catfact   |    No    |  Yes  |   No    |
 |                  [Movebank](https://github.com/movebank/movebank-api-doc)                  | Movement and Migration data of animals    |    No    |  Yes  | Unknown |
 |                         [Open Dog Registry](https://registry.dog/)                         | Adoption                                  | `OAuth`  |  Yes  |   Yes   |
 |                 [Petfinder](https://www.petfinder.com/developers/v2/docs/)                 | Information and images of dog breeds      |    No    |  Yes  |   Yes   |
-|                      [RandomBigCat](https://randombig.cat/roar.json)                       | Random pictures of big cats               |    No    |  Yes  |   Yes   |
 |                         [RandomDog](https://random.dog/woof.json)                          | Random pictures of dogs                   |    No    |  Yes  |   Yes   |
 |                          [RandomFox](https://randomfox.ca/floof/)                          | Random pictures of foxes                  |    No    |  Yes  |   No    |
 | [RescueGroups](https://userguide.rescuegroups.org/display/APIDG/API+Developers+Guide+Home) | Adoption                                  |    No    |  Yes  | Unknown |
@@ -94,7 +91,6 @@ For information on contributing to this project, please see the [contributing gu
 | [AnimeNewsNetwork](https://www.animenewsnetwork.com/encyclopedia/api.php) | Anime industry news                               |    No    |  Yes  |   Yes   |
 |           [AOT quotes](https://attackontitanquotes.vercel.app/)           | Attack on Titan Quotes API                        |    No    |  Yes  |   Yes   |
 |                        [Jikan](https://jikan.moe)                         | Unofficial MyAnimeList API                        |    No    |  Yes  |   Yes   |
-|                   [Kitsu](http://docs.kitsu.apiary.io/)                   | Anime discovery platform                          | `OAuth`  |  Yes  | Unknown |
 |          [What Anime](https://soruly.github.io/trace.moe-api/#/)          | Scan anime image to get specific detail           | `apiKey` |  Yes  | Unknown |
 |                [Mangadex](https://api.mangadex.org/docs/)                 | ad-free manga reader offering high-quality images |    No    |  Yes  | Unknown |
 |                    [Nekosia API](https://nekosia.cat)                     | Anime API with cute random images                 |    No    |  Yes  | Unknown |
@@ -126,7 +122,6 @@ For information on contributing to this project, please see the [contributing gu
 |              [Freepik](https://freepik.com/api)                      | Stock resources(Icons, videos, photos), AI image generation and editing tools | `apiKey` |  Yes  | Unknown |
 | [Harvard Art Museums](https://github.com/harvardartmuseums/api-docs) | Art                                   | `apiKey` |  No   | Unknown |
 |            [Iconfinder](https://developer.iconfinder.com)            | Icons                                 | `apiKey` |  Yes  | Unknown |
-|       [Icons8](http://docs.icons8.apiary.io/#reference/0/meta)       | Icons                                 | `OAuth`  |  Yes  | Unknown |
 |       [Noun Project](http://api.thenounproject.com/index.html)       | Icons                                 | `OAuth`  |  No   | Unknown |
 |           [Rijksmuseum](https://www.rijksmuseum.nl/en/api)           | Art                                   | `apiKey` |  Yes  | Unknown |
 |      [Metropolitan Museum of Art](https://metmuseum.github.io/)      | Art                                   |    No    |  Yes  | Unknown |
@@ -138,13 +133,11 @@ For information on contributing to this project, please see the [contributing gu
 |                                    API                                    | Description                                                                              |  Auth   | HTTPS |  CORS   |
 | :-----------------------------------------------------------------------: | ---------------------------------------------------------------------------------------- | :-----: | :---: | :-----: |
 |               [Bhagavad Gita](https://bhagavadgita.io/api)                | Bhagavad Gita text                                                                       | `OAuth` |  Yes  |   Yes   |
-|          [British National Bibliography](http://bnb.data.bl.uk/)          | Books                                                                                    |   No    |  No   | Unknown |
 |           [Google Books](https://developers.google.com/books/)            | Books                                                                                    | `OAuth` |  Yes  | Unknown |
 |        [Harry Potter API](https://github.com/fedeperin/potterapi)         | API to get data from Harry Potter books, movies, characters and spells                   |   No    |  Yes  |   Yes   |
 |          [Open Library](https://openlibrary.org/developers/api)           | Books, book covers and related data                                                      |   No    |  Yes  | Unknown |
 | [Penguin Publishing](http://www.penguinrandomhouse.biz/webservices/rest/) | Books, book covers and related data                                                      |   No    |  Yes  | Unknown |
 |            [Rig Veda](https://aninditabasu.github.io/indica/)             | Gods and poets, their categories, and the verse meters, with the mandal and sukta number |   No    |  Yes  | Unknown |
-|    [Vedic Society](https://aninditabasu.github.io/indica/html/vs.html)    | Descriptions of all nouns (names, places, animals, things) from vedic literature         |   No    |  Yes  | Unknown |
 
 **[⬆ Back to Index](#index)**
 
@@ -163,10 +156,8 @@ For information on contributing to this project, please see the [contributing gu
 |                    [mailgun](https://www.mailgun.com/)                     | Email Service                                                                 | `apiKey` |  Yes  | Unknown |
 |                    [Mailjet](https://www.mailjet.com/)                     | Email Service                                                                 | `apiKey` |  Yes  | Unknown |
 |                   [markerapi](http://www.markerapi.com/)                   | Trademark Search                                                              |    No    |  No   | Unknown |
-|                [Repetiti](https://developers.repetiti.com)                 | Repetiti 3d Printer Management Service, access and control 3d Printers easily | `apiKey` |  Yes  |   Yes   |
 |                  [Trello](https://developers.trello.com/)                  | Boards, lists and cards to help you organize and prioritize your projects     | `OAuth`  |  Yes  | Unknown |
 |                  [Tomba Email finder](https://tomba.io/)                   | Email Finder for B2B sales and email marketing                                | `apiKey` |  Yes  |   Yes   |
-|                   [Valid Email](https://validemail.io/)                    | Verify email addresses for spam and delivery                                  |    No    |  Yes  |   No    |
 |                    [Clientsbee](https://clientsbee.com)                    | Free leads for bussiness and technographics data                              | `apikey` |  Yes  |   No    |
 
 **[⬆ Back to Index](#index)**
@@ -178,7 +169,6 @@ For information on contributing to this project, please see the [contributing gu
 |       [Abstract's Holiday API](https://www.abstractapi.com/holidays-api)        | National, regional, and religious holidays for 120+ countries & 100+ years                             | `apiKey` |  Yes  |   Yes   |
 | [Byabbe](https://byabbe.se/on-this-day/#/default/get__month___day__events_json) | Seach histories from wikipedia for a particular day                                                    |    No    |  Yes  | Unknown |
 |                [Calendar Index](https://www.calendarindex.com/)                 | Worldwide Holidays and Working Days                                                                    | `apiKey` |  Yes  |   Yes   |
-|                [Church Calendar](http://calapi.inadiutorium.cz/)                | Catholic liturgical calendar                                                                           |    No    |  No   | Unknown |
 |              [Czech Namedays Calendar](http://svatky.adresa.info/)              | Lookup for a name and returns nameday date                                                             |    No    |  No   | Unknown |
 |     [Google Calendar](https://developers.google.com/google-apps/calendar/)      | Display, create and modify Google calendar events                                                      | `OAuth`  |  Yes  | Unknown |
 |          [Hebrew Calendar](https://www.hebcal.com/home/developer-apis)          | Convert between Gregorian and Hebrew, fetch Shabbat and Holiday times, etc                             |    No    |  No   | Unknown |
@@ -336,7 +326,6 @@ For information on contributing to this project, please see the [contributing gu
 |                                  [Judge0](https://api.judge0.com/)                                  | Compile and run source code                                                                         |       No        |  Yes  | Unknown |
 |                        [Let's Validate](https://github.com/letsvalidate/api)                        | Uncovers the technologies used on websites and URL to thumbnail                                     |       No        |  Yes  | Unknown |
 |           [License-API](https://github.com/cmccandless/license-api/blob/master/README.md)           | Unofficial REST API for choosealicense.com                                                          |       No        |  Yes  |   No    |
-|                      [LiveEdu](https://www.liveedu.tv/developer/applications/)                      | Live Coding Streaming                                                                               |     `OAuth`     |  Yes  | Unknown |
 |                         [MAC address vendor lookup](https://macaddress.io)                          | Retrieve vendor details and other information regarding a given MAC address or an OUI               |    `apiKey`     |  Yes  |   Yes   |
 |                               [MyJSON.online](https://myjson.online)                                | A RESTful API for flexible storage of JSON data                                                     |    `apiKey`     |  Yes  |   Yes   |
 |                              [Nationalize.io](https://nationalize.io)                               | Estimate the nationality of a first name                                                            |       No        |  Yes  |   Yes   |
