@@ -107,7 +107,7 @@ For information on contributing to this project, please see the [contributing gu
 |                   [Metacert](https://metacert.com/)                   | Metacert Link Flagging                                                                                                         | `apiKey` |  Yes  | Unknown |
 |              [phish.directory](https://phish.directory/)              | API for phish.directory, a community-driven anti-phishing tool. Helping catch, prevent, and catalog phishing links & attempts. | `apiKey` |  Yes  | Unknown |
 | [VirusTotal](https://www.virustotal.com/en/documentation/public-api/) | VirusTotal File/URL Analysis                                                                                                   | `apiKey` |  Yes  | Unknown |
-|          [Web Of Trust (WOT)](https://www.mywot.com/en/API)           | Website reputation                                                                                                             | `apiKey` |  Yes  | Unknown |
+|          [Web Of Trust (WOT)](https://www.mywot.com/developers/)           | Website reputation                                                                                                             | `apiKey` |  Yes  | Unknown |
 
 **[⬆ Back to Index](#index)**
 
