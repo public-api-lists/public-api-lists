@@ -161,6 +161,7 @@ For information on contributing to this project, please see the [contributing gu
 |              [Freelancer](https://developers.freelancer.com)               | Hire freelancers to get work done                                             | `OAuth`  |  Yes  | Unknown |
 |             [Gmail](https://developers.google.com/gmail/api/)              | Flexible, RESTful access to the user's inbox                                  | `OAuth`  |  Yes  | Unknown |
 |        [Google Analytics](https://developers.google.com/analytics/)        | Collect, configure and analyze your data to reach the right audience          | `OAuth`  |  Yes  | Unknown |
+|                      [LogoKit](https://logokit.com)                        | Logo API for brands, stocks, and cryptocurrencies                             | `apiKey` |  Yes  | Unknown |
 | [MailboxValidator](https://www.mailboxvalidator.com/api-single-validation) | Validate email address to improve deliverability                              | `apiKey` |  Yes  | Unknown |
 |                    [mailgun](https://www.mailgun.com/)                     | Email Service                                                                 | `apiKey` |  Yes  | Unknown |
 |                    [Mailjet](https://www.mailjet.com/)                     | Email Service                                                                 | `apiKey` |  Yes  | Unknown |
