@@ -100,16 +100,16 @@ For information on contributing to this project, please see the [contributing gu
 
 ### Anti-Malware
 
-|                                  API                                  | Description                                                                                                                    |                   Auth                    |  HTTPS   |  CORS   |
-| :-------------------------------------------------------------------: | ------------------------------------------------------------------------------------------------------------------------------ | :---------------------------------------: | :------: | :-----: | --- |
-|               [AbuseIPDB](https://docs.abuseipdb.com/)                | IP/domain/URL reputation                                                                                                       |                 `apiKey`                  |   Yes    | Unknown |
-|               [Dymo API](https://dymo.tpeoficial.com/)                | Multi-account and fraud detection.                                                                                             | Sending emails without ending up in SPAM. | `apiKey` |   Yes   | Yes |
-|                   [FishFish](https://fishfish.gg/)                    | A volunteer cybersecurity project focused on providing resources and services that improve safety across Discord               |                    No                     |   Yes    | Unknown |
-| [Google Safe Browsing](https://developers.google.com/safe-browsing/)  | Google Link/Domain Flagging                                                                                                    |                 `apiKey`                  |   Yes    | Unknown |
-|                   [Metacert](https://metacert.com/)                   | Metacert Link Flagging                                                                                                         |                 `apiKey`                  |   Yes    | Unknown |
-|              [phish.directory](https://phish.directory/)              | API for phish.directory, a community-driven anti-phishing tool. Helping catch, prevent, and catalog phishing links & attempts. |                 `apiKey`                  |   Yes    | Unknown |
-| [VirusTotal](https://www.virustotal.com/en/documentation/public-api/) | VirusTotal File/URL Analysis                                                                                                   |                 `apiKey`                  |   Yes    | Unknown |
-|        [Web Of Trust (WOT)](https://www.mywot.com/developers/)        | Website reputation                                                                                                             |                 `apiKey`                  |   Yes    | Unknown |
+|                                  API                                  | Description                                                                                                                    |   Auth   | HTTPS |  CORS   |
+| :-------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------- | :------: | :---: | :-----: |
+|               [AbuseIPDB](https://docs.abuseipdb.com/)                | IP/domain/URL reputation                                                                                                       | `apiKey` |  Yes  | Unknown |
+|               [Dymo API](https://dymo.tpeoficial.com/)                | Multi-account and fraud detection. Sending emails without ending up in SPAM.                                                   | `apiKey` |  Yes  |   Yes   |
+|                   [FishFish](https://fishfish.gg/)                    | A volunteer cybersecurity project focused on providing resources and services that improve safety across Discord               |    No    |  Yes  | Unknown |
+|   [Google Safe Browse](https://developers.google.com/safe-Browse/)    | Google Link/Domain Flagging                                                                                                    | `apiKey` |  Yes  | Unknown |
+|                   [Metacert](https://metacert.com/)                   | Metacert Link Flagging                                                                                                         | `apiKey` |  Yes  | Unknown |
+|              [phish.directory](https://phish.directory/)              | API for phish.directory, a community-driven anti-phishing tool. Helping catch, prevent, and catalog phishing links & attempts. | `apiKey` |  Yes  | Unknown |
+| [VirusTotal](https://www.virustotal.com/en/documentation/public-api/) | VirusTotal File/URL Analysis                                                                                                   | `apiKey` |  Yes  | Unknown |
+|        [Web Of Trust (WOT)](https://www.mywot.com/developers/)        | Website reputation                                                                                                             | `apiKey` |  Yes  | Unknown |
 
 **[⬆ Back to Index](#index)**
 
@@ -180,7 +180,7 @@ For information on contributing to this project, please see the [contributing gu
 |                       [Nager.Date](https://date.nager.at)                       | Public holidays for more than 90 countries                                                             |    No    |  Yes  |   No    |
 |                  [Namedays Calendar](https://api.abalin.net/)                   | Provides namedays for multiple countries                                                               |    No    |  Yes  |   Yes   |
 |               [Non-Working Days](https://github.com/gadael/icsdb)               | Database of ICS files for non working days                                                             |    No    |  Yes  | Unknown |
-|              [OpenHolidays API](https://www.openholidaysapi.org/)               | Public and school holidays for many countries via an open REST API                                     |    No    |  Yes  | Yes   |
+|              [OpenHolidays API](https://www.openholidaysapi.org/)               | Public and school holidays for many countries via an open REST API                                     |    No    |  Yes  |   Yes   |
 |            [Russian Calendar](https://github.com/egno/work-calendar)            | Check if a date is a Russian holiday or not                                                            |    No    |  Yes  |   No    |
 |      [TimeZones iCal Library](https://tz.add-to-calendar-technology.com/)       | Database of official time zones and corresponding iCal VTIMEZONE blocks                                |    No    |  Yes  | Unknown |
 
@@ -354,8 +354,8 @@ For information on contributing to this project, please see the [contributing gu
 |                                 [Scraper.run](https://scraper.run/)                                 | Geolocation API,lookup DNS & whois record of a domain                                               |       No        |  Yes  |   Yes   |
 |                               [SearchApi](https://www.searchapi.io/)                                | Real-time search engines SERP API                                                                   |    `apiKey`     |  Yes  |   No    |
 |                                   [SerpApi](https://serpapi.com/)                                   | Scrape Google and other search engines                                                              |    `apiKey`     |  Yes  |   No    |
-|                               [v.recipes DNS Accelerator](https://v.recipes/dns/)                               | The Accelerator variant can be used to test & accelerate any DoH providers                          |       No        |  Yes  |   No    |
-|                                [v.recipes Get IP](https://v.recipes/get-ip)                                 | A simple API to get information such as IP, ISP name, Location, etc. based on user request          |       No        |  Yes  |   No    |
+|                         [v.recipes DNS Accelerator](https://v.recipes/dns/)                         | The Accelerator variant can be used to test & accelerate any DoH providers                          |       No        |  Yes  |   No    |
+|                            [v.recipes Get IP](https://v.recipes/get-ip)                             | A simple API to get information such as IP, ISP name, Location, etc. based on user request          |       No        |  Yes  |   No    |
 |                             [WebCrawlerAPI](https://webcrawlerapi.com/)                             | Easily extract content from websites                                                                |    `apiKey`     |  Yes  |   Yes   |
 |                                     [Zuplo](https://zuplo.com/)                                     | API platform for Development, Deployment, and Docs - add auth, rate-limiting, and monetization fast |    `apiKey`     |  Yes  |   Yes   |
 
