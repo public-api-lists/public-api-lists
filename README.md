@@ -9,6 +9,13 @@ A collective list of free APIs for use in software and web development.
 
 For information on contributing to this project, please see the [contributing guide](.github/CONTRIBUTING.md).
 
+## ✨ Sponsors
+
+[![SerpApi - Real-Time Search API](assets/serpapi.png)](https://serpapi.com/?utm_source=public-api-lists)
+
+**[SerpApi - Search API](https://serpapi.com/?utm_source=public-api-lists): Scrape Google and other search engines with a simple API.**
+
+
 ## Index
 
 - [Public API Lists](#public-api-lists)
@@ -352,8 +359,7 @@ For information on contributing to this project, please see the [contributing gu
 |         [Image to Link](https://www.contentful.com/developers/docs/references/images-api/)          | Generate link from image(Integration developer utility APIs)                                        |       No        |  Yes  |   Yes   |
 |                                  [IPFinder](https://ipfinder.io/)                                   | Geolocation API,ASN API,IP Ranges API,IP Firewall API,Domain API                                    |    `apiKey`     |  Yes  |   Yes   |
 |                                 [Scraper.run](https://scraper.run/)                                 | Geolocation API,lookup DNS & whois record of a domain                                               |       No        |  Yes  |   Yes   |
-|                               [SearchApi](https://www.searchapi.io/)                                | Real-time search engines SERP API                                                                   |    `apiKey`     |  Yes  |   No    |
-|                                   [SerpApi](https://serpapi.com/)                                   | Scrape Google and other search engines                                                              |    `apiKey`     |  Yes  |   No    |
+|                                   [SerpApi](https://serpapi.com/)                                   | Scrape Google and other search engines with a simple API.                                                              |    `apiKey`     |  Yes  |   No    |
 |                         [v.recipes DNS Accelerator](https://v.recipes/dns/)                         | The Accelerator variant can be used to test & accelerate any DoH providers                          |       No        |  Yes  |   No    |
 |                            [v.recipes Get IP](https://v.recipes/get-ip)                             | A simple API to get information such as IP, ISP name, Location, etc. based on user request          |       No        |  Yes  |   No    |
 |                             [WebCrawlerAPI](https://webcrawlerapi.com/)                             | Easily extract content from websites                                                                |    `apiKey`     |  Yes  |   Yes   |
