@@ -5,7 +5,8 @@
 [![Issues](https://img.shields.io/github/issues/public-api-lists/public-api-lists?style=flat-square)](https://github.com/public-api-lists/public-api-lists/issues/new)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/public-api-lists/public-api-lists/pulls)
 
-A collective list of free APIs for use in software and web development.
+>🚀 A hand-curated list of free, open, and developer-friendly APIs — perfect for your next side project or production app. 
+>Lets Build this Community together. Pull Requests Welcome.
 
 For information on contributing to this project, please see the [contributing guide](.github/CONTRIBUTING.md).
 
