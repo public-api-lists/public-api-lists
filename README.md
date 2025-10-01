@@ -298,6 +298,7 @@ For information on contributing to this project, please see the [contributing gu
 |                                                 API                                                 | Description                                                                                         |      Auth       | HTTPS |  CORS   |
 | :-------------------------------------------------------------------------------------------------: | --------------------------------------------------------------------------------------------------- | :-------------: | :---: | :-----: |
 |                         [24 Pull Requests](https://24pullrequests.com/api)                          | Project to promote open source collaboration during December                                        |       No        |  Yes  |   No    |
+|                      [Abstract API](https://www.abstractapi.com/)                                   | Suite of APIs including email validation, IP geolocation, phone validation, exchange rates and more |    `apiKey`     |  Yes  |   Yes   |
 |                              [Abacus](https://abacus.jasoncameron.dev)                              | Free and simple counting service. You can use it to track page hits and specific events             |       No        |  Yes  |   Yes   |
 |                                   [addr.zone](https://addr.zone)                                    | IP Classification and Intelligence API. Detect Proxies, Datacenter, Malicious IPs, ...              |       No        |  Yes  |   Yes   |
 |                                    [Agify.io](https://agify.io)                                     | Estimates the age from a first name                                                                 |       No        |  Yes  |   Yes   |
@@ -459,6 +460,7 @@ For information on contributing to this project, please see the [contributing gu
 |                    [IEX Cloud](https://iexcloud.io/)                     | Realtime & Historical Stock and Market Data                   | `apiKey` |  Yes  |   Yes   |
 |                 [IG](https://labs.ig.com/gettingstarted)                 | Spreadbetting and CFD Market Data                             | `apiKey` |  Yes  | Unknown |
 |                       [Plaid](https://plaid.com/)                        | Connect with users’ bank accounts and access transaction data | `apiKey` |  Yes  | Unknown |
+|                    [Polygon.io](https://polygon.io/docs/)                | Real-time and historical stock market data, crypto and forex  | `apiKey` |  Yes  |   Yes   |
 |               [Razorpay IFSC](https://ifsc.razorpay.com/)                | Indian Financial Systems Code (Bank Branch Codes)             |    No    |  Yes  | Unknown |
 | [Indian Bank Data API](https://github.com/kaustubhk24/Indian-Banks-Data) | All Banks IFSC Code data,Search by IFSc or other details      |    No    |  Yes  | Unknown |
 |                 [Tradier](https://developer.tradier.com)                 | US equity/option market data (delayed, intraday, historical)  | `OAuth`  |  Yes  |   Yes   |
@@ -709,6 +711,7 @@ For information on contributing to this project, please see the [contributing gu
 |          [Deepcode](https://www.deepcode.ai/docs/Overview%252FOverview)           | AI for code review                                      |    No    |  Yes  | Unknown |
 |                       [Dialogflow](https://dialogflow.com)                        | Natural Language Processing                             | `apiKey` |  Yes  | Unknown |
 |                            [Keen IO](https://keen.io/)                            | Data Analytics                                          | `apiKey` |  Yes  | Unknown |
+|                         [Replicate](https://replicate.com/docs/reference/http)    | Run and deploy machine learning models in the cloud     | `apiKey` |  Yes  |   Yes   |
 |                     [Unplugg](https://unplu.gg/test_api.html)                     | Forecasting API for timeseries data                     | `apiKey` |  Yes  | Unknown |
 |                             [Wit.ai](https://wit.ai/)                             | Natural Language Processing                             | `OAuth`  |  Yes  | Unknown |
 
