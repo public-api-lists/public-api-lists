@@ -845,6 +845,7 @@ For information on contributing to this project, please see the [contributing gu
 |         [Riddles API](https://riddles-api.vercel.app/)          | Get random riddles on every API call.                                  |    No    |  Yes  |   Yes   |
 |         [Traitify](https://app.traitify.com/developer)          | Assess, collect and analyze Personality                                |    No    |  Yes  | Unknown |
 |          [tronalddump.io](https://www.tronalddump.io)           | Api & web archive for the things Donald Trump has said                 |    No    |  Yes  | Unknown |
+|                  [Vedika](https://vedika.io)                    | AI-powered Vedic astrology API with birth charts, compatibility, doshas, muhurtha, numerology in 22 languages | `apiKey` |  Yes  |   Yes   |
 
 **[⬆ Back to Index](#index)**
 
