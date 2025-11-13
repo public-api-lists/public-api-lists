@@ -464,6 +464,7 @@ For information on contributing to this project, please see the [contributing gu
 |                 [IEX](https://iextrading.com/developer/)                 | Realtime stock data                                           | `apiKey` |  Yes  |   Yes   |
 |                    [IEX Cloud](https://iexcloud.io/)                     | Realtime & Historical Stock and Market Data                   | `apiKey` |  Yes  |   Yes   |
 |                 [IG](https://labs.ig.com/gettingstarted)                 | Spreadbetting and CFD Market Data                             | `apiKey` |  Yes  | Unknown |
+|                 [Mboum API](https://docs.mboum.com)                 | Real-time Stock market and Options Data                             | `apiKey` |  Yes  | Unknown |
 |                       [Plaid](https://plaid.com/)                        | Connect with users’ bank accounts and access transaction data | `apiKey` |  Yes  | Unknown |
 |                    [Polygon.io](https://polygon.io/docs/)                | Real-time and historical stock market data, crypto and forex  | `apiKey` |  Yes  |   Yes   |
 |               [Razorpay IFSC](https://ifsc.razorpay.com/)                | Indian Financial Systems Code (Bank Branch Codes)             |    No    |  Yes  | Unknown |
@@ -918,6 +919,7 @@ For information on contributing to this project, please see the [contributing gu
 
 |                                  API                                  | Description                                                                |   Auth   | HTTPS |  CORS   |
 | :-------------------------------------------------------------------: | -------------------------------------------------------------------------- | :------: | :---: | :-----: |
+| [Amazon API](https://docs.steadyapi.com/#amazon-small-stylecolor-2c1e1ebackground-15f07apadding-1px-4pxborder-radius-3pxnewsmall) | Get Products & ASIN Data, Reviews, Offers, Best Sellers & Deals | `apiKey` |  Yes  | Unknown |
 | [Best Buy](https://bestbuyapis.github.io/api-documentation/#overview) | Products, Buying Options, Categories, Recommendations, Stores and Commerce | `apiKey` |  Yes  | Unknown |
 |            [Bratabase](https://developers.bratabase.com/)             | Database of different types of Bra Sizes                                   | `OAuth`  |  Yes  | Unknown |
 |                [eBay](https://go.developer.ebay.com/)                 | Sell and Buy on eBay                                                       | `OAuth`  |  Yes  | Unknown |
@@ -933,6 +935,7 @@ For information on contributing to this project, please see the [contributing gu
 |            [Cisco Spark](https://developer.ciscospark.com)             | Team Collaboration Software                                                                       | `OAuth`  |  Yes  | Unknown |
 |        [Discord](https://discordapp.com/developers/docs/intro)         | Make bots for Discord, integrate Discord onto an external platform                                | `OAuth`  |  Yes  | Unknown |
 |              [Disqus](https://disqus.com/api/docs/auth/)               | Communicate with Disqus data                                                                      | `OAuth`  |  Yes  | Unknown |
+|              [Instagram API](https://docs.steadyapi.com/#instagram-social-small-stylecolor-2c1e1ebackground-15f07apadding-1px-4pxborder-radius-3pxnewsmall)               | Instagram's public data, including user profiles, posts, reels, followers, and engagement metrics.                                                                      | `OAuth`  |  Yes  | Unknown |
 |              [Facebook](https://developers.facebook.com/)              | Facebook Login, Share on FB, Social Plugins, Analytics and more                                   | `OAuth`  |  Yes  | Unknown |
 |            [Foursquare](https://developer.foursquare.com/)             | Interact with Foursquare users and places (geolocation-based checkins, photos, tips, events, etc) | `OAuth`  |  Yes  | Unknown |
 |      [Full Contact](https://www.fullcontact.com/developer/docs/)       | Get Social Media profiles and contact Information                                                 | `OAuth`  |  Yes  | Unknown |
@@ -946,6 +949,7 @@ For information on contributing to this project, please see the [contributing gu
 |                [Reddit](https://www.reddit.com/dev/api)                | Homepage of the internet                                                                          | `OAuth`  |  Yes  | Unknown |
 |               [SocialData API](https://socialdata.tools)               | Unofficial API to read Twitter data                                                               | `apiKey` |  Yes  |   No    |
 |                    [Slack](https://api.slack.com/)                     | Team Instant Messaging                                                                            | `OAuth`  |  Yes  | Unknown |
+|           [Reddit API](https://docs.steadyapi.com/#reddit-small-stylecolor-2c1616background-fed00fpadding-1px-4pxborder-radius-3pxraisingsmall)           | Real-time access to Reddit posts, comments, votes, subreddits, user insights, and more.                                               | `OAuth`  |  Yes  | Unknown |
 |           [Telegram Bot](https://core.telegram.org/bots/api)           | Simplified HTTP version of the MTProto API for bots                                               | `OAuth`  |  Yes  | Unknown |
 |   [Telegram MTProto](https://core.telegram.org/api#getting-started)    | Read and write Telegram data                                                                      | `apiKey` |  Yes  | Unknown |
 |          [Trash Nothing](https://trashnothing.com/developer)           | A freecycling community with thousands of free items posted every day                             | `OAuth`  |  Yes  |   Yes   |
