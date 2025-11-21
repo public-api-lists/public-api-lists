@@ -1110,6 +1110,7 @@ For information on contributing to this project, please see the [contributing gu
 |    [Bitly](http://dev.bitly.com/get_started.html)     | URL shortener and link management              | `OAuth`  |  Yes  | Unknown |
 |         [CleanURI](https://cleanuri.com/docs)         | URL shortener service                          |    No    |  Yes  |   Yes   |
 | [Rebrandly](https://developers.rebrandly.com/v1/docs) | Custom URL shortener for sharing branded links | `apiKey` |  Yes  | Unknown |
+|            [Spoo.me](https://spoo.me/docs)            | URL Shortener with advanced analytics          |    No    |  Yes  |   Yes   |
 |              [T.LY](https://t.ly/docs/)               | URL Shortener With Short Links                 | `apiKey` |  Yes  | Unknown |
 |           [Urlix](https://app.urlix.me/api)           | Free URL Shortener with a powerful API         | `apiKey` |  Yes  |   Yes   |
 |           [urlfy](https://urlfy.org/api-doc)          | A simple and fast URL shortening service       | No |  Yes  |   Yes   |
