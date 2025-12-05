@@ -368,6 +368,7 @@ For information on contributing to this project, please see the [contributing gu
 |                         [v.recipes DNS Accelerator](https://v.recipes/dns/)                         | The Accelerator variant can be used to test & accelerate any DoH providers                          |       No        |  Yes  |   No    |
 |                            [v.recipes Get IP](https://v.recipes/get-ip)                             | A simple API to get information such as IP, ISP name, Location, etc. based on user request          |       No        |  Yes  |   No    |
 |                             [WebCrawlerAPI](https://webcrawlerapi.com/)                             | Easily extract content from websites                                                                |    `apiKey`     |  Yes  |   Yes   |
+|                              [XMLable](https://xmlable.com/validator/)                              | Validate XML                                                                                        |       No        |  Yes  |   Yes   |
 |                                 [Yamline](https://yamline.com/k8s/)                                 | Validate Kubernetes manifests                                                                       |       No        |  Yes  |   Yes   |
 |                                     [Zuplo](https://zuplo.com/)                                     | API platform for Development, Deployment, and Docs - add auth, rate-limiting, and monetization fast |    `apiKey`     |  Yes  |   Yes   |
 
