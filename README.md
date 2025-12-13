@@ -408,6 +408,7 @@ For information on contributing to this project, please see the [contributing gu
 |                      [Mercury](https://reader.postlight.com)                      | Web parser                                                     | `apiKey` |  Yes  | Unknown |
 |                      [pdfEndpoint](https://pdfendpoint.com)                       | HTML or URL to PDF                                             | `apiKey` |  Yes  |   No    |
 |                         [pdflayer](https://pdflayer.com)                          | HTML/URL to PDF                                                | `apiKey` |  Yes  | Unknown |
+| [PDFGate](https://pdfgate.com) | Multipurpose PDF API supporting different endpoints | `apiKey` | Yes | Unknown | 
 |                    [Pocket](https://getpocket.com/developer/)                     | Bookmarking service                                            | `OAuth`  |  Yes  | Unknown |
 |                         [PrexView](https://prexview.com)                          | Data from XML or JSON to PDF, HTML or Image                    | `apiKey` |  Yes  | Unknown |
 |                       [RenderPDF.io](https://renderpdf.io/)                       | Fastest HTML to PDF, free 500 pdfs/month                       | `apiKey` |  Yes  |   Yes   |
