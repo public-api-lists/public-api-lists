@@ -891,6 +891,7 @@ For information on contributing to this project, please see the [contributing gu
 |            [Unusual Units Converter](https://api.unusualunits.com/)            | Unit converter for standard and uncommon units                                                          |    No    |  Yes  |   Yes   |
 | [USGS Earthquake Hazards Program](https://earthquake.usgs.gov/fdsnws/event/1/) | Earthquakes data real-time                                                                              |    No    |  Yes  | Unknown |
 |             [USGS Water Services](https://waterservices.usgs.gov/)             | Water quality and level info for rivers and lakes                                                       |    No    |  Yes  | Unknown |
+|                         [Vedika](https://vedika.io)                            | AI-powered Vedic astrology API with natural language queries and birth chart analysis                   | `apiKey` |  Yes  |   Yes   |
 |  [World Bank](https://datahelpdesk.worldbank.org/knowledgebase/topics/125589)  | World Data                                                                                              |    No    |  No   | Unknown |
 
 **[⬆ Back to Index](#index)**
