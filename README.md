@@ -844,8 +844,8 @@ For information on contributing to this project, please see the [contributing gu
 |       [Quotes on Design](https://quotesondesign.com/api/)       | Inspirational Quotes                                                   |    No    |  Yes  | Unknown |
 |         [Riddles API](https://riddles-api.vercel.app/)          | Get random riddles on every API call.                                  |    No    |  Yes  |   Yes   |
 |         [Traitify](https://app.traitify.com/developer)          | Assess, collect and analyze Personality                                |    No    |  Yes  | Unknown |
-|               [Vedika](https://vedika.io)                       | Vedic astrology API with AI chatbot, birth charts, and horoscopes      | `apiKey` |  Yes  |   Yes   |
 |          [tronalddump.io](https://www.tronalddump.io)           | Api & web archive for the things Donald Trump has said                 |    No    |  Yes  | Unknown |
+|               [Vedika](https://vedika.io/docs)                  | Vedic astrology API with AI chatbot, kundali, and panchang             | `apiKey` |  Yes  |   Yes   |
 
 **[⬆ Back to Index](#index)**
 
