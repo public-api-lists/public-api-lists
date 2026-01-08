@@ -263,6 +263,7 @@ For information on contributing to this project, please see the [contributing gu
 |                                                     API                                                      | Description                                                        |   Auth   | HTTPS |  CORS   |
 | :----------------------------------------------------------------------------------------------------------: | ------------------------------------------------------------------ | :------: | :---: | :-----: |
 |                        [1Forge](https://1forge.com/forex-data-api/api-documentation)                         | Forex currency market data                                         | `apiKey` |  Yes  | Unknown |
+|                                [CurrencyFreaks](https://currencyfreaks.com/)                                 | Currency conversion with latest & historical forex exchange rates  | `apiKey` |  Yes  | Unknown |
 |                           [Currencylayer](https://currencylayer.com/documentation)                           | Exchange rates and currency conversion                             | `apiKey` |  Yes  | Unknown |
 | [Czech National Bank](https://www.cnb.cz/cs/financni_trhy/devizovy_trh/kurzy_devizoveho_trhu/denni_kurz.xml) | A collection of exchange rates                                     |    No    |  Yes  | Unknown |
 |                             [ExchangeRate-API](https://www.exchangerate-api.com)                             | Free currency conversion                                           | `apiKey` |  Yes  |   Yes   |
@@ -304,6 +305,7 @@ For information on contributing to this project, please see the [contributing gu
 |                                   [addr.zone](https://addr.zone)                                    | IP Classification and Intelligence API. Detect Proxies, Datacenter, Malicious IPs, ...              |       No        |  Yes  |   Yes   |
 |                                    [Agify.io](https://agify.io)                                     | Estimates the age from a first name                                                                 |       No        |  Yes  |   Yes   |
 |                                  [ApiFlash](https://apiflash.com/)                                  | Chrome based screenshot API for developers                                                          |    `apiKey`     |  Yes  | Unknown |
+|                               [APIFreaks](https://apifreaks.com/docs)                         | API hub with DNS, WHOIS, Screenshot, IP Geolocation, Weather, Commodity & Currency APIs      |    `apiKey`     |  Yes  | Unknown |
 |                               [APIs.guru](https://apis.guru/api-doc/)                               | Wikipedia for Web APIs, OpenAPI/Swagger specs for public APIs                                       |       No        |  Yes  | Unknown |
 |                                 [BetterMeta](http://bettermeta.io)                                  | Return a site's meta tags in JSON format                                                            | `X-Mashape-Key` |  Yes  | Unknown |
 |                         [Browshot](https://browshot.com/api/documentation)                          | Easily make screenshots of web pages in any screen size, as any device                              |    `apiKey`     |  Yes  | Unknown |
@@ -461,6 +463,7 @@ For information on contributing to this project, please see the [contributing gu
 | :----------------------------------------------------------------------: | ------------------------------------------------------------- | :------: | :---: | :-----: |
 |              [Alpha Vantage](https://www.alphavantage.co/)               | Realtime and historical stock data                            | `apiKey` |  Yes  | Unknown |
 |        [Barchart OnDemand](https://www.barchartondemand.com/free)        | Stock, Futures and Forex Market Data                          | `apiKey` |  Yes  | Unknown |
+|           [CommodityPriceAPI](https://commoditypriceapi.com/)            | Real-time & historical commodity prices (metals, energy, etc) | `apiKey` |  Yes  | Unknown |
 |             [Earnings Feed](https://earningsfeed.com/api)                | Real-time SEC filings, insider trades, and institutional holdings | `apiKey` |  Yes  |   No    |
 |               [Financial Data](https://financialdata.net/)               | Stock Market and Financial Data                               | `apiKey` |  Yes  | Unknown |
 |      [Financial Modeling Prep](https://financialmodelingprep.com/)       | Stock information and data                                    | `apiKey` |  Yes  | Unknown |
