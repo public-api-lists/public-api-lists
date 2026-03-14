@@ -985,6 +985,7 @@ For information on contributing to this project, please see the [contributing gu
 |                  [Twitch](https://dev.twitch.tv/docs)                  | Game Streaming API                                                                                | `OAuth`  |  Yes  | Unknown |
 |            [Twitter](https://developer.twitter.com/en/docs)            | Read and write Twitter data                                                                       | `OAuth`  |  Yes  |   No    |
 |                     [vk](https://vk.com/dev/sites)                     | Read and write vk data                                                                            | `OAuth`  |  Yes  | Unknown |
+|                 [Xquik](https://docs.xquik.com)                  | X (Twitter) automation — search, user lookup, follower extraction, engagement, giveaways & webhooks | `apiKey` |  Yes  |   Yes   |
 |              [SharedCount](http://docs.sharedcount.com/)               | Track Pinterest & Facebook Shares                                                                 | `apiKey` |  Yes  | Unknown |
 |                  [TwitterApi](http://twitterapi.io/)                   | Mass Twitter data read API                                                                        | `apiKey` |  Yes  |   No    |
 
