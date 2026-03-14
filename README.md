@@ -718,6 +718,7 @@ For information on contributing to this project, please see the [contributing gu
 |                   [Careerjet](https://www.careerjet.com/partners/api/)                   | Job search engine                                                               | `apiKey` |  No   | Unknown |
 |                     [DevITjobs](https://devitjobs.us/api/jobsLight)                      | Jobs for software developers                                                    |    No    |  Yes  | Unknown |
 |                         [GraphQL Jobs](https://api.graphql.jobs)                         | Jobs with GraphQL                                                               |    No    |  Yes  |   Yes   |
+|                      [Himalayas](https://himalayas.app/api)                         | Remote job board and search engine                                              |    No    |  Yes  |   Yes   |
 |                        [Indeed](https://www.indeed.com/publisher)                        | Job board aggregator                                                            | `apiKey` |  Yes  | Unknown |
 |                        [Jobicy](https://jobicy.com/jobs-rss-feed)                        | The latest remote job listings from a diverse range of industries and companies |    No    |  Yes  |   Yes   |
 |                 [Jobs2Careers](http://api.jobs2careers.com/api/spec.pdf)                 | Job aggregator                                                                  | `apiKey` |  Yes  | Unknown |
