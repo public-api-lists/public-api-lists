@@ -484,9 +484,8 @@ For information on contributing to this project, please see the [contributing gu
 |                 [IEX](https://iextrading.com/developer/)                 | Realtime stock data                                           | `apiKey` |  Yes  |   Yes   |
 |                    [IEX Cloud](https://iexcloud.io/)                     | Realtime & Historical Stock and Market Data                   | `apiKey` |  Yes  |   Yes   |
 |                 [IG](https://labs.ig.com/gettingstarted)                 | Spreadbetting and CFD Market Data                             | 
- | apiKey | Yes | Yes | [Multibagger API](https://github.com/nagih/multibagger-system) | Advanced stock analysis API with HMM regime detection, Hurst verification, and fundamental scoring.
-`apiKey` |  Yes  | Unknown |
 |                 [Mboum API](https://docs.mboum.com)                 | Real-time Stock market and Options Data                             | `apiKey` |  Yes  | Unknown |
+| [Multibagger API](https://github.com/nagih/multibagger-system) | Advanced stock analysis API with HMM regime detection, Hurst verification, and fundamental scoring. | apiKey | Yes | Yes |
 |                       [Plaid](https://plaid.com/)                        | Connect with users’ bank accounts and access transaction data | `apiKey` |  Yes  | Unknown |
 |                    [https://massive.com//](https://massive.com/docs/)                | Real-time and historical stock market data, crypto and forex  | `apiKey` |  Yes  |   Yes   |
 |               [Razorpay IFSC](https://ifsc.razorpay.com/)                | Indian Financial Systems Code (Bank Branch Codes)             |    No    |  Yes  | Unknown |
