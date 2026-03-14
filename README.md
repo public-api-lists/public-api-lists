@@ -981,6 +981,7 @@ For information on contributing to this project, please see the [contributing gu
 |   [Telegram MTProto](https://core.telegram.org/api#getting-started)    | Read and write Telegram data                                                                      | `apiKey` |  Yes  | Unknown |
 |          [Trash Nothing](https://trashnothing.com/developer)           | A freecycling community with thousands of free items posted every day                             | `OAuth`  |  Yes  |   Yes   |
 |            [Tumblr](https://www.tumblr.com/docs/en/api/v2)             | Read and write Tumblr Data                                                                        | `OAuth`  |  Yes  | Unknown |
+|                 [Twexapi](https://twexapi.io)                  | Cheap X API with no limits and real-time data                                         | `apiKey` |  Yes  |   No    |
 |                  [Twitch](https://dev.twitch.tv/docs)                  | Game Streaming API                                                                                | `OAuth`  |  Yes  | Unknown |
 |            [Twitter](https://developer.twitter.com/en/docs)            | Read and write Twitter data                                                                       | `OAuth`  |  Yes  |   No    |
 |                     [vk](https://vk.com/dev/sites)                     | Read and write vk data                                                                            | `OAuth`  |  Yes  | Unknown |
