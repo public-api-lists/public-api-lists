@@ -168,6 +168,7 @@ For information on contributing to this project, please see the [contributing gu
 |                    [mailgun](https://www.mailgun.com/)                     | Email Service                                                             | `apiKey` |  Yes  | Unknown |
 |                    [Mailjet](https://www.mailjet.com/)                     | Email Service                                                             | `apiKey` |  Yes  | Unknown |
 |                   [markerapi](http://www.markerapi.com/)                   | Trademark Search                                                          |    No    |  No   | Unknown |
+|              [StackData SaaS Pricing](https://greg-rg-git.github.io/stackdata-store/api/)               | Verified pricing data for 797 SaaS tools across 13 categories            |    No    |  Yes  |   Yes   |
 |                  [Trello](https://developers.trello.com/)                  | Boards, lists and cards to help you organize and prioritize your projects | `OAuth`  |  Yes  | Unknown |
 |                  [Tomba Email finder](https://tomba.io/)                   | Email Finder for B2B sales and email marketing                            | `apiKey` |  Yes  |   Yes   |
 |                    [Clientsbee](https://clientsbee.com)                    | Free leads for bussiness and technographics data                          | `apikey` |  Yes  |   No    |
