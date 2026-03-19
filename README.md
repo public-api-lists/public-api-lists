@@ -739,6 +739,7 @@ For information on contributing to this project, please see the [contributing gu
 |                                        API                                        | Description                                             |   Auth   | HTTPS |  CORS   |
 | :-------------------------------------------------------------------------------: | ------------------------------------------------------- | :------: | :---: | :-----: |
 | [Cloudmersive](https://www.cloudmersive.com/image-recognition-and-processing-api) | Image captioning, face recognition, NSFW classification | `apiKey` |  Yes  |   Yes   |
+| [AI Engine](https://ai-engine.net/apis/all-in-one) | 36+ AI endpoints: OCR, face detection, background removal, object detection, NSFW moderation, face swap, image generation | `apiKey` | Yes | Yes |
 | [Agent Hustle](https://agent.stakewatch.dev/api) | AI web services: scraping, research, screenshots, translation, summarization | `apiKey` | Yes | Yes |
 |          [Deepcode](https://www.deepcode.ai/docs/Overview%252FOverview)           | AI for code review                                      |    No    |  Yes  | Unknown |
 |                       [Dialogflow](https://dialogflow.com)                        | Natural Language Processing                             | `apiKey` |  Yes  | Unknown |
