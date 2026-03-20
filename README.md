@@ -654,6 +654,7 @@ For information on contributing to this project, please see the [contributing gu
 
 |                                         API                                         | Description                                                                               |   Auth   | HTTPS |  CORS   |
 | :---------------------------------------------------------------------------------: | ----------------------------------------------------------------------------------------- | :------: | :---: | :-----: |
+|                      [Apiverket](https://apiverket.se/docs)                         | Unified API for Swedish public data — weather, transport, companies, and 30+ agencies     | `apiKey` |  Yes  |   Yes   |
 |                    [Autobahn API](https://autobahn.api.bund.dev)                    | Information about Germany's federal highways like construction sites and traffic jams     |    No    |  Yes  | Unknown |
 |        [BCLaws](http://www.bclaws.ca/civix/template/complete/api/index.html)        | Access to the laws of British Columbia                                                    |    No    |  No   | Unknown |
 |                  [BusinessUSA](https://business.usa.gov/developer)                  | Authoritative information on U.S. programs, events, services and more                     | `apiKey` |  Yes  | Unknown |
