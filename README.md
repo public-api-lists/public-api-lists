@@ -744,6 +744,7 @@ For information on contributing to this project, please see the [contributing gu
 | :-------------------------------------------------------------------------------: | ------------------------------------------------------- | :------: | :---: | :-----: |
 | [Cloudmersive](https://www.cloudmersive.com/image-recognition-and-processing-api) | Image captioning, face recognition, NSFW classification | `apiKey` |  Yes  |   Yes   |
 | [Agent Hustle](https://agent.stakewatch.dev/api) | AI web services: scraping, research, screenshots, translation, summarization | `apiKey` | Yes | Yes |
+| [Arch Tools](https://archtools.dev) | 61 AI tools: generation, scraping, crypto, sentiment, OCR, TTS. x402 USDC payments + API keys | `apiKey` |  Yes  |   Yes   |
 |          [Deepcode](https://www.deepcode.ai/docs/Overview%252FOverview)           | AI for code review                                      |    No    |  Yes  | Unknown |
 |                       [Dialogflow](https://dialogflow.com)                        | Natural Language Processing                             | `apiKey` |  Yes  | Unknown |
 | [HOL Registry Broker](https://hol.org/docs/registry-broker/) | Search and verify AI agents & MCP servers | `apiKey` |  Yes  |   Yes   |
