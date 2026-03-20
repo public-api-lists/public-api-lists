@@ -657,6 +657,7 @@ For information on contributing to this project, please see the [contributing gu
 |                      [Apiverket](https://apiverket.se/docs)                         | Unified API for Swedish public data — weather, transport, companies, and 30+ agencies     | `apiKey` |  Yes  |   Yes   |
 |                    [Autobahn API](https://autobahn.api.bund.dev)                    | Information about Germany's federal highways like construction sites and traffic jams     |    No    |  Yes  | Unknown |
 |        [BCLaws](http://www.bclaws.ca/civix/template/complete/api/index.html)        | Access to the laws of British Columbia                                                    |    No    |  No   | Unknown |
+|                       [BuildData](https://builddata.ca)                             | Canadian construction and development data from 17 cities                                 | `apiKey` |  Yes  | Unknown |
 |                  [BusinessUSA](https://business.usa.gov/developer)                  | Authoritative information on U.S. programs, events, services and more                     | `apiKey` |  Yes  | Unknown |
 |         [Census.gov](https://www.census.gov/data/developers/data-sets.html)         | The US Census Bureau provides various APIs and data sets on demographics and businesses   |    No    |  Yes  | Unknown |
 |                  [City, Analyze Boston](https://data.boston.gov/)                   | Boston(US) City Open Data                                                                 | `apiKey` |  Yes  | Unknown |
