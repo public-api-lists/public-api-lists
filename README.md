@@ -428,6 +428,7 @@ For information on contributing to this project, please see the [contributing gu
 |                      [pdfEndpoint](https://pdfendpoint.com)                       | HTML or URL to PDF                                             | `apiKey` |  Yes  |   No    |
 |                         [pdflayer](https://pdflayer.com)                          | HTML/URL to PDF                                                | `apiKey` |  Yes  | Unknown |
 |                        [PDFBolt](https://pdfbolt.com/docs)                        | HTML to PDF conversion with templates and AI generation        | `apiKey` |  Yes  |   Yes   |
+|                       [PDFSpark](https://pdfspark.dev)                        | Free HTML/URL to PDF conversion API                           |    No    |  Yes  |   No    |
 |                    [Pocket](https://getpocket.com/developer/)                     | Bookmarking service                                            | `OAuth`  |  Yes  | Unknown |
 |                         [PrexView](https://prexview.com)                          | Data from XML or JSON to PDF, HTML or Image                    | `apiKey` |  Yes  | Unknown |
 |                       [RenderPDF.io](https://renderpdf.io/)                       | Fastest HTML to PDF, free 500 pdfs/month                       | `apiKey` |  Yes  |   Yes   |
