@@ -1,7 +1,7 @@
 name: Auto Label PR
 
 on:
-  pull_request:
+  pull_request_target:
     branches: [master]
     paths: ['README.md']
 
@@ -14,23 +14,23 @@ jobs:
     name: Label by Category
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout PR
+      - name: Checkout base
         uses: actions/checkout@v4
         with:
+          ref: ${{ github.base_ref }}
           fetch-depth: 0
 
-      - name: Fetch base branch
-        run: git fetch origin ${{ github.base_ref }}
+      - name: Fetch PR head
+        run: git fetch origin pull/${{ github.event.pull_request.number }}/head:pr-head
 
       - name: Detect modified sections and label
-        continue-on-error: true
         uses: actions/github-script@v7
         with:
           script: |
             const { execSync } = require('child_process');
 
             const diff = execSync(
-              `git diff origin/${{ github.base_ref }}...HEAD -- README.md`,
+              `git diff origin/${{ github.base_ref }}...pr-head -- README.md`,
               { encoding: 'utf8' }
             );
 

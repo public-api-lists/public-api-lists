@@ -1,7 +1,7 @@
 name: Validate PR
 
 on:
-  pull_request:
+  pull_request_target:
     branches: [master]
     paths: ['README.md']
 
@@ -14,13 +14,17 @@ jobs:
     name: Validate API Entry
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout PR
+      - name: Checkout base (scripts from master)
         uses: actions/checkout@v4
         with:
+          ref: ${{ github.base_ref }}
           fetch-depth: 0
 
-      - name: Fetch base branch
-        run: git fetch origin ${{ github.base_ref }}
+      - name: Fetch PR head
+        run: git fetch origin pull/${{ github.event.pull_request.number }}/head:pr-head
+
+      - name: Checkout PR README only
+        run: git checkout pr-head -- README.md
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -31,7 +35,7 @@ jobs:
         id: validate
         env:
           GITHUB_BASE_REF: ${{ github.base_ref }}
-          GITHUB_HEAD_REF: ${{ github.head_ref }}
+          GITHUB_HEAD_REF: pr-head
           PR_LABELS: ${{ join(github.event.pull_request.labels.*.name, ',') }}
           VALIDATION_OUTPUT: validation_result.json
         run: |
