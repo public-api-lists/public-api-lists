@@ -126,14 +126,14 @@ def build_api(categories, output_dir):
                 "entries": entries,
             }, f, indent=2)
 
-    # random.json — 10 random entries
+    # random.json — 10 random entries (changes on each deploy, not per request)
     sample_size = min(10, len(all_entries))
     random_entries = random.sample(all_entries, sample_size)
     with open(os.path.join(output_dir, "random.json"), "w") as f:
         json.dump({
             "count": sample_size,
             "entries": random_entries,
-            "note": "Random selection changes on each build",
+            "note": "Static file — changes on each deploy, not per request. For true randomness, fetch /api/all.json and sample client-side",
         }, f, indent=2)
 
     # stats.json
@@ -299,7 +299,7 @@ footer{{text-align:center;padding:32px 0;color:var(--t3);font-size:13px;border-t
       <div class="api-row"><code>GET /api/all.json</code><span>All {api_count} entries</span></div>
       <div class="api-row"><code>GET /api/categories.json</code><span>{cat_count} categories</span></div>
       <div class="api-row"><code>GET /api/{{slug}}.json</code><span>By category</span></div>
-      <div class="api-row"><code>GET /api/random.json</code><span>10 random entries</span></div>
+      <div class="api-row"><code>GET /api/random.json</code><span>10 random entries (per deploy)</span></div>
       <div class="api-row"><code>GET /api/stats.json</code><span>Aggregate stats</span></div>
     </div>
   </details>
