@@ -1,0 +1,32 @@
+# Configuration for probot-stale - https://github.com/probot/stale
+
+# Number of days of inactivity before an issue/PR becomes stale
+daysUntilStale: 30
+
+# Number of days of inactivity before a stale issue/PR is closed
+daysUntilClose: 7
+
+# Issues/PRs with these labels will never be considered stale
+exemptLabels:
+  - pinned
+  - security
+  - cleanup
+  - sponsor
+
+# Label to apply when marking as stale
+staleLabel: stale
+
+# Comment when marking a PR as stale
+markComment: >
+  This pull request has been automatically marked as stale because it has not had
+  recent activity. It will be closed in 7 days if no further activity occurs.
+  If your API entry is still valid, please update your PR to resolve any issues
+  noted by the automated checks. Thank you for contributing!
+
+# Comment when closing a stale PR
+closeComment: >
+  This pull request has been automatically closed due to inactivity.
+  Feel free to reopen it if you'd like to continue with this contribution.
+
+# Only stale PRs, not issues (issues are already minimal)
+only: pulls

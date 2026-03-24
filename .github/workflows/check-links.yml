@@ -1,0 +1,118 @@
+name: Check New Links
+
+on:
+  pull_request:
+    branches: [master]
+    paths: ['README.md']
+
+permissions:
+  contents: read
+  pull-requests: write
+
+jobs:
+  check-links:
+    name: Verify New URLs
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout PR
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Fetch base branch
+        run: git fetch origin ${{ github.base_ref }}
+
+      - name: Extract new URLs from diff
+        id: urls
+        run: |
+          # Get only added lines that look like table entries with URLs
+          git diff origin/${{ github.base_ref }}...HEAD -- README.md \
+            | grep '^+|' \
+            | grep -oP 'https?://[^\s\)]+' \
+            | sort -u > new_urls.txt
+
+          count=$(wc -l < new_urls.txt | tr -d ' ')
+          echo "count=$count" >> $GITHUB_OUTPUT
+          echo "Found $count new URL(s) to check"
+          cat new_urls.txt
+
+      - name: Check URLs
+        if: steps.urls.outputs.count != '0'
+        run: |
+          echo "url,status" > link_results.csv
+          failed=0
+
+          while IFS= read -r url; do
+            # Skip empty lines
+            [ -z "$url" ] && continue
+
+            status=$(curl -o /dev/null -s -w "%{http_code}" \
+              -L --max-time 15 --retry 2 \
+              -A "Mozilla/5.0 (compatible; LinkChecker/1.0)" \
+              "$url" 2>/dev/null || echo "000")
+
+            echo "$url,$status" >> link_results.csv
+
+            if [ "$status" -ge 400 ] || [ "$status" = "000" ]; then
+              echo "FAIL [$status] $url"
+              failed=$((failed + 1))
+            else
+              echo "OK   [$status] $url"
+            fi
+          done < new_urls.txt
+
+          echo "failed=$failed" >> $GITHUB_ENV
+
+      - name: Comment on PR with link results
+        if: steps.urls.outputs.count != '0'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const csv = fs.readFileSync('link_results.csv', 'utf8');
+            const lines = csv.trim().split('\n').slice(1); // skip header
+
+            const failed = parseInt(process.env.failed || '0');
+            if (failed === 0 && lines.length === 0) return;
+
+            let body = '';
+            if (failed > 0) {
+              body += `## :warning: Link Check: ${failed} broken link(s)\n\n`;
+              body += 'The following URLs returned errors. Please verify they are correct:\n\n';
+              body += '| URL | Status |\n|-----|--------|\n';
+              for (const line of lines) {
+                const [url, status] = line.split(',');
+                if (parseInt(status) >= 400 || status === '000') {
+                  body += `| ${url} | ${status} |\n`;
+                }
+              }
+              body += '\n> Note: Some URLs may block automated checks. If the link works in a browser, this may be a false positive.\n';
+            } else {
+              body += `## :link: Link Check: All ${lines.length} URL(s) are reachable\n`;
+            }
+
+            const { data: comments } = await github.rest.issues.listComments({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+            });
+
+            const botComment = comments.find(c =>
+              c.user.type === 'Bot' && c.body.includes('Link Check:')
+            );
+
+            if (botComment) {
+              await github.rest.issues.updateComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                comment_id: botComment.id,
+                body,
+              });
+            } else {
+              await github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: context.issue.number,
+                body,
+              });
+            }

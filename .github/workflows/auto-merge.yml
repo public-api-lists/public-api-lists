@@ -1,0 +1,121 @@
+name: Auto Merge Single Entry PRs
+
+on:
+  # Trigger after validation completes
+  check_suite:
+    types: [completed]
+  # Also trigger when all checks pass
+  pull_request_review:
+    types: [submitted]
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  auto-merge:
+    name: Auto Merge
+    runs-on: ubuntu-latest
+    # Only run when triggered by check suite completion
+    if: github.event_name == 'check_suite' && github.event.check_suite.conclusion == 'success'
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Check if eligible for auto-merge
+        id: check
+        uses: actions/github-script@v7
+        with:
+          script: |
+            // Get the PRs associated with this check suite
+            const pulls = context.payload.check_suite?.pull_requests || [];
+            if (pulls.length === 0) {
+              console.log('No PRs associated with this check suite');
+              return;
+            }
+
+            for (const pr of pulls) {
+              const { data: pullRequest } = await github.rest.pulls.get({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                pull_number: pr.number,
+              });
+
+              // Skip if PR is from a bot or has certain labels
+              const labels = pullRequest.labels.map(l => l.name);
+              if (labels.includes('do-not-merge') || labels.includes('needs-review')) {
+                console.log(`PR #${pr.number} has blocking label, skipping`);
+                continue;
+              }
+
+              // Check all status checks passed
+              const { data: checks } = await github.rest.checks.listForRef({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                ref: pullRequest.head.sha,
+              });
+
+              const allPassed = checks.check_runs.every(
+                c => c.conclusion === 'success' || c.conclusion === 'skipped'
+              );
+
+              if (!allPassed) {
+                console.log(`PR #${pr.number} has failing checks, skipping`);
+                continue;
+              }
+
+              // Check the diff is a single entry addition
+              const { data: files } = await github.rest.pulls.listFiles({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                pull_number: pr.number,
+              });
+
+              // Must only modify README.md
+              if (files.length !== 1 || files[0].filename !== 'README.md') {
+                console.log(`PR #${pr.number} modifies files other than README.md, skipping`);
+                continue;
+              }
+
+              // Count added/removed lines (only table entries)
+              const patch = files[0].patch || '';
+              const addedEntries = patch.split('\n')
+                .filter(l => l.startsWith('+') && !l.startsWith('+++') && l.includes('](') && l.includes('|'))
+                .length;
+              const removedEntries = patch.split('\n')
+                .filter(l => l.startsWith('-') && !l.startsWith('---') && l.includes('](') && l.includes('|'))
+                .length;
+
+              if (addedEntries === 1 && removedEntries === 0) {
+                console.log(`PR #${pr.number} is a single-entry addition with all checks passing — enabling auto-merge`);
+
+                // Add auto-merged label
+                await github.rest.issues.addLabels({
+                  owner: context.repo.owner,
+                  repo: context.repo.repo,
+                  issue_number: pr.number,
+                  labels: ['auto-merged'],
+                });
+
+                // Enable auto-merge (squash)
+                try {
+                  await github.graphql(`
+                    mutation($pullRequestId: ID!) {
+                      enablePullRequestAutoMerge(input: {
+                        pullRequestId: $pullRequestId,
+                        mergeMethod: SQUASH
+                      }) {
+                        pullRequest { number }
+                      }
+                    }
+                  `, { pullRequestId: pullRequest.node_id });
+
+                  console.log(`Auto-merge enabled for PR #${pr.number}`);
+                } catch (e) {
+                  console.log(`Could not enable auto-merge for PR #${pr.number}: ${e.message}`);
+                  console.log('Note: Auto-merge requires branch protection rules to be configured.');
+                }
+              } else {
+                console.log(`PR #${pr.number} has ${addedEntries} additions and ${removedEntries} removals — not eligible for auto-merge`);
+              }
+            }

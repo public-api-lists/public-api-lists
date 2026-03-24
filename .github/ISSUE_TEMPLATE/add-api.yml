@@ -1,0 +1,124 @@
+name: Suggest an API
+description: Suggest a new public API to add to the list
+title: "[API] "
+labels: ["new entry"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for suggesting an API! Please consider [opening a pull request](https://github.com/public-api-lists/public-api-lists/pulls) instead — it's faster to review.
+
+  - type: input
+    id: api-name
+    attributes:
+      label: API Name
+      placeholder: e.g., NASA
+    validations:
+      required: true
+
+  - type: input
+    id: api-url
+    attributes:
+      label: API Documentation URL
+      placeholder: https://api.example.com/docs
+    validations:
+      required: true
+
+  - type: input
+    id: description
+    attributes:
+      label: Description
+      description: Short description (do not end with punctuation)
+      placeholder: e.g., NASA data, including imagery
+    validations:
+      required: true
+
+  - type: dropdown
+    id: auth
+    attributes:
+      label: Authentication
+      options:
+        - "No"
+        - "apiKey"
+        - "OAuth"
+        - "X-Mashape-Key"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: https
+    attributes:
+      label: HTTPS Support
+      options:
+        - "Yes"
+        - "No"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: cors
+    attributes:
+      label: CORS Support
+      options:
+        - "Yes"
+        - "No"
+        - "Unknown"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      description: Which section should this API be listed under?
+      options:
+        - Animals
+        - Anime
+        - Anti-Malware
+        - Art & Design
+        - Books
+        - Business
+        - Calendar
+        - Cloud Storage & File Sharing
+        - Continuous Integration
+        - Cryptocurrency
+        - Currency Exchange
+        - Data Validation
+        - Development
+        - Dictionaries
+        - Disasters
+        - Documents & Productivity
+        - Education
+        - Environment
+        - Events
+        - Finance
+        - Food & Drink
+        - Fraud Prevention
+        - Games & Comics
+        - Geocoding
+        - Government
+        - Health
+        - Jobs
+        - Machine Learning
+        - Music
+        - News
+        - Open Data
+        - Open Source Projects
+        - Patent
+        - Personality
+        - Photography
+        - Science & Math
+        - Security
+        - Shopping
+        - Social
+        - Sports & Fitness
+        - Test Data
+        - Text Analysis
+        - Tracking
+        - Transportation
+        - URL Shorteners
+        - Vehicle
+        - Video
+        - Weather
+    validations:
+      required: true

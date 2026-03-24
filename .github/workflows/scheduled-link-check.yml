@@ -1,0 +1,93 @@
+name: Weekly Link Check
+
+on:
+  schedule:
+    # Every Sunday at 2:00 AM UTC
+    - cron: '0 2 * * 0'
+  workflow_dispatch: # Allow manual trigger
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  check-links:
+    name: Check All Links
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Check all links
+        run: |
+          python3 .github/scripts/check_all_links.py
+
+      - name: Open issues for broken links
+        if: always()
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            let results;
+            try {
+              results = JSON.parse(fs.readFileSync('broken_links.json', 'utf8'));
+            } catch (e) {
+              console.log('No broken links file found or parse error:', e.message);
+              return;
+            }
+
+            if (results.broken.length === 0) {
+              console.log('No broken links found!');
+              return;
+            }
+
+            // Check for an existing open issue from the bot
+            const { data: existingIssues } = await github.rest.issues.listForRepo({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              labels: 'broken link,automated',
+              state: 'open',
+            });
+
+            let body = `## Weekly Link Check Report\n\n`;
+            body += `**Date:** ${new Date().toISOString().split('T')[0]}\n`;
+            body += `**Total links checked:** ${results.total}\n`;
+            body += `**Broken links found:** ${results.broken.length}\n\n`;
+            body += `| Section | API | URL | Status |\n`;
+            body += `|---------|-----|-----|--------|\n`;
+
+            for (const link of results.broken) {
+              body += `| ${link.section} | ${link.name} | ${link.url} | ${link.status} |\n`;
+            }
+
+            body += `\n> **Note:** Some links may return errors to automated checkers but work fine in a browser. Please verify before removing.\n`;
+            body += `\n---\n*This issue was created automatically by the weekly link checker.*`;
+
+            if (existingIssues.length > 0) {
+              // Update existing issue
+              await github.rest.issues.update({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: existingIssues[0].number,
+                body,
+              });
+              console.log(`Updated existing issue #${existingIssues[0].number}`);
+            } else {
+              // Create new issue
+              await github.rest.issues.create({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                title: `[Automated] Broken links detected — ${new Date().toISOString().split('T')[0]}`,
+                body,
+                labels: ['broken link', 'automated', 'cleanup'],
+              });
+              console.log('Created new issue for broken links');
+            }

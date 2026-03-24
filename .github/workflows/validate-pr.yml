@@ -1,0 +1,137 @@
+name: Validate PR
+
+on:
+  pull_request:
+    branches: [master]
+    paths: ['README.md']
+
+permissions:
+  contents: read
+  pull-requests: write
+
+jobs:
+  validate:
+    name: Validate API Entry
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout PR
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Fetch base branch
+        run: git fetch origin ${{ github.base_ref }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Run validation
+        id: validate
+        env:
+          GITHUB_BASE_REF: ${{ github.base_ref }}
+          GITHUB_HEAD_REF: ${{ github.head_ref }}
+          PR_LABELS: ${{ join(github.event.pull_request.labels.*.name, ',') }}
+          VALIDATION_OUTPUT: validation_result.json
+        run: |
+          python .github/scripts/validate_pr.py
+          echo "exit_code=$?" >> $GITHUB_OUTPUT
+
+      - name: Post PR comment
+        if: always()
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            let result;
+            try {
+              result = JSON.parse(fs.readFileSync('validation_result.json', 'utf8'));
+            } catch (e) {
+              result = { errors: ['Validation script failed to run'], warnings: [], modified_sections: [], passed: false };
+            }
+
+            const { errors, warnings, modified_sections, passed } = result;
+
+            // Don't comment if everything is clean and no entries changed
+            if (passed && errors.length === 0 && warnings.length === 0 && modified_sections.length === 0) {
+              return;
+            }
+
+            let body = '';
+
+            if (passed) {
+              body += '## :white_check_mark: Validation Passed\n\n';
+              body += 'All checks passed! Your entry looks good.\n\n';
+            } else {
+              body += '## :x: Validation Failed\n\n';
+              body += 'Please fix the following issues before this PR can be merged:\n\n';
+              for (const err of errors) {
+                body += `- ${err}\n`;
+              }
+              body += '\n';
+            }
+
+            if (warnings.length > 0) {
+              body += '## :warning: Warnings\n\n';
+              for (const warn of warnings) {
+                body += `- ${warn}\n`;
+              }
+              body += '\n';
+            }
+
+            if (modified_sections.length > 0) {
+              body += `**Modified sections:** ${modified_sections.sort().join(', ')}\n\n`;
+            }
+
+            body += '<details><summary>Validation rules</summary>\n\n';
+            body += '- Entry format: `| [Name](URL) | Description | Auth | HTTPS | CORS |`\n';
+            body += '- Auth: `No`, `apiKey`, `OAuth`, `X-Mashape-Key`\n';
+            body += '- HTTPS: `Yes` or `No`\n';
+            body += '- CORS: `Yes`, `No`, or `Unknown`\n';
+            body += '- Description must not end with punctuation\n';
+            body += '- Entries must be in alphabetical order within their section\n';
+            body += '- Existing entries must not be removed (add `cleanup` label if intentional)\n';
+            body += '- No duplicate API names or URLs\n';
+            body += '</details>\n\n';
+            body += '---\n*This check ran automatically. See the [contributing guide](https://github.com/${{ github.repository }}/blob/master/.github/CONTRIBUTING.md) for details.*';
+
+            // Find and update existing bot comment, or create new one
+            const { data: comments } = await github.rest.issues.listComments({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+            });
+
+            const botComment = comments.find(c =>
+              c.user.type === 'Bot' && c.body.includes('Validation Passed') || c.body.includes('Validation Failed')
+            );
+
+            if (botComment) {
+              await github.rest.issues.updateComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                comment_id: botComment.id,
+                body,
+              });
+            } else {
+              await github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: context.issue.number,
+                body,
+              });
+            }
+
+      - name: Fail if validation errors
+        if: always()
+        run: |
+          python -c "
+          import json, sys
+          with open('validation_result.json') as f:
+              result = json.load(f)
+          if not result['passed']:
+              print('Validation failed with errors.')
+              sys.exit(1)
+          print('Validation passed.')
+          "

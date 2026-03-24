@@ -1,0 +1,31 @@
+name: Report Broken API
+description: Report an API with a broken link or that no longer exists
+title: "[Broken] "
+labels: ["cleanup", "broken link"]
+body:
+  - type: input
+    id: api-name
+    attributes:
+      label: API Name
+      description: Name of the API as it appears in the list
+      placeholder: e.g., Some Deprecated API
+    validations:
+      required: true
+
+  - type: input
+    id: section
+    attributes:
+      label: Section
+      description: Which category section is it under?
+      placeholder: e.g., Development
+    validations:
+      required: true
+
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+      description: What's wrong? (broken link, API shut down, returns errors, etc.)
+      placeholder: The link returns a 404...
+    validations:
+      required: true
