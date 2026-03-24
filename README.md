@@ -231,6 +231,7 @@
 |                  [NiceHash](https://docs.nicehash.com/)                  | Largest Crypto Mining Marketplace                                                                                                  | `apiKey` |  Yes  | Unknown |
 |              [Poloniex](https://api-docs.poloniex.com/spot)              | US based digital asset exchange                                                                                                    | `apiKey` |  Yes  | Unknown |
 |       [WorldCoinIndex](https://www.worldcoinindex.com/apiservice)        | Cryptocurrencies Prices                                                                                                            | `apiKey` |  Yes  | Unknown |
+|       [CryptoLabel](https://cryptolabel.io)                              | Identify known addresses on major networks with a free API.                                                                        |    No    |  Yes  |   Yes   |
 
 **[⬆ Back to Index](#index)**
 
