@@ -269,11 +269,24 @@ def check_alphabetical_order(sections):
     return errors
 
 
-def check_duplicates(sections, added_lines):
-    """Check if newly added entries duplicate existing ones."""
+def check_duplicates(sections, added_entries):
+    """Check if newly added entries duplicate existing ones.
+
+    Only flags duplicates that involve a newly added entry.
+    Pre-existing duplicates (both entries already in the list) are ignored.
+    """
     errors = []
 
-    # Collect all existing names and URLs
+    # Build set of newly added names and URLs for filtering
+    new_names = set()
+    new_urls = set()
+    for item in added_entries:
+        match = TABLE_ENTRY_RE.match(item["content"].strip())
+        if match:
+            new_names.add(match.group(1).strip().lower())
+            new_urls.add(match.group(2).strip().lower().rstrip("/"))
+
+    # Collect all names and URLs from the full README
     all_names = {}
     all_urls = {}
     for section_name, entries in sections.items():
@@ -287,16 +300,15 @@ def check_duplicates(sections, added_lines):
                 all_urls[lower_url] = []
             all_urls[lower_url].append((entry["name"], section_name))
 
-    # Check for names that appear more than once (duplicates in final state)
+    # Only flag duplicates involving a newly added entry
     for name, secs in all_names.items():
-        if len(secs) > 1:
+        if len(secs) > 1 and name in new_names:
             errors.append(
                 f"Duplicate API name `{name}` found in sections: {', '.join(secs)}"
             )
 
-    # Check for URLs that appear more than once
     for url, entries in all_urls.items():
-        if len(entries) > 1:
+        if len(entries) > 1 and url in new_urls:
             names_sections = [f"`{n}` in {s}" for n, s in entries]
             errors.append(
                 f"Duplicate URL `{url}` found: {', '.join(names_sections)}"
