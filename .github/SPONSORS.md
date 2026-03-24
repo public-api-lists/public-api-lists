@@ -32,7 +32,7 @@ Thank you for considering sponsoring this project! Your support helps us maintai
 ## How to Become a Sponsor
 
 1. **GitHub Sponsors** (preferred): [Sponsor via GitHub](https://github.com/sponsors/public-api-lists)
-2. **Direct contact**: [Start a discussion](https://github.com/public-api-lists/public-api-lists/discussions/new?category=general&title=[Sponsor]%20) in our Discussions tab
+2. **Direct contact**: [Start a discussion](https://github.com/public-api-lists/public-api-lists/discussions/new?category=sponsor-inquiries&title=[Sponsor]%20) in our Discussions tab
 
 ## Sponsor Guidelines
 
