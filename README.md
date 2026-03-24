@@ -45,20 +45,7 @@
 
 ## Index
 
-| | | | |
-|---|---|---|---|
-| [Animals](#animals) | [Anime](#anime) | [Anti-Malware](#anti-malware) | [Art & Design](#art--design) |
-| [Books](#books) | [Business](#business) | [Calendar](#calendar) | [Cloud Storage & File Sharing](#cloud-storage--file-sharing) |
-| [Continuous Integration](#continuous-integration) | [Cryptocurrency](#cryptocurrency) | [Currency Exchange](#currency-exchange) | [Data Validation](#data-validation) |
-| [Development](#development) | [Dictionaries](#dictionaries) | [Disasters](#disasters) | [Documents & Productivity](#documents--productivity) |
-| [Education](#education) | [Environment](#environment) | [Events](#events) | [Finance](#finance) |
-| [Food & Drink](#food--drink) | [Fraud Prevention](#fraud-prevention) | [Games & Comics](#games--comics) | [Geocoding](#geocoding) |
-| [Government](#government) | [Health](#health) | [Jobs](#jobs) | [Machine Learning](#machine-learning) |
-| [Music](#music) | [News](#news) | [Open Data](#open-data) | [Open Source Projects](#open-source-projects) |
-| [Patent](#patent) | [Personality](#personality) | [Photography](#photography) | [Science & Math](#science--math) |
-| [Security](#security) | [Shopping](#shopping) | [Social](#social) | [Sports & Fitness](#sports--fitness) |
-| [Test Data](#test-data) | [Text Analysis](#text-analysis) | [Tracking](#tracking) | [Transportation](#transportation) |
-| [URL Shorteners](#url-shorteners) | [Vehicle](#vehicle) | [Video](#video) | [Weather](#weather) |
+[`Animals`](#animals) · [`Anime`](#anime) · [`Anti-Malware`](#anti-malware) · [`Art & Design`](#art--design) · [`Books`](#books) · [`Business`](#business) · [`Calendar`](#calendar) · [`Cloud Storage & File Sharing`](#cloud-storage--file-sharing) · [`Continuous Integration`](#continuous-integration) · [`Cryptocurrency`](#cryptocurrency) · [`Currency Exchange`](#currency-exchange) · [`Data Validation`](#data-validation) · [`Development`](#development) · [`Dictionaries`](#dictionaries) · [`Disasters`](#disasters) · [`Documents & Productivity`](#documents--productivity) · [`Education`](#education) · [`Environment`](#environment) · [`Events`](#events) · [`Finance`](#finance) · [`Food & Drink`](#food--drink) · [`Fraud Prevention`](#fraud-prevention) · [`Games & Comics`](#games--comics) · [`Geocoding`](#geocoding) · [`Government`](#government) · [`Health`](#health) · [`Jobs`](#jobs) · [`Machine Learning`](#machine-learning) · [`Music`](#music) · [`News`](#news) · [`Open Data`](#open-data) · [`Open Source Projects`](#open-source-projects) · [`Patent`](#patent) · [`Personality`](#personality) · [`Photography`](#photography) · [`Science & Math`](#science--math) · [`Security`](#security) · [`Shopping`](#shopping) · [`Social`](#social) · [`Sports & Fitness`](#sports--fitness) · [`Test Data`](#test-data) · [`Text Analysis`](#text-analysis) · [`Tracking`](#tracking) · [`Transportation`](#transportation) · [`URL Shorteners`](#url-shorteners) · [`Vehicle`](#vehicle) · [`Video`](#video) · [`Weather`](#weather)
 
 ### Animals
 
