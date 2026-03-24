@@ -23,6 +23,7 @@ jobs:
         run: git fetch origin ${{ github.base_ref }}
 
       - name: Detect modified sections and label
+        continue-on-error: true
         uses: actions/github-script@v7
         with:
           script: |
