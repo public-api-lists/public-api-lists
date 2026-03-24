@@ -215,6 +215,14 @@ h1{{font-size:clamp(28px,5vw,44px);font-weight:800;letter-spacing:-.02em;margin-
 .cat .n{{font-weight:600;font-size:14px}}.cat .c{{color:var(--t3);font-size:13px;font-variant-numeric:tabular-nums}}
 .cat.active{{border-color:var(--ac);background:rgba(59,130,246,.08)}}
 
+.sponsor{{text-align:center;margin-bottom:48px;padding:24px;border:1px solid var(--b);border-radius:12px;background:var(--s1)}}
+.sponsor p{{font-size:12px;color:var(--t3);margin-bottom:12px}}
+.sponsor a img{{border-radius:8px;opacity:.9;transition:.15s}}
+.sponsor a img:hover{{opacity:1}}
+.sponsor .sp-name{{font-size:13px;color:var(--t2);margin-top:8px}}
+.sponsor .sp-cta{{font-size:12px;color:var(--t3);margin-top:12px}}
+.sponsor .sp-cta a{{color:var(--ac2);font-size:12px}}
+
 #list{{margin-bottom:48px}}
 .e{{background:var(--s1);border:1px solid var(--b);border-radius:8px;padding:14px 16px;margin-bottom:6px;display:flex;justify-content:space-between;align-items:flex-start;gap:12px;flex-wrap:wrap}}
 .e:hover{{border-color:var(--b2)}}
@@ -272,6 +280,15 @@ footer{{text-align:center;padding:32px 0;color:var(--t3);font-size:13px;border-t
     <input type="text" id="q" placeholder="Search {api_count} APIs..." autocomplete="off">
   </div>
 
+  <div class="sponsor">
+    <p>Sponsored by</p>
+    <a href="https://serpapi.com/?utm_source=public-api-lists">
+      <img src="https://raw.githubusercontent.com/public-api-lists/public-api-lists/master/assets/serpapi.png" width="280" alt="SerpApi">
+    </a>
+    <div class="sp-name">Scrape Google and other search engines with a simple API</div>
+    <div class="sp-cta"><a href="https://github.com/public-api-lists/public-api-lists/blob/master/.github/SPONSORS.md">Become a sponsor</a></div>
+  </div>
+
   <div id="bar"></div>
   <div id="cats" class="grid"></div>
   <div id="list"></div>
@@ -295,26 +312,31 @@ footer{{text-align:center;padding:32px 0;color:var(--t3);font-size:13px;border-t
 <script>
 const CATS={cat_json};
 const BASE='api/';
-let allData=null,activeCat=null;
+let allData=null;
+let activeCats=new Set();
+const cache={{}};
 
 const $=s=>document.querySelector(s);
 const cats$=$('#cats'),list$=$('#list'),bar$=$('#bar'),q$=$('#q');
 
 function renderCats(){{
   cats$.innerHTML=CATS.map(c=>
-    `<div class="cat${{activeCat===c.slug?' active':''}}" data-s="${{c.slug}}"><span class="n">${{c.name}}</span><span class="c">${{c.count}}</span></div>`
+    `<div class="cat${{activeCats.has(c.slug)?' active':''}}" data-s="${{c.slug}}"><span class="n">${{c.name}}</span><span class="c">${{c.count}}</span></div>`
   ).join('');
   cats$.querySelectorAll('.cat').forEach(el=>el.onclick=()=>{{
     const s=el.dataset.s;
-    if(activeCat===s){{ activeCat=null;list$.innerHTML='';bar$.style.display='none';renderCats();return }}
-    activeCat=s;renderCats();loadCategory(s);
+    if(activeCats.has(s)){{ activeCats.delete(s) }}
+    else{{ activeCats.add(s) }}
+    renderCats();
+    if(activeCats.size===0){{ list$.innerHTML='';bar$.style.display='none' }}
+    else{{ loadSelected() }}
   }});
 }}
 
 function renderEntries(entries,label){{
   if(!entries.length){{ list$.innerHTML='<div class="empty">No APIs found</div>';bar$.innerHTML=label;bar$.style.display='block';return }}
   bar$.innerHTML=`${{entries.length}} ${{label}}`;
-  const btn=document.createElement('button');btn.textContent='Clear';btn.onclick=clearView;bar$.appendChild(btn);
+  const btn=document.createElement('button');btn.textContent='Clear all';btn.onclick=clearView;bar$.appendChild(btn);
   bar$.style.display='block';
   list$.innerHTML=entries.map(e=>{{
     let tags='';
@@ -325,13 +347,20 @@ function renderEntries(entries,label){{
   }}).join('');
 }}
 
-function clearView(){{ activeCat=null;list$.innerHTML='';bar$.style.display='none';q$.value='';renderCats();cats$.style.display='' }}
+function clearView(){{ activeCats.clear();list$.innerHTML='';bar$.style.display='none';q$.value='';renderCats();cats$.style.display='' }}
 
-async function loadCategory(slug){{
+async function loadSelected(){{
   list$.innerHTML='<div class="empty"><span class="ld"></span></div>';
-  const r=await fetch(BASE+slug+'.json');const d=await r.json();
-  const cat=CATS.find(c=>c.slug===slug);
-  renderEntries(d.entries,`APIs in ${{cat?cat.name:slug}}`);
+  const all=[];
+  for(const slug of activeCats){{
+    if(!cache[slug]){{
+      const r=await fetch(BASE+slug+'.json');const d=await r.json();
+      cache[slug]=d.entries;
+    }}
+    all.push(...cache[slug]);
+  }}
+  const names=[...activeCats].map(s=>CATS.find(c=>c.slug===s)?.name).filter(Boolean);
+  renderEntries(all,`APIs in ${{names.join(', ')}}`);
 }}
 
 async function loadAll(){{
@@ -346,7 +375,7 @@ q$.addEventListener('input',()=>{{
   timer=setTimeout(async()=>{{
     const v=q$.value.trim().toLowerCase();
     if(!v){{ clearView();return }}
-    activeCat=null;renderCats();cats$.style.display='none';
+    activeCats.clear();renderCats();cats$.style.display='none';
     list$.innerHTML='<div class="empty"><span class="ld"></span></div>';
     const data=await loadAll();
     const res=data.filter(e=>e.name.toLowerCase().includes(v)||e.description.toLowerCase().includes(v)||e.category.toLowerCase().includes(v));
