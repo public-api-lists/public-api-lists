@@ -221,6 +221,7 @@
 |               [CoinRanking](https://docs.coinranking.com/)               | Live Cryptocurrency data                                                                                                           |    No    |  Yes  | Unknown |
 |             [Covalent](https://www.covalenthq.com/docs/api/)             | Multi-blockchain data aggregator                                                                                                   |   Yes    |  Yes  | Unknown |
 |           [CryptoCompare](https://www.cryptocompare.com/api#)            | Cryptocurrencies Comparison                                                                                                        |    No    |  Yes  | Unknown |
+|       [CryptoLabel](https://cryptolabel.io)                              | Identify known addresses on major networks with a free API                                                                         |    No    |  Yes  |   Yes   |
 |             [Cryptonator](https://www.cryptonator.com/api/)              | Cryptocurrencies Exchange Rates                                                                                                    |    No    |  Yes  | Unknown |
 |                  [CurrencyAPI](https://currencyapi.com)                  | Currency Conversion API                                                                                                            | `apiKey` |  Yes  | Unknown |
 |               [DexPaprika](https://api.dexpaprika.com)                | Free DEX and DeFi data — pools, tokens, OHLCV, and trades across all chains                                                       |    No    |  Yes  |   Yes   |
@@ -231,7 +232,6 @@
 |                  [NiceHash](https://docs.nicehash.com/)                  | Largest Crypto Mining Marketplace                                                                                                  | `apiKey` |  Yes  | Unknown |
 |              [Poloniex](https://api-docs.poloniex.com/spot)              | US based digital asset exchange                                                                                                    | `apiKey` |  Yes  | Unknown |
 |       [WorldCoinIndex](https://www.worldcoinindex.com/apiservice)        | Cryptocurrencies Prices                                                                                                            | `apiKey` |  Yes  | Unknown |
-|       [CryptoLabel](https://cryptolabel.io)                              | Identify known addresses on major networks with a free API.                                                                        |    No    |  Yes  |   Yes   |
 
 **[⬆ Back to Index](#index)**
 
