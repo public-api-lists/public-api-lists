@@ -1,0 +1,33 @@
+name: Close Stale PRs
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Daily at midnight UTC
+  workflow_dispatch:
+
+permissions:
+  issues: write
+  pull-requests: write
+
+jobs:
+  stale:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/stale@v9
+        with:
+          only-pr-updated: true
+          days-before-stale: 30
+          days-before-close: 7
+          stale-pr-label: stale
+          exempt-pr-labels: 'pinned,security,cleanup,sponsor'
+          stale-pr-message: >
+            This pull request has been automatically marked as stale because it has not had
+            recent activity. It will be closed in 7 days if no further activity occurs.
+            If your API entry is still valid, please update your PR to resolve any issues
+            noted by the automated checks. Thank you for contributing!
+          close-pr-message: >
+            This pull request has been automatically closed due to inactivity.
+            Feel free to reopen it if you'd like to continue with this contribution.
+          # Don't touch issues
+          days-before-issue-stale: -1
+          days-before-issue-close: -1
