@@ -6,10 +6,9 @@
 [![Issues](https://img.shields.io/github/issues/public-api-lists/public-api-lists?style=flat-square)](https://github.com/public-api-lists/public-api-lists/issues/new)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/public-api-lists/public-api-lists/pulls)
 
->🚀 A hand-curated list of free, open, and developer-friendly APIs — perfect for your next side project or production app. 
->Lets Build this Community together. Pull Requests Welcome.
+> A hand-curated list of **791+ free public APIs** across **48 categories** — perfect for your next side project or production app. Let's build this community together.
 
-For information on contributing to this project, please see the [contributing guide](.github/CONTRIBUTING.md).
+[**Browse & Search on our Website**](https://public-api-lists.github.io/public-api-lists/) | [**JSON API**](https://public-api-lists.github.io/public-api-lists/api/all.json) | [**Contributing Guide**](.github/CONTRIBUTING.md) | [**Sponsor**](.github/SPONSORS.md)
 
 ## ✨ Sponsors
 
@@ -46,56 +45,20 @@ For information on contributing to this project, please see the [contributing gu
 
 ## Index
 
-- [Public API Lists](#public-api-lists)
-  - [Index](#index)
-    - [Animals](#animals)
-    - [Anime](#anime)
-    - [Anti-Malware](#anti-malware)
-    - [Art & Design](#art--design)
-    - [Books](#books)
-    - [Business](#business)
-    - [Calendar](#calendar)
-    - [Cloud Storage & File Sharing](#cloud-storage--file-sharing)
-    - [Continuous Integration](#continuous-integration)
-    - [Cryptocurrency](#cryptocurrency)
-    - [Currency Exchange](#currency-exchange)
-    - [Data Validation](#data-validation)
-    - [Development](#development)
-    - [Dictionaries](#dictionaries)
-    - [Disasters](#disasters)
-    - [Documents & Productivity](#documents--productivity)
-    - [Education](#education)
-    - [Environment](#environment)
-    - [Events](#events)
-    - [Finance](#finance)
-    - [Food & Drink](#food--drink)
-    - [Fraud Prevention](#fraud-prevention)
-    - [Games & Comics](#games--comics)
-    - [Geocoding](#geocoding)
-    - [Government](#government)
-    - [Health](#health)
-    - [Jobs](#jobs)
-    - [Machine Learning](#machine-learning)
-    - [Music](#music)
-    - [News](#news)
-    - [Open Data](#open-data)
-    - [Open Source Projects](#open-source-projects)
-    - [Patent](#patent)
-    - [Personality](#personality)
-    - [Photography](#photography)
-    - [Science & Math](#science--math)
-    - [Security](#security)
-    - [Shopping](#shopping)
-    - [Social](#social)
-    - [Sports & Fitness](#sports--fitness)
-    - [Test Data](#test-data)
-    - [Text Analysis](#text-analysis)
-    - [Tracking](#tracking)
-    - [Transportation](#transportation)
-    - [URL Shorteners](#url-shorteners)
-    - [Vehicle](#vehicle)
-    - [Video](#video)
-    - [Weather](#weather)
+| | | | |
+|---|---|---|---|
+| [Animals](#animals) | [Anime](#anime) | [Anti-Malware](#anti-malware) | [Art & Design](#art--design) |
+| [Books](#books) | [Business](#business) | [Calendar](#calendar) | [Cloud Storage & File Sharing](#cloud-storage--file-sharing) |
+| [Continuous Integration](#continuous-integration) | [Cryptocurrency](#cryptocurrency) | [Currency Exchange](#currency-exchange) | [Data Validation](#data-validation) |
+| [Development](#development) | [Dictionaries](#dictionaries) | [Disasters](#disasters) | [Documents & Productivity](#documents--productivity) |
+| [Education](#education) | [Environment](#environment) | [Events](#events) | [Finance](#finance) |
+| [Food & Drink](#food--drink) | [Fraud Prevention](#fraud-prevention) | [Games & Comics](#games--comics) | [Geocoding](#geocoding) |
+| [Government](#government) | [Health](#health) | [Jobs](#jobs) | [Machine Learning](#machine-learning) |
+| [Music](#music) | [News](#news) | [Open Data](#open-data) | [Open Source Projects](#open-source-projects) |
+| [Patent](#patent) | [Personality](#personality) | [Photography](#photography) | [Science & Math](#science--math) |
+| [Security](#security) | [Shopping](#shopping) | [Social](#social) | [Sports & Fitness](#sports--fitness) |
+| [Test Data](#test-data) | [Text Analysis](#text-analysis) | [Tracking](#tracking) | [Transportation](#transportation) |
+| [URL Shorteners](#url-shorteners) | [Vehicle](#vehicle) | [Video](#video) | [Weather](#weather) |
 
 ### Animals
 
