@@ -20,11 +20,19 @@ jobs:
           ref: ${{ github.base_ref }}
           fetch-depth: 0
 
-      - name: Fetch PR head
-        run: git fetch origin pull/${{ github.event.pull_request.number }}/head:pr-head
+      - name: Save base README
+        run: cp README.md README.base.md
 
-      - name: Checkout PR README only
-        run: git checkout pr-head -- README.md
+      - name: Fetch PR head and checkout README
+        run: |
+          git fetch origin pull/${{ github.event.pull_request.number }}/head:pr-head
+          git checkout pr-head -- README.md
+
+      - name: Generate diff from base
+        run: |
+          diff -u README.base.md README.md > pr_diff.patch || true
+          # Convert to unified diff format the script expects
+          sed -i 's|--- README.base.md|--- a/README.md|;s|+++ README.md|+++ b/README.md|' pr_diff.patch
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -38,6 +46,7 @@ jobs:
           GITHUB_HEAD_REF: pr-head
           PR_LABELS: ${{ join(github.event.pull_request.labels.*.name, ',') }}
           VALIDATION_OUTPUT: validation_result.json
+          DIFF_FILE: pr_diff.patch
         run: |
           python .github/scripts/validate_pr.py
           echo "exit_code=$?" >> $GITHUB_OUTPUT

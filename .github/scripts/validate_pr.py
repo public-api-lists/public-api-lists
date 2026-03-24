@@ -54,6 +54,14 @@ SKIP_LINE_RE = re.compile(
 
 def get_diff():
     """Get the diff of the PR against the base branch."""
+    # Use pre-generated diff file if available (pull_request_target workflow)
+    diff_file = os.environ.get("DIFF_FILE", "pr_diff.patch")
+    if os.path.exists(diff_file):
+        with open(diff_file, "r", encoding="utf-8") as f:
+            content = f.read()
+        if content.strip():
+            return content
+
     base = os.environ.get("GITHUB_BASE_REF", "master")
     head = os.environ.get("GITHUB_HEAD_REF", "HEAD")
 
