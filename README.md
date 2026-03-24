@@ -21,7 +21,7 @@
   <tr>
     <td align="center">
       <a href="https://serpapi.com/?utm_source=public-api-lists">
-        <img src="assets/serpapi.png" width="300" alt="SerpApi"><br/>
+        <img src="assets/serpapi.png" width="500" alt="SerpApi"><br/>
         <b>SerpApi</b>
       </a>
       <br/>Scrape Google and other search engines with a simple API

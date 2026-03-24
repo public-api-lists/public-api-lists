@@ -1,10 +1,10 @@
 # Sponsoring Public API Lists
 
-Thank you for considering sponsoring this project! Your support helps us maintain and grow the largest community-curated list of free public APIs.
+Thank you for considering sponsoring this project! Your support helps us maintain and grow a community-curated list of free public APIs.
 
 ## Why Sponsor?
 
-- **20,000+ GitHub stars** — high visibility among developers worldwide
+- **13,700+ GitHub stars** — high visibility among developers worldwide
 - **Thousands of daily visitors** looking for APIs to build with
 - **Permanent placement** in a widely-referenced developer resource
 - **Direct exposure** to your target audience: developers and engineering teams
@@ -13,10 +13,9 @@ Thank you for considering sponsoring this project! Your support helps us maintai
 
 ### 🥇 Gold Sponsor — $200/month
 
-- **Large logo** (300px) displayed prominently in the README sponsors section
+- **Large logo** displayed prominently in the README sponsors section
 - **Company name + one-line description** below the logo
 - **Link to your website** with UTM tracking
-- **"Sponsored by" mention** in release notes and changelogs
 - Limited to **4 Gold sponsors** to maintain value
 
 ### 🥈 Silver Sponsor — $100/month
@@ -32,8 +31,8 @@ Thank you for considering sponsoring this project! Your support helps us maintai
 
 ## How to Become a Sponsor
 
-1. **GitHub Sponsors** (preferred): [Sponsor via GitHub](https://github.com/sponsors/public-api-lists)
-2. **Direct contact**: Open an issue with the `sponsor` label or reach out to the maintainers
+1. **GitHub Sponsors** (preferred): [Sponsor via GitHub](https://github.com/sponsors/k4sud0n)
+2. **Direct contact**: [Open an issue](https://github.com/public-api-lists/public-api-lists/issues/new) with the `sponsor` label
 
 ## Sponsor Guidelines
 
@@ -45,13 +44,18 @@ Thank you for considering sponsoring this project! Your support helps us maintai
 ## Current Sponsors
 
 ### 🥇 Gold
-- [SerpApi](https://serpapi.com/?utm_source=public-api-lists) — Scrape Google and other search engines with a simple API
+
+<a href="https://serpapi.com/?utm_source=public-api-lists">
+  <img src="../assets/serpapi.png" width="500" alt="SerpApi">
+</a>
+
+**[SerpApi](https://serpapi.com/?utm_source=public-api-lists)** — Scrape Google and other search engines with a simple API
 
 ### 🥈 Silver
-- *Open slots available*
+*Open slots available*
 
 ### 🥉 Bronze
-- *Open slots available*
+*Open slots available*
 
 ---
 

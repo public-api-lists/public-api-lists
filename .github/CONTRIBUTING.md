@@ -37,6 +37,23 @@ Please continue to follow the alphabetical ordering that is in place per section
 
 If an API seems to fall into multiple categories, please place the listing within the section most in line with the services offered through the API. For example, the Instagram API is listed under `Social` since it is mainly a social network, even though it could also apply to `Photography`.
 
+## Automated Checks
+
+Every pull request is automatically validated by our CI. Your PR must pass these checks before it can be merged:
+
+- **Format validation** — entry matches the 5-column table format
+- **Auth/HTTPS/CORS values** — must use the accepted values listed above
+- **Alphabetical ordering** — entry must be in the correct position within the section
+- **No duplicate APIs** — same name or URL as an existing entry will be rejected
+- **Description** — must not end with punctuation
+- **Append-only** — removing existing entries requires the `cleanup` label
+- **PR size limit** — maximum 5 new entries and 3 sections per PR
+
+If you need to fix alphabetical ordering, you can run:
+```
+python3 .github/scripts/sort_entries.py --fix
+```
+
 ## Documentation Contributions
 
 You can also contribute by:

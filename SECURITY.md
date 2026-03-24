@@ -10,8 +10,8 @@ It does not contain executable code deployed to production servers.
 If you discover a security issue (e.g., a malicious link, phishing URL, or
 compromised API endpoint in the list), please:
 
-1. **Open an issue** with the `security` label, or
-2. **Email the maintainers** directly if the issue is sensitive
+1. **Open an issue** with the [`security` label](https://github.com/public-api-lists/public-api-lists/issues/new?labels=security)
+2. For sensitive reports, contact the maintainer [@k4sud0n](https://github.com/k4sud0n) directly via GitHub
 
 We will review and remove malicious entries within 48 hours.
 
