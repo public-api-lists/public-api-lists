@@ -117,3 +117,11 @@ jobs:
                 body,
               });
             }
+
+      - name: Fail if broken links found
+        if: steps.urls.outputs.count != '0'
+        run: |
+          if [ "${{ env.failed }}" -gt 0 ]; then
+            echo "Found ${{ env.failed }} broken link(s). Failing the check."
+            exit 1
+          fi
