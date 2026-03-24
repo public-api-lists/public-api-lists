@@ -452,6 +452,7 @@
 |                    [IEX Cloud](https://iexcloud.io/)                     | Realtime & Historical Stock and Market Data                   | `apiKey` |  Yes  |   Yes   |
 |                 [IG](https://labs.ig.com/gettingstarted)                 | Spreadbetting and CFD Market Data                             | `apiKey` |  Yes  | Unknown |
 | [Indian Bank Data API](https://github.com/kaustubhk24/Indian-Banks-Data) | All Banks IFSC Code data,Search by IFSc or other details      |    No    |  Yes  | Unknown |
+|        [KeepRule](https://github.com/henu-wang/keeprule-api)             | Investment principles and quotes from Buffett, Munger & more  |    No    |  Yes  |   Yes   |
 |                 [Mboum API](https://docs.mboum.com)                 | Real-time Stock market and Options Data                             | `apiKey` |  Yes  | Unknown |
 |                       [Plaid](https://plaid.com/)                        | Connect with users’ bank accounts and access transaction data | `apiKey` |  Yes  | Unknown |
 |                    [Polygon.io](https://polygon.io/docs/)                | Real-time and historical stock market data, crypto and forex  | `apiKey` |  Yes  |   Yes   |
@@ -655,6 +656,7 @@
 |                   [Open Government, Taiwan](https://data.gov.tw/)                   | Taiwan Government Open Data                                                               |    No    |  Yes  | Unknown |
 |                    [Open Government, USA](https://www.data.gov/)                    | United States Government Open Data                                                        |    No    |  Yes  | Unknown |
 |                      [PolitiData](https://politidata.ca)                            | Canadian political financing, lobbying registrations and communications                    | `apiKey` |  Yes  | Unknown |
+|                     [ProcureData](https://procuredata.ca)                           | Canadian federal procurement contracts, tenders and awards                                 | `apiKey` |  Yes  | Unknown |
 |             [Represent by Open North](https://represent.opennorth.ca/)              | Find Canadian Government Representatives                                                  |    No    |  Yes  | Unknown |
 |               [State, New York State Opendata] (https://data.ny.gov/)               | New York State Open Data                                                                  | `OAuth`  |  Yes  | Unknown |
 |                   [USAspending.gov](https://api.usaspending.gov/)                   | US federal spending data                                                                  |    No    |  Yes  | Unknown |
@@ -1159,6 +1161,7 @@
 |                          [DWD API](https://dwd.api.bund.dev/)                          | API of the German Weather Service (DWD): weather data, data from specific weather stations, warnings (local, coast, sea, alps) |    No    |  Yes  | Unknown |
 |     [Meteoblue](https://content.meteoblue.com/en/business-solutions/weather-apis)      | Global weather data with 100+ weather variables, 14 days ahead and 4 days of history data.                                     | `apiKey` |  Yes  |   Yes   |
 |         [Meteorologisk Institutt](https://api.met.no/weatherapi/documentation)         | Weather and climate data                                                                                                       |    No    |  Yes  | Unknown |
+| [National Weather Service API](https://www.weather.gov/documentation/services-web-api) | Weather forecasts and alerts from the US National Weather Service                                                              |    No    |  Yes  | Unknown |
 |                [NOAA Climate Data](https://www.ncdc.noaa.gov/cdo-web/)                 | Weather and climate data                                                                                                       | `apiKey` |  Yes  | Unknown |
 |               [ODWeather](http://api.oceandrivers.com/static/docs.html)                | Weather and weather webcams                                                                                                    |    No    |  No   | Unknown |
 |                         [Open-Meteo](https://open-meteo.com/)                          | Global weather forecast API for non-commercial use                                                                             |    No    |  Yes  |   Yes   |
@@ -1168,6 +1171,5 @@
 |                      [Stormglass](https://docs.stormglass.io/#/)                       | Weather forecasts & historical data from the world’s most trusted meteorological institutions in one single API                | `apiKey` |  Yes  | Unknown |
 |              [Weather Hacks](http://weather.livedoor.com/weather_hacks/)               | Weather, for Japan                                                                                                             |    No    |  No   |   No    |
 |                      [Weatherbit](https://www.weatherbit.io/api)                       | Weather                                                                                                                        | `apiKey` |  Yes  | Unknown |
-| [National Weather Service API](https://www.weather.gov/documentation/services-web-api) | Weather forecasts and alerts from the US National Weather Service                                                              |    No    |  Yes  | Unknown |
 
 **[⬆ Back to Index](#index)**
