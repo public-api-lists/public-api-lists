@@ -20,19 +20,12 @@ jobs:
           ref: ${{ github.base_ref }}
           fetch-depth: 0
 
-      - name: Save base README
-        run: cp README.md README.base.md
-
-      - name: Fetch PR head and checkout README
+      - name: Fetch PR head and generate diff
         run: |
           git fetch origin pull/${{ github.event.pull_request.number }}/head:pr-head
+          git diff ${{ github.base_ref }}...pr-head -- README.md > pr_diff.patch || true
+          echo "Diff size: $(wc -l < pr_diff.patch) lines"
           git checkout pr-head -- README.md
-
-      - name: Generate diff from base
-        run: |
-          diff -u README.base.md README.md > pr_diff.patch || true
-          # Convert to unified diff format the script expects
-          sed -i 's|--- README.base.md|--- a/README.md|;s|+++ README.md|+++ b/README.md|' pr_diff.patch
 
       - name: Set up Python
         uses: actions/setup-python@v5
