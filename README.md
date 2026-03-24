@@ -264,6 +264,7 @@
 |   [US Street Address](https://smartystreets.com/docs/cloud/us-street-api)   | Validate and append data for any US postal address                    | `apiKey` |  Yes  |   Yes   |
 |                      [vatlayer](https://vatlayer.com)                       | VAT number validation                                                 |    No    |  Yes  | Unknown |
 |                      [Veriphone](https://veriphone.io)                      | Phone number validation & carrier lookup                              | `apiKey` |  Yes  |   Yes   |
+|                   [VerifyEd](https://verifyed.org/docs)                    | Verify academic credentials — 912K+ schools, 2,592 diploma mills       | `apiKey` |  Yes  |   Yes   |
 
 **[⬆ Back to Index](#index)**
 
