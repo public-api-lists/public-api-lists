@@ -1165,6 +1165,6 @@
 |                      [Stormglass](https://docs.stormglass.io/#/)                       | Weather forecasts & historical data from the world’s most trusted meteorological institutions in one single API                | `apiKey` |  Yes  | Unknown |
 |              [Weather Hacks](http://weather.livedoor.com/weather_hacks/)               | Weather, for Japan                                                                                                             |    No    |  No   |   No    |
 |                      [Weatherbit](https://www.weatherbit.io/api)                       | Weather                                                                                                                        | `apiKey` |  Yes  | Unknown |
-| [National Weather Service API](https://www.weather.gov/documentation/services-web-api) | Weather forecasts & historical data from the world’s most trusted meteorological institutions in one single API                |
+| [National Weather Service API](https://www.weather.gov/documentation/services-web-api) | Weather forecasts and alerts from the US National Weather Service                                                              |    No    |  Yes  | Unknown |
 
 **[⬆ Back to Index](#index)**
