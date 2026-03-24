@@ -163,417 +163,199 @@ def build_api(categories, output_dir):
 
 
 def build_landing_page(categories, output_dir, api_count, cat_count):
-    """Generate a simple landing page for GitHub Pages."""
-    all_entries = []
-    for entries in categories.values():
-        all_entries.extend(entries)
+    """Generate a lightweight landing page that fetches data from JSON API."""
+
+    # Build category data for inline bootstrap (small, just names + counts)
+    cat_json = json.dumps([
+        {"name": name, "slug": slugify(name), "count": len(entries)}
+        for name, entries in sorted(categories.items())
+    ])
 
     html = f"""<!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Public API Lists</title>
-    <meta name="description" content="A curated list of {api_count}+ free public APIs across {cat_count} categories. Browse, search, and use our free JSON API.">
-    <style>
-        :root {{
-            --bg: #0d1117;
-            --surface: #161b22;
-            --border: #30363d;
-            --text: #e6edf3;
-            --text-muted: #8b949e;
-            --accent: #58a6ff;
-            --accent-hover: #79c0ff;
-            --green: #3fb950;
-            --tag-bg: #1f2937;
-        }}
-        * {{ margin: 0; padding: 0; box-sizing: border-box; }}
-        body {{
-            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
-            background: var(--bg);
-            color: var(--text);
-            line-height: 1.6;
-        }}
-        .container {{ max-width: 1200px; margin: 0 auto; padding: 0 24px; }}
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Public API Lists — {api_count}+ Free APIs for Developers</title>
+<meta name="description" content="A curated list of {api_count}+ free public APIs across {cat_count} categories. Search, browse, and access via our free JSON API.">
+<meta property="og:title" content="Public API Lists">
+<meta property="og:description" content="{api_count}+ free public APIs across {cat_count} categories">
+<meta property="og:type" content="website">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>&#128279;</text></svg>">
+<style>
+*{{margin:0;padding:0;box-sizing:border-box}}
+:root{{--bg:#0a0a0a;--s1:#141414;--s2:#1a1a1a;--b:#262626;--b2:#333;--t:#fafafa;--t2:#a1a1aa;--t3:#71717a;--ac:#3b82f6;--ac2:#60a5fa;--gn:#22c55e;--pp:#a78bfa;--mono:'SF Mono',ui-monospace,monospace}}
+body{{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;background:var(--bg);color:var(--t);line-height:1.5;-webkit-font-smoothing:antialiased}}
+a{{color:var(--ac2);text-decoration:none}}a:hover{{text-decoration:underline}}
+.w{{max-width:1100px;margin:0 auto;padding:0 20px}}
 
-        /* Header */
-        header {{
-            padding: 80px 0 48px;
-            text-align: center;
-        }}
-        h1 {{
-            font-size: 48px;
-            font-weight: 800;
-            margin-bottom: 16px;
-            background: linear-gradient(135deg, var(--accent), var(--green));
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-        }}
-        .subtitle {{
-            font-size: 20px;
-            color: var(--text-muted);
-            max-width: 600px;
-            margin: 0 auto 32px;
-        }}
-        .stats {{
-            display: flex;
-            gap: 32px;
-            justify-content: center;
-            flex-wrap: wrap;
-            margin-bottom: 32px;
-        }}
-        .stat {{
-            text-align: center;
-        }}
-        .stat-value {{
-            font-size: 32px;
-            font-weight: 700;
-            color: var(--accent);
-        }}
-        .stat-label {{
-            font-size: 14px;
-            color: var(--text-muted);
-        }}
+header{{padding:64px 0 40px;text-align:center}}
+h1{{font-size:clamp(28px,5vw,44px);font-weight:800;letter-spacing:-.02em;margin-bottom:12px}}
+.sub{{font-size:clamp(15px,2.5vw,18px);color:var(--t2);max-width:520px;margin:0 auto 28px}}
+.nums{{display:flex;gap:40px;justify-content:center;margin-bottom:24px}}
+.num span:first-child{{font-size:28px;font-weight:700;color:var(--t)}}
+.num span:last-child{{font-size:13px;color:var(--t3);display:block;margin-top:2px}}
+.nav{{display:flex;gap:10px;justify-content:center;flex-wrap:wrap;margin-bottom:40px}}
+.nav a{{font-size:13px;color:var(--t2);padding:7px 16px;border:1px solid var(--b);border-radius:8px;transition:.15s}}
+.nav a:hover{{border-color:var(--ac);color:var(--t);text-decoration:none}}
 
-        /* Search */
-        .search-container {{
-            max-width: 600px;
-            margin: 0 auto 48px;
-        }}
-        #search {{
-            width: 100%;
-            padding: 14px 20px;
-            border-radius: 12px;
-            border: 1px solid var(--border);
-            background: var(--surface);
-            color: var(--text);
-            font-size: 16px;
-            outline: none;
-            transition: border-color 0.2s;
-        }}
-        #search:focus {{
-            border-color: var(--accent);
-        }}
-        #search::placeholder {{
-            color: var(--text-muted);
-        }}
+.search-wrap{{max-width:560px;margin:0 auto 32px;position:relative}}
+#q{{width:100%;padding:12px 16px 12px 40px;border-radius:10px;border:1px solid var(--b);background:var(--s1);color:var(--t);font-size:15px;outline:none;transition:.15s}}
+#q:focus{{border-color:var(--ac);box-shadow:0 0 0 3px rgba(59,130,246,.15)}}
+#q::placeholder{{color:var(--t3)}}
+.si{{position:absolute;left:14px;top:50%;transform:translateY(-50%);color:var(--t3);font-size:15px;pointer-events:none}}
 
-        /* API Section */
-        .api-section {{ margin-bottom: 24px; }}
-        .api-endpoint {{
-            background: var(--surface);
-            border: 1px solid var(--border);
-            border-radius: 12px;
-            padding: 20px 24px;
-            margin-bottom: 12px;
-        }}
-        .api-endpoint h3 {{
-            font-size: 14px;
-            color: var(--text-muted);
-            text-transform: uppercase;
-            letter-spacing: 0.5px;
-            margin-bottom: 8px;
-        }}
-        .api-endpoint code {{
-            font-size: 15px;
-            color: var(--green);
-            background: rgba(63, 185, 80, 0.1);
-            padding: 2px 8px;
-            border-radius: 4px;
-            font-family: 'SF Mono', 'Fira Code', monospace;
-            word-break: break-all;
-        }}
-        .api-endpoint p {{
-            color: var(--text-muted);
-            font-size: 14px;
-            margin-top: 4px;
-        }}
+#bar{{text-align:center;margin-bottom:20px;font-size:13px;color:var(--t3);display:none}}
+#bar button{{background:none;border:none;color:var(--ac2);cursor:pointer;font-size:13px;margin-left:8px}}
+#bar button:hover{{text-decoration:underline}}
 
-        /* Categories Grid */
-        .categories {{
-            display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-            gap: 12px;
-            margin-bottom: 64px;
-        }}
-        .category-card {{
-            background: var(--surface);
-            border: 1px solid var(--border);
-            border-radius: 10px;
-            padding: 16px 20px;
-            cursor: pointer;
-            transition: border-color 0.2s, transform 0.1s;
-            text-decoration: none;
-            color: var(--text);
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-        }}
-        .category-card:hover {{
-            border-color: var(--accent);
-            transform: translateY(-1px);
-        }}
-        .category-card .name {{
-            font-weight: 600;
-        }}
-        .category-card .count {{
-            color: var(--text-muted);
-            font-size: 14px;
-        }}
+.grid{{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:8px;margin-bottom:48px}}
+.cat{{background:var(--s1);border:1px solid var(--b);border-radius:8px;padding:12px 16px;cursor:pointer;display:flex;justify-content:space-between;align-items:center;transition:.15s;user-select:none}}
+.cat:hover{{border-color:var(--ac);background:var(--s2)}}
+.cat .n{{font-weight:600;font-size:14px}}.cat .c{{color:var(--t3);font-size:13px;font-variant-numeric:tabular-nums}}
+.cat.active{{border-color:var(--ac);background:rgba(59,130,246,.08)}}
 
-        /* Entries Table */
-        .entries {{ margin-bottom: 64px; }}
-        .entry {{
-            background: var(--surface);
-            border: 1px solid var(--border);
-            border-radius: 10px;
-            padding: 16px 20px;
-            margin-bottom: 8px;
-            display: none;
-        }}
-        .entry.visible {{ display: block; }}
-        .entry-header {{
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            flex-wrap: wrap;
-            gap: 8px;
-        }}
-        .entry-name {{
-            font-weight: 600;
-            font-size: 16px;
-        }}
-        .entry-name a {{
-            color: var(--accent);
-            text-decoration: none;
-        }}
-        .entry-name a:hover {{
-            color: var(--accent-hover);
-            text-decoration: underline;
-        }}
-        .entry-tags {{
-            display: flex;
-            gap: 6px;
-            flex-wrap: wrap;
-        }}
-        .tag {{
-            font-size: 12px;
-            padding: 2px 8px;
-            border-radius: 6px;
-            background: var(--tag-bg);
-            color: var(--text-muted);
-        }}
-        .tag.auth {{ color: #d2a8ff; background: rgba(210, 168, 255, 0.1); }}
-        .tag.https {{ color: var(--green); background: rgba(63, 185, 80, 0.1); }}
-        .tag.cors {{ color: var(--accent); background: rgba(88, 166, 255, 0.1); }}
-        .entry-desc {{
-            color: var(--text-muted);
-            font-size: 14px;
-            margin-top: 6px;
-        }}
-        .entry-category {{
-            font-size: 12px;
-            color: var(--text-muted);
-            margin-top: 4px;
-        }}
+#list{{margin-bottom:48px}}
+.e{{background:var(--s1);border:1px solid var(--b);border-radius:8px;padding:14px 16px;margin-bottom:6px;display:flex;justify-content:space-between;align-items:flex-start;gap:12px;flex-wrap:wrap}}
+.e:hover{{border-color:var(--b2)}}
+.e-l{{flex:1;min-width:200px}}
+.e-n{{font-weight:600;font-size:15px}}
+.e-d{{font-size:13px;color:var(--t2);margin-top:2px}}
+.e-r{{display:flex;gap:5px;flex-wrap:wrap;align-items:center}}
+.tg{{font-size:11px;padding:2px 7px;border-radius:5px;font-family:var(--mono);white-space:nowrap}}
+.tg-a{{color:var(--pp);background:rgba(167,139,250,.1)}}.tg-h{{color:var(--gn);background:rgba(34,197,94,.1)}}.tg-c{{color:var(--ac2);background:rgba(59,130,246,.1)}}
+.empty{{text-align:center;color:var(--t3);padding:40px 0}}
 
-        /* Footer */
-        footer {{
-            text-align: center;
-            padding: 48px 0;
-            color: var(--text-muted);
-            border-top: 1px solid var(--border);
-        }}
-        footer a {{
-            color: var(--accent);
-            text-decoration: none;
-        }}
+details{{max-width:560px;margin:0 auto 48px;border:1px solid var(--b);border-radius:10px;background:var(--s1)}}
+summary{{padding:14px 16px;cursor:pointer;font-weight:600;font-size:14px;color:var(--t2);list-style:none}}
+summary::-webkit-details-marker{{display:none}}
+summary::before{{content:'\\25B6\\FE0F';margin-right:8px;font-size:11px}}
+details[open] summary::before{{content:'\\25BC\\FE0F'}}
+.api-list{{padding:4px 16px 16px}}
+.api-row{{display:flex;justify-content:space-between;align-items:baseline;padding:8px 0;border-bottom:1px solid var(--b)}}
+.api-row:last-child{{border:none}}
+.api-row code{{font-size:13px;color:var(--gn);font-family:var(--mono)}}
+.api-row span{{font-size:12px;color:var(--t3)}}
 
-        .hidden {{ display: none; }}
-        #result-count {{
-            color: var(--text-muted);
-            text-align: center;
-            margin-bottom: 24px;
-            font-size: 14px;
-        }}
-        .links {{
-            display: flex;
-            gap: 16px;
-            justify-content: center;
-            flex-wrap: wrap;
-            margin-bottom: 48px;
-        }}
-        .links a {{
-            color: var(--accent);
-            text-decoration: none;
-            padding: 10px 20px;
-            border: 1px solid var(--border);
-            border-radius: 8px;
-            transition: border-color 0.2s;
-        }}
-        .links a:hover {{
-            border-color: var(--accent);
-        }}
-    </style>
+footer{{text-align:center;padding:32px 0;color:var(--t3);font-size:13px;border-top:1px solid var(--b)}}
+
+.ld{{display:inline-block;width:16px;height:16px;border:2px solid var(--b2);border-top-color:var(--ac);border-radius:50%;animation:sp .6s linear infinite}}
+@keyframes sp{{to{{transform:rotate(360deg)}}}}
+
+@media(max-width:600px){{
+  header{{padding:40px 0 24px}}
+  .nums{{gap:24px}}.num span:first-child{{font-size:22px}}
+  .grid{{grid-template-columns:1fr 1fr}}
+  .e{{flex-direction:column}}
+}}
+</style>
 </head>
 <body>
-    <div class="container">
-        <header>
-            <h1>Public API Lists</h1>
-            <p class="subtitle">A curated list of free, open, and developer-friendly APIs. Browse, search, or use our JSON API.</p>
-            <div class="stats">
-                <div class="stat">
-                    <div class="stat-value">{api_count}</div>
-                    <div class="stat-label">APIs</div>
-                </div>
-                <div class="stat">
-                    <div class="stat-value">{cat_count}</div>
-                    <div class="stat-label">Categories</div>
-                </div>
-            </div>
-            <div class="links">
-                <a href="https://github.com/public-api-lists/public-api-lists">GitHub Repo</a>
-                <a href="https://github.com/public-api-lists/public-api-lists/blob/master/.github/CONTRIBUTING.md">Contribute</a>
-                <a href="https://github.com/public-api-lists/public-api-lists/blob/master/.github/SPONSORS.md">Sponsor</a>
-            </div>
-        </header>
-
-        <h2 style="text-align:center; margin-bottom:24px; color:var(--text-muted); font-size:18px;">Free JSON API</h2>
-
-        <div class="api-section">
-            <div class="api-endpoint">
-                <h3>All APIs</h3>
-                <code>GET /api/all.json</code>
-                <p>Returns all {api_count} API entries</p>
-            </div>
-            <div class="api-endpoint">
-                <h3>Categories</h3>
-                <code>GET /api/categories.json</code>
-                <p>Returns all {cat_count} categories with entry counts</p>
-            </div>
-            <div class="api-endpoint">
-                <h3>By Category</h3>
-                <code>GET /api/{{slug}}.json</code>
-                <p>Returns entries for a specific category (e.g., /api/animals.json)</p>
-            </div>
-            <div class="api-endpoint">
-                <h3>Random</h3>
-                <code>GET /api/random.json</code>
-                <p>Returns 10 random API entries</p>
-            </div>
-            <div class="api-endpoint">
-                <h3>Stats</h3>
-                <code>GET /api/stats.json</code>
-                <p>Returns aggregate statistics</p>
-            </div>
-        </div>
-
-        <div class="search-container">
-            <input type="text" id="search" placeholder="Search {api_count} APIs..." autocomplete="off">
-        </div>
-        <div id="result-count" class="hidden"></div>
-
-        <div id="categories-grid" class="categories">
-"""
-
-    # Category cards
-    for cat_name in sorted(categories.keys()):
-        count = len(categories[cat_name])
-        slug = slugify(cat_name)
-        html += f'            <div class="category-card" data-category="{slug}" onclick="filterCategory(\'{slug}\')">\n'
-        html += f'                <span class="name">{cat_name}</span>\n'
-        html += f'                <span class="count">{count}</span>\n'
-        html += f'            </div>\n'
-
-    html += """        </div>
-
-        <div id="entries" class="entries">
-"""
-
-    # All entries
-    for entry in all_entries:
-        slug = slugify(entry["category"])
-        tags_html = ""
-        if entry["auth"] != "No":
-            tags_html += f'<span class="tag auth">{entry["auth"]}</span>'
-        if entry["https"]:
-            tags_html += '<span class="tag https">HTTPS</span>'
-        if entry["cors"] == "Yes":
-            tags_html += '<span class="tag cors">CORS</span>'
-
-        safe_name = entry["name"].replace('"', '&quot;')
-        safe_desc = entry["description"].replace('"', '&quot;')
-        html += f"""            <div class="entry" data-category="{slug}" data-name="{safe_name.lower()}" data-desc="{safe_desc.lower()}">
-                <div class="entry-header">
-                    <span class="entry-name"><a href="{entry["url"]}" target="_blank" rel="noopener">{entry["name"]}</a></span>
-                    <div class="entry-tags">{tags_html}</div>
-                </div>
-                <div class="entry-desc">{entry["description"]}</div>
-                <div class="entry-category">{entry["category"]}</div>
-            </div>
-"""
-
-    html += f"""        </div>
-
-        <footer>
-            <p>
-                Made with care by the <a href="https://github.com/public-api-lists/public-api-lists">public-api-lists</a> community.
-                <br>Last built: {datetime.now(timezone.utc).strftime('%Y-%m-%d')}
-            </p>
-        </footer>
+<div class="w">
+  <header>
+    <h1>Public API Lists</h1>
+    <p class="sub">A curated list of free, open, and developer-friendly APIs for your next project</p>
+    <div class="nums">
+      <div class="num"><span>{api_count}</span><span>APIs</span></div>
+      <div class="num"><span>{cat_count}</span><span>Categories</span></div>
+      <div class="num"><span>100%</span><span>Free</span></div>
     </div>
+    <div class="nav">
+      <a href="https://github.com/public-api-lists/public-api-lists">GitHub</a>
+      <a href="https://github.com/public-api-lists/public-api-lists/blob/master/.github/CONTRIBUTING.md">Contribute</a>
+      <a href="https://github.com/public-api-lists/public-api-lists/blob/master/.github/SPONSORS.md">Sponsor</a>
+    </div>
+  </header>
 
-    <script>
-        const search = document.getElementById('search');
-        const entries = document.querySelectorAll('.entry');
-        const categoriesGrid = document.getElementById('categories-grid');
-        const resultCount = document.getElementById('result-count');
+  <div class="search-wrap">
+    <span class="si">&#128269;</span>
+    <input type="text" id="q" placeholder="Search {api_count} APIs..." autocomplete="off">
+  </div>
 
-        function showAll() {{
-            entries.forEach(e => e.classList.remove('visible'));
-            categoriesGrid.classList.remove('hidden');
-            resultCount.classList.add('hidden');
-        }}
+  <div id="bar"></div>
+  <div id="cats" class="grid"></div>
+  <div id="list"></div>
 
-        function filterCategory(slug) {{
-            categoriesGrid.classList.add('hidden');
-            let count = 0;
-            entries.forEach(e => {{
-                if (e.dataset.category === slug) {{
-                    e.classList.add('visible');
-                    count++;
-                }} else {{
-                    e.classList.remove('visible');
-                }}
-            }});
-            resultCount.textContent = count + ' APIs in this category';
-            resultCount.classList.remove('hidden');
-            search.value = '';
-            window.scrollTo({{ top: search.offsetTop - 20, behavior: 'smooth' }});
-        }}
+  <details>
+    <summary>Free JSON API</summary>
+    <div class="api-list">
+      <div class="api-row"><code>GET /api/all.json</code><span>All {api_count} entries</span></div>
+      <div class="api-row"><code>GET /api/categories.json</code><span>{cat_count} categories</span></div>
+      <div class="api-row"><code>GET /api/{{slug}}.json</code><span>By category</span></div>
+      <div class="api-row"><code>GET /api/random.json</code><span>10 random entries</span></div>
+      <div class="api-row"><code>GET /api/stats.json</code><span>Aggregate stats</span></div>
+    </div>
+  </details>
 
-        search.addEventListener('input', function() {{
-            const q = this.value.toLowerCase().trim();
-            if (!q) {{
-                showAll();
-                return;
-            }}
+  <footer>
+    Built by the <a href="https://github.com/public-api-lists/public-api-lists">public-api-lists</a> community &middot; {datetime.now(timezone.utc).strftime('%Y-%m-%d')}
+  </footer>
+</div>
 
-            categoriesGrid.classList.add('hidden');
-            let count = 0;
-            entries.forEach(e => {{
-                const match = e.dataset.name.includes(q) || e.dataset.desc.includes(q) || e.dataset.category.includes(q);
-                if (match) {{
-                    e.classList.add('visible');
-                    count++;
-                }} else {{
-                    e.classList.remove('visible');
-                }}
-            }});
-            resultCount.textContent = count + ' result' + (count !== 1 ? 's' : '');
-            resultCount.classList.remove('hidden');
-        }});
-    </script>
+<script>
+const CATS={cat_json};
+const BASE='api/';
+let allData=null,activeCat=null;
+
+const $=s=>document.querySelector(s);
+const cats$=$('#cats'),list$=$('#list'),bar$=$('#bar'),q$=$('#q');
+
+function renderCats(){{
+  cats$.innerHTML=CATS.map(c=>
+    `<div class="cat${{activeCat===c.slug?' active':''}}" data-s="${{c.slug}}"><span class="n">${{c.name}}</span><span class="c">${{c.count}}</span></div>`
+  ).join('');
+  cats$.querySelectorAll('.cat').forEach(el=>el.onclick=()=>{{
+    const s=el.dataset.s;
+    if(activeCat===s){{ activeCat=null;list$.innerHTML='';bar$.style.display='none';renderCats();return }}
+    activeCat=s;renderCats();loadCategory(s);
+  }});
+}}
+
+function renderEntries(entries,label){{
+  if(!entries.length){{ list$.innerHTML='<div class="empty">No APIs found</div>';bar$.innerHTML=label;bar$.style.display='block';return }}
+  bar$.innerHTML=`${{entries.length}} ${{label}}`;
+  const btn=document.createElement('button');btn.textContent='Clear';btn.onclick=clearView;bar$.appendChild(btn);
+  bar$.style.display='block';
+  list$.innerHTML=entries.map(e=>{{
+    let tags='';
+    if(e.auth&&e.auth!=='No')tags+=`<span class="tg tg-a">${{e.auth}}</span>`;
+    if(e.https)tags+=`<span class="tg tg-h">HTTPS</span>`;
+    if(e.cors==='Yes')tags+=`<span class="tg tg-c">CORS</span>`;
+    return`<div class="e"><div class="e-l"><div class="e-n"><a href="${{e.url}}" target="_blank" rel="noopener">${{e.name}}</a></div><div class="e-d">${{e.description}}</div></div><div class="e-r">${{tags}}</div></div>`;
+  }}).join('');
+}}
+
+function clearView(){{ activeCat=null;list$.innerHTML='';bar$.style.display='none';q$.value='';renderCats();cats$.style.display='' }}
+
+async function loadCategory(slug){{
+  list$.innerHTML='<div class="empty"><span class="ld"></span></div>';
+  const r=await fetch(BASE+slug+'.json');const d=await r.json();
+  const cat=CATS.find(c=>c.slug===slug);
+  renderEntries(d.entries,`APIs in ${{cat?cat.name:slug}}`);
+}}
+
+async function loadAll(){{
+  if(allData)return allData;
+  const r=await fetch(BASE+'all.json');const d=await r.json();
+  allData=d.entries;return allData;
+}}
+
+let timer;
+q$.addEventListener('input',()=>{{
+  clearTimeout(timer);
+  timer=setTimeout(async()=>{{
+    const v=q$.value.trim().toLowerCase();
+    if(!v){{ clearView();return }}
+    activeCat=null;renderCats();cats$.style.display='none';
+    list$.innerHTML='<div class="empty"><span class="ld"></span></div>';
+    const data=await loadAll();
+    const res=data.filter(e=>e.name.toLowerCase().includes(v)||e.description.toLowerCase().includes(v)||e.category.toLowerCase().includes(v));
+    renderEntries(res,'result'+(res.length!==1?'s':''));
+  }},200);
+}});
+
+renderCats();
+</script>
 </body>
 </html>"""
 
