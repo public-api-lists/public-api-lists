@@ -272,6 +272,7 @@
 
 |                                                 API                                                 | Description                                                                                         |      Auth       | HTTPS |  CORS   |
 | :-------------------------------------------------------------------------------------------------: | --------------------------------------------------------------------------------------------------- | :-------------: | :---: | :-----: |
+|                         [16761.tech](https://api.16761.tech)                          | Screenshot capture, PDF export, QR codes, metadata extraction, URL shortener, email verification    |    `apiKey`     |  Yes  |   Yes   |
 |                         [24 Pull Requests](https://24pullrequests.com/api)                          | Project to promote open source collaboration during December                                        |       No        |  Yes  |   No    |
 |                              [Abacus](https://abacus.jasoncameron.dev)                              | Free and simple counting service. You can use it to track page hits and specific events             |       No        |  Yes  |   Yes   |
 |                      [Abstract API](https://www.abstractapi.com/)                                   | Suite of APIs including email validation, IP geolocation, phone validation, exchange rates and more |    `apiKey`     |  Yes  |   Yes   |
