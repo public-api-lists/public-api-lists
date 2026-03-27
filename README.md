@@ -654,6 +654,7 @@
 | :---------------------------------------------------------------------------: | -------------------------------------------------------------------------------------------- | :------: | :---: | :-----: |
 |                    [Diabetes](http://predictbgl.com/api/)                     | Logging and retrieving diabetes information                                                  |    No    |  No   | Unknown |
 |           [Healthcare.gov](https://www.healthcare.gov/developers/)            | Educational content about the US Health Insurance Marketplace                                |    No    |  Yes  | Unknown |
+| [Healthcare License Verification](https://rapidapi.com/lulzasaur/api/healthcare-license) | Verify healthcare professional licenses across 50 US states for 22 professions | `apiKey` | Yes | Unknown |
 | [ICD-10 Codes](https://clinicaltables.nlm.nih.gov/apidoc/icd10cm/v3/doc.html) | List of all healthcare diagnosis codes                                                       |    No    |  Yes  | Unknown |
 |                [Lexigram](https://docs.lexigram.io/v1/welcome)                | NLP that extracts mentions of clinical concepts from text, gives access to clinical ontology | `apiKey` |  Yes  | Unknown |
 |          [NPPES](https://npiregistry.cms.hhs.gov/registry/help-api)           | National Plan & Provider Enumeration System, info on healthcare providers registered in US   |    No    |  Yes  | Unknown |
