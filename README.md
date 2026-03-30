@@ -693,6 +693,7 @@
 | [AI Engine](https://ai-engine.net/apis/all-in-one) | 36+ AI endpoints: OCR, face detection, background removal, object detection, NSFW moderation, face swap, image generation | `apiKey` | Yes | Yes |
 | [Cloudmersive](https://www.cloudmersive.com/image-recognition-and-processing-api) | Image captioning, face recognition, NSFW classification | `apiKey` |  Yes  |   Yes   |
 |          [Deepcode](https://www.deepcode.ai/docs/Overview%252FOverview)           | AI for code review                                      |    No    |  Yes  | Unknown |
+| [Face Analyzer](https://ai-engine.net/apis/face-analyzer) | Face detection, age/gender/emotion analysis, face comparison, and celebrity recognition | `apiKey` | Yes | Yes |
 | [HOL Registry Broker](https://hol.org/docs/registry-broker/) | Search and verify AI agents & MCP servers | `apiKey` |  Yes  |   Yes   |
 |                            [Keen IO](https://keen.io/)                            | Data Analytics                                          | `apiKey` |  Yes  | Unknown |
 |                         [Replicate](https://replicate.com/docs/reference/http)    | Run and deploy machine learning models in the cloud     | `apiKey` |  Yes  |   Yes   |
