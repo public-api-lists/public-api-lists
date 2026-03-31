@@ -323,6 +323,7 @@
 |                            [Meta Generator](https://meta-api.fzr.ai)                              | Generate SEO meta tags, Open Graph and Twitter Cards from any URL or text                           |    `apiKey`     |  Yes  |   Yes   |
 |                               [MyJSON.online](https://myjson.online)                                | A RESTful API for flexible storage of JSON data                                                     |    `apiKey`     |  Yes  |   Yes   |
 |                              [Nationalize.io](https://nationalize.io)                               | Estimate the nationality of a first name                                                            |       No        |  Yes  |   Yes   |
+|                                  [OGForge](https://ogforge.dev/)                                    | Free Open Graph image generator with custom themes, icons, and colors                               |       No        |  Yes  |   Yes   |
 |                                   [OOPSpam](https://oopspam.com/)                                   | Multiple spam filtering service                                                                     |       No        |  Yes  |   Yes   |
 |                                [PHPhub](https://phphub.net/linter/)                                 | Validate PHP code                                                                                   |       No        |  Yes  |   Yes   |
 |                             [Postman](https://docs.api.getpostman.com/)                             | Tool for testing APIs                                                                               |    `apiKey`     |  Yes  | Unknown |
@@ -332,6 +333,7 @@
 |                              [Pythonium](https://pythonium.net/linter)                              | Validate Python code                                                                                |       No        |  Yes  |   Yes   |
 |                          [QR Code](https://fungenerators.com/api/qrcode/)                           | Create new QR Code or decode existing one                                                           |    `apiKey`     |  Yes  |   Yes   |
 |                                  [QR Tag](http://qrtag.net/api/)                                   | Create an easy to read QR code and URL shortener                                                    |       No        |  Yes  |   Yes   |
+|                                  [QRMint](https://qrmint.dev/)                                     | Free styled QR code generator with custom colors, logos, and frames                                 |       No        |  Yes  |   Yes   |
 |                                [QuickChart](https://quickchart.io/)                                 | Generate chart and graph images                                                                     |       No        |  Yes  |   Yes   |
 |                                    [ReqRes](https://reqres.in/)                                     | A hosted REST-API ready to respond to your AJAX requests                                            |       No        |  Yes  | Unknown |
 |                              [ScraperApi](https://www.scraperapi.com)                               | Easily build scalable web scrapers                                                                  |    `apiKey`     |  Yes  | Unknown |
@@ -383,6 +385,7 @@
 |                       [DynamicDocs](https://advicement.io)                        | Generate dynamic PDFs with JSON to PDF API based on LaTeX      | `apiKey` |  Yes  | Unknown |
 |                          [File.io](https://www.file.io)                           | File Sharing                                                   |    No    |  Yes  | Unknown |
 |                        [PDFBolt](https://pdfbolt.com/docs)                        | HTML to PDF conversion with templates and AI generation        | `apiKey` |  Yes  |   Yes   |
+|                       [PDFSpark](https://pdfspark.dev/)                           | Free Chromium-powered HTML and URL to PDF conversion           |    No    |  Yes  |   Yes   |
 |                      [pdfEndpoint](https://pdfendpoint.com)                       | HTML or URL to PDF                                             | `apiKey` |  Yes  |   No    |
 |                         [pdflayer](https://pdflayer.com)                          | HTML/URL to PDF                                                | `apiKey` |  Yes  | Unknown |
 |                    [Pocket](https://getpocket.com/developer/)                     | Bookmarking service                                            | `OAuth`  |  Yes  | Unknown |
@@ -1048,6 +1051,7 @@
 |                          API                          | Description                                    |   Auth   | HTTPS |  CORS   |
 | :---------------------------------------------------: | ---------------------------------------------- | :------: | :---: | :-----: |
 |    [Bitly](http://dev.bitly.com/get_started.html)     | URL shortener and link management              | `OAuth`  |  Yes  | Unknown |
+|      [LinkShrink](https://linkshrink.dev/)            | Free URL shortener with analytics and custom aliases | No |  Yes  |   Yes   |
 | [Rebrandly](https://developers.rebrandly.com/v1/docs) | Custom URL shortener for sharing branded links | `apiKey` |  Yes  | Unknown |
 |              [T.LY](https://t.ly/docs/)               | URL Shortener With Short Links                 | `apiKey` |  Yes  | Unknown |
 |           [urlfy](https://urlfy.org/api-doc)          | A simple and fast URL shortening service       | No |  Yes  |   Yes   |
