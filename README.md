@@ -446,6 +446,7 @@
 |                 [Mboum API](https://docs.mboum.com)                 | Real-time Stock market and Options Data                             | `apiKey` |  Yes  | Unknown |
 |                       [Plaid](https://plaid.com/)                        | Connect with users’ bank accounts and access transaction data | `apiKey` |  Yes  | Unknown |
 |                    [Polygon.io](https://polygon.io/docs/)                | Real-time and historical stock market data, crypto and forex  | `apiKey` |  Yes  |   Yes   |
+|       [PredScope](https://predscope.com/api/markets.json)        | Free prediction market odds and analytics data from Polymarket |    No    |  Yes  |   Yes   |
 |               [Razorpay IFSC](https://ifsc.razorpay.com/)                | Indian Financial Systems Code (Bank Branch Codes)             |    No    |  Yes  | Unknown |
 |              [Stock Sentiment](https://api.adanos.org/docs)              | Reddit & X/Twitter sentiment analysis for stocks with buzz scores    | `apiKey` |  Yes  |   Yes   |
 |                 [Tradier](https://developer.tradier.com)                 | US equity/option market data (delayed, intraday, historical)  | `OAuth`  |  Yes  |   Yes   |
