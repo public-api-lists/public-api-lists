@@ -326,6 +326,7 @@ For information on contributing to this project, please see the [contributing gu
 |                            [Faceplusplus](https://www.faceplusplus.com/)                            | A tool to detect face                                                                               |     `OAuth`     |  Yes  | Unknown |
 |                          [FontDownloader](https://fontdownloader.org/#API)                          | A hassle free API for managing web fonts provided by Google Fonts                                   |       No        |  Yes  |   Yes   |
 |                              [Form2Channel](https://form2channel.com/)                              | Send static html form submissions to Google Sheets, Email, Slack or Telegram                        |       No        |  Yes  |   Yes   |
+| [FreeKit](https://freekit.dev/) | Free developer toolkit portal with 8 APIs for QR codes, URL shortening, screenshots, PDFs, and more | No | Yes | Yes |
 |                                [Genderize.io](https://genderize.io)                                 | Estimates a gender from a first name                                                                |       No        |  Yes  |   Yes   |
 |                             [GitHub](https://developer.github.com/v3/)                              | Make use of GitHub repositories, code and user info programmatically                                |     `OAuth`     |  Yes  |   Yes   |
 |                              [Gitlab](https://docs.gitlab.com/ee/api/)                              | Automate GitLab interaction programmatically                                                        |     `OAuth`     |  Yes  | Unknown |
@@ -351,12 +352,17 @@ For information on contributing to this project, please see the [contributing gu
 |                                  [JSONbin.io](https://jsonbin.io)                                   | Free JSON storage service. Ideal for small scale Web apps, Websites and Mobile apps                 |    `apiKey`     |  Yes  |   Yes   |
 |                                  [Judge0](https://api.judge0.com/)                                  | Compile and run source code                                                                         |       No        |  Yes  | Unknown |
 |                        [Let's Validate](https://github.com/letsvalidate/api)                        | Uncovers the technologies used on websites and URL to thumbnail                                     |       No        |  Yes  | Unknown |
+| [LinkMeta](https://linkmeta.dev/) | Free URL metadata extraction API for Open Graph, Twitter Cards, and favicons | No | Yes | Yes |
+| [LinkShrink](https://linkshrink.dev/) | Free privacy-first URL shortener API with analytics, UTM tracking, and QR codes | No | Yes | Yes |
 |           [License-API](https://github.com/cmccandless/license-api/blob/master/README.md)           | Unofficial REST API for choosealicense.com                                                          |       No        |  Yes  |   No    |
 |                         [MAC address vendor lookup](https://macaddress.io)                          | Retrieve vendor details and other information regarding a given MAC address or an OUI               |    `apiKey`     |  Yes  |   Yes   |
 |                            [Meta Generator](https://meta-api.fzr.ai)                              | Generate SEO meta tags, Open Graph and Twitter Cards from any URL or text                           |    `apiKey`     |  Yes  |   Yes   |
 |                               [MyJSON.online](https://myjson.online)                                | A RESTful API for flexible storage of JSON data                                                     |    `apiKey`     |  Yes  |   Yes   |
 |                              [Nationalize.io](https://nationalize.io)                               | Estimate the nationality of a first name                                                            |       No        |  Yes  |   Yes   |
 |                                   [OOPSpam](https://oopspam.com/)                                   | Multiple spam filtering service                                                                     |       No        |  Yes  |   Yes   |
+| [OGForge](https://ogforge.dev/) | Free Open Graph image generator API | No | Yes | Yes |
+| [PageShot](https://pageshot.site/) | Free webpage screenshot API that renders any URL as PNG | No | Yes | Yes |
+| [PDFSpark](https://pdfspark.dev/) | Free HTML/URL to PDF conversion API | No | Yes | Yes |
 |                                [PHPhub](https://phphub.net/linter/)                                 | Validate PHP code                                                                                   |       No        |  Yes  |   Yes   |
 |                             [Postman](https://docs.api.getpostman.com/)                             | Tool for testing APIs                                                                               |    `apiKey`     |  Yes  | Unknown |
 |                                [ProxyCrawl](https://proxycrawl.com)                                 | Scraping and crawling anticaptcha service                                                           |    `apiKey`     |  Yes  | Unknown |
@@ -367,6 +373,7 @@ For information on contributing to this project, please see the [contributing gu
 |                          [QR Code](https://fungenerators.com/api/qrcode/)                           | Create new QR Code or decode existing one                                                           |    `apiKey`     |  Yes  |   Yes   |
 |                                  [QR code](http://qrtag.net/api/)                                   | Create an easy to read QR code and URL shortener                                                    |       No        |  Yes  |   Yes   |
 |                                   [QR code](http://goqr.me/api/)                                    | Generate and decode / read QR code graphics                                                         |       No        |  Yes  | Unknown |
+| [QRMint](https://qrmint.dev/) | Free styled QR code generator API with custom colors, logos, frames, and batch generation | No | Yes | Yes |
 |                                [QuickChart](https://quickchart.io/)                                 | Generate chart and graph images                                                                     |       No        |  Yes  |   Yes   |
 |                             [Regex Tools](https://regex.bmobot.ai)                                  | Test, explain, and validate regular expressions with match highlighting                             |       No        |  Yes  |   Yes   |
 |                                    [ReqRes](https://reqres.in/)                                     | A hosted REST-API ready to respond to your AJAX requests                                            |       No        |  Yes  | Unknown |
@@ -428,6 +435,7 @@ For information on contributing to this project, please see the [contributing gu
 |                      [pdfEndpoint](https://pdfendpoint.com)                       | HTML or URL to PDF                                             | `apiKey` |  Yes  |   No    |
 |                         [pdflayer](https://pdflayer.com)                          | HTML/URL to PDF                                                | `apiKey` |  Yes  | Unknown |
 |                        [PDFBolt](https://pdfbolt.com/docs)                        | HTML to PDF conversion with templates and AI generation        | `apiKey` |  Yes  |   Yes   |
+| [PDFSpark](https://pdfspark.dev/) | Free HTML/URL to PDF conversion API | No | Yes | Yes |
 |                    [Pocket](https://getpocket.com/developer/)                     | Bookmarking service                                            | `OAuth`  |  Yes  | Unknown |
 |                         [PrexView](https://prexview.com)                          | Data from XML or JSON to PDF, HTML or Image                    | `apiKey` |  Yes  | Unknown |
 |                       [RenderPDF.io](https://renderpdf.io/)                       | Fastest HTML to PDF, free 500 pdfs/month                       | `apiKey` |  Yes  |   Yes   |
@@ -896,6 +904,7 @@ For information on contributing to this project, please see the [contributing gu
 |          [Imgur](https://apidocs.imgur.com/)          | Images                                                     | `OAuth`  |  Yes  | Unknown |
 |        [Lorem Picsum](https://picsum.photos/)         | Images from Unsplash                                       |    No    |  Yes  | Unknown |
 |          [ObjectCut](https://objectcut.com/)          | Image Background removal                                   | `apiKey` |  Yes  |   Yes   |
+| [PageShot](https://pageshot.site/) | Free webpage screenshot API that renders any URL as PNG | No | Yes | Yes |
 |         [Pexels](https://www.pexels.com/api/)         | Free Stock Photos and Videos                               | `apiKey` |  Yes  |   Yes   |
 | [Pixabay](https://pixabay.com/sk/service/about/api/)  | Photography                                                | `apiKey` |  Yes  | Unknown |
 |        [PlaceKitten](https://placekitten.com/)        | Resizable kitten placeholder images                        |    No    |  Yes  | Unknown |
@@ -1150,6 +1159,7 @@ For information on contributing to this project, please see the [contributing gu
 | :---------------------------------------------------: | ---------------------------------------------- | :------: | :---: | :-----: |
 |    [Bitly](http://dev.bitly.com/get_started.html)     | URL shortener and link management              | `OAuth`  |  Yes  | Unknown |
 |         [CleanURI](https://cleanuri.com/docs)         | URL shortener service                          |    No    |  Yes  |   Yes   |
+| [LinkShrink](https://linkshrink.dev/) | Free privacy-first URL shortener API with analytics and UTM tracking | No | Yes | Yes |
 | [Rebrandly](https://developers.rebrandly.com/v1/docs) | Custom URL shortener for sharing branded links | `apiKey` |  Yes  | Unknown |
 |            [Spoo.me](https://spoo.me/docs)            | URL Shortener with advanced analytics          |    No    |  Yes  |   Yes   |
 |              [T.LY](https://t.ly/docs/)               | URL Shortener With Short Links                 | `apiKey` |  Yes  | Unknown |
