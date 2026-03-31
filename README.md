@@ -133,6 +133,7 @@
 |            [Clearbit Logo](https://clearbit.com/docs#logo-api)             | Search for company logos and embed them in your projects                  | `apiKey` |  Yes  | Unknown |
 |                    [Clientsbee](https://clientsbee.com)                    | Free leads for bussiness and technographics data                          | `apikey` |  Yes  |   No    |
 |                 [Domainsdb.info](https://domainsdb.info/)                  | Registered Domain Names Search                                            |    No    |  Yes  | Unknown |
+|                      [Faktuj](https://faktuj.pl)                           | Free Polish VAT invoice generator with PDF export                         |    No    |  Yes  |   Yes   |
 |                      [Favicon.im](https://favicon.im)                      | Instantly fetch and display the favicon for any website                   |    No    |  Yes  |   No    |
 |              [Freelancer](https://developers.freelancer.com)               | Hire freelancers to get work done                                         | `OAuth`  |  Yes  | Unknown |
 |             [Gmail](https://developers.google.com/gmail/api/)              | Flexible, RESTful access to the user's inbox                              | `OAuth`  |  Yes  | Unknown |
