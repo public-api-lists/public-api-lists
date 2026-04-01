@@ -831,6 +831,7 @@
 |      [Giphy](https://developers.giphy.com/docs/)      | Get all your gifs                                          | `apiKey` |  Yes  | Unknown |
 |          [Gyazo](https://gyazo.com/api/docs)          | Upload images                                              | `apiKey` |  Yes  | Unknown |
 |          [Imgur](https://apidocs.imgur.com/)          | Images                                                     | `OAuth`  |  Yes  | Unknown |
+|      [launch.pics](https://launch.pics)       | AI-powered image processing API with 39 endpoints and workflow builder | `apiKey` |  Yes  |   Yes   |
 |        [Lorem Picsum](https://picsum.photos/)         | Images from Unsplash                                       |    No    |  Yes  | Unknown |
 |          [ObjectCut](https://objectcut.com/)          | Image Background removal                                   | `apiKey` |  Yes  |   Yes   |
 |         [Pexels](https://www.pexels.com/api/)         | Free Stock Photos and Videos                               | `apiKey` |  Yes  |   Yes   |
