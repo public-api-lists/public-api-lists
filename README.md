@@ -1046,6 +1046,7 @@
 |                              [Transport for The Netherlands](http://www.ns.nl/reisinformatie/ns-api)                               | NS, only trains                                                                                  | `apiKey` |  No   | Unknown |
 |                        [Transport for United States](http://www.nextbus.com/xmlFeedDocs/NextBusXMLFeed.pdf)                        | NextBus API                                                                                      |    No    |  No   | Unknown |
 |                                    [Transport for Washington, US](https://developer.wmata.com/)                                    | Washington Metro transport API                                                                   | `OAuth`  |  Yes  | Unknown |
+|                                          [VOLO](https://www.flyvolo.ai/for-agents)                                                 | Private aviation charter search, quotes, fleet, and empty legs                                   | `apiKey` |  Yes  |   Yes   |
 
 **[⬆ Back to Index](#index)**
 
