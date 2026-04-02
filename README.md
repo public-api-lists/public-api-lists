@@ -109,6 +109,7 @@
 |      [Metropolitan Museum of Art](https://metmuseum.github.io/)      | Art                                                                           |    No    |  Yes  | Unknown |
 |       [Noun Project](http://api.thenounproject.com/index.html)       | Icons                                                                         | `OAuth`  |  No   | Unknown |
 |           [Rijksmuseum](https://www.rijksmuseum.nl/en/api)           | Art                                                                           | `apiKey` |  Yes  | Unknown |
+|                    [svg.new](https://svg.new)                    | AI-powered image to SVG vectorization                                         | `apiKey` |  Yes  |   Yes   |
 
 **[⬆ Back to Index](#index)**
 
