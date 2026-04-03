@@ -157,6 +157,7 @@
 | [Byabbe](https://byabbe.se/on-this-day/#/default/get__month___day__events_json) | Seach histories from wikipedia for a particular day                                                    |    No    |  Yes  | Unknown |
 |                [Calendar Index](https://www.calendarindex.com/)                 | Worldwide Holidays and Working Days                                                                    | `apiKey` |  Yes  |   Yes   |
 |              [Czech Namedays Calendar](http://svatky.adresa.info/)              | Lookup for a name and returns nameday date                                                             |    No    |  No   | Unknown |
+|              [Feriados API](https://feriadosapi.com)               | Brazilian holidays API covering national, state, and municipal holidays for 5,570+ municipalities      | `apiKey` |  Yes  |   Yes   |
 |     [Google Calendar](https://developers.google.com/google-apps/calendar/)      | Display, create and modify Google calendar events                                                      | `OAuth`  |  Yes  | Unknown |
 |          [Hebrew Calendar](https://www.hebcal.com/home/developer-apis)          | Convert between Gregorian and Hebrew, fetch Shabbat and Holiday times, etc                             |    No    |  No   | Unknown |
 |                       [Holidays](https://holidayapi.com/)                       | Historical data regarding holidays                                                                     | `apiKey` |  Yes  | Unknown |
