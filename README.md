@@ -1067,6 +1067,7 @@
 |                                  API                                   | Description                                                                                      |   Auth   | HTTPS |  CORS   |
 | :--------------------------------------------------------------------: | ------------------------------------------------------------------------------------------------ | :------: | :---: | :-----: |
 | [Brazilian Vehicles and Prices](https://deividfortuna.github.io/fipe/) | Vehicles information from Fundação Instituto de Pesquisas Econômicas - Fipe                      |    No    |  Yes  | Unknown |
+|                    [Auto.dev](https://auto.dev)                        | VIN decode, vehicle listings, payments, recalls, specs via REST API, CLI, SDK, or MCP            | `apiKey` |  Yes  | Unknown |
 |                    [CarAPI](https://carapi.dev/)                       | Vehicle specs, VIN decoder, and market data for 21+ million vehicles                             | `apiKey` |  Yes  |   No    |
 |      [CarsXE API](https://api.carsxe.com/?ref=public-apis-github)      | Vehicle data and vin decoder, specs, plates, market value, ownership cost and images             | `apiKey` |  Yes  | Unknown |
 |     [Kelley Blue Book](http://developer.kbb.com/#!/data/1-Default)     | Vehicle info, pricing, configuration, plus much more                                             | `apiKey` |  Yes  |   No    |
