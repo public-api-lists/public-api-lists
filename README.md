@@ -851,6 +851,7 @@
 |                                      API                                       | Description                                                                                             |   Auth   | HTTPS |  CORS   |
 | :----------------------------------------------------------------------------: | ------------------------------------------------------------------------------------------------------- | :------: | :---: | :-----: |
 |                   [arcsecond.io](https://api.arcsecond.io/)                    | Multiple astronomy data sources                                                                         |    No    |  Yes  | Unknown |
+|                       [BGPT MCP](https://bgpt.pro/mcp)                        | Search scientific papers with structured experimental data from full-text studies                        | `apiKey` |  Yes  |   Yes   |
 |                    [CORE](https://core.ac.uk/services#api)                     | Access the world's Open Access research papers                                                          | `apiKey` |  Yes  | Unknown |
 |                        [GBIF](http://api.gbif.org/v1/)                         | Global Biodiversity Information Facility                                                                |    No    |  Yes  |   Yes   |
 |         [iDigBio](https://github.com/idigbio/idigbio-search-api/wiki)          | Access millions of museum specimens from organizations around the world                                 |    No    |  Yes  | Unknown |
