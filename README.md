@@ -989,6 +989,7 @@
 |                          [Google Cloud Natural](https://cloud.google.com/natural-language/docs/)                          | Natural language understanding technology, including sentiment, entity and syntax analysis          | `apiKey` |  Yes  | Unknown |
 |                                       [Semantira](https://semantria.readme.io/docs)                                       | Text Analytics with sentiment analysis, categorization & named entity extraction                    | `OAuth`  |  Yes  | Unknown |
 |                                           [Spam Hunter](https://spam-hunter.ru)                                           | Free service to classify text for spam using ML                                                     | `apiKey` |  Yes  |   Yes   |
+| [TextAI API](https://textai-api.overtek.deno.net) | Pay-per-use text summarization, keyword extraction & translation with USDC micropayments on Solana | `apiKey` |  Yes  | Unknown |
 | [Watson Natural Language Understanding](https://www.ibm.com/watson/developercloud/natural-language-understanding/api/v1/) | Natural language processing for advanced text analysis                                              | `OAuth`  |  Yes  | Unknown |
 |                                        [Yomi](https://github.com/ookii-tsuki/yomi)                                        | Japanese tokenizer and morphological analysis web API                                               |    No    |  Yes  |   Yes   |
 
