@@ -528,6 +528,7 @@
 |                         [Pokéapi](https://pokeapi.co)                         | Pokémon Information                                                                                          |       No        |  Yes  | Unknown |
 |                     [Pokémon TCG](https://pokemontcg.io)                      | Pokémon TCG Information                                                                                      |       No        |  Yes  | Unknown |
 | [Pokémon-3D-api ](https://documenter.getpostman.com/view/29725199/2sAYX8KMU8) | 3D Pokémon models for ThreeJS                                                                                |       No        |  Yes  |   Yes   |
+| [Pokemon Price Tracker](https://www.pokemonpricetracker.com/pokemon-card-price-api) | Real-time and historical Pokemon card pricing from TCGPlayer and eBay graded sales | `apiKey` | Yes | Yes |
 |             [Random Facts](https://fungenerators.com/api/facts/)              | Random Facts from hundreds of categories                                                                     |    `apiKey`     |  Yes  |   Yes   |
 |                 [Rick and Morty](https://rickandmortyapi.com)                 | All the Rick and Morty information, including images                                                         |       No        |  Yes  |   Yes   |
 |                [Riot Games](https://developer.riotgames.com/)                 | League of Legends Game Information                                                                           |    `apiKey`     |  Yes  | Unknown |
