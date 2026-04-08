@@ -925,6 +925,7 @@
 |            [Twitter](https://developer.twitter.com/en/docs)            | Read and write Twitter data                                                                       | `OAuth`  |  Yes  |   No    |
 |                  [TwitterApi](http://twitterapi.io/)                   | Mass Twitter data read API                                                                        | `apiKey` |  Yes  |   No    |
 |                     [vk](https://vk.com/dev/sites)                     | Read and write vk data                                                                            | `OAuth`  |  Yes  | Unknown |
+|                    [Xquik](https://docs.xquik.com)                     | All-in-one X automation API for tweets, giveaways, monitoring & analytics                         | `apiKey` |  Yes  | Unknown |
 
 **[⬆ Back to Index](#index)**
 
