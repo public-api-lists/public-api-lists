@@ -535,6 +535,7 @@
 |                   [Scryfall](https://scryfall.com/docs/api)                   | Magic: The Gathering database                                                                                |       No        |  Yes  |   Yes   |
 |        [Steam](https://developer.valvesoftware.com/wiki/Steam_Web_API)        | Steam Client Interaction                                                                                     |     `OAuth`     |  Yes  | Unknown |
 |                    [SuperHeroes](https://superheroapi.com)                    | All SuperHeroes and Villains data from all universes under a single API                                      |    `apiKey`     |  Yes  | Unknown |
+| [TCGApi](https://tcgapi.dev/introduction/) | Trading card game prices and historical data across 89+ games | `apiKey` | Yes | No |
 |                       [TCGdex](https://www.tcgdex.dev/)                       | A Multilanguage Pokémon TCG Database with Cards Pictures and most of the informations contained on the cards |       No        |  Yes  |   Yes   |
 |        [TheGamestracker](https://thegamestracker.com/server-info-api)         | Game servers informations in JSON format                                                                     |    `apiKey`     |  Yes  |   Yes   |
 |         [Traveller Map](https://travellermap.com/doc/api)                     | [Traveller TTRPG](https://www.mongoosepublishing.com/collections/traveller-rpgs) map world, sub sector and sector information in json, PDF and other formats|       No        |  Yes  |   No    |
