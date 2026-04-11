@@ -244,7 +244,8 @@
 |                              [Exchangeratesapi.io](https://exchangeratesapi.io)                              | Exchange rates with currency conversion                            | `apiKey` |  Yes  |   Yes   |
 |                                         [Fixer.io](http://fixer.io)                                          | Exchange rates and currency conversion                             | `apiKey` |  Yes  | Unknown |
 |                               [Frankfurter](https://www.frankfurter.app/docs)                                | Exchange rates, currency conversion and time series                |    No    |  Yes  |   Yes   |
-|                                    [FxRatesAPI](https://fxratesapi.com/)                                     | Real-time exchange rates, historical rates and currency conversion | `apiKey` |  Yes  |   No    |
+
+| [UniRateAPI](https://unirateapi.com) | Free currency API with 593 currencies, 57 years historical forex data, crypto and precious metals | No | Yes | Yes |
 |                                       [ratesapi](https://ratesapi.io)                                        | Free exchange rates and historical rates                           |    No    |  Yes  | Unknown |
 
 **[⬆ Back to Index](#index)**
