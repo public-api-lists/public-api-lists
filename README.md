@@ -445,6 +445,7 @@
 |                 [IEX](https://iextrading.com/developer/)                 | Realtime stock data                                           | `apiKey` |  Yes  |   Yes   |
 |                 [IG](https://labs.ig.com/gettingstarted)                 | Spreadbetting and CFD Market Data                             | `apiKey` |  Yes  | Unknown |
 | [Indian Bank Data API](https://github.com/kaustubhk24/Indian-Banks-Data) | All Banks IFSC Code data,Search by IFSc or other details      |    No    |  Yes  | Unknown |
+|        [Helium](https://heliumtrades.com/mcp-page/)                      | News with bias scoring, balanced news synthesis, live market data, AI options pricing |    No    |  Yes  |   Yes   |
 |        [KeepRule](https://github.com/henu-wang/keeprule-api)             | Investment principles and quotes from Buffett, Munger & more  |    No    |  Yes  |   Yes   |
 |                 [Mboum API](https://docs.mboum.com)                 | Real-time Stock market and Options Data                             | `apiKey` |  Yes  | Unknown |
 |                       [Plaid](https://plaid.com/)                        | Connect with users’ bank accounts and access transaction data | `apiKey` |  Yes  | Unknown |
