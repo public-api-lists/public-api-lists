@@ -633,6 +633,7 @@
 |                     [FEC](https://api.open.fec.gov/developers/)                     | Information on campaign donations in federal elections                                    | `apiKey` |  Yes  | Unknown |
 | [Federal Register](https://www.federalregister.gov/reader-aids/developer-resources) | The Daily Journal of the United States Government                                         |    No    |  Yes  | Unknown |
 |         [Food Standards Agency](http://ratings.food.gov.uk/open-data/en-GB)         | UK food hygiene rating data API                                                           |    No    |  No   | Unknown |
+| [US Business Entity Search](https://autoscrape-api-seven.vercel.app) | Search business registrations across 17 U.S. state Secretary of State databases | `apiKey` |  Yes  | Yes |
 |               [Open Government, Australia](https://www.data.gov.au/)                | Australian Government Open Data                                                           |    No    |  Yes  | Unknown |
 |                  [Open Government, Belgium](https://data.gov.be/)                   | Belgium Government Open Data                                                              |    No    |  Yes  | Unknown |
 |                 [Open Government, Canada](http://open.canada.ca/en)                 | Canadian Government Open Data                                                             |    No    |  No   | Unknown |
