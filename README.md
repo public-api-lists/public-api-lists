@@ -671,6 +671,7 @@
 |                                           API                                            | Description                                                                     |   Auth   | HTTPS |  CORS   |
 | :--------------------------------------------------------------------------------------: | ------------------------------------------------------------------------------- | :------: | :---: | :-----: |
 |                     [Adzuna](https://developer.adzuna.com/overview)                      | Job board aggregator                                                            | `apiKey` |  Yes  | Unknown |
+|              [AI Dev Jobs](https://aidevboard.com/api/v1/jobs)                           | AI and ML job listings from 289+ companies                                      |    No    |  Yes  |   Yes   |
 |                   [Careerjet](https://www.careerjet.com/partners/api/)                   | Job search engine                                                               | `apiKey` |  No   | Unknown |
 |                     [DevITjobs](https://devitjobs.us/api/jobsLight)                      | Jobs for software developers                                                    |    No    |  Yes  | Unknown |
 |                      [Himalayas](https://himalayas.app/api)                         | Remote job board and search engine                                              |    No    |  Yes  |   Yes   |
@@ -699,6 +700,7 @@
 |          [Deepcode](https://www.deepcode.ai/docs/Overview%252FOverview)           | AI for code review                                      |    No    |  Yes  | Unknown |
 | [HOL Registry Broker](https://hol.org/docs/registry-broker/) | Search and verify AI agents & MCP servers | `apiKey` |  Yes  |   Yes   |
 |                            [Keen IO](https://keen.io/)                            | Data Analytics                                          | `apiKey` |  Yes  | Unknown |
+| [Not Human Search](https://nothumansearch.ai/api/v1/search) | AI-ready website discovery and scoring                  |    No    |  Yes  |   Yes   |
 |                         [Replicate](https://replicate.com/docs/reference/http)    | Run and deploy machine learning models in the cloud     | `apiKey` |  Yes  |   Yes   |
 |                     [Unplugg](https://unplu.gg/test_api.html)                     | Forecasting API for timeseries data                     | `apiKey` |  Yes  | Unknown |
 |                             [Wit.ai](https://wit.ai/)                             | Natural Language Processing                             | `OAuth`  |  Yes  | Unknown |
