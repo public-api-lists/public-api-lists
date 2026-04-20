@@ -671,6 +671,7 @@
 |                                           API                                            | Description                                                                     |   Auth   | HTTPS |  CORS   |
 | :--------------------------------------------------------------------------------------: | ------------------------------------------------------------------------------- | :------: | :---: | :-----: |
 |                     [Adzuna](https://developer.adzuna.com/overview)                      | Job board aggregator                                                            | `apiKey` |  Yes  | Unknown |
+| [Agentic Engineering Jobs](https://agentic-engineering-jobs.com/api-reference)           | Job board for engineers building agentic systems (LangChain, LlamaIndex, CrewAI)|    No    |  Yes  | No      |
 |                   [Careerjet](https://www.careerjet.com/partners/api/)                   | Job search engine                                                               | `apiKey` |  No   | Unknown |
 |                     [DevITjobs](https://devitjobs.us/api/jobsLight)                      | Jobs for software developers                                                    |    No    |  Yes  | Unknown |
 |                      [Himalayas](https://himalayas.app/api)                         | Remote job board and search engine                                              |    No    |  Yes  |   Yes   |
