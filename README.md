@@ -491,6 +491,8 @@
 
 ### Games & Comics
 
+| [REG-Vault](https://regvault.org/docs/api) | Retro-gaming metadata catalog — 91k games, 99 systems, box art + manuals + MCP server | No | Yes | Yes |
+
 |                                      API                                      | Description                                                                                                  |      Auth       | HTTPS |  CORS   |
 | :---------------------------------------------------------------------------: | ------------------------------------------------------------------------------------------------------------ | :-------------: | :---: | :-----: |
 |                    [AmiiboAPI](http://www.amiiboapi.com/)                     | Amiibo Information                                                                                           |       No        |  No   |   Yes   |
