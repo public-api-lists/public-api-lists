@@ -644,6 +644,7 @@
 |                   [Open Government, Romania](http://data.gov.ro/)                   | Romania Government Open Data                                                              |    No    |  No   | Unknown |
 |                   [Open Government, Taiwan](https://data.gov.tw/)                   | Taiwan Government Open Data                                                               |    No    |  Yes  | Unknown |
 |                    [Open Government, USA](https://www.data.gov/)                    | United States Government Open Data                                                        |    No    |  Yes  | Unknown |
+|                      [PermisAPI](https://permisapi.fr)                               | 311k French building permits (Sitadel) with geocoding, webhooks, Python SDK               | `apiKey` |  Yes  |   Yes   |
 |                      [PolitiData](https://politidata.ca)                            | Canadian political financing, lobbying registrations and communications                    | `apiKey` |  Yes  | Unknown |
 |                     [ProcureData](https://procuredata.ca)                           | Canadian federal procurement contracts, tenders and awards                                 | `apiKey` |  Yes  | Unknown |
 |             [Represent by Open North](https://represent.opennorth.ca/)              | Find Canadian Government Representatives                                                  |    No    |  Yes  | Unknown |
