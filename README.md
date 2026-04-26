@@ -123,6 +123,7 @@
 |          [Open Library](https://openlibrary.org/developers/api)           | Books, book covers and related data                                                      |   No    |  Yes  | Unknown |
 | [Penguin Publishing](http://www.penguinrandomhouse.biz/webservices/rest/) | Books, book covers and related data                                                      |   No    |  Yes  | Unknown |
 |            [Rig Veda](https://aninditabasu.github.io/indica/)             | Gods and poets, their categories, and the verse meters, with the mandal and sukta number |   No    |  Yes  | Unknown |
+|         [Urantia Papers](https://urantia.dev)         | Full-text and semantic search across the Urantia Papers, with audio narration, entities and translations |   No    |  Yes  |   Yes   |
 
 **[⬆ Back to Index](#index)**
 
