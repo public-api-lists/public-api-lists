@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/public-api-lists-public-api-lists-badge.png)](https://mseep.ai/app/public-api-lists-public-api-lists)
+
 # Public API Lists
 
 [![Validate PR](https://github.com/public-api-lists/public-api-lists/actions/workflows/validate-pr.yml/badge.svg)](https://github.com/public-api-lists/public-api-lists/actions/workflows/validate-pr.yml)
