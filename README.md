@@ -486,6 +486,7 @@
 | :----------------------------------------------------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :------: | :---: | :-----: |
 | [FraudLabs Pro](https://www.fraudlabspro.com/developer/api/screen-order) | Screen order information using AI to detect frauds                                                                                                                 | `apiKey` |  Yes  | Unknown |
 |                [Jumio](https://www.jumio.com/developer/)                 | Provides identity verification, KYC (Know Your Customer), and AML (Anti-Money Laundering) solutions, including document verification and biometric authentication. | `apiKey` |  Yes  | Unknown |
+|                [IPASIS](https://ipasis.com/docs)                 | Real-time bot detection and fraud prevention API combining IP reputation, proxy/VPN detection, and email validation in a single call                              | `apiKey` |  Yes  |   Yes   |
 
 **[⬆ Back to Index](#index)**
 
