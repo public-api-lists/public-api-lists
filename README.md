@@ -228,6 +228,7 @@
 |                  [NiceHash](https://docs.nicehash.com/)                  | Largest Crypto Mining Marketplace                                                                                                  | `apiKey` |  Yes  | Unknown |
 |              [Poloniex](https://api-docs.poloniex.com/spot)              | US based digital asset exchange                                                                                                    | `apiKey` |  Yes  | Unknown |
 |       [WorldCoinIndex](https://www.worldcoinindex.com/apiservice)        | Cryptocurrencies Prices                                                                                                            | `apiKey` |  Yes  | Unknown |
+|                   [x402 Data API](https://goto-spring-php-instructor.trycloudflare.com)                   | Developer data APIs with x402 HTTP 402 payment protocol - pay per request using USDC on Base chain                                | `apiKey` |  Yes  | Unknown |
 
 **[⬆ Back to Index](#index)**
 
