@@ -262,6 +262,7 @@
 |                   [PurgoMalum](http://www.purgomalum.com)                   | Content validator against profanity & obscenity                       |    No    |  No   | Unknown |
 |       [Trestle](https://trestleiq.com/phone-validation-api/)                | Validates the phone number and provides phone metadata                | `apiKey` |  Yes  |   Yes   |
 | [US Autocomplete](https://smartystreets.com/docs/cloud/us-autocomplete-api) | Enter address data quickly with real-time address suggestions         | `apiKey` |  Yes  |   Yes   |
+| [TaxID](https://www.taxid.dev/docs) | EU VAT number validation with company name and address lookup across 27 member states | `apiKey` | Yes | Unknown |
 |    [US Extract](https://smartystreets.com/products/apis/us-extract-api)     | Extract postal addresses from any text including emails               | `apiKey` |  Yes  |   Yes   |
 |   [US Street Address](https://smartystreets.com/docs/cloud/us-street-api)   | Validate and append data for any US postal address                    | `apiKey` |  Yes  |   Yes   |
 |                      [vatlayer](https://vatlayer.com)                       | VAT number validation                                                 |    No    |  Yes  | Unknown |
