@@ -227,6 +227,7 @@
 |             [Nexchange](https://nexchange2.docs.apiary.io/)              | Automated cryptocurrency exchange service                                                                                          |    No    |  No   |   Yes   |
 |                  [NiceHash](https://docs.nicehash.com/)                  | Largest Crypto Mining Marketplace                                                                                                  | `apiKey` |  Yes  | Unknown |
 |              [Poloniex](https://api-docs.poloniex.com/spot)              | US based digital asset exchange                                                                                                    | `apiKey` |  Yes  | Unknown |
+|               [Sharpe](https://www.sharpe.ai/docs/free-api)              | Crypto derivatives, funding, arbitrage, narratives, listings, and news data                                                        |    No    |  Yes  | Unknown |
 |       [WorldCoinIndex](https://www.worldcoinindex.com/apiservice)        | Cryptocurrencies Prices                                                                                                            | `apiKey` |  Yes  | Unknown |
 
 **[⬆ Back to Index](#index)**
