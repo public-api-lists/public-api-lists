@@ -892,6 +892,7 @@
 
 |                                  API                                  | Description                                                                |   Auth   | HTTPS |  CORS   |
 | :-------------------------------------------------------------------: | -------------------------------------------------------------------------- | :------: | :---: | :-----: |
+| [Amazon Scraper API](https://docs.amazonscraperapi.com) | Amazon product, search and batch ASIN data across 20 marketplaces | `apiKey` | Yes | No |
 | [Best Buy](https://bestbuyapis.github.io/api-documentation/#overview) | Products, Buying Options, Categories, Recommendations, Stores and Commerce | `apiKey` |  Yes  | Unknown |
 |                [eBay](https://go.developer.ebay.com/)                 | Sell and Buy on eBay                                                       | `OAuth`  |  Yes  | Unknown |
 |          [ShopSavvy](https://shopsavvy.com/data)                      | Product pricing and price history across thousands of retailers             | `apiKey` |  Yes  |   Yes   |
