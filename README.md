@@ -816,6 +816,7 @@
 |            [Meme](https://github.com/D3vd/Meme_Api)             | JSON API for a random meme scraped from reddit                         |    No    |  Yes  | Unknown |
 |        [NaMoMemes](https://github.com/theIYD/NaMoMemes)         | Memes on Narendra Modi                                                 |    No    |  Yes  | Unknown |
 | [Programming Quotes](https://programming-quotesapi.vercel.app/) | An api which generates quotes from programmers                         |    No    |  Yes  |   Yes   |
+|               [PsyQuiz](https://countrycode.xyz/api)               | Psychological assessment API with 8 frameworks (Big Five, Attachment, CBT, Flow, etc.) |    No    |  Yes  |   Yes   |
 | [Quote Garden](https://pprathameshmore.github.io/QuoteGarden/)  | REST API for more than 5000 famous quotes                              |    No    |  Yes  | Unknown |
 |        [Quoterism](https://www.quoterism.com/developer)         | Inspirational Quotes                                                   |    No    |  Yes  | Unknown |
 |       [Quotes on Design](https://quotesondesign.com/api/)       | Inspirational Quotes                                                   |    No    |  Yes  | Unknown |
