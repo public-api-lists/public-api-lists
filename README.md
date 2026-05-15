@@ -165,6 +165,7 @@
 |               [Non-Working Days ICS](https://github.com/gadael/icsdb)               | Database of ICS files for non working days                                                             |    No    |  Yes  | Unknown |
 |              [OpenHolidays API](https://www.openholidaysapi.org/)               | Public and school holidays for many countries via an open REST API                                     |    No    |  Yes  |   Yes   |
 |            [Russian Calendar](https://github.com/egno/work-calendar)            | Check if a date is a Russian holiday or not                                                            |    No    |  Yes  |   No    |
+| [The Calendar](https://the-calendar.net/api/) | Public holidays for US states and 30 countries plus sports and finance calendars as static JSON | No | Yes | Yes |
 |      [TimeZones iCal Library](https://tz.add-to-calendar-technology.com/)       | Database of official time zones and corresponding iCal VTIMEZONE blocks                                |    No    |  Yes  | Unknown |
 
 **[⬆ Back to Index](#index)**
