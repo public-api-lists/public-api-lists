@@ -376,7 +376,8 @@
 
 **[⬆ Back to Index](#index)**
 
-### Documents & Productivity
+### Documents
+| [DocuForge API](https://github.com/rnhowcla/docuforge-api) | Document processing: clean Excel, convert CSV, extract PDF text. Free tier: 50 calls/month. |  | Yes | Free tier available | & Productivity
 
 |                                        API                                        | Description                                                    |   Auth   | HTTPS |  CORS   |
 | :-------------------------------------------------------------------------------: | -------------------------------------------------------------- | :------: | :---: | :-----: |
