@@ -934,6 +934,7 @@
 |                                  API                                   | Description                                                                                       |   Auth   | HTTPS |  CORS   |
 | :--------------------------------------------------------------------: | ------------------------------------------------------------------------------------------------- | :------: | :---: | :-----: |
 |              [Buffer](https://buffer.com/developers/api)               | Access to pending and sent updates in Buffer                                                      | `OAuth`  |  Yes  | Unknown |
+|           [BulkPublish](https://www.bulkpublish.com)            | Publish to 11 social media platforms with scheduling, analytics, and AI agent support              | `apiKey` |  Yes  | Unknown |
 |        [Discord](https://discordapp.com/developers/docs/intro)         | Make bots for Discord, integrate Discord onto an external platform                                | `OAuth`  |  Yes  | Unknown |
 |              [Disqus](https://disqus.com/api/docs/auth/)               | Communicate with Disqus data                                                                      | `OAuth`  |  Yes  | Unknown |
 |              [Facebook](https://developers.facebook.com/)              | Facebook Login, Share on FB, Social Plugins, Analytics and more                                   | `OAuth`  |  Yes  | Unknown |
