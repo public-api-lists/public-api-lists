@@ -993,6 +993,7 @@
 |                [Micro-Jaymock](https://micro-jaymock.now.sh/)                 | Tiny API mocking microservice for generating fake JSON data |    No    |  Yes  |   No    |
 |                         [Mockae](https://mockae.com/)                         | Fake REST API powered by Lua                                |    No    |  Yes  |   Yes   |
 |            [Mockerito](https://mockerito.com/?ref=public-api-lists)           | Free mock REST APIs across different business domains       |    No    |  Yes  |   Yes   |
+|             [Random Profiles](https://random-profiles.com)                    | Fake user profiles and companies with 100+ fields each      | `apiKey` |  Yes  |   Yes   |
 |                [Randommer](https://randommer.io/randommer-api)                | Random data generator                                       | `apiKey` |  Yes  |   Yes   |
 |                      [RandomUser](https://randomuser.me)                      | Generates random user data                                  |    No    |  Yes  | Unknown |
 |                       [RoboHash](https://robohash.org/)                       | Generate random robot/alien avatars                         |    No    |  Yes  | Unknown |
