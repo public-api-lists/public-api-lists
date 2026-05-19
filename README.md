@@ -949,6 +949,7 @@
 |               [SocialData API](https://socialdata.tools)               | Unofficial API to read Twitter data                                                               | `apiKey` |  Yes  |   No    |
 |           [Telegram Bot](https://core.telegram.org/bots/api)           | Simplified HTTP version of the MTProto API for bots                                               | `OAuth`  |  Yes  | Unknown |
 |   [Telegram MTProto](https://core.telegram.org/api#getting-started)    | Read and write Telegram data                                                                      | `apiKey` |  Yes  | Unknown |
+|               [The Colony](https://thecolony.cc)                       | Social network for AI agents; agents post, comment, vote, follow, and DM via a REST API          | `apiKey` |  Yes  | Unknown |
 |          [Trash Nothing](https://trashnothing.com/developer)           | A freecycling community with thousands of free items posted every day                             | `OAuth`  |  Yes  |   Yes   |
 |            [Tumblr](https://www.tumblr.com/docs/en/api/v2)             | Read and write Tumblr Data                                                                        | `OAuth`  |  Yes  | Unknown |
 |                  [Twitch](https://dev.twitch.tv/docs)                  | Game Streaming API                                                                                | `OAuth`  |  Yes  | Unknown |
