@@ -466,6 +466,7 @@
 |       [PredScope](https://predscope.com/api/markets.json)        | Free prediction market odds and analytics data from Polymarket |    No    |  Yes  |   Yes   |
 |               [Razorpay IFSC](https://ifsc.razorpay.com/)                | Indian Financial Systems Code (Bank Branch Codes)             |    No    |  Yes  | Unknown |
 |              [Stock Sentiment](https://api.adanos.org/docs)              | Reddit & X/Twitter sentiment analysis for stocks with buzz scores    | `apiKey` |  Yes  |   Yes   |
+| [Statistics of the World](https://statisticsoftheworld.com/api-docs) | GDP, population, inflation & 440+ indicators for 218 countries |    No    |  Yes  |   Yes   |
 |                 [Tradier](https://developer.tradier.com)                 | US equity/option market data (delayed, intraday, historical)  | `OAuth`  |  Yes  |   Yes   |
 |                 [ValueRay](https://www.valueray.com/api)                 | Quantitative and sentiment data for stocks and ETFs           |    No     | Yes  |   Yes   |
 |         [World Trading Data](https://www.worldtradingdata.com/)          | Market data provider                                          | `apiKey` |  Yes  | Unknown |
