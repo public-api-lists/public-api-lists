@@ -176,6 +176,7 @@
 |                         API                          | Description              |   Auth   | HTTPS |  CORS   |
 | :--------------------------------------------------: | ------------------------ | :------: | :---: | :-----: |
 |          [Box](https://developer.box.com/)           | File Sharing and Storage | `OAuth`  |  Yes  | Unknown |
+| [BrewPage](https://kochetkov-ma.github.io/brewpage-openapi/) | Free HTML/Markdown/KV/JSON/file hosting with short URLs | No | Yes | Yes |
 |    [Dropbox](https://www.dropbox.com/developers)     | File Sharing and Storage | `OAuth`  |  Yes  | Unknown |
 | [Google Drive](https://developers.google.com/drive/) | File Sharing and Storage | `OAuth`  |  Yes  | Unknown |
 |        [Mega.nz](https://mega.io/developers)         | File Sharing And Storage |    No    |  Yes  | Unknown |
