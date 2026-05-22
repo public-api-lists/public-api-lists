@@ -42,7 +42,12 @@
 ### 🥈 Silver Sponsors
 
 <!-- Silver sponsors get a logo + one-line description -->
-<!-- <a href="https://example.com"><img src="assets/sponsors/example.png" width="150" alt="Example"></a> -->
+
+<a href="https://www.atlascloud.ai/">
+  <img src="assets/atlas-cloud.png" width="150" alt="Atlas Cloud">
+</a>
+
+**[Atlas Cloud](https://www.atlascloud.ai/)** — AI API aggregation platform with OpenAI-compatible chat completions, image and video generation
 
 *Become a Silver Sponsor — [learn more](.github/SPONSORS.md)*
 
