@@ -220,8 +220,10 @@ h1{{font-size:clamp(28px,5vw,44px);font-weight:800;letter-spacing:-.02em;margin-
 .sponsor a img{{border-radius:8px;opacity:.9;transition:.15s}}
 .sponsor a img:hover{{opacity:1}}
 .sponsor .sp-name{{font-size:13px;color:var(--t2);margin-top:8px}}
-.sponsor .sp-cta{{font-size:12px;color:var(--t3);margin-top:12px}}
+.sponsor .sp-cta{{font-size:12px;color:var(--t3);margin-top:16px}}
 .sponsor .sp-cta a{{color:var(--ac2);font-size:12px}}
+.sp-gold,.sp-silver{{display:flex;justify-content:center;gap:32px;flex-wrap:wrap}}
+.sp-item{{display:flex;flex-direction:column;align-items:center;max-width:260px}}
 
 #list{{margin-bottom:48px}}
 .e{{background:var(--s1);border:1px solid var(--b);border-radius:8px;padding:14px 16px;margin-bottom:6px;display:flex;justify-content:space-between;align-items:flex-start;gap:12px;flex-wrap:wrap}}
@@ -281,11 +283,30 @@ footer{{text-align:center;padding:32px 0;color:var(--t3);font-size:13px;border-t
   </div>
 
   <div class="sponsor">
-    <p>Sponsored by</p>
-    <a href="https://serpapi.com/?utm_source=public-api-lists">
-      <img src="https://raw.githubusercontent.com/public-api-lists/public-api-lists/master/assets/serpapi.png" width="280" alt="SerpApi">
-    </a>
-    <div class="sp-name">Scrape Google and other search engines with a simple API</div>
+    <p>🥇 Gold Sponsors</p>
+    <div class="sp-gold">
+      <div class="sp-item">
+        <a href="https://serpapi.com/?utm_source=public-api-lists">
+          <img src="https://raw.githubusercontent.com/public-api-lists/public-api-lists/master/assets/serpapi.png" width="220" alt="SerpApi">
+        </a>
+        <div class="sp-name">Scrape Google and other search engines with a simple API</div>
+      </div>
+      <div class="sp-item">
+        <a href="https://talordata.com/?campaignid=0aiIIjYMnaNT0MRs&utm_source=publicapilists&utm_term=publicapilists">
+          <img src="https://raw.githubusercontent.com/public-api-lists/public-api-lists/master/assets/talordata.png" width="220" alt="TalorData">
+        </a>
+        <div class="sp-name">Get structured results from Google, Bing, Yandex, and others via one API</div>
+      </div>
+    </div>
+    <p style="margin-top:20px">🥈 Silver Sponsors</p>
+    <div class="sp-silver">
+      <div class="sp-item">
+        <a href="https://www.atlascloud.ai/">
+          <img src="https://raw.githubusercontent.com/public-api-lists/public-api-lists/master/assets/atlas-cloud.png" width="120" alt="Atlas Cloud">
+        </a>
+        <div class="sp-name">AI API aggregation platform with OpenAI-compatible chat completions, image and video generation</div>
+      </div>
+    </div>
     <div class="sp-cta"><a href="https://github.com/public-api-lists/public-api-lists/blob/master/.github/SPONSORS.md">Become a sponsor</a></div>
   </div>
 

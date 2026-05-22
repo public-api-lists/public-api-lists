@@ -49,8 +49,6 @@
 
 **[Atlas Cloud](https://www.atlascloud.ai/)** — AI API aggregation platform with OpenAI-compatible chat completions, image and video generation
 
-*Become a Silver Sponsor — [learn more](.github/SPONSORS.md)*
-
 ### 🥉 Bronze Sponsors
 
 <!-- Bronze sponsors get a text link -->
