@@ -21,14 +21,16 @@
   <tr>
     <td align="center">
       <a href="https://serpapi.com/?utm_source=public-api-lists">
-        <img src="assets/serpapi.png" width="500" alt="SerpApi"><br/>
+        <img src="assets/serpapi.png" width="800" alt="SerpApi"><br/>
         <b>SerpApi</b>
       </a>
       <br/>Scrape Google and other search engines with a simple API
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://talordata.com/?campaignid=0aiIIjYMnaNT0MRs&utm_source=publicapilists&utm_term=publicapilists">
-        <img src="assets/talordata.png" width="500" alt="TalorData"><br/>
+        <img src="assets/talordata.png" width="800" alt="TalorData"><br/>
         <b>TalorData SERP API</b>
       </a>
       <br/>Get structured results from Google, Bing, Yandex, and others via one API - <a href="https://talordata.com/?campaignid=0aiIIjYMnaNT0MRs&utm_source=publicapilists&utm_term=publicapilists">Start a free trial</a>
