@@ -719,10 +719,17 @@
 
 ### Machine Learning
 
+<p align="center">
+  <a href="https://www.atlascloud.ai/?utm_source=github&utm_medium=link&utm_campaign=public-api-lists">
+    <img src="assets/atlas-cloud.png" width="220" alt="Atlas Cloud">
+  </a>
+</p>
+
 |                                        API                                        | Description                                             |   Auth   | HTTPS |  CORS   |
 | :-------------------------------------------------------------------------------: | ------------------------------------------------------- | :------: | :---: | :-----: |
 | [Agent Hustle](https://agent.stakewatch.dev/api) | AI web services: scraping, research, screenshots, translation, summarization | `apiKey` | Yes | Yes |
 | [AI Engine](https://ai-engine.net/apis/all-in-one) | 36+ AI endpoints: OCR, face detection, background removal, object detection, NSFW moderation, face swap, image generation | `apiKey` | Yes | Yes |
+| [Atlas Cloud](https://www.atlascloud.ai/?utm_source=github&utm_medium=link&utm_campaign=public-api-lists) | AI API aggregation platform with OpenAI-compatible chat completions plus image and video generation | `apiKey` |  Yes  | Unknown |
 | [Cloudmersive](https://www.cloudmersive.com/image-recognition-and-processing-api) | Image captioning, face recognition, NSFW classification | `apiKey` |  Yes  |   Yes   |
 | [CrowdSorcerer](https://crowdsourcerer.rebaselabs.online/docs) | Web research, entity enrichment, document parsing, code execution, LLM generation, PII detection | `apiKey` |  Yes  |   Yes   |
 | [HOL Registry Broker](https://hol.org/docs/registry-broker/) | Search and verify AI agents & MCP servers | `apiKey` |  Yes  |   Yes   |
