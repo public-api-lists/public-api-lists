@@ -26,6 +26,13 @@
       </a>
       <br/>Scrape Google and other search engines with a simple API
     </td>
+    <td align="center">
+      <a href="https://talordata.com/?campaignid=0aiIIjYMnaNT0MRs&utm_source=publicapilists&utm_term=publicapilists">
+        <img src="assets/talordata.png" width="500" alt="TalorData"><br/>
+        <b>TalorData SERP API</b>
+      </a>
+      <br/>Get structured results from Google, Bing, Yandex, and others via one API - <a href="https://talordata.com/?campaignid=0aiIIjYMnaNT0MRs&utm_source=publicapilists&utm_term=publicapilists">Start a free trial</a>
+    </td>
     <!-- Add more Gold sponsors here -->
   </tr>
 </table>
