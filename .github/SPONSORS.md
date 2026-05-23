@@ -51,8 +51,19 @@ Thank you for considering sponsoring this project! Your support helps us maintai
 
 **[SerpApi](https://serpapi.com/?utm_source=public-api-lists)** — Scrape Google and other search engines with a simple API
 
+<a href="https://talordata.com/?campaignid=0aiIIjYMnaNT0MRs&utm_source=publicapilists&utm_term=publicapilists">
+  <img src="../assets/talordata.png" width="500" alt="TalorData">
+</a>
+
+**[TalorData SERP API](https://talordata.com/?campaignid=0aiIIjYMnaNT0MRs&utm_source=publicapilists&utm_term=publicapilists)** — Get structured results from Google, Bing, Yandex, and others via one API
+
 ### 🥈 Silver
-*Open slots available*
+
+<a href="https://www.atlascloud.ai/">
+  <img src="../assets/atlas-cloud.png" width="150" alt="Atlas Cloud">
+</a>
+
+**[Atlas Cloud](https://www.atlascloud.ai/)** — AI API aggregation platform with OpenAI-compatible chat completions, image and video generation
 
 ### 🥉 Bronze
 *Open slots available*
