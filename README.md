@@ -455,6 +455,7 @@
 |                 [Tradier](https://developer.tradier.com)                 | US equity/option market data (delayed, intraday, historical)  | `OAuth`  |  Yes  |   Yes   |
 |                 [ValueRay](https://www.valueray.com/api)                 | Quantitative and sentiment data for stocks and ETFs           |    No     | Yes  |   Yes   |
 |         [World Trading Data](https://www.worldtradingdata.com/)          | Market data provider                                          | `apiKey` |  Yes  | Unknown |
+|                  [Helium MCP](https://heliumtrades.com/mcp-page/)                  | ML-derived options pricing (fair value, prob_ITM, Greeks) + real-time market data |    No    |  Yes  |   Yes   |
 |                 [YNAB](https://api.youneedabudget.com/)                  | Budgeting & Planning                                          | `OAuth`  |  Yes  |   Yes   |
 
 **[⬆ Back to Index](#index)**
@@ -748,6 +749,7 @@
 |                     [OkSurf](https://ok.surf/)                      | Free Google News with OG Images                                                             |    No    |  Yes  |   Yes   |
 |        [The Guardian](http://open-platform.theguardian.com/)        | Access all the content the Guardian creates, categorised by tags and section                | `apiKey` |  Yes  | Unknown |
 |        [The Old Reader](https://github.com/theoldreader/api)        | RSS reader                                                                                  | `apiKey` |  Yes  | Unknown |
+|                  [Helium MCP](https://heliumtrades.com/mcp-page/)                  | News search across 3.2M+ articles with 31-dimension bias scoring (credibility, sensationalism, AI-authorship) |    No    |  Yes  |   Yes   |
 
 **[⬆ Back to Index](#index)**
 
