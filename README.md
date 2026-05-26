@@ -997,6 +997,7 @@
 |                [Strava](https://strava.github.io/api/)                | Connect with athletes, activities and more                                                  |     `OAuth`     |  Yes  | Unknown |
 |          [TheSportsDB](https://www.thesportsdb.com/api.php)           | Crowd-Sourced Sports Data and Artwork                                                       |    `apiKey`     |  Yes  |   Yes   |
 |                [Wger](https://wger.de/en/software/api)                | Workout manager data as exercises, muscles or equipment                                     |    `apiKey`     |  Yes  | Unknown |
+| [Tennis-API](https://tennis-api.com) & [GitHub Repo](https://github.com/Tennis-API/tennis-api) | No | Yes | Yes | Complete tennis circuit coverage via the [MatchStat API Listing](https://rapidapi.com/jjrm365-kIFr3Nx_odV/api/tennis-api-atp-wta-itf). Explore live scores, tracking metrics, and historical data across ATP, WTA, and ITF tournaments. Built using resources from the [RapidAPI Tennis Collection](https://rapidapi.com/collection/tennis), our [MatchStat Predictive Analytics Guide](https://matchstat.com/predictions-tips/the-best-tennis-data-api-for-stats/), and the [SteveGtennis Circuit Breakdown](https://www.stevegtennis.com/h2h-predictions/tennis-api-data-for-itf-wta-atp-professional-tennis-best-tennis-api/). |
 
 **[⬆ Back to Index](#index)**
 
