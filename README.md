@@ -6,7 +6,7 @@
 [![Issues](https://img.shields.io/github/issues/public-api-lists/public-api-lists?style=flat-square)](https://github.com/public-api-lists/public-api-lists/issues/new)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/public-api-lists/public-api-lists/pulls)
 
-> A hand-curated list of **730+ free public APIs** across **48 categories** — perfect for your next side project or production app. Let's build this community together.
+> A hand-curated list of **755+ free public APIs** across **48 categories** — perfect for your next side project or production app. Let's build this community together.
 
 [**Browse & Search on our Website**](https://public-api-lists.github.io/public-api-lists/) | [**JSON API**](https://public-api-lists.github.io/public-api-lists/api/all.json) | [**Contributing Guide**](.github/CONTRIBUTING.md) | [**Sponsor**](.github/SPONSORS.md)
 
@@ -77,6 +77,7 @@
 |                         [RandomDog](https://random.dog/woof.json)                          | Random pictures of dogs                    |    No    |  Yes  |   Yes   |
 |                          [RandomFox](https://randomfox.ca/floof/)                          | Random pictures of foxes                   |    No    |  Yes  |   No    |
 | [RescueGroups](https://userguide.rescuegroups.org/display/APIDG/API+Developers+Guide+Home) | Adoption                                   |    No    |  Yes  | Unknown |
+|                         [Shibe.Online](http://shibe.online/)                          | Random Shiba Inu, Akita, and Shiba images                      |    No    |  No   |   Yes   |
 
 **[⬆ Back to Index](#index)**
 
@@ -91,6 +92,7 @@
 |                [Mangadex](https://api.mangadex.org/docs/)                 | ad-free manga reader offering high-quality images |    No    |  Yes  | Unknown |
 |                    [Nekosia API](https://nekosia.cat)                     | Anime API with cute random images                 |    No    |  Yes  | Unknown |
 |          [What Anime](https://soruly.github.io/trace.moe-api/#/)          | Scan anime image to get specific detail           | `apiKey` |  Yes  | Unknown |
+|                [Waifu.pics](https://waifu.pics/docs)                 | Anime image API with SFW and NSFW categories       |    No    |  Yes  |   Yes   |
 
 **[⬆ Back to Index](#index)**
 
@@ -135,6 +137,7 @@
 | [Penguin Publishing](http://www.penguinrandomhouse.biz/webservices/rest/) | Books, book covers and related data                                                      |   No    |  Yes  | Unknown |
 |            [Rig Veda](https://aninditabasu.github.io/indica/)             | Gods and poets, their categories, and the verse meters, with the mandal and sukta number |   No    |  Yes  | Unknown |
 |         [Urantia Papers](https://urantia.dev)         | Full-text and semantic search across the Urantia Papers, with audio narration, entities and translations |   No    |  Yes  |   Yes   |
+|     [NYT Books API](https://developer.nytimes.com/docs/books-api/3)      | The New York Times best-sellers lists and book reviews                                            | `apiKey` |  Yes  | Unknown |
 
 **[⬆ Back to Index](#index)**
 
@@ -389,6 +392,7 @@
 | [Oxford](https://developer.oxforddictionaries.com/) | Dictionary Data                                                 | `apiKey` |  Yes  |   No    |
 |       [Wordnik](http://developer.wordnik.com)       | Dictionary Data                                                 | `apiKey` |  No   | Unknown |
 |         [Words](https://www.wordsapi.com/)          | Definitions and synonyms for more than 150,000 words            | `apiKey` |  Yes  | Unknown |
+|  [Free Dictionary API](https://dictionaryapi.dev/)  | Definitions, phonetics, audio, synonyms and more for English    |    No    |  Yes  |   Yes   |
 
 **[⬆ Back to Index](#index)**
 
@@ -435,6 +439,7 @@
 | [Current Affairs](https://rapidapi.com/malaithiru370/api/current-affairs-of-india) | Current International Affairs, quizzes and more                  | `apiKey` |  Yes  |   No   |
 |                    [NationNode](https://nationnode.vercel.app)                     | Used to fetch the specific details about a country               |    No    |  Yes  |  Yes   |
 |                 [Secrets-APi](https://secrets-api.appbrewery.com/)                 | Used For Learning purpose Learn all security types with this api |   All    |  Yes  | Unkown |
+|                   [Open Trivia DB](https://opentdb.com/api_config.php)                | Trivia questions with configurable categories, difficulty and type    |    No    |  Yes  |   Yes   |
 
 **[⬆ Back to Index](#index)**
 
@@ -449,6 +454,7 @@
 | [UK Carbon Intensity](https://carbon-intensity.github.io/api-definitions/#carbon-intensity-api-v1-0-0) | The Official Carbon Intensity API for Great Britain developed by National Grid    |    No    |  Yes  | Unknown |
 |                         [WeatherStack](https://weatherstack.com/documentation)                         | Humidity & Air & Pressure API                                                     | `apiKey` |  Yes  | Unknown |
 |                     [ZipCheckup](https://api.zipcheckup.com/v1)                                        | U.S. drinking water quality data by ZIP code from EPA and 20+ federal sources     |    No    |  Yes  |   Yes   |
+|              [Carbon Interface](https://www.carboninterface.com/)               | Carbon emissions estimates for flights, shipping, electricity and fuel             | `apiKey` |  Yes  | Unknown |
 
 **[⬆ Back to Index](#index)**
 
@@ -460,6 +466,7 @@
 |                        [SeatGeek](https://platform.seatgeek.com/)                         | Search events, venues and performers  | `apiKey` |  Yes  | Unknown |
 |                      [Songkick](https://www.songkick.com/developer)                       | Upcoming Concerts API                 | `apiKey` |  Yes  | Unknown |
 | [Ticketmaster](http://developer.ticketmaster.com/products-and-docs/apis/getting-started/) | Search events, attractions, or venues | `apiKey` |  Yes  | Unknown |
+|                       [Meetup](https://www.meetup.com/api/)                        | Find and join local groups and events                           | `OAuth`  |  Yes  | Unknown |
 
 **[⬆ Back to Index](#index)**
 
@@ -573,7 +580,10 @@
 |        [TheGamestracker](https://thegamestracker.com/server-info-api)         | Game servers informations in JSON format                                                                     |    `apiKey`     |  Yes  |   Yes   |
 |         [Traveller Map](https://travellermap.com/doc/api)                     | [Traveller TTRPG](https://www.mongoosepublishing.com/collections/traveller-rpgs) map world, sub sector and sector information in json, PDF and other formats|       No        |  Yes  |   No    |
 |              [Wargaming.net](https://developers.wargaming.net/)               | Wargaming.net info and stats                                                                                 |    `apiKey`     |  Yes  |   No    |
-|                      [xkcd](https://xkcd.com/json.html)                       | Retrieve xkcd comics as JSON                                                                                 |       No        |  Yes  |   No    |
+| [xkcd](https://xkcd.com/json.html)                       | Retrieve xkcd comics as JSON                                                                                 |       No        |  Yes  |   No    |
+|              [CheapShark](https://www.cheapshark.com/api)              | Video game deals from Steam, GOG, Humble Bundle and more                                                     |       No        |  Yes  |   Yes   |
+|                      [RAWG](https://rawg.io/apidocs)                       | Video game database with 500K+ games, platforms, genres, and screenshots                                    |    `apiKey`     |  Yes  | Unknown |
+|           [Free-to-Play](https://www.freetogame.com/api-doc)            | Database of free-to-play games with filters by platform, genre, and publisher                               |       No        |  Yes  | Unknown |
 
 **[⬆ Back to Index](#index)**
 
@@ -703,6 +713,8 @@
 |          [NPPES](https://npiregistry.cms.hhs.gov/registry/help-api)           | National Plan & Provider Enumeration System, info on healthcare providers registered in US   |    No    |  Yes  | Unknown |
 |               [Nutritionix](https://developer.nutritionix.com/)               | Worlds largest verified nutrition database                                                   | `apiKey` |  Yes  | Unknown |
 |                        [openFDA](https://open.fda.gov)                        | Public FDA data about drugs, devices and foods                                               |    No    |  Yes  | Unknown |
+|                      [disease.sh](https://disease.sh/)                       | Open disease data API for COVID-19, vaccines, and historical statistics                      |    No    |  Yes  |   Yes   |
+|             [MedlinePlus](https://medlineplus.gov/about/webservices/)             | Health information from the US National Library of Medicine                                   |    No    |  Yes  | Unknown |
 
 **[⬆ Back to Index](#index)**
 
@@ -745,6 +757,9 @@
 |                         [Replicate](https://replicate.com/docs/reference/http)    | Run and deploy machine learning models in the cloud     | `apiKey` |  Yes  |   Yes   |
 |                     [Unplugg](https://unplu.gg/test_api.html)                     | Forecasting API for timeseries data                     | `apiKey` |  Yes  | Unknown |
 |                             [Wit.ai](https://wit.ai/)                             | Natural Language Processing                             | `OAuth`  |  Yes  | Unknown |
+|                   [Hugging Face](https://huggingface.co/docs/api-inference/)                   | Access thousands of ML models for NLP, vision, and audio tasks                    | `apiKey` |  Yes  | Unknown |
+|                   [OpenAI](https://platform.openai.com/docs/api-reference)                    | Advanced NLP including text generation, summarization, and code generation         | `apiKey` |  Yes  | Unknown |
+|                   [Clarifai](https://www.clarifai.com/developer/)                    | Image and video recognition as well as AI model training and deployment            | `apiKey` |  Yes  | Unknown |
 
 **[⬆ Back to Index](#index)**
 
@@ -789,6 +804,9 @@
 |                     [OkSurf](https://ok.surf/)                      | Free Google News with OG Images                                                             |    No    |  Yes  |   Yes   |
 |        [The Guardian](http://open-platform.theguardian.com/)        | Access all the content the Guardian creates, categorised by tags and section                | `apiKey` |  Yes  | Unknown |
 |        [The Old Reader](https://github.com/theoldreader/api)        | RSS reader                                                                                  | `apiKey` |  Yes  | Unknown |
+|                      [GNews](https://gnews.io/)                      | Search Google News articles from around the world                                           | `apiKey` |  Yes  | Unknown |
+|                 [Mediastack](https://mediastack.com/)                 | Live news and blog headlines from 7,500+ sources worldwide                                  | `apiKey` |  Yes  | Unknown |
+|               [Spaceflight News](https://thespacedevs.com)               | Spaceflight news, articles, blog posts, and reports                                        |    No    |  Yes  |   Yes   |
 
 **[⬆ Back to Index](#index)**
 
@@ -814,6 +832,7 @@
 |                 [UPC database](https://upcdatabase.org/api)                 | More than 1.5 million barcode numbers from all around the world                                    | `apiKey` |  Yes  | Unknown |
 |         [Wikidata](https://www.wikidata.org/w/api.php?action=help)          | Collaboratively edited knowledge base operated by the Wikimedia Foundation                         | `OAuth`  |  Yes  | Unknown |
 |          [Wikipedia](https://www.mediawiki.org/wiki/API:Main_page)          | Mediawiki Encyclopedia                                                                             |    No    |  Yes  | Unknown |
+|                  [RestCountries](https://restcountries.com/)                   | Information about countries including population, languages, currencies, flags                     |    No    |  Yes  |   Yes   |
 
 **[⬆ Back to Index](#index)**
 
@@ -824,6 +843,7 @@
 | [Drupal.org](https://www.drupal.org/drupalorg/docs/api) | Drupal.org                     |    No    |  Yes  | Unknown |
 |   [Evil Insult Generator](https://evilinsult.com/api)   | Evil Insults                   |    No    |  Yes  |   Yes   |
 |  [The Odin Project](https://github.com/theodinproject)  | theodinproject.com             |    No    |  Yes  |   Yes   |
+|    [GitHub REST API](https://docs.github.com/en/rest)    | GitHub repositories, issues, pull requests, and more       | `OAuth`  |  Yes  | Unknown |
 
 **[⬆ Back to Index](#index)**
 
@@ -908,6 +928,7 @@
 |            [Unusual Units Converter](https://api.unusualunits.com/)            | Unit converter for standard and uncommon units                                                          |    No    |  Yes  |   Yes   |
 |             [USGS Water Services](https://waterservices.usgs.gov/)             | Water quality and level info for rivers and lakes                                                       |    No    |  Yes  | Unknown |
 |  [World Bank](https://datahelpdesk.worldbank.org/knowledgebase/topics/125589)  | World Data                                                                                              |    No    |  No   | Unknown |
+|             [Numbers API](http://numbersapi.com/)              | Facts about numbers, dates, years, and trivia                                                         |    No    |  Yes  | Unknown |
 
 **[⬆ Back to Index](#index)**
 
@@ -938,6 +959,7 @@
 | [Best Buy](https://bestbuyapis.github.io/api-documentation/#overview) | Products, Buying Options, Categories, Recommendations, Stores and Commerce | `apiKey` |  Yes  | Unknown |
 |                [eBay](https://go.developer.ebay.com/)                 | Sell and Buy on eBay                                                       | `OAuth`  |  Yes  | Unknown |
 |          [ShopSavvy](https://shopsavvy.com/data)                      | Product pricing and price history across thousands of retailers             | `apiKey` |  Yes  |   Yes   |
+|                   [Etsy](https://developers.etsy.com/)                   | Marketplace for handmade, vintage items and craft supplies                  | `OAuth`  |  Yes  | Unknown |
 
 **[⬆ Back to Index](#index)**
 
@@ -1039,6 +1061,7 @@
 |                                           [Spam Hunter](https://spam-hunter.ru)                                           | Free service to classify text for spam using ML                                                     | `apiKey` |  Yes  |   Yes   |
 | [Watson Natural Language Understanding](https://www.ibm.com/watson/developercloud/natural-language-understanding/api/v1/) | Natural language processing for advanced text analysis                                              | `OAuth`  |  Yes  | Unknown |
 |                                        [Yomi](https://github.com/ookii-tsuki/yomi)                                        | Japanese tokenizer and morphological analysis web API                                               |    No    |  Yes  |   Yes   |
+|                  [LanguageTool](https://languagetool.org/http-api/)                   | Grammar, style, and spell checking for 25+ languages                                        |    No    |  Yes  | Unknown |
 
 **[⬆ Back to Index](#index)**
 
@@ -1049,6 +1072,8 @@
 |     [Let's Count](https://letscountapi.com)      | Create, retrieve, update, increment, and decrement counters             |    No    |  Yes  | Unknown |
 |         [Postmon](http://postmon.com.br)         | An API to query Brazilian ZIP codes and orders easily, quickly and free |    No    |  No   | Unknown |
 |  [Sweden](https://developer.postnord.com/docs2)  | Provides information about parcels in transport                         | `apiKey` |  No   | Unknown |
+|     [PostalNinja](https://postalninja.com/api)      | International postal code and address validation for 200+ countries         | `apiKey` |  Yes  | Unknown |
+|      [AfterShip](https://www.aftership.com/docs/api)     | Shipment tracking for 900+ carriers worldwide                              | `apiKey` |  Yes  | Unknown |
 
 **[⬆ Back to Index](#index)**
 
@@ -1106,6 +1131,8 @@
 |              [T.LY](https://t.ly/docs/)               | URL Shortener With Short Links                 | `apiKey` |  Yes  | Unknown |
 |           [urlfy](https://urlfy.org/api-doc)          | A simple and fast URL shortening service       | No |  Yes  |   Yes   |
 |           [Urlix](https://app.urlix.me/api)           | Free URL Shortener with a powerful API         | `apiKey` |  Yes  |   Yes   |
+|           [Short.io](https://developers.short.io/)            | Custom branded short URLs with analytics       | `apiKey` |  Yes  | Unknown |
+|          [CleanURI](https://cleanuri.com/docs)           | Simple and fast URL shortener                  |    No    |  Yes  | Unknown |
 
 **[⬆ Back to Index](#index)**
 
@@ -1170,5 +1197,7 @@
 |                      [Stormglass](https://docs.stormglass.io/#/)                       | Weather forecasts & historical data from the world’s most trusted meteorological institutions in one single API                | `apiKey` |  Yes  | Unknown |
 |              [Weather Hacks](http://weather.livedoor.com/weather_hacks/)               | Weather, for Japan                                                                                                             |    No    |  No   |   No    |
 |                      [Weatherbit](https://www.weatherbit.io/api)                       | Weather                                                                                                                        | `apiKey` |  Yes  | Unknown |
+|                    [WeatherAPI](https://www.weatherapi.com/)                    | Real-time weather, forecasts, historical data, astronomy, and time zone information                                          | `apiKey` |  Yes  |   Yes   |
+|             [Visual Crossing](https://www.visualcrossing.com/weather-api)              | Weather forecasts, historical data, and climate normals for any location worldwide                                           | `apiKey` |  Yes  |   Yes   |
 
 **[⬆ Back to Index](#index)**
