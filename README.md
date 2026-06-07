@@ -970,6 +970,7 @@
 |            [Twitter](https://developer.twitter.com/en/docs)            | Read and write Twitter data                                                                       | `OAuth`  |  Yes  |   No    |
 |                  [TwitterApi](http://twitterapi.io/)                   | Mass Twitter data read API                                                                        | `apiKey` |  Yes  |   No    |
 |                     [vk](https://vk.com/dev/sites)                     | Read and write vk data                                                                            | `OAuth`  |  Yes  | Unknown |
+|                       [xfetch](https://xfetch.io)                      | Read API for X/Twitter search, profiles, tweets, and social graph                                 | `apiKey` |  Yes  |   Yes   |
 
 **[⬆ Back to Index](#index)**
 
