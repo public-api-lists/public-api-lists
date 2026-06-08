@@ -742,6 +742,7 @@
 |                            [Keen IO](https://keen.io/)                            | Data Analytics                                          | `apiKey` |  Yes  | Unknown |
 | [Kelly Intelligence](https://api.thedailylesson.com) | OpenAI-compatible AI tutor with 162K vocabulary words across 47 languages | `apiKey` |  Yes  |   Yes   |
 |                  [Kiprio AI Content Detector](https://kiprio.com/ai-detect-api)                   | Detect AI-generated text with per-sentence confidence scoring         | `apiKey` |  Yes  |   Yes   |
+| [TWZRD Agent Intel](https://intel.twzrd.xyz) | On-chain trust scoring and reputation for AI agent wallets on Solana. Free MCP tools included. | `x402` |  Yes  |   Yes   |
 |                         [Replicate](https://replicate.com/docs/reference/http)    | Run and deploy machine learning models in the cloud     | `apiKey` |  Yes  |   Yes   |
 |                     [Unplugg](https://unplu.gg/test_api.html)                     | Forecasting API for timeseries data                     | `apiKey` |  Yes  | Unknown |
 |                             [Wit.ai](https://wit.ai/)                             | Natural Language Processing                             | `OAuth`  |  Yes  | Unknown |
