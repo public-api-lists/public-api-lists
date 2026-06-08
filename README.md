@@ -738,6 +738,7 @@
 | [AI Engine](https://ai-engine.net/apis/all-in-one) | 36+ AI endpoints: OCR, face detection, background removal, object detection, NSFW moderation, face swap, image generation | `apiKey` | Yes | Yes |
 | [Cloudmersive](https://www.cloudmersive.com/image-recognition-and-processing-api) | Image captioning, face recognition, NSFW classification | `apiKey` |  Yes  |   Yes   |
 | [CrowdSorcerer](https://crowdsourcerer.rebaselabs.online/docs) | Web research, entity enrichment, document parsing, code execution, LLM generation, PII detection | `apiKey` |  Yes  |   Yes   |
+| [cv.cm](https://cv.cm/api) | AI video and image generation (Seedance, gpt-image-2, Seedream) with a free credit tier | `apiKey` | Yes | Unknown |
 | [HOL Registry Broker](https://hol.org/docs/registry-broker/) | Search and verify AI agents & MCP servers | `apiKey` |  Yes  |   Yes   |
 |                            [Keen IO](https://keen.io/)                            | Data Analytics                                          | `apiKey` |  Yes  | Unknown |
 | [Kelly Intelligence](https://api.thedailylesson.com) | OpenAI-compatible AI tutor with 162K vocabulary words across 47 languages | `apiKey` |  Yes  |   Yes   |
