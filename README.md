@@ -43,11 +43,11 @@
 
 <!-- Silver sponsors get a logo + one-line description -->
 
-<a href="https://www.atlascloud.ai/">
+<a href="https://www.atlascloud.ai/?utm_source=github&utm_medium=link&utm_campaign=public-api-lists">
   <img src="assets/atlas-cloud.png" width="150" alt="Atlas Cloud">
 </a>
 
-**[Atlas Cloud](https://www.atlascloud.ai/)** — AI API aggregation platform with OpenAI-compatible chat completions, image and video generation
+**[Atlas Cloud](https://www.atlascloud.ai/?utm_source=github&utm_medium=link&utm_campaign=public-api-lists)** — AI API aggregation platform with OpenAI-compatible chat completions, image and video generation
 
 ### 🥉 Bronze Sponsors
 
