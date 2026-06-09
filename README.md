@@ -690,6 +690,7 @@
 |             [Represent by Open North](https://represent.opennorth.ca/)              | Find Canadian Government Representatives                                                  |    No    |  Yes  | Unknown |
 |               [State, New York State Opendata] (https://data.ny.gov/)               | New York State Open Data                                                                  | `OAuth`  |  Yes  | Unknown |
 |         [US Federal Contracts & Grants](https://government-data-api.onrender.com/docs)          | US federal contracts, grants, and agency spending data from USASpending.gov               |    No    |  Yes  |   Yes   |
+|             [US Federal Contracts & Grants API](https://government-data-api.onrender.com/docs)             | Access millions of US federal contracts, grants, and agency spending data — updated daily |    No    |  Yes  |   Yes   |
 |                   [USAspending.gov](https://api.usaspending.gov/)                   | US federal spending data                                                                  |    No    |  Yes  | Unknown |
 
 **[⬆ Back to Index](#index)**
