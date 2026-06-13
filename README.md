@@ -997,6 +997,7 @@
 |                [Strava](https://strava.github.io/api/)                | Connect with athletes, activities and more                                                  |     `OAuth`     |  Yes  | Unknown |
 |          [TheSportsDB](https://www.thesportsdb.com/api.php)           | Crowd-Sourced Sports Data and Artwork                                                       |    `apiKey`     |  Yes  |   Yes   |
 |                [Wger](https://wger.de/en/software/api)                | Workout manager data as exercises, muscles or equipment                                     |    `apiKey`     |  Yes  | Unknown |
+|      [World Cup 2026 Tour](https://ay-worldcup2026.zeabur.app/developers)       | World Cup 2026 fixtures, local kickoff times, match links, and dataset snapshots             |       No        |  Yes  |   Yes   |
 
 **[⬆ Back to Index](#index)**
 
