@@ -66,6 +66,8 @@
 |                      [Amazing Endemic Species](https://aes.shenlu.me)                      | Amazing endemic species all over the world |    No    |  Yes  |   Yes   |
 |                  [Cat Facts](https://alexwohlbruck.github.io/cat-facts/)                   | Daily cat facts                            |    No    |  Yes  |   No    |
 |                               [Cataas](https://cataas.com/)                                | Cat as a service (cats pictures and gifs)  |    No    |  Yes  | Unknown |
+|              [CatFactsAPI](https://github.com/FelineFantasy/CatFactsAPI)                   | 350+ cat facts and 100+ breeds             |    No    |  Yes  |   Yes   |
+|               [CatMemesAPI](https://github.com/FelineFantasy/CatMemesAPI)                  | 1000+ cat memes                            |    No    |  Yes  |   Yes   |
 |                            [Cats](https://docs.thecatapi.com/)                             | Pictures of cats from Tumblr               | `apiKey` |  Yes  | Unknown |
 |                               [Dog API](https://dogapi.dog)                                | Fun facts on dog breeds and groups         |    No    |  Yes  | Unknown |
 |                              [Dogs](https://dog.ceo/dog-api/)                              | Based on the Stanford Dogs Dataset         |    No    |  Yes  |   Yes   |
