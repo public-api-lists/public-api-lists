@@ -689,6 +689,7 @@
 |                     [ProcureData](https://procuredata.ca)                           | Canadian federal procurement contracts, tenders and awards                                 | `apiKey` |  Yes  | Unknown |
 |             [Represent by Open North](https://represent.opennorth.ca/)              | Find Canadian Government Representatives                                                  |    No    |  Yes  | Unknown |
 |               [State, New York State Opendata] (https://data.ny.gov/)               | New York State Open Data                                                                  | `OAuth`  |  Yes  | Unknown |
+|          [Texas Bond Verify](https://verify.quantumsurety.bond)           | Free public API for Texas contractor and notary surety bond compliance; covers 816K+ TDLR-licensed contractors and 66K+ notaries (Quantum Surety Bond Watch) |    No    |  Yes  |   Yes   |
 |                   [USAspending.gov](https://api.usaspending.gov/)                   | US federal spending data                                                                  |    No    |  Yes  | Unknown |
 
 **[⬆ Back to Index](#index)**
