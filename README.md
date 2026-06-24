@@ -236,6 +236,7 @@
 |               [Gemini](https://docs.gemini.com/rest-api/)                | Cryptocurrencies Exchange                                                                                                          |    No    |  Yes  | Unknown |
 |               [MEXC Global](https://www.mexc.com/mexc-api)               | Crypto asset exchange for trading Marketplace                                                                                      | `apiKey` |  Yes  | Unknown |
 |                  [NiceHash](https://docs.nicehash.com/)                  | Largest Crypto Mining Marketplace                                                                                                  | `apiKey` |  Yes  | Unknown |
+| [OpenChainBench](https://openchainbench.com/api/openapi.json) | Open dataset of crypto infrastructure benchmarks: RPC latency, oracles, bridges, prediction markets | No | Yes | Yes |
 | [Pharos API](https://pharos.watch/about/api/) | Stablecoin risk, peg, liquidity, safety score, blacklist, mint/burn, yield, and chain-health data | `apiKey` | Yes | Unknown |
 |              [Poloniex](https://api-docs.poloniex.com/spot)              | US based digital asset exchange                                                                                                    | `apiKey` |  Yes  | Unknown |
 |               [Sharpe](https://www.sharpe.ai/docs/free-api)              | Crypto derivatives, funding, arbitrage, narratives, listings, and news data                                                        |    No    |  Yes  | Unknown |
