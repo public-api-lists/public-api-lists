@@ -445,6 +445,7 @@
 |                                 [AirVisual](https://airvisual.com/api)                                 | Air quality and weather data                                                      | `apiKey` |  Yes  | Unknown |
 |                                     [AQICN](http://aqicn.org/api)                                      | Real-time air quality index                                                       | `apiKey` |  No   | Unknown |
 |                                   [OpenAQ](https://docs.openaq.org/)                                   | Open air quality data                                                             | `apiKey` |  Yes  | Unknown |
+| [Plug-In Solar Legality (US)](https://pluginsolarhub.org/developers/) | 50-state US plug-in/balcony solar legal status, electricity rates & live legislation | No | Yes | Yes |
 |                      [PVWatts](https://developer.nrel.gov/docs/solar/pvwatts/v6/)                      | Energy production photovoltaic (PV) energy systems                                | `apiKey` |  Yes  | Unknown |
 | [UK Carbon Intensity](https://carbon-intensity.github.io/api-definitions/#carbon-intensity-api-v1-0-0) | The Official Carbon Intensity API for Great Britain developed by National Grid    |    No    |  Yes  | Unknown |
 |                         [WeatherStack](https://weatherstack.com/documentation)                         | Humidity & Air & Pressure API                                                     | `apiKey` |  Yes  | Unknown |
