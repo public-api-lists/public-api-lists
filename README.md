@@ -947,13 +947,16 @@
 | :--------------------------------------------------------------------: | ------------------------------------------------------------------------------------------------- | :------: | :---: | :-----: |
 |              [Buffer](https://buffer.com/developers/api)               | Access to pending and sent updates in Buffer                                                      | `OAuth`  |  Yes  | Unknown |
 |           [BulkPublish](https://www.bulkpublish.com)            | Publish to 11 social media platforms with scheduling, analytics, and AI agent support              | `apiKey` |  Yes  | Unknown |
+| [DataLikers](https://datalikers.com)                                   | Instagram and TikTok datasets, cached API, and MCP server for data-heavy workflows                | `apiKey` | Yes   | Unknown |
 |        [Discord](https://discordapp.com/developers/docs/intro)         | Make bots for Discord, integrate Discord onto an external platform                                | `OAuth`  |  Yes  | Unknown |
 |              [Disqus](https://disqus.com/api/docs/auth/)               | Communicate with Disqus data                                                                      | `OAuth`  |  Yes  | Unknown |
 |              [Facebook](https://developers.facebook.com/)              | Facebook Login, Share on FB, Social Plugins, Analytics and more                                   | `OAuth`  |  Yes  | Unknown |
 |            [Foursquare](https://developer.foursquare.com/)             | Interact with Foursquare users and places (geolocation-based checkins, photos, tips, events, etc) | `OAuth`  |  Yes  | Unknown |
 |      [Full Contact](https://www.fullcontact.com/developer/docs/)       | Get Social Media profiles and contact Information                                                 | `OAuth`  |  Yes  | Unknown |
 |            [HackerNews](https://github.com/HackerNews/API)             | Social news for CS and entrepreneurship                                                           |    No    |  Yes  | Unknown |
+| [HikerAPI](https://hikerapi.com)                                       | Real-time Instagram data: profiles, posts, stories, reels, followers, and hashtags                | `apiKey` | Yes   | Unknown |
 |           [Instagram](https://www.instagram.com/developer/)            | Instagram Login, Share on Instagram, Social Plugins and more                                      | `OAuth`  |  Yes  | Unknown |
+| [LamaTok](https://lamatok.com)                                         | Real-time TikTok data: videos, profiles, comments, hashtags, and music                            | `apiKey` | Yes   | Unknown |
 |                 [MySocialApp](https://mysocialapp.io)                  | Seamless Social Networking features, API, SDK to any app                                          | `apiKey` |  Yes  | Unknown |
 | [Open Collective](https://docs.opencollective.com/help/developers/api) | Get Open Collective data                                                                          |    No    |  Yes  | Unknown |
 |             [Pinterest](https://developers.pinterest.com/)             | The world's catalog of ideas                                                                      | `OAuth`  |  Yes  | Unknown |
