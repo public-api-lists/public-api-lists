@@ -700,7 +700,7 @@
 |                    [Diabetes](http://predictbgl.com/api/)                     | Logging and retrieving diabetes information                                                  |    No    |  No   | Unknown |
 |           [Healthcare.gov](https://www.healthcare.gov/developers/)            | Educational content about the US Health Insurance Marketplace                                |    No    |  Yes  | Unknown |
 | [ICD-10 Codes](https://clinicaltables.nlm.nih.gov/apidoc/icd10cm/v3/doc.html) | List of all healthcare diagnosis codes                                                       |    No    |  Yes  | Unknown |
-|           [Longevity World Cup](https://longevityworldcup.com/api/data/athletes)            | Public biological age competition data with biomarkers and rankings                                |    No    |  Yes  |   Yes   |
+|                 [Longevity World Cup](https://longevityworldcup.com/swagger)                 | Public biological age competition data with biomarkers and rankings                                |    No    |  Yes  |   Yes   |
 |          [NPPES](https://npiregistry.cms.hhs.gov/registry/help-api)           | National Plan & Provider Enumeration System, info on healthcare providers registered in US   |    No    |  Yes  | Unknown |
 |               [Nutritionix](https://developer.nutritionix.com/)               | Worlds largest verified nutrition database                                                   | `apiKey` |  Yes  | Unknown |
 |                        [openFDA](https://open.fda.gov)                        | Public FDA data about drugs, devices and foods                                               |    No    |  Yes  | Unknown |
