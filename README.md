@@ -937,6 +937,7 @@
 | [Amazon Scraper API](https://docs.amazonscraperapi.com) | Amazon product, search and batch ASIN data across 20 marketplaces | `apiKey` | Yes | No |
 | [Best Buy](https://bestbuyapis.github.io/api-documentation/#overview) | Products, Buying Options, Categories, Recommendations, Stores and Commerce | `apiKey` |  Yes  | Unknown |
 |                [eBay](https://go.developer.ebay.com/)                 | Sell and Buy on eBay                                                       | `OAuth`  |  Yes  | Unknown |
+| [FlyByAPIs Amazon](https://flybyapis.com/apis/amazon-scraper/) | Real-time Amazon product data: prices, buy box, stock, reviews & search across 22 marketplaces | `apiKey` | Yes | Unknown |
 |          [ShopSavvy](https://shopsavvy.com/data)                      | Product pricing and price history across thousands of retailers             | `apiKey` |  Yes  |   Yes   |
 
 **[⬆ Back to Index](#index)**
