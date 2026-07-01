@@ -560,7 +560,7 @@
 |                         [Pokéapi](https://pokeapi.co)                         | Pokémon Information                                                                                          |       No        |  Yes  | Unknown |
 |                     [Pokémon TCG](https://pokemontcg.io)                      | Pokémon TCG Information                                                                                      |       No        |  Yes  | Unknown |
 | [Pokémon-3D-api ](https://documenter.getpostman.com/view/29725199/2sAYX8KMU8) | 3D Pokémon models for ThreeJS                                                                                |       No        |  Yes  |   Yes   |
-| [QuizBase](https://quizbase.runriva.com) | Trivia questions API: 1.4M+ items in EN + PL, OpenAPI 3.1, TypeScript SDK, MCP server | `apiKey` | Yes | Yes |
+| [QuizBase](https://quizbase.runriva.com) | Trivia questions API: 1.1M+ items, full EN + PL parity, OpenAPI 3.1, TypeScript SDK, MCP server | `apiKey` | Yes | Yes |
 |             [Random Facts](https://fungenerators.com/api/facts/)              | Random Facts from hundreds of categories                                                                     |    `apiKey`     |  Yes  |   Yes   |
 |                     [REG-Vault](https://regvault.org/docs/api)                     | Retro-gaming metadata catalog — 91k games across 99 systems (box art, manuals, screenshots, gameplay previews). MCP endpoint at `api.regvault.org/mcp` |       No        |  Yes  |   Yes   |
 |                 [Rick and Morty](https://rickandmortyapi.com)                 | All the Rick and Morty information, including images                                                         |       No        |  Yes  |   Yes   |
