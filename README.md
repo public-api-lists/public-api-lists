@@ -268,8 +268,8 @@
 | :-------------------------------------------------------------------------: | --------------------------------------------------------------------- | :------: | :---: | :-----: |
 |       [Cloudmersive Validate](https://cloudmersive.com/validate-api)        | Validate email addresses, phone numbers, VAT numbers and domain names | `apiKey` |  Yes  |   Yes   |
 |       [DataScreenIQ](https://datascreeniq.com)                              | Screen data for schema drift, type mismatches, and null rate anomalies| `apiKey`  |  Yes  |  Yes    |
-| [GoCreative KYB Business Verification](https://api.gocreativeai.com/p/compliance-screening) | Know-Your-Business checks and company sanctions and ownership screening | `apiKey` | Yes | Unknown |
-| [GoCreative OFAC Sanctions Screening](https://api.gocreativeai.com/p/compliance-screening) | Screen names against OFAC UN and EU sanctions and PEP lists with a free demo tier | `apiKey` | Yes | Unknown |
+| [GoCreative KYB Business Verification](https://api.gocreativeai.com/api/kyb-company-verification-api) | Know-Your-Business checks and company sanctions and ownership screening | `apiKey` | Yes | Unknown |
+| [GoCreative OFAC Sanctions Screening](https://api.gocreativeai.com/api/ofac-sanctions-screening-api) | Screen names against OFAC UN and EU sanctions and PEP lists with a free demo tier | `apiKey` | Yes | Unknown |
 | [Kiprio Email Validation](https://kiprio.com/email-validation-api) | Email address validation with MX, disposable, role and typo detection | `apiKey` |  Yes  |   Yes   |
 |                 [languagelayer](https://languagelayer.com)                  | Language detection                                                    |    No    |  Yes  | Unknown |
 |                         [Lob.com](https://lob.com/)                         | US Address Verification                                               | `apiKey` |  Yes  | Unknown |
