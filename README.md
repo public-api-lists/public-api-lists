@@ -268,6 +268,8 @@
 | :-------------------------------------------------------------------------: | --------------------------------------------------------------------- | :------: | :---: | :-----: |
 |       [Cloudmersive Validate](https://cloudmersive.com/validate-api)        | Validate email addresses, phone numbers, VAT numbers and domain names | `apiKey` |  Yes  |   Yes   |
 |       [DataScreenIQ](https://datascreeniq.com)                              | Screen data for schema drift, type mismatches, and null rate anomalies| `apiKey`  |  Yes  |  Yes    |
+| [GoCreative KYB Business Verification](https://api.gocreativeai.com/api/kyb-company-verification-api) | Know-Your-Business checks and company sanctions and ownership screening | `apiKey` | Yes | Unknown |
+| [GoCreative OFAC Sanctions Screening](https://api.gocreativeai.com/api/ofac-sanctions-screening-api) | Screen names against OFAC UN and EU sanctions and PEP lists with a free demo tier | `apiKey` | Yes | Unknown |
 | [Kiprio Email Validation](https://kiprio.com/email-validation-api) | Email address validation with MX, disposable, role and typo detection | `apiKey` |  Yes  |   Yes   |
 |                 [languagelayer](https://languagelayer.com)                  | Language detection                                                    |    No    |  Yes  | Unknown |
 |                         [Lob.com](https://lob.com/)                         | US Address Verification                                               | `apiKey` |  Yes  | Unknown |
@@ -319,6 +321,7 @@
 |                             [GitHub](https://developer.github.com/v3/)                              | Make use of GitHub repositories, code and user info programmatically                                |     `OAuth`     |  Yes  |   Yes   |
 |                              [Gitlab](https://docs.gitlab.com/ee/api/)                              | Automate GitLab interaction programmatically                                                        |     `OAuth`     |  Yes  | Unknown |
 |                             [Gitter](https://github.com/gitterHQ/docs)                              | Chat for GitHub                                                                                     |     `OAuth`     |  Yes  | Unknown |
+| [GoCreative People Enrichment](https://api.gocreativeai.com/no-api-key) | Enrich a person or company from a social handle or domain | `apiKey` | Yes | Unknown |
 |                                   [GoQR](http://goqr.me/api/)                                    | Generate and decode / read QR code graphics                                                         |       No        |  Yes  | Unknown |
 |                      [Hermesforge Screenshot API](https://hermesforge.dev/api)                      | Screenshot any URL via REST API with full-page, dark mode, retina, and custom wait selector support |    `apiKey`     |  Yes  |   Yes   |
 |                               [HTTP2.Pro](https://http2.pro/doc/api)                                | Test endpoints for client and server HTTP/2 protocol support                                        |       No        |  Yes  | Unknown |
