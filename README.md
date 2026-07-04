@@ -703,6 +703,7 @@
 |          [NPPES](https://npiregistry.cms.hhs.gov/registry/help-api)           | National Plan & Provider Enumeration System, info on healthcare providers registered in US   |    No    |  Yes  | Unknown |
 |               [Nutritionix](https://developer.nutritionix.com/)               | Worlds largest verified nutrition database                                                   | `apiKey` |  Yes  | Unknown |
 |                        [openFDA](https://open.fda.gov)                        | Public FDA data about drugs, devices and foods                                               |    No    |  Yes  | Unknown |
+| [Verified Supplement Data](https://verifiedsupplementdata.com/api/v1/recommend/index.json) | Supplement dosing, form comparisons and drug-nutrient interactions with PubMed citations | No | Yes | Yes |
 
 **[⬆ Back to Index](#index)**
 
