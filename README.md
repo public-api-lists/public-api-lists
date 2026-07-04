@@ -142,6 +142,7 @@
 
 |                                    API                                     | Description                                                               |   Auth   | HTTPS |  CORS   |
 | :------------------------------------------------------------------------: | ------------------------------------------------------------------------- | :------: | :---: | :-----: |
+| [biz collect](https://bizcollect.dev) | Business contact data from a location and keywords, including emails | `apiKey` | Yes | Unknown |
 |             [Charity Search](http://charityapi.orghunter.com/)             | Non-profit charity data                                                   | `apiKey` |  No   | Unknown |
 |            [Clearbit Logo](https://clearbit.com/docs#logo-api)             | Search for company logos and embed them in your projects                  | `apiKey` |  Yes  | Unknown |
 |                    [Clientsbee](https://clientsbee.com)                    | Free leads for bussiness and technographics data                          | `apikey` |  Yes  |   No    |
