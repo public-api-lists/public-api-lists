@@ -936,6 +936,7 @@
 | [Blooms](https://blooms-production.up.railway.app/api)  | Distribute keys once for serverless applications | No |  Yes  | No |
 | [CVE.report](https://cve.report/api) | CVE records with NVD KEV and EPSS enrichment | No | Yes | Yes |
 |                              [FishFish](https://fishfish.gg/)                               | A volunteer cybersecurity project focused on providing resources and services that improve safety across Discord                                                     |    No    |  Yes  | Unknown |
+| [HackMyIP](https://hackmyip.com/api) | IP geolocation, VPN and proxy detection, email breach checks, DNS, WHOIS, and reverse DNS lookups | No | Yes | Yes |
 |                     [HaveIBeenPwned](https://haveibeenpwned.com/API/v3)                     | Passwords which have previously been exposed in data breaches                                                                                                        | `apiKey` |  Yes  | Unknown |
 | [Kiprio SSL Inspector](https://kiprio.com/ssl-api) | TLS certificate analysis with protocol matrix, cipher suite and HSTS grading | `apiKey` |  Yes  |   Yes   |
 | [National Vulnerability Database](https://nvd.nist.gov/vuln/Data-Feeds/JSON-feed-changelog) | U.S. National Vulnerability Database                                                                                                                                 |    No    |  Yes  | Unknown |
