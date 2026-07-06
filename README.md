@@ -474,6 +474,7 @@
 
 |                                   API                                    | Description                                                   |   Auth   | HTTPS |  CORS   |
 | :----------------------------------------------------------------------: | ------------------------------------------------------------- | :------: | :---: | :-----: |
+| [Agent Toolbelt](https://www.agenttoolbelt.live) | AI-generated stock analysis (investment thesis, valuation, insider signal, earnings) from live fundamentals, as structured JSON | `apiKey` | Yes | Unknown |
 |              [Alpha Vantage](https://www.alphavantage.co/)               | Realtime and historical stock data                            | `apiKey` |  Yes  | Unknown |
 |        [Barchart OnDemand](https://www.barchartondemand.com/free)        | Stock, Futures and Forex Market Data                          | `apiKey` |  Yes  | Unknown |
 |           [CommodityPriceAPI](https://commoditypriceapi.com/)            | Real-time & historical commodity prices (metals, energy, etc) | `apiKey` |  Yes  | Unknown |
