@@ -409,6 +409,7 @@
 | :-------------------------------------------------------------------------------: | -------------------------------------------------------------- | :------: | :---: | :-----: |
 | [Cloudmersive Document and Data Conversion](https://cloudmersive.com/convert-api) | HTML/URL to PDF/PNG, Office documents to PDF, image conversion | `apiKey` |  Yes  |   Yes   |
 |     [CustomJS](https://www.customjs.space/integration/pdf-api/html-to-pdf)        | HTML to PDF or PDF to PNG/Text & merging/extraction APIs       | `apiKey` |  Yes  | Unknown |
+|                          [Doqlo](https://doqlo.com)                               | Bulk fill and mail merge PDF forms from CSV                    | `apiKey` |  Yes  | Unknown |
 |                       [DynamicDocs](https://advicement.io)                        | Generate dynamic PDFs with JSON to PDF API based on LaTeX      | `apiKey` |  Yes  | Unknown |
 |                          [File.io](https://www.file.io)                           | File Sharing                                                   |    No    |  Yes  | Unknown |
 | [IDPhotoSnap Passport Photo Specs](https://idphotosnap.com/api/specs)             | Passport, visa, and ID photo specifications for 100+ countries with government source citations |    No    |  Yes  |   Yes   |
