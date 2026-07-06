@@ -280,6 +280,7 @@
 |                   [NumValidate](https://numvalidate.com)                    | Open Source phone number validation                                   |    No    |  Yes  | Unknown |
 |                     [numverify](https://numverify.com)                      | Phone number validation                                               |    No    |  Yes  | Unknown |
 |                   [PurgoMalum](http://www.purgomalum.com)                   | Content validator against profanity & obscenity                       |    No    |  No   | Unknown |
+| [SpryTools Email Validation](https://sprytools.com/apis/email-validation) | Syntax + MX + disposable/role-based email validation | `apiKey` | Yes | Unknown |
 | [TaxID](https://www.taxid.dev/docs) | EU VAT number validation with company name and address lookup across 27 member states | `apiKey` | Yes | Unknown |
 |       [Trestle](https://trestleiq.com/phone-validation-api/)                | Validates the phone number and provides phone metadata                | `apiKey` |  Yes  |   Yes   |
 | [US Autocomplete](https://smartystreets.com/docs/cloud/us-autocomplete-api) | Enter address data quickly with real-time address suggestions         | `apiKey` |  Yes  |   Yes   |
@@ -374,6 +375,8 @@
 |                                   [SerpApi](https://serpapi.com/)                                   | Scrape Google and other search engines with a simple API.                                                              |    `apiKey`     |  Yes  |   No    |
 |                          [Shadify](https://github.com/cheatsnake/shadify)                           | Service for generating data and executing logic to create various games and puzzles                 |       No        |  Yes  |   Yes   |
 |                                 [SHOUTCLOUD](http://shoutcloud.io/)                                 | ALL-CAPS AS A SERVICE                                                                               |       No        |  No   | Unknown |
+| [SpryTools Screenshot](https://sprytools.com/apis/screenshot) | Capture full-page or viewport website screenshots (PNG/JPEG/WebP) | `apiKey` | Yes | Unknown |
+| [SpryTools Web Scraping](https://sprytools.com/apis/scraping) | Extract HTML/text/CSS-selector data, Cloudflare-bypass | `apiKey` | Yes | Unknown |
 |                              [SQLable](https://sqlable.com/validator/)                              | Validate SQL query                                                                                  |       No        |  Yes  |   Yes   |
 |                           [StackExchange](https://api.stackexchange.com/)                           | Q&A forum for developers                                                                            |     `OAuth`     |  Yes  | Unknown |
 |                              [Suprsonic](https://suprsonic.ai)                               | Unified agent API: search, scrape, enrich, image gen, TTS, STT, messaging. One key, 20+ capabilities |    `apiKey`     |  Yes  |   Yes   |
