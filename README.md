@@ -512,6 +512,7 @@
 |             [Open Food Facts](https://world.openfoodfacts.org/data)              | Food Products Database                            |    No    |  Yes  | Unknown |
 |                   [PunkAPI](https://github.com/alxiw/punkapi)                    | BrewDog's DIY Dog beer catalogue as an API        |    No    |  Yes  |   Yes   |
 |                     [RecipeAPI](https://recipeapi.io)                             | Recipes, ingredients, nutrition and instructions  | `apiKey` |  Yes  |   Yes   |
+| [Seed Oil Tracker](https://seedoiltracker.com/ai-tool) | Seed-oil/PUFA grades and cooking oil data for 512 US restaurant chains | No | Yes | Yes |
 |                 [Spoonacular](https://spoonacular.com/food-api)                  | Food and Recipes                                  | `apiKey` |  Yes  | Unknown |
 |                [TacoFancy](https://github.com/evz/tacofancy-api)                 | Community-driven taco database                    |    No    |  No   | Unknown |
 | [The Report of the Week](https://github.com/andyklimczak/TheReportOfTheWeek-API) | Food & Drink Reviews                              |    No    |  Yes  | Unknown |
