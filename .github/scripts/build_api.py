@@ -292,10 +292,10 @@ footer{{text-align:center;padding:32px 0;color:var(--t3);font-size:13px;border-t
         <div class="sp-name">Scrape Google and other search engines with a simple API</div>
       </div>
       <div class="sp-item">
-        <a href="https://talordata.com/?campaignid=0aiIIjYMnaNT0MRs&utm_source=publicapilists&utm_term=publicapilists">
-          <img src="https://raw.githubusercontent.com/public-api-lists/public-api-lists/master/assets/talordata.png" width="220" alt="TalorData">
+        <a href="https://www.rapidproxy.io/?ref=public">
+          <img src="https://raw.githubusercontent.com/public-api-lists/public-api-lists/master/assets/rapidproxy.png" width="220" alt="RapidProxy">
         </a>
-        <div class="sp-name">Get structured results from Google, Bing, Yandex, and others via one API</div>
+        <div class="sp-name">Power your data collection and automation with 90M+ reliable residential proxies built for scale</div>
       </div>
     </div>
     <p style="margin-top:20px">🥈 Silver Sponsors</p>
