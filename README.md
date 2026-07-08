@@ -29,11 +29,11 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://talordata.com/?campaignid=0aiIIjYMnaNT0MRs&utm_source=publicapilists&utm_term=publicapilists">
-        <img src="assets/talordata.png" width="800" alt="TalorData"><br/>
-        <b>TalorData SERP API</b>
+      <a href="https://www.rapidproxy.io/?ref=public">
+        <img src="assets/rapidproxy.png" width="800" alt="RapidProxy"><br/>
+        <b>RapidProxy</b>
       </a>
-      <br/>Get structured results from Google, Bing, Yandex, and others via one API - <a href="https://talordata.com/?campaignid=0aiIIjYMnaNT0MRs&utm_source=publicapilists&utm_term=publicapilists">Start a free trial</a>
+      <br/>Power your data collection and automation with 90M+ reliable residential proxies built for scale
     </td>
     <!-- Add more Gold sponsors here -->
   </tr>
