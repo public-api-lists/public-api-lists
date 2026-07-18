@@ -477,6 +477,7 @@
 | :----------------------------------------------------------------------: | ------------------------------------------------------------- | :------: | :---: | :-----: |
 | [Agent Toolbelt](https://www.agenttoolbelt.live) | AI-generated stock analysis (investment thesis, valuation, insider signal, earnings) from live fundamentals, as structured JSON | `apiKey` | Yes | Unknown |
 |              [Alpha Vantage](https://www.alphavantage.co/)               | Realtime and historical stock data                            | `apiKey` |  Yes  | Unknown |
+| [AlphaSMO](https://alphasmo.com/developer/docs) | SEC 13F institutional holdings, Form 4 insider trading, and smart money convergence signals | No | Yes | Yes |
 |        [Barchart OnDemand](https://www.barchartondemand.com/free)        | Stock, Futures and Forex Market Data                          | `apiKey` |  Yes  | Unknown |
 |           [CommodityPriceAPI](https://commoditypriceapi.com/)            | Real-time & historical commodity prices (metals, energy, etc) | `apiKey` |  Yes  | Unknown |
 | [Congressional Stock Brain](https://congressionalstockbrain.com) | AI-powered tool scoring U.S. STOCK Act lawmaker trade disclosures for retail investors | No | Yes | Yes |
