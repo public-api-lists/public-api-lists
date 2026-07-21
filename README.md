@@ -674,6 +674,7 @@
 |           [Colorado Information Marketplace](https://data.colorado.gov/)            | Colorado State Government Open Data                                                       |    No    |  Yes  | Unknown |
 |                       [Crime Brasil](https://crimebrasil.com.br)                    | Brazilian public-safety data — 3M geocoded crime incidents, PRF highway accidents, DATASUS violence (CC BY 4.0) |    No    |  Yes  | Unknown |
 |                          [Data.gov](https://api.data.gov/)                          | US Government Data                                                                        | `apiKey` |  Yes  | Unknown |
+|        [Disclosed Capitol](https://www.disclosedcapitol.com/data-files/api)         | US congressional & executive-branch stock trade disclosures (STOCK Act + OGE)             | `apiKey` |  Yes  |   No    |
 |      [District of Columbia Open Data](http://opendata.dc.gov/pages/using-apis)      | Contains D.C. government public datasets, including crime, GIS, financial data, and so on |    No    |  Yes  | Unknown |
 |                   [EPA](https://www.epa.gov/developers)                   | Web services and data sets from the US Environmental Protection Agency                    |    No    |  Yes  | Unknown |
 |                     [FEC](https://api.open.fec.gov/developers/)                     | Information on campaign donations in federal elections                                    | `apiKey` |  Yes  | Unknown |
