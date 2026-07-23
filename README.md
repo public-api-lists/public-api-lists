@@ -258,6 +258,7 @@
 |                           [Currencylayer](https://currencylayer.com/documentation)                           | Exchange rates and currency conversion                             | `apiKey` |  Yes  | Unknown |
 | [Czech National Bank](https://www.cnb.cz/cs/financni_trhy/devizovy_trh/kurzy_devizoveho_trhu/denni_kurz.xml) | A collection of exchange rates                                     |    No    |  Yes  | Unknown |
 |                             [ExchangeRate-API](https://www.exchangerate-api.com)                             | Free currency conversion                                           | `apiKey` |  Yes  |   Yes   |
+|                               [Exchangerate.dev](https://exchangerate.dev/docs)                               | Live and historical exchange rates for 168 currency pairs going back to 1999 |    No    |  Yes  |   No    |
 |                              [Exchangeratesapi.io](https://exchangeratesapi.io)                              | Exchange rates with currency conversion                            | `apiKey` |  Yes  |   Yes   |
 |                                         [Fixer.io](http://fixer.io)                                          | Exchange rates and currency conversion                             | `apiKey` |  Yes  | Unknown |
 |                               [Frankfurter](https://www.frankfurter.app/docs)                                | Exchange rates, currency conversion and time series                |    No    |  Yes  |   Yes   |
@@ -483,6 +484,7 @@
 |             [Earnings Feed](https://earningsfeed.com/api)                | Real-time SEC filings, insider trades, and institutional holdings | `apiKey` |  Yes  |   No    |
 | [FilingFirehose](https://filingfirehose.com) | Structured SEC EDGAR filings with body-text-classified 8-Ks, activist-tagged 13D/G, and ATM-offering detection in S-3 / 424B5 | No | Yes | Yes |
 |               [Financial Data](https://financialdata.net/)               | Stock Market and Financial Data                               | `apiKey` |  Yes  | Unknown |
+|                  [Goldprice.dev](https://goldprice.dev/docs)                  | Gold, silver and copper spot and futures prices with 30 years of daily gold history |    No    |  Yes  |   No    |
 |                 [IEX](https://iextrading.com/developer/)                 | Realtime stock data                                           | `apiKey` |  Yes  |   Yes   |
 |                 [IG](https://labs.ig.com/gettingstarted)                 | Spreadbetting and CFD Market Data                             | `apiKey` |  Yes  | Unknown |
 | [Indian Bank Data API](https://github.com/kaustubhk24/Indian-Banks-Data) | All Banks IFSC Code data,Search by IFSc or other details      |    No    |  Yes  | Unknown |
