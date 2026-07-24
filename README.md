@@ -729,6 +729,7 @@
 |                      [Himalayas](https://himalayas.app/api)                         | Remote job board and search engine                                              |    No    |  Yes  |   Yes   |
 |                        [Jobicy](https://jobicy.com/jobs-rss-feed)                        | The latest remote job listings from a diverse range of industries and companies |    No    |  Yes  |   Yes   |
 |                 [Jobs2Careers](http://api.jobs2careers.com/api/spec.pdf)                 | Job aggregator                                                                  | `apiKey` |  Yes  | Unknown |
+|                        [Jobvetta](https://www.jobvetta.com/api)                         | Live, vetted job listings from official employer sources across India           | `apiKey` |  Yes  |   Yes   |
 |                       [Juju](http://www.juju.com/publisher/spec/)                        | Job search engine                                                               | `apiKey` |  No   | Unknown |
 | [Open Skills](https://github.com/workforce-data-initiative/skills-api/wiki/API-Overview) | Job titles, skills and related jobs data                                        |    No    |  No   | Unknown |
 |                        [Reed](https://www.reed.co.uk/developers)                         | Job board aggregator                                                            | `apiKey` |  Yes  | Unknown |
