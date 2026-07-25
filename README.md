@@ -753,6 +753,7 @@
 |                         [Replicate](https://replicate.com/docs/reference/http)    | Run and deploy machine learning models in the cloud     | `apiKey` |  Yes  |   Yes   |
 |                     [Unplugg](https://unplu.gg/test_api.html)                     | Forecasting API for timeseries data                     | `apiKey` |  Yes  | Unknown |
 |                             [Wit.ai](https://wit.ai/)                             | Natural Language Processing                             | `OAuth`  |  Yes  | Unknown |
+| [Bride Cognitive API](https://bride.gracestack.se) | HDC-powered semantic similarity, emotion analysis, and anomaly detection. Free tier: 50 req/month | `apiKey` |  Yes  |   Yes   |
 
 **[⬆ Back to Index](#index)**
 
