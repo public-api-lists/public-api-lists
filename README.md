@@ -743,6 +743,7 @@
 ### Machine Learning
 
 |                                        API                                        | Description                                             |   Auth   | HTTPS |  CORS   |
+| [Gracestack Cognitive API](https://tools.gracestack.se/api-docs.html) | AI chat (DeepSeek V4 Pro on A100) + Bride Cognitive Engine for anomaly detection & hypotheses | `apiKey` | Yes | Yes |
 | :-------------------------------------------------------------------------------: | ------------------------------------------------------- | :------: | :---: | :-----: |
 | [AI Engine](https://ai-engine.net/apis/all-in-one) | 36+ AI endpoints: OCR, face detection, background removal, object detection, NSFW moderation, face swap, image generation | `apiKey` | Yes | Yes |
 | [Cloudmersive](https://www.cloudmersive.com/image-recognition-and-processing-api) | Image captioning, face recognition, NSFW classification | `apiKey` |  Yes  |   Yes   |
