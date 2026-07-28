@@ -489,6 +489,7 @@
 |        [KeepRule](https://github.com/henu-wang/keeprule-api)             | Investment principles and quotes from Buffett, Munger & more  |    No    |  Yes  |   Yes   |
 |                 [Mboum API](https://docs.mboum.com)                 | Real-time Stock market and Options Data                             | `apiKey` |  Yes  | Unknown |
 |                       [Plaid](https://plaid.com/)                        | Connect with users’ bank accounts and access transaction data | `apiKey` |  Yes  | Unknown |
+| [Planomy Tax Data](https://planomy.net/data/) | 2026 US federal tax brackets, retirement contribution limits, Social Security, Medicare IRMAA and RMD ages as JSON, each figure cited to its IRS/SSA/CMS source | No | Yes | Yes |
 | [Polish Bank Branches](https://ksefekburczymucha.pl/api/bank/) | Polish bank branch lookup by 8-digit clearing number (Numer Rozliczeniowy) or full 26-digit IBAN, free, no API key | No | Yes | Yes |
 |                    [Polygon.io](https://polygon.io/docs/)                | Real-time and historical stock market data, crypto and forex  | `apiKey` |  Yes  |   Yes   |
 |       [PredScope](https://predscope.com/api/markets.json)        | Free prediction market odds and analytics data from Polymarket |    No    |  Yes  |   Yes   |
