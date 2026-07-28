@@ -863,6 +863,7 @@
 |            [Meme](https://github.com/D3vd/Meme_Api)             | JSON API for a random meme scraped from reddit                         |    No    |  Yes  | Unknown |
 | [Memesio](https://memesio.com/developers/api) | Meme creation API with templates and hosted share links | No | Yes | No |
 |        [NaMoMemes](https://github.com/theIYD/NaMoMemes)         | Memes on Narendra Modi                                                 |    No    |  Yes  | Unknown |
+| [NumroQ](https://numroq.com/docs) | Numerology, astrology and Abjad calculators for a name or birth date | `apiKey` | Yes | Unknown |
 | [Programming Quotes](https://programming-quotesapi.vercel.app/) | An api which generates quotes from programmers                         |    No    |  Yes  |   Yes   |
 |        [Quoterism](https://www.quoterism.com/developer)         | Inspirational Quotes                                                   |    No    |  Yes  | Unknown |
 |       [Quotes on Design](https://quotesondesign.com/api/)       | Inspirational Quotes                                                   |    No    |  Yes  | Unknown |
