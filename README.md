@@ -926,6 +926,7 @@
 | [Blooms](https://blooms-production.up.railway.app/api)  | Distribute keys once for serverless applications | No |  Yes  | No |
 | [ClassiFinder](https://classifinder.ai) | Detect leaked secrets and prompt-injection in text and return redacted output | `apiKey` | Yes | Yes |
 | [CVE.report](https://cve.report/api) | CVE records with NVD KEV and EPSS enrichment | No | Yes | Yes |
+| [DomScan](https://domscan.net/docs) | Domain, DNS, WHOIS/RDAP, TLS, email, brand and web intelligence | `apiKey` | Yes | Yes |
 |                              [FishFish](https://fishfish.gg/)                               | A volunteer cybersecurity project focused on providing resources and services that improve safety across Discord                                                     |    No    |  Yes  | Unknown |
 | [HackMyIP](https://hackmyip.com/api) | IP geolocation, VPN and proxy detection, email breach checks, DNS, WHOIS, and reverse DNS lookups | No | Yes | Yes |
 |                     [HaveIBeenPwned](https://haveibeenpwned.com/API/v3)                     | Passwords which have previously been exposed in data breaches                                                                                                        | `apiKey` |  Yes  | Unknown |
