@@ -966,6 +966,7 @@
 |           [Instagram](https://www.instagram.com/developer/)            | Instagram Login, Share on Instagram, Social Plugins and more                                      | `OAuth`  |  Yes  | Unknown |
 |                 [MySocialApp](https://mysocialapp.io)                  | Seamless Social Networking features, API, SDK to any app                                          | `apiKey` |  Yes  | Unknown |
 | [Open Collective](https://docs.opencollective.com/help/developers/api) | Get Open Collective data                                                                          |    No    |  Yes  | Unknown |
+| [TrendsMCP](https://trendsmcp.ai) | Normalized (0-100) trend data across 25+ sources with history, growth, and live leaderboards | `apiKey` | Yes | Yes |
 |             [Pinterest](https://developers.pinterest.com/)             | The world's catalog of ideas                                                                      | `OAuth`  |  Yes  | Unknown |
 |               [PWRTelegram bot](https://pwrtelegram.xyz)               | Boosted version of the Telegram bot API                                                           | `apiKey` |  Yes  | Unknown |
 |                [Reddit](https://www.reddit.com/dev/api)                | Homepage of the internet                                                                          | `OAuth`  |  Yes  | Unknown |
