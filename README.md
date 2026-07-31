@@ -1113,6 +1113,7 @@
 |                          API                          | Description                                    |   Auth   | HTTPS |  CORS   |
 | :---------------------------------------------------: | ---------------------------------------------- | :------: | :---: | :-----: |
 |    [Bitly](http://dev.bitly.com/get_started.html)     | URL shortener and link management              | `OAuth`  |  Yes  | Unknown |
+|           [Klinky](https://docs.klinky.io)            | A/B testing link shortener with weighted routing and click analytics | `apiKey` |  Yes  |   Yes   |
 | [Rebrandly](https://developers.rebrandly.com/v1/docs) | Custom URL shortener for sharing branded links | `apiKey` |  Yes  | Unknown |
 |              [T.LY](https://t.ly/docs/)               | URL Shortener With Short Links                 | `apiKey` |  Yes  | Unknown |
 |           [urlfy](https://urlfy.org/api-doc)          | A simple and fast URL shortening service       | No |  Yes  |   Yes   |
