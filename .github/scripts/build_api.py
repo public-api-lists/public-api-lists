@@ -291,12 +291,6 @@ footer{{text-align:center;padding:32px 0;color:var(--t3);font-size:13px;border-t
         </a>
         <div class="sp-name">Scrape Google and other search engines with a simple API</div>
       </div>
-      <div class="sp-item">
-        <a href="https://www.rapidproxy.io/?ref=public">
-          <img src="https://raw.githubusercontent.com/public-api-lists/public-api-lists/master/assets/rapidproxy.png" width="220" alt="RapidProxy">
-        </a>
-        <div class="sp-name">Power your data collection and automation with 90M+ reliable residential proxies built for scale</div>
-      </div>
     </div>
     <p style="margin-top:20px">🥈 Silver Sponsors</p>
     <div class="sp-silver">

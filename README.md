@@ -27,16 +27,7 @@
       <br/>Scrape Google and other search engines with a simple API
     </td>
   </tr>
-  <tr>
-    <td align="center">
-      <a href="https://www.rapidproxy.io/?ref=public">
-        <img src="assets/rapidproxy.png" width="800" alt="RapidProxy"><br/>
-        <b>RapidProxy</b>
-      </a>
-      <br/>Power your data collection and automation with 90M+ reliable residential proxies built for scale
-    </td>
-    <!-- Add more Gold sponsors here -->
-  </tr>
+  <!-- Add more Gold sponsors here -->
 </table>
 
 ### 🥈 Silver Sponsors
