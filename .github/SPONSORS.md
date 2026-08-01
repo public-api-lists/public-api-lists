@@ -51,12 +51,6 @@ Thank you for considering sponsoring this project! Your support helps us maintai
 
 **[SerpApi](https://serpapi.com/?utm_source=public-api-lists)** — Scrape Google and other search engines with a simple API
 
-<a href="https://www.rapidproxy.io/?ref=public">
-  <img src="../assets/rapidproxy.png" width="500" alt="RapidProxy">
-</a>
-
-**[RapidProxy](https://www.rapidproxy.io/?ref=public)** — Power your data collection and automation with 90M+ reliable residential proxies built for scale
-
 ### 🥈 Silver
 
 <a href="https://www.atlascloud.ai/">
