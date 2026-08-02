@@ -413,6 +413,7 @@
 |     [CustomJS](https://www.customjs.space/integration/pdf-api/html-to-pdf)        | HTML to PDF or PDF to PNG/Text & merging/extraction APIs       | `apiKey` |  Yes  | Unknown |
 |                          [Doqlo](https://doqlo.com)                               | Bulk fill and mail merge PDF forms from CSV                    | `apiKey` |  Yes  | Unknown |
 |                       [DynamicDocs](https://advicement.io)                        | Generate dynamic PDFs with JSON to PDF API based on LaTeX      | `apiKey` |  Yes  | Unknown |
+|                         [DocStruct](https://docstruct.pages.dev)                          | AI extraction of invoices, receipts, statements & contracts to JSON/CSV |    No    |  Yes  |   Yes   |
 |                          [File.io](https://www.file.io)                           | File Sharing                                                   |    No    |  Yes  | Unknown |
 | [IDPhotoSnap Passport Photo Specs](https://idphotosnap.com/api/specs)             | Passport, visa, and ID photo specifications for 100+ countries with government source citations |    No    |  Yes  |   Yes   |
 | [Kiprio HTML to PDF](https://kiprio.com/html-to-pdf-api) | Convert HTML or URLs to PDF with custom page sizes and margins | `apiKey` |  Yes  |   Yes   |
