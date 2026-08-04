@@ -732,6 +732,7 @@
 |                        [Jobicy](https://jobicy.com/jobs-rss-feed)                        | The latest remote job listings from a diverse range of industries and companies |    No    |  Yes  |   Yes   |
 |                 [Jobs2Careers](http://api.jobs2careers.com/api/spec.pdf)                 | Job aggregator                                                                  | `apiKey` |  Yes  | Unknown |
 |                       [Juju](http://www.juju.com/publisher/spec/)                        | Job search engine                                                               | `apiKey` |  No   | Unknown |
+| [nomado24](https://www.nomado24.de/en/developers) | Remote and hybrid jobs in Germany and the EU (de/en/fr), attribution required | No | Yes | Yes |
 | [Open Skills](https://github.com/workforce-data-initiative/skills-api/wiki/API-Overview) | Job titles, skills and related jobs data                                        |    No    |  No   | Unknown |
 |                        [Reed](https://www.reed.co.uk/developers)                         | Job board aggregator                                                            | `apiKey` |  Yes  | Unknown |
 |                [Search.gov Jobs](https://search.gov/developer/jobs.html)                 | Tap into a list of current jobs openings with the United States government      |    No    |  Yes  | Unknown |
