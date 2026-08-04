@@ -283,6 +283,7 @@
 |                      [vatlayer](https://vatlayer.com)                       | VAT number validation                                                 |    No    |  Yes  | Unknown |
 |                   [VerifyEd](https://verifyed.org/docs)                    | Verify academic credentials — 912K+ schools, 2,592 diploma mills       | `apiKey` |  Yes  |   Yes   |
 |                      [Veriphone](https://veriphone.io)                      | Phone number validation & carrier lookup                              | `apiKey` |  Yes  |   Yes   |
+| [Veritify](https://github.com/PantaleonSystems/veritify-python/blob/main/docs/getting-started.md) | Verify data integrity and novelty in files with a public cryptographic receipt | `apiKey` | Yes | Yes |
 
 **[⬆ Back to Index](#index)**
 
