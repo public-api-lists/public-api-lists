@@ -1,4 +1,5 @@
 # Public API Lists
+| [Phone Specs](https://phone-specs-api-production.up.railway.app/docs) | Real-time smartphone specs: chipset, camera, battery, display — 200+ phones, 24 brands | No | Yes | Yes |
 
 [![Validate PR](https://github.com/public-api-lists/public-api-lists/actions/workflows/validate-pr.yml/badge.svg)](https://github.com/public-api-lists/public-api-lists/actions/workflows/validate-pr.yml)
 [![Stars](https://img.shields.io/github/stars/public-api-lists/public-api-lists?style=flat-square)](https://github.com/public-api-lists/public-api-lists/stargazers)
