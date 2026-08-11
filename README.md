@@ -132,6 +132,7 @@
 
 |                                    API                                     | Description                                                               |   Auth   | HTTPS |  CORS   |
 | :------------------------------------------------------------------------: | ------------------------------------------------------------------------- | :------: | :---: | :-----: |
+| [Atomic Mail](https://atomicmail.ai) | Email service for AI agents with programmatic inbox creation and send/receive over JMAP | `apiKey` | Yes | Unknown |
 | [biz collect](https://bizcollect.dev) | Business contact data from a location and keywords, including emails | `apiKey` | Yes | Unknown |
 |             [Charity Search](http://charityapi.orghunter.com/)             | Non-profit charity data                                                   | `apiKey` |  No   | Unknown |
 |            [Clearbit Logo](https://clearbit.com/docs#logo-api)             | Search for company logos and embed them in your projects                  | `apiKey` |  Yes  | Unknown |
