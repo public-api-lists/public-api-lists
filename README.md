@@ -415,6 +415,7 @@
 |                       [DynamicDocs](https://advicement.io)                        | Generate dynamic PDFs with JSON to PDF API based on LaTeX      | `apiKey` |  Yes  | Unknown |
 |                          [File.io](https://www.file.io)                           | File Sharing                                                   |    No    |  Yes  | Unknown |
 | [IDPhotoSnap Passport Photo Specs](https://idphotosnap.com/api/specs)             | Passport, visa, and ID photo specifications for 100+ countries with government source citations |    No    |  Yes  |   Yes   |
+| [MD2HTML](http://147.15.103.217/md2html/) | Convert Markdown to HTML via a public API with 10 free calls | No | No | Yes |
 | [Kiprio HTML to PDF](https://kiprio.com/html-to-pdf-api) | Convert HTML or URLs to PDF with custom page sizes and margins | `apiKey` |  Yes  |   Yes   |
 | [PaperClean](https://paperclean.ip1.cc/api/docs) | Clean document photos for printing, remove shadows, fix lighting | `apiKey` |  Yes  |   Yes   |
 |                        [PDFBolt](https://pdfbolt.com/docs)                        | HTML to PDF conversion with templates and AI generation        | `apiKey` |  Yes  |   Yes   |
