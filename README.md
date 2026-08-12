@@ -914,6 +914,7 @@
 |                   [Numbers](https://math.tools/api/numbers/)                   | Number of the day, random number generation, number facts and anything else you want to do with numbers | `apiKey` |  Yes  |   Yes   |
 |             [Open Notify](http://open-notify.org/Open-Notify-API/)             | ISS astronauts, current location, etc                                                                   |    No    |  No   | Unknown |
 |               [Open Science Framework](https://developer.osf.io)               | Repository and archive for study designs, research materials, data, manuscripts, etc                    |    No    |  Yes  | Unknown |
+|                  [OrbitalWiki](https://www.orbitalwiki.com)                    | Catalog of 16,000+ satellites with the source cited for every field: orbital elements, operators, NORAD/COSPAR IDs |    No    |  Yes  |   Yes   |
 |                     [SHARE](https://share.osf.io/api/v2/)                      | A free, open, dataset about research and scholarly activities                                           |    No    |  Yes  | Unknown |
 |                [SpaceX](https://github.com/r-spacex/SpaceX-API)                | Company, vehicle, launchpad and launch data                                                             |    No    |  Yes  | Unknown |
 |              [Sunrise and Sunset](https://sunrise-sunset.org/api)              | Sunset and sunrise times for a given latitude and longitude                                             |    No    |  Yes  | Unknown |
