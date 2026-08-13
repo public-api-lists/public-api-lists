@@ -119,6 +119,7 @@
 |                                    API                                    | Description                                                                              |  Auth   | HTTPS |  CORS   |
 | :-----------------------------------------------------------------------: | ---------------------------------------------------------------------------------------- | :-----: | :---: | :-----: |
 |               [Bhagavad Gita](https://bhagavadgita.io/api)                | Bhagavad Gita text                                                                       | `OAuth` |  Yes  |   Yes   |
+|           [Bible in JSON](https://github.com/mrk214/snapshots)            | The Bible in JSON format. Datasets in English, Spanish, and Portuguese                   |   No    |  Yes  |   Yes   |
 |           [Google Books](https://developers.google.com/books/)            | Books                                                                                    | `OAuth` |  Yes  | Unknown |
 |        [Harry Potter API](https://github.com/fedeperin/potterapi)         | API to get data from Harry Potter books, movies, characters and spells                   |   No    |  Yes  |   Yes   |
 |          [Open Library](https://openlibrary.org/developers/api)           | Books, book covers and related data                                                      |   No    |  Yes  | Unknown |
