@@ -889,6 +889,7 @@
 |      [launch.pics](https://launch.pics)       | AI-powered image processing API with 39 endpoints and workflow builder | `apiKey` |  Yes  |   Yes   |
 |        [Lorem Picsum](https://picsum.photos/)         | Images from Unsplash                                       |    No    |  Yes  | Unknown |
 |          [ObjectCut](https://objectcut.com/)          | Image Background removal                                   | `apiKey` |  Yes  |   Yes   |
+|           [Pexafy](https://docs.pexafy.com)           | Semantic image search across 9+ free stock photo sources with a unified JSON schema | `apiKey` |  Yes  |   Yes   |
 |         [Pexels](https://www.pexels.com/api/)         | Free Stock Photos and Videos                               | `apiKey` |  Yes  |   Yes   |
 | [Pixabay](https://pixabay.com/sk/service/about/api/)  | Photography                                                | `apiKey` |  Yes  | Unknown |
 | [PixelVault](https://pixelvault.dev/docs) | Agent-first image hosting with instant CDN URLs | `apiKey` | Yes | No |
