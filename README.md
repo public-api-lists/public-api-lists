@@ -205,6 +205,7 @@
 
 |                                   API                                    | Description                                                                                                                        |   Auth   | HTTPS |  CORS   |
 | :----------------------------------------------------------------------: | ---------------------------------------------------------------------------------------------------------------------------------- | :------: | :---: | :-----: |
+| [0xArchive](https://docs.0xarchive.io/) | Real-time and historical Hyperliquid and Lighter market data | `apiKey` | Yes | No |
 | [Binance](https://github.com/binance-exchange/binance-official-api-docs) | Exchange for Trading Cryptocurrencies based in China                                                                               | `apiKey` |  Yes  | Unknown |
 |                 [Bithumb](https://apidocs.bithumb.com/)                  | Cryptocurrency Trading Platform                                                                                                    | `apiKey` |  Yes  | Unknown |
 |             [Bitmex](https://www.bitmex.com/app/apiOverview)             | Real-Time Cryptocurrency derivatives trading platform based in Hong Kong                                                           | `apiKey` |  Yes  | Unknown |
