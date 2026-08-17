@@ -1185,5 +1185,6 @@
 |                      [Stormglass](https://docs.stormglass.io/#/)                       | Weather forecasts & historical data from the world’s most trusted meteorological institutions in one single API                | `apiKey` |  Yes  | Unknown |
 |              [Weather Hacks](http://weather.livedoor.com/weather_hacks/)               | Weather, for Japan                                                                                                             |    No    |  No   |   No    |
 |                      [Weatherbit](https://www.weatherbit.io/api)                       | Weather                                                                                                                        | `apiKey` |  Yes  | Unknown |
+| [World Time & Weather](https://worldtimeweather.com/api.html) | Local time, UTC offset, DST rules, current weather and climate normals for 400 cities | No | Yes | Yes |
 
 **[⬆ Back to Index](#index)**
