@@ -500,6 +500,7 @@
 |                 [YNAB](https://api.youneedabudget.com/)                  | Budgeting & Planning                                          | `OAuth`  |  Yes  |   Yes   |
 
 **[⬆ Back to Index](#index)**
+| [Wiseek Filing Impact](https://wiseek.ai/datasets/#api) | How SEC filings move stocks: importance scores vs measured next-session excess moves, JSON/CSV, CC BY 4.0 | No | Yes | Yes |
 
 ### Food & Drink
 
