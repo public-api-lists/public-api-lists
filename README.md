@@ -738,6 +738,7 @@
 |                  [The Muse](https://www.themuse.com/developers/api/v2)                   | Job board and company profiles                                                  | `apiKey` |  Yes  | Unknown |
 |                         [Upwork](https://developers.upwork.com/)                         | Freelance job board and management system                                       | `OAuth`  |  Yes  | Unknown |
 |                        [USAJOBS](https://developer.usajobs.gov/)                         | US government job board                                                         | `apiKey` |  Yes  | Unknown |
+| [Worklittle](https://docs.worklittle.com/jobs/resources/rate-limits) | Job index of 4 million roles with visa, distance, and salary filters | `apiKey` |  Yes  | Unknown |
 |                 [ZipRecruiter](https://www.ziprecruiter.com/publishers)                  | Job search app and website                                                      | `apiKey` |  Yes  | Unknown |
 
 **[⬆ Back to Index](#index)**
