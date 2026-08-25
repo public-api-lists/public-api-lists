@@ -541,6 +541,7 @@
 |             [Clash of Clans](https://developer.clashofclans.com)              | Clash of Clans Game Information                                                                              |    `apiKey`     |  Yes  | Unknown |
 |               [Clash Royale](https://developer.clashroyale.com)               | Clash Royale Game Information                                                                                |    `apiKey`     |  Yes  | Unknown |
 |        [Comic Vine](https://comicvine.gamespot.com/api/documentation)         | Comics                                                                                                       |       No        |  Yes  | Unknown |
+| [Cortex](https://cortex-rbx.github.io) | AI for Roblox games: NPC dialogue, quests and chat moderation via one server request | `apiKey` | Yes | Unknown |
 |                         [crob.at](https://crob.at/api)                         | Pokémon team sharing and type chart data                                                                     |       No        |  Yes  |   Yes   |
 |              [Cross Universe](https://crossuniverse.net/apiDocs)              | Cross Universe Card Data                                                                                     |       No        |  Yes  |   Yes   |
 |                  [Deck of Cards](http://deckofcardsapi.com/)                  | Deck of Cards                                                                                                |       No        |  No   | Unknown |
