@@ -1109,6 +1109,7 @@
 |                        [Transport for United States](http://www.nextbus.com/xmlFeedDocs/NextBusXMLFeed.pdf)                        | NextBus API                                                                                      |    No    |  No   | Unknown |
 |                                    [Transport for Washington, US](https://developer.wmata.com/)                                    | Washington Metro transport API                                                                   | `OAuth`  |  Yes  | Unknown |
 |                                          [VOLO](https://www.flyvolo.ai/for-agents)                                                 | Private aviation charter search, quotes, fleet, and empty legs                                   | `apiKey` |  Yes  |   Yes   |
+| [Wander Atlas](https://wanderatlasguides.com/api/) | Hourly quiet and busy crowd windows for 620+ tourist attractions in 20 countries | No | Yes | Yes |
 
 **[⬆ Back to Index](#index)**
 
