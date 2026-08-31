@@ -314,6 +314,8 @@
 |                                 [Extracto](https://getextracto.dev)                                 | Web data extraction API returning typed, schema-validated JSON from any URL                         |    `apiKey`     |  Yes  | Unknown |
 |                            [Faceplusplus](https://www.faceplusplus.com/)                            | A tool to detect face                                                                               |     `OAuth`     |  Yes  | Unknown |
 |                          [FontDownloader](https://fontdownloader.org/#API)                          | A hassle free API for managing web fonts provided by Google Fonts                                   |       No        |  Yes  |   Yes   |
+|                          [GcrawlAI](https://gcrawlai.com)                               | Web scraping, SERP, screenshots, URL-to-Markdown and prebuilt extractors                            |    `apiKey`     |  Yes  |   Yes   |
+
 |                                [Genderize.io](https://genderize.io)                                 | Estimates a gender from a first name                                                                |       No        |  Yes  |   Yes   |
 |                             [GitHub](https://developer.github.com/v3/)                              | Make use of GitHub repositories, code and user info programmatically                                |     `OAuth`     |  Yes  |   Yes   |
 |                              [Gitlab](https://docs.gitlab.com/ee/api/)                              | Automate GitLab interaction programmatically                                                        |     `OAuth`     |  Yes  | Unknown |
