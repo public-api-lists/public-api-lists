@@ -149,6 +149,7 @@
 |                   [markerapi](http://www.markerapi.com/)                   | Trademark Search                                                          |    No    |  No   | Unknown |
 |          [Mydentify](https://mydentify.com/openapi.json)                   | Discover software by task through structured product directories and weekly leaderboards |    No    |  Yes  |   Yes   |
 |              [SCALA Score](https://score.get-scala.com)                    | Search 250M+ company records across 50+ countries with revenue, employees, and credit scores |    No    |  Yes  | Unknown |
+|       [TempMailGrab](https://tempmailgrab.com/api-docs)                    | Create private disposable inboxes for automated email testing              | `apiKey` |  Yes  |   No    |
 |                  [Tomba Email finder](https://tomba.io/)                   | Email Finder for B2B sales and email marketing                            | `apiKey` |  Yes  |   Yes   |
 |                  [Trello](https://developers.trello.com/)                  | Boards, lists and cards to help you organize and prioritize your projects | `OAuth`  |  Yes  | Unknown |
 
