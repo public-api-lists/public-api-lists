@@ -150,6 +150,7 @@
 |          [Mydentify](https://mydentify.com/openapi.json)                   | Discover software by task through structured product directories and weekly leaderboards |    No    |  Yes  |   Yes   |
 |              [SCALA Score](https://score.get-scala.com)                    | Search 250M+ company records across 50+ countries with revenue, employees, and credit scores |    No    |  Yes  | Unknown |
 |                  [Tomba Email finder](https://tomba.io/)                   | Email Finder for B2B sales and email marketing                            | `apiKey` |  Yes  |   Yes   |
+|              [TradeDataHub](https://www.tradedatahub.net/developers/)              | Discover US contractor dataset coverage and masked previews               |    No    |  Yes  |   Yes   |
 |                  [Trello](https://developers.trello.com/)                  | Boards, lists and cards to help you organize and prioritize your projects | `OAuth`  |  Yes  | Unknown |
 
 **[⬆ Back to Index](#index)**
