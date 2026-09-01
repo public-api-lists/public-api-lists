@@ -369,6 +369,7 @@
 |                                 [SHOUTCLOUD](http://shoutcloud.io/)                                 | ALL-CAPS AS A SERVICE                                                                               |       No        |  No   | Unknown |
 | [SpryTools Screenshot](https://sprytools.com/apis/screenshot) | Capture full-page or viewport website screenshots (PNG/JPEG/WebP) | `apiKey` | Yes | Unknown |
 | [SpryTools Web Scraping](https://sprytools.com/apis/scraping) | Extract HTML/text/CSS-selector data, Cloudflare-bypass | `apiKey` | Yes | Unknown |
+| [XLSX Inspector](https://api.lifestep.io) | Inspect XLSX/XLSM spreadsheet structure (sheets, formulas, macros, external links) without executing them | No | Yes | Yes |
 |                              [SQLable](https://sqlable.com/validator/)                              | Validate SQL query                                                                                  |       No        |  Yes  |   Yes   |
 |                           [StackExchange](https://api.stackexchange.com/)                           | Q&A forum for developers                                                                            |     `OAuth`     |  Yes  | Unknown |
 |                              [Suprsonic](https://suprsonic.ai)                               | Unified agent API: search, scrape, enrich, image gen, TTS, STT, messaging. One key, 20+ capabilities |    `apiKey`     |  Yes  |   Yes   |
