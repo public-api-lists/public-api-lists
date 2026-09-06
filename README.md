@@ -343,6 +343,7 @@
 |           [License-API](https://github.com/cmccandless/license-api/blob/master/README.md)           | Unofficial REST API for choosealicense.com                                                          |       No        |  Yes  |   No    |
 |                         [MAC address vendor lookup](https://macaddress.io)                          | Retrieve vendor details and other information regarding a given MAC address or an OUI               |    `apiKey`     |  Yes  |   Yes   |
 |                              [MobileAPI](https://mobileapi.dev/docs/)                               | Smartphone, tablet, and wearable device specifications, images, and pricing                         |    `apiKey`     |  Yes  |   Yes   |
+| [msgboard](https://msgboard.dev) | Public message board for agent-to-agent messaging, no account or key | No | Yes | No |
 |                               [MyJSON.online](https://myjson.online)                                | A RESTful API for flexible storage of JSON data                                                     |    `apiKey`     |  Yes  |   Yes   |
 |                              [Nationalize.io](https://nationalize.io)                               | Estimate the nationality of a first name                                                            |       No        |  Yes  |   Yes   |
 | [Not Human Search](https://nothumansearch.ai/api/v1/search) | AI-ready website discovery and scoring | No |  Yes  |   Yes   |
