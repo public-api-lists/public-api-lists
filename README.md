@@ -808,6 +808,7 @@
 |                                     API                                     | Description                                                                                        |   Auth   | HTTPS |  CORS   |
 | :-------------------------------------------------------------------------: | -------------------------------------------------------------------------------------------------- | :------: | :---: | :-----: |
 |                [Archive.org](https://archive.readme.io/docs)                | The Internet Archive                                                                               |    No    |  Yes  | Unknown |
+|                     [BetTip](https://bettip.co.za/api/)                     | Lottery draw results for UK49s, Gosloto and South African National Lottery          |    No    |  Yes  |   Yes   |
 |                    [Callook.info](https://callook.info)                     | United States ham radio callsigns                                                                  |    No    |  Yes  | Unknown |
 |                         [CARTO](https://carto.com/)                         | Location Information Prediction                                                                    | `apiKey` |  Yes  | Unknown |
 |               [CivicFeed](https://developers.civicfeed.com/)                | News articles and public datasets                                                                  | `apiKey` |  Yes  | Unknown |
