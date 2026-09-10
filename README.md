@@ -345,6 +345,7 @@
 |                              [MobileAPI](https://mobileapi.dev/docs/)                               | Smartphone, tablet, and wearable device specifications, images, and pricing                         |    `apiKey`     |  Yes  |   Yes   |
 |                               [MyJSON.online](https://myjson.online)                                | A RESTful API for flexible storage of JSON data                                                     |    `apiKey`     |  Yes  |   Yes   |
 |                              [Nationalize.io](https://nationalize.io)                               | Estimate the nationality of a first name                                                            |       No        |  Yes  |   Yes   |
+| [Neon](https://neon.com) | Serverless PostgreSQL with a REST API to manage projects, branches and run SQL over HTTP | `apiKey` | Yes | Yes |
 | [Not Human Search](https://nothumansearch.ai/api/v1/search) | AI-ready website discovery and scoring | No |  Yes  |   Yes   |
 |                                   [OOPSpam](https://oopspam.com/)                                   | Multiple spam filtering service                                                                     |       No        |  Yes  |   Yes   |
 |                         [OpenUnfurl](https://github.com/SolvoHQ/openunfurl)                         |           No-signup link unfurl API returning Open Graph, Twitter Card and oEmbed metadata          |        No       |  Yes  |   Yes   |
@@ -373,6 +374,7 @@
 |                           [StackExchange](https://api.stackexchange.com/)                           | Q&A forum for developers                                                                            |     `OAuth`     |  Yes  | Unknown |
 |                              [Suprsonic](https://suprsonic.ai)                               | Unified agent API: search, scrape, enrich, image gen, TTS, STT, messaging. One key, 20+ capabilities |    `apiKey`     |  Yes  |   Yes   |
 |                         [TalorData](https://talordata.com/?utm_source=publicapilists&utm_term=publicapilists)                          | Get structured SERP results from Google, Bing, Yandex, and others via one API                       |    `apiKey`     |  Yes  |   No    |
+| [Upstash](https://upstash.com) | Serverless Redis, Kafka and vector database with REST APIs | `apiKey` | Yes | Yes |
 |                         [v.recipes DNS Accelerator](https://v.recipes/dns/)                         | The Accelerator variant can be used to test & accelerate any DoH providers                          |       No        |  Yes  |   No    |
 |                            [v.recipes Get IP](https://v.recipes/get-ip)                             | A simple API to get information such as IP, ISP name, Location, etc. based on user request          |       No        |  Yes  |   No    |
 |                             [WebCrawlerAPI](https://webcrawlerapi.com/)                             | Easily extract content from websites                                                                |    `apiKey`     |  Yes  |   Yes   |
@@ -494,6 +496,7 @@
 |               [Razorpay IFSC](https://ifsc.razorpay.com/)                | Indian Financial Systems Code (Bank Branch Codes)             |    No    |  Yes  | Unknown |
 | [Statistics of the World](https://statisticsoftheworld.com/api-docs) | GDP, population, inflation & 440+ indicators for 218 countries |    No    |  Yes  |   Yes   |
 |              [Stock Sentiment](https://api.adanos.org/docs)              | Reddit & X/Twitter sentiment analysis for stocks with buzz scores    | `apiKey` |  Yes  |   Yes   |
+| [Tradestie](https://tradestie.com) | Reddit community data: posts, comments and stock sentiment analysis | No | Yes | Yes |
 |                 [Tradier](https://developer.tradier.com)                 | US equity/option market data (delayed, intraday, historical)  | `OAuth`  |  Yes  |   Yes   |
 |                 [ValueRay](https://www.valueray.com/api)                 | Quantitative and sentiment data for stocks and ETFs           |    No     | Yes  |   Yes   |
 |         [World Trading Data](https://www.worldtradingdata.com/)          | Market data provider                                          | `apiKey` |  Yes  | Unknown |
