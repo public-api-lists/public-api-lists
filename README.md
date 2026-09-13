@@ -677,6 +677,7 @@
 |                          [Data.gov](https://api.data.gov/)                          | US Government Data                                                                        | `apiKey` |  Yes  | Unknown |
 |      [District of Columbia Open Data](http://opendata.dc.gov/pages/using-apis)      | Contains D.C. government public datasets, including crime, GIS, financial data, and so on |    No    |  Yes  | Unknown |
 |                   [EPA](https://www.epa.gov/developers)                   | Web services and data sets from the US Environmental Protection Agency                    |    No    |  Yes  | Unknown |
+| [ES·pera](https://es-pera.org/metodologia/api/) | Spanish public healthcare waiting-list and hospital-activity data | No | Yes | Unknown |
 |                     [FEC](https://api.open.fec.gov/developers/)                     | Information on campaign donations in federal elections                                    | `apiKey` |  Yes  | Unknown |
 | [Federal Register](https://www.federalregister.gov/reader-aids/developer-resources) | The Daily Journal of the United States Government                                         |    No    |  Yes  | Unknown |
 | [Japan Neighborhoods](https://japanneighborhoods.com/developers) | Tokyo neighborhood crime statistics, safety scores, and station data (5,078 areas, 2018-2024) |    No    |  Yes  |   Yes   |
