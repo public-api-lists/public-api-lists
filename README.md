@@ -1027,6 +1027,7 @@
 |      [Football Prediction](https://boggio-analytics.com/fp-api/)      | Predictions for upcoming football matches, odds, results and stats                          | `X-Mashape-Key` |  Yes  | Unknown |
 |      [Golf-Data](https://github.com/Jacobbrewer1/golf-data-docs)      | Golf data API with golf course, club and hole information                                   |       No        |  Yes  |   No    |
 |           [JCDecaux Bike](https://developer.jcdecaux.com/)            | JCDecaux's self-service bicycles                                                            |    `apiKey`     |  Yes  | Unknown |
+|                    [Lumify](https://lumify.ai/docs)                   | Sports schedules, live scores, odds, and public betting splits                              |    `apiKey`     |  Yes  |   No    |
 | [NBA Stats](https://any-api.com/nba_com/nba_com/docs/API_Description) | Current and historical NBA Statistics                                                       |       No        |  Yes  | Unknown |
 |       [NHL Records and Stats](https://gitlab.com/dword4/nhlapi)       | NHL historical data and statistics                                                          |       No        |  Yes  | Unknown |
 |               [ParlayAPI](https://parlay-api.com/docs)                | Sports betting odds and player props from 30+ sportsbooks plus Kalshi and Polymarket |    `apiKey`     |  Yes  |   Yes   |
