@@ -103,6 +103,7 @@
 | :------------------------------------------------------------------: | ----------------------------------------------------------------------------- | :------: | :---: | :-----: |
 |       [Cooper Hewitt](https://collection.cooperhewitt.org/api)       | Smithsonian Design Museum                                                     | `apiKey` |  Yes  | Unknown |
 |            [Dribbble](http://developer.dribbble.com/v2/)             | Design                                                                        | `OAuth`  |  No   | Unknown |
+|                  [eeemoji](https://eeemoji.com/api)                  | Emoji metadata: names, keywords, categories, shortcodes and skin tones        |    No    |  Yes  |   Yes   |
 |     [Europeana](https://pro.europeana.eu/resources/apis/search)      | European Museum and Galleries content                                         | `apiKey` |  Yes  | Unknown |
 |                  [Freepik](https://freepik.com/api)                  | Stock resources(Icons, videos, photos), AI image generation and editing tools | `apiKey` |  Yes  | Unknown |
 | [Harvard Art Museums](https://github.com/harvardartmuseums/api-docs) | Art                                                                           | `apiKey` |  No   | Unknown |
