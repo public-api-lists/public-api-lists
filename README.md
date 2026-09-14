@@ -1138,6 +1138,7 @@
 |                [NHTSA](https://vpic.nhtsa.dot.gov/api/)                | NHTSA Product Information Catalog and Vehicle Listing                                            |    No    |  Yes  | Unknown |
 | [ProblemsByVin](https://problemsbyvin.com/data/) | US NHTSA owner-complaint & recall data as vehicle failure patterns by year, make & model; open CSV/JSON datasets + a machine-readable catalog | No | Yes | Yes |
 |                 [Smartcar](https://smartcar.com/docs/)                 | Lock and unlock vehicles and get data like odometer reading and location. Works on most new cars | `OAuth`  |  Yes  |   Yes   |
+| [Window Sticker](https://windowsticker.org/api-docs) | Original factory Monroney label PDF and full spec decode by VIN |    No    |  Yes  |   Yes   |
 
 **[⬆ Back to Index](#index)**
 
