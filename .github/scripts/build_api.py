@@ -293,14 +293,7 @@ footer{{text-align:center;padding:32px 0;color:var(--t3);font-size:13px;border-t
       </div>
     </div>
     <p style="margin-top:20px">🥈 Silver Sponsors</p>
-    <div class="sp-silver">
-      <div class="sp-item">
-        <a href="https://www.atlascloud.ai/">
-          <img src="https://raw.githubusercontent.com/public-api-lists/public-api-lists/master/assets/atlas-cloud.png" width="120" alt="Atlas Cloud">
-        </a>
-        <div class="sp-name">AI API aggregation platform with OpenAI-compatible chat completions, image and video generation</div>
-      </div>
-    </div>
+    <div class="sp-silver"><em>Become a Silver Sponsor — <a href="https://github.com/public-api-lists/public-api-lists/blob/master/.github/SPONSORS.md">learn more</a></em></div>
     <div class="sp-cta"><a href="https://github.com/public-api-lists/public-api-lists/blob/master/.github/SPONSORS.md">Become a sponsor</a></div>
   </div>
 

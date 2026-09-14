@@ -53,11 +53,7 @@ Thank you for considering sponsoring this project! Your support helps us maintai
 
 ### 🥈 Silver
 
-<a href="https://www.atlascloud.ai/">
-  <img src="../assets/atlas-cloud.png" width="150" alt="Atlas Cloud">
-</a>
-
-**[Atlas Cloud](https://www.atlascloud.ai/)** — AI API aggregation platform with OpenAI-compatible chat completions, image and video generation
+*Become a Silver Sponsor — [learn more](https://github.com/public-api-lists/public-api-lists/blob/master/.github/SPONSORS.md)*
 
 ### 🥉 Bronze
 *Open slots available*
