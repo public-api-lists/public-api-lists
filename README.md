@@ -815,6 +815,7 @@
 |          [New York Times](https://developer.nytimes.com/)           | Provides news                                                                               | `apiKey` |  Yes  | Unknown |
 |                    [News](https://newsapi.org/)                     | Headlines currently published on a range of news sources and blogs                          | `apiKey` |  Yes  | Unknown |
 |                     [OkSurf](https://ok.surf/)                      | Free Google News with OG Images                                                             |    No    |  Yes  |   Yes   |
+| [Scoopkit](https://scoopkit.dev) | AI-industry news deduplicated into structured events, not articles | `apiKey` | Yes | Yes |
 |        [The Guardian](http://open-platform.theguardian.com/)        | Access all the content the Guardian creates, categorised by tags and section                | `apiKey` |  Yes  | Unknown |
 |        [The Old Reader](https://github.com/theoldreader/api)        | RSS reader                                                                                  | `apiKey` |  Yes  | Unknown |
 
