@@ -132,6 +132,7 @@
 
 |                                    API                                     | Description                                                               |   Auth   | HTTPS |  CORS   |
 | :------------------------------------------------------------------------: | ------------------------------------------------------------------------- | :------: | :---: | :-----: |
+| [Auregistre](https://auregistre.fr/api) | French company history since 2008 from the BODACC gazette, no key required | No | Yes | Yes |
 | [biz collect](https://bizcollect.dev) | Business contact data from a location and keywords, including emails | `apiKey` | Yes | Unknown |
 |             [Charity Search](http://charityapi.orghunter.com/)             | Non-profit charity data                                                   | `apiKey` |  No   | Unknown |
 |            [Clearbit Logo](https://clearbit.com/docs#logo-api)             | Search for company logos and embed them in your projects                  | `apiKey` |  Yes  | Unknown |
