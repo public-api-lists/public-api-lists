@@ -207,6 +207,7 @@
 
 |                                   API                                    | Description                                                                                                                        |   Auth   | HTTPS |  CORS   |
 | :----------------------------------------------------------------------: | ---------------------------------------------------------------------------------------------------------------------------------- | :------: | :---: | :-----: |
+| [0xArchive](https://docs.0xarchive.io/) | Real-time and historical Hyperliquid and Lighter market data | `apiKey` | Yes | No |
 | [Binance](https://github.com/binance-exchange/binance-official-api-docs) | Exchange for Trading Cryptocurrencies based in China                                                                               | `apiKey` |  Yes  | Unknown |
 | [Bitcoin Halving](https://why21million.com/halving-api/) | Halving era, block reward, and schedule arithmetic for any Bitcoin block height | No | Yes | Yes |
 |                 [Bithumb](https://apidocs.bithumb.com/)                  | Cryptocurrency Trading Platform                                                                                                    | `apiKey` |  Yes  | Unknown |
