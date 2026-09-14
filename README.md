@@ -238,6 +238,7 @@
 | [OpenChainBench](https://openchainbench.com/api/openapi.json) | Open dataset of crypto infrastructure benchmarks: RPC latency, oracles, bridges, prediction markets | No | Yes | Yes |
 | [Pharos API](https://pharos.watch/about/api/) | Stablecoin risk, peg, liquidity, safety score, blacklist, mint/burn, yield, and chain-health data | `apiKey` | Yes | Unknown |
 |              [Poloniex](https://api-docs.poloniex.com/spot)              | US based digital asset exchange                                                                                                    | `apiKey` |  Yes  | Unknown |
+| [RugBuster](https://rugbuster-solana-api-production.up.railway.app/score?address=EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v) | Solana token risk scoring focused on pump.fun-style launches | No | Yes | Yes |
 |               [Sharpe](https://www.sharpe.ai/docs/free-api)              | Crypto derivatives, funding, arbitrage, narratives, listings, and news data                                                        |    No    |  Yes  | Unknown |
 |          [WealthVille](https://wealthville.net/developers)               | Liquidity pool scores and Enter/Hold/Exit verdicts for Solana and EVM chains                                                        |    No    |  Yes  |   Yes   |
 |       [WorldCoinIndex](https://www.worldcoinindex.com/apiservice)        | Cryptocurrencies Prices                                                                                                            | `apiKey` |  Yes  | Unknown |
