@@ -89,6 +89,7 @@
 
 |                                  API                                  | Description                                                                                                                    |   Auth   | HTTPS |  CORS   |
 | :-------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------- | :------: | :---: | :-----: |
+| [54ch10 Brief](https://54ch10.uk/AGENT.md) | Pre-interact JSON risk briefs for addresses tokens and URLs | No | Yes | Yes |
 |               [AbuseIPDB](https://docs.abuseipdb.com/)                | IP/domain/URL reputation                                                                                                       | `apiKey` |  Yes  | Unknown |
 |               [Dymo API](https://dymo.tpeoficial.com/)                | Multi-account and fraud detection. Sending emails without ending up in SPAM                                                   | `apiKey` |  Yes  |   Yes   |
 |   [Google Safe Browse](https://developers.google.com/safe-browsing/)  | Google Link/Domain Flagging                                                                                                    | `apiKey` |  Yes  | Unknown |
