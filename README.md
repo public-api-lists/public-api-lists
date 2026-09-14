@@ -1185,6 +1185,7 @@
 |                                [Trakt](https://trakt.tv/b/api-docs)                                | Movie and TV Data                                                                                                | `apiKey` |  Yes  |   Yes   |
 |                        [TranscriptFetch](https://transcriptfetch.com/docs)                         | Transcripts for YouTube, TikTok, Instagram videos and podcasts as clean text or timestamped JSON                | `apiKey` |  Yes  | Unknown |
 |                                [TVMaze](http://www.tvmaze.com/api)                                 | TV Show Data                                                                                                     |    No    |  No   | Unknown |
+|                             [VidWords](https://vidwords.com/api-docs)                              | YouTube transcripts and subtitles as TXT, SRT, VTT or DOCX, plus AI video analysis                               | `apiKey` |  Yes  |   No    |
 |                               [Vimeo](https://developer.vimeo.com/)                                | Vimeo Developer API                                                                                              | `OAuth`  |  Yes  | Unknown |
 |                         [YouTube](https://developers.google.com/youtube/)                          | Add YouTube functionality to your sites and apps                                                                 | `OAuth`  |  Yes  | Unknown |
 
