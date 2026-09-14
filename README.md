@@ -561,6 +561,7 @@
 |                   [JokeAPI](https://sv443.net/jokeapi/v2/)                    | Programming, Miscellaneous and Dark Jokes                                                                    |       No        |  Yes  |   Yes   |
 |             [Jokes](https://github.com/15Dkatz/official_joke_api)             | Programming and general jokes                                                                                |       No        |  Yes  | Unknown |
 |                   [Jokes One](https://jokes.one/api/joke/)                    | Joke of the day and large category of jokes accessible via REST API                                          |    `apiKey`     |  Yes  |   Yes   |
+| [L2 Calendar](https://l2calendar.com/api/servers) | Lineage 2 private servers list with names, websites, chronicles, rates and opening dates | No | Yes | Yes |
 |                        [LotteryData.io](https://lotterydata.io/)              | Powerball, MegaMillions, and more results (live + historical) games                                          |    `apiKey`     |  Yes  |   Yes   |
 |              [Magic The Gathering](http://magicthegathering.io/)              | Magic The Gathering Game Information                                                                         |       No        |  No   | Unknown |
 |                     [Marvel](http://developer.marvel.com)                     | Marvel Comics                                                                                                |    `apiKey`     |  No   | Unknown |
