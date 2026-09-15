@@ -829,6 +829,7 @@
 |                    [Callook.info](https://callook.info)                     | United States ham radio callsigns                                                                  |    No    |  Yes  | Unknown |
 |                         [CARTO](https://carto.com/)                         | Location Information Prediction                                                                    | `apiKey` |  Yes  | Unknown |
 |               [CivicFeed](https://developers.civicfeed.com/)                | News articles and public datasets                                                                  | `apiKey` |  Yes  | Unknown |
+| [CoworkingView](https://api.coworkingview.com/v1) | Coworking and private-office spaces in European cities, with price and review indices | No | Yes | No |
 |     [Enigma Public](http://docs.enigma.com/public/public_v20_api_about)     | Broadest collection of public data                                                                 | `apiKey` |  Yes  |   Yes   |
 |          [French Address Search](https://geo.api.gouv.fr/adresse)           | Address search via the French Government                                                           |    No    |  Yes  | Unknown |
 |              [Fruits](https://fruits-api.netlify.app/graphql)               | Information of fruit trees of the world                                                            |    No    |  Yes  |   No    |
