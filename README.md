@@ -229,6 +229,7 @@
 |               [DexPaprika](https://api.dexpaprika.com)                | Free DEX and DeFi data — pools, tokens, OHLCV, and trades across all chains                                                       |    No    |  Yes  |   Yes   |
 |                   [Gates.io](https://www.gate.io/api2)                   | Blockchain Assets Exchange                                                                                                         |    No    |  Yes  | Unknown |
 |               [Gemini](https://docs.gemini.com/rest-api/)                | Cryptocurrencies Exchange                                                                                                          |    No    |  Yes  | Unknown |
+| [HostDeFi](https://hostdefi.com/docs/api/) | Free A+–F token-safety grades across Solana and EVM chains | No | Yes | Yes |
 |               [MEXC Global](https://www.mexc.com/mexc-api)               | Crypto asset exchange for trading Marketplace                                                                                      | `apiKey` |  Yes  | Unknown |
 |                  [NiceHash](https://docs.nicehash.com/)                  | Largest Crypto Mining Marketplace                                                                                                  | `apiKey` |  Yes  | Unknown |
 | [OpenChainBench](https://openchainbench.com/api/openapi.json) | Open dataset of crypto infrastructure benchmarks: RPC latency, oracles, bridges, prediction markets | No | Yes | Yes |
