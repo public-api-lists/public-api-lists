@@ -349,6 +349,7 @@
 |                               [MyJSON.online](https://myjson.online)                                | A RESTful API for flexible storage of JSON data                                                     |    `apiKey`     |  Yes  |   Yes   |
 |                              [Nationalize.io](https://nationalize.io)                               | Estimate the nationality of a first name                                                            |       No        |  Yes  |   Yes   |
 | [Not Human Search](https://nothumansearch.ai/api/v1/search) | AI-ready website discovery and scoring | No |  Yes  |   Yes   |
+| [OpenQR](https://openqr.uk/api) | Generate QR codes and manage dynamic (editable) QR codes with scan analytics | `apiKey` | Yes | Yes |
 |                                   [OOPSpam](https://oopspam.com/)                                   | Multiple spam filtering service                                                                     |       No        |  Yes  |   Yes   |
 |                         [OpenUnfurl](https://github.com/SolvoHQ/openunfurl)                         |           No-signup link unfurl API returning Open Graph, Twitter Card and oEmbed metadata          |        No       |  Yes  |   Yes   |
 |                                [PHPhub](https://phphub.net/linter/)                                 | Validate PHP code                                                                                   |       No        |  Yes  |   Yes   |
