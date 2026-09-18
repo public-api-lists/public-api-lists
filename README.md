@@ -523,6 +523,7 @@
 |                     [RecipeAPI](https://recipeapi.io)                             | Recipes, ingredients, nutrition and instructions  | `apiKey` |  Yes  |   Yes   |
 | [Seed Oil Tracker](https://seedoiltracker.com/ai-tool) | Seed-oil/PUFA grades and cooking oil data for 512 US restaurant chains | No | Yes | Yes |
 |                 [Spoonacular](https://spoonacular.com/food-api)                  | Food and Recipes                                  | `apiKey` |  Yes  | Unknown |
+|               [TableJourney](https://tablejourney.com/api/v1/docs)               | Verified restaurants, food festivals and tours    |    No    |  Yes  |   Yes   |
 |                [TacoFancy](https://github.com/evz/tacofancy-api)                 | Community-driven taco database                    |    No    |  No   | Unknown |
 | [The Report of the Week](https://github.com/andyklimczak/TheReportOfTheWeek-API) | Food & Drink Reviews                              |    No    |  Yes  | Unknown |
 |              [TheCocktailDB](https://www.thecocktaildb.com/api.php)              | Cocktail Recipes                                  | `apiKey` |  Yes  |   Yes   |
