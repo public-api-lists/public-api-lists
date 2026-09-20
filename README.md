@@ -586,6 +586,7 @@
 |                [Riot Games](https://developer.riotgames.com/)                 | League of Legends Game Information                                                                           |    `apiKey`     |  Yes  | Unknown |
 |                   [Scryfall](https://scryfall.com/docs/api)                   | Magic: The Gathering database                                                                                |       No        |  Yes  |   Yes   |
 |        [Steam](https://developer.valvesoftware.com/wiki/Steam_Web_API)        | Steam Client Interaction                                                                                     |     `OAuth`     |  Yes  | Unknown |
+| [Sudoku100](https://www.sudoku100.com/api) | Free Sudoku puzzle generation and embedding with images, solver links and interactive games | No | Yes | Unknown |
 |                    [SuperHeroes](https://superheroapi.com)                    | All SuperHeroes and Villains data from all universes under a single API                                      |    `apiKey`     |  Yes  | Unknown |
 |         [TCG Price Lookup](https://tcgpricelookup.com/tcg-api)          | Live trading card prices across Pokemon, MTG, Yu-Gi-Oh, Lorcana, One Piece, Star Wars Unlimited, Flesh and Blood |    `apiKey`     |  Yes  |   Yes   |
 | [TCGApi](https://tcgapi.dev/introduction/) | Trading card game prices and historical data across 89+ games | `apiKey` | Yes | No |
