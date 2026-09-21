@@ -734,26 +734,27 @@
 
 ### Jobs
 
-|                                           API                                            | Description                                                                     |   Auth   | HTTPS |  CORS   |
-| :--------------------------------------------------------------------------------------: | ------------------------------------------------------------------------------- | :------: | :---: | :-----: |
+|                                            API                                            | Description                                                                     |   Auth   | HTTPS |  CORS   |
+| :---------------------------------------------------------------------------------------: | ------------------------------------------------------------------------------- | :------: | :---: | :-----: |
 |                     [Adzuna](https://developer.adzuna.com/overview)                      | Job board aggregator                                                            | `apiKey` |  Yes  | Unknown |
 | [Agentic Engineering Jobs](https://agentic-engineering-jobs.com/api-reference)           | Job board for engineers building agentic systems (LangChain, LlamaIndex, CrewAI)|    No    |  Yes  |   Yes   |
-| [AI Dev Jobs](https://aidevboard.com/api/v1/jobs) | AI and ML job listings from 289+ companies | No |  Yes  |   Yes   |
-|                   [Careerjet](https://www.careerjet.com/partners/api/)                   | Job search engine                                                               | `apiKey` |  No   | Unknown |
+| [AI Dev Jobs](https://aidevboard.com/api/v1/jobs)                                         | AI and ML job listings from 289+ companies                                      |    No    |  Yes  |   Yes   |
+|                    [Careerjet](https://www.careerjet.com/partners/api/)                   | Job search engine                                                               | `apiKey` |  No   | Unknown |
 |                     [DevITjobs](https://devitjobs.us/api/jobsLight)                      | Jobs for software developers                                                    |    No    |  Yes  | Unknown |
-|                      [Himalayas](https://himalayas.app/api)                         | Remote job board and search engine                                              |    No    |  Yes  |   Yes   |
-|                        [Jobicy](https://jobicy.com/jobs-rss-feed)                        | The latest remote job listings from a diverse range of industries and companies |    No    |  Yes  |   Yes   |
-|                 [Jobs2Careers](http://api.jobs2careers.com/api/spec.pdf)                 | Job aggregator                                                                  | `apiKey` |  Yes  | Unknown |
-| [JobsPipe](https://jobspipe.dev) | Job postings from 30+ ATS and job boards, deduplicated into one schema with salary, seniority and tech stack fields | `apiKey` | Yes | Yes |
-|                       [Juju](http://www.juju.com/publisher/spec/)                        | Job search engine                                                               | `apiKey` |  No   | Unknown |
+|                      [Himalayas](https://himalayas.app/api)                               | Remote job board and search engine                                              |    No    |  Yes  |   Yes   |
+|                        [Jobicy](https://jobicy.com/jobs-rss-feed)                         | The latest remote job listings from a diverse range of industries and companies |    No    |  Yes  |   Yes   |
+|                 [Jobs2Careers](http://api.jobs2careers.com/api/spec.pdf)                  | Job aggregator                                                                  | `apiKey` |  Yes  | Unknown |
+| [JobsPipe](https://jobspipe.dev)                                                          | Job postings from 30+ ATS and job boards, deduplicated into one schema with salary, seniority and tech stack fields | `apiKey` | Yes | Yes |
+|                       [Juju](http://www.juju.com/publisher/spec/)                         | Job search engine                                                               | `apiKey` |  No   | Unknown |
 | [Open Skills](https://github.com/workforce-data-initiative/skills-api/wiki/API-Overview) | Job titles, skills and related jobs data                                        |    No    |  No   | Unknown |
-| [PayCrunch](https://paycrunch.co/api.html) | US wages for 1,008 occupations nationally and by state, from BLS OEWS May 2025, static JSON, CC BY 4.0 | No | Yes | Yes |
+| [PayCrunch](https://paycrunch.co/api.html)                                               | US wages for 1,008 occupations nationally and by state, from BLS OEWS May 2025, static JSON, CC BY 4.0 | No | Yes | Yes |
 |                        [Reed](https://www.reed.co.uk/developers)                         | Job board aggregator                                                            | `apiKey` |  Yes  | Unknown |
+| [Remote Tech Jobs & Tenders](https://rapidapi.com/frankhoran07/api/remote-tech-jobs-salary-index) | Normalized remote tech jobs, salary benchmarks, and Canadian procurement tenders | `apiKey` | Yes | Yes |
 |                [Search.gov Jobs](https://search.gov/developer/jobs.html)                 | Tap into a list of current jobs openings with the United States government      |    No    |  Yes  | Unknown |
-|                  [The Muse](https://www.themuse.com/developers/api/v2)                   | Job board and company profiles                                                  | `apiKey` |  Yes  | Unknown |
-|                         [Upwork](https://developers.upwork.com/)                         | Freelance job board and management system                                       | `OAuth`  |  Yes  | Unknown |
-|                        [USAJOBS](https://developer.usajobs.gov/)                         | US government job board                                                         | `apiKey` |  Yes  | Unknown |
-|                       [Worklittle](https://docs.worklittle.com)                       | Job search, over 4 million jobs                                                 | `apiKey` |  Yes  |   Yes   |
+|                  [The Muse](https://www.themuse.com/developers/api/v2)                    | Job board and company profiles                                                  | `apiKey` |  Yes  | Unknown |
+|                         [Upwork](https://developers.upwork.com/)                          | Freelance job board and management system                                       | `OAuth`  |  Yes  | Unknown |
+|                        [USAJOBS](https://developer.usajobs.gov/)                          | US government job board                                                         | `apiKey` |  Yes  | Unknown |
+|                       [Worklittle](https://docs.worklittle.com)                           | Job search, over 4 million jobs                                                 | `apiKey` |  Yes  |   Yes   |
 |                 [ZipRecruiter](https://www.ziprecruiter.com/publishers)                  | Job search app and website                                                      | `apiKey` |  Yes  | Unknown |
 
 **[⬆ Back to Index](#index)**
