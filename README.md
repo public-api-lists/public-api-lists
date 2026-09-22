@@ -876,6 +876,7 @@
 | :-------------------------------------------------------------: | ---------------------------------------------------------------------- | :------: | :---: | :-----: |
 |            [Advice Slip](http://api.adviceslip.com/)            | Generate random advice slips                                           |    No    |  Yes  | Unknown |
 |          [chucknorris.io](https://api.chucknorris.io)           | JSON API for hand curated Chuck Norris jokes                           |    No    |  Yes  | Unknown |
+| [CosmyDay](https://cosmyday.com/api-docs) | Planetary positions, moon phases, eclipses and retrogrades computed from the Swiss Ephemeris | No | Yes | Yes |
 |     [Deckaura Horoscope](https://horoscope.deckaura.com)       | Daily horoscope readings for all 12 zodiac signs (overview, love, career, lucky number) updated daily at 00:00 UTC |    No    |  Yes  |   Yes   |
 |              [Echoes](https://echoes.soferity.com)              | Quotes From Around The World                                           |    No    |  Yes  |   Yes   |
 |               [FavQs.com](https://favqs.com/api)                | FavQs allows you to collect, discover and share your favorite quotes   | `apiKey` |  Yes  | Unknown |
