@@ -354,6 +354,7 @@
 |                                [PHPhub](https://phphub.net/linter/)                                 | Validate PHP code                                                                                   |       No        |  Yes  |   Yes   |
 |                             [Postman](https://docs.api.getpostman.com/)                             | Tool for testing APIs                                                                               |    `apiKey`     |  Yes  | Unknown |
 | [Prismix](https://prismix.dev/api/v1/statuses) | Real-time uptime for 77 AI APIs (OpenAI, Anthropic, Cursor, Gemini) — free JSON endpoint, no auth required | No | Yes | Yes |
+| [Proxmint Free Proxies](https://proxmint.com/free-proxies#api) | Free live-tested proxy list (HTTP/HTTPS/SOCKS4/SOCKS5), revalidated every 30 min, JSON or txt | No | Yes | Yes |
 |                                [ProxyCrawl](https://proxycrawl.com)                                 | Scraping and crawling anticaptcha service                                                           |    `apiKey`     |  Yes  | Unknown |
 |                      [Public APIs](https://github.com/davemachado/public-api)                       | A collective list of free JSON APIs for use in web development                                      |       No        |  Yes  | Unknown |
 |                              [Pusher Beams](https://pusher.com/beams)                               | Push notifications for Android & iOS                                                                |    `apiKey`     |  Yes  | Unknown |
