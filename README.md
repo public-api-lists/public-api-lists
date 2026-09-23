@@ -59,8 +59,6 @@
 |                               [HTTP Dogs](https://http.dog/)                               | Dogs for every HTTP status code            |    No    |  Yes  | Unknown |
 |                                [HTTPCat](https://http.cat/)                                | Cat for every HTTP Status                  |    No    |  Yes  | Unknown |
 |                  [Movebank](https://github.com/movebank/movebank-api-doc)                  | Movement and Migration data of animals     |    No    |  Yes  | Unknown |
-|                         [Open Dog Registry](https://registry.dog/)                         | Adoption                                   | `OAuth`  |  Yes  |   Yes   |
-|                 [Petfinder](https://www.petfinder.com/developers/v2/docs/)                 | Information and images of dog breeds       |    No    |  Yes  |   Yes   |
 |                         [RandomDog](https://random.dog/woof.json)                          | Random pictures of dogs                    |    No    |  Yes  |   Yes   |
 |                          [RandomFox](https://randomfox.ca/floof/)                          | Random pictures of foxes                   |    No    |  Yes  |   No    |
 | [RescueGroups](https://userguide.rescuegroups.org/display/APIDG/API+Developers+Guide+Home) | Adoption                                   |    No    |  Yes  | Unknown |
