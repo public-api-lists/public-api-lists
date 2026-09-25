@@ -485,6 +485,7 @@
 |           [CommodityPriceAPI](https://commoditypriceapi.com/)            | Real-time & historical commodity prices (metals, energy, etc) | `apiKey` |  Yes  | Unknown |
 | [Congressional Stock Brain](https://congressionalstockbrain.com) | AI-powered tool scoring U.S. STOCK Act lawmaker trade disclosures for retail investors | No | Yes | Yes |
 |             [Earnings Feed](https://earningsfeed.com/api)                | Real-time SEC filings, insider trades, and institutional holdings | `apiKey` |  Yes  |   No    |
+| [Eulerpool](https://eulerpool.com/developers) | Global stock, ETF, macro, crypto and FX data with fundamentals and history | `apiKey` | Yes | Yes |
 | [FilingFirehose](https://filingfirehose.com) | Structured SEC EDGAR filings with body-text-classified 8-Ks, activist-tagged 13D/G, and ATM-offering detection in S-3 / 424B5 | No | Yes | Yes |
 | [Filingrail](https://filingrail.hudsonenterprisesllc.com) | SEC EDGAR filings, XBRL financials, Form 4 insider trades, 8-K events and 13F holdings | `apiKey` | Yes | Unknown |
 |               [Financial Data](https://financialdata.net/)               | Stock Market and Financial Data                               | `apiKey` |  Yes  | Unknown |
