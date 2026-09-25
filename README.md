@@ -185,6 +185,7 @@
 |        [Mega.nz](https://mega.io/developers)         | File Sharing And Storage |    No    |  Yes  | Unknown |
 |        [OneDrive](https://dev.onedrive.com/)         | File Sharing and Storage | `OAuth`  |  Yes  | Unknown |
 |        [Pastebin](https://pastebin.com/api/)         | Plain Text Storage       | `apiKey` |  Yes  | Unknown |
+| [Revdoku](https://revdoku.com/api.md) | File storage, version history, sharing and incoming email attachments | `apiKey` | Yes | Unknown |
 |   [WeTransfer](https://developers.wetransfer.com)    | File Sharing             | `apiKey` |  Yes  |   Yes   |
 
 **[⬆ Back to Index](#index)**
