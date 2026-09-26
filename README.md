@@ -806,6 +806,7 @@
 
 |                                 API                                 | Description                                                                                 |   Auth   | HTTPS |  CORS   |
 | :-----------------------------------------------------------------: | ------------------------------------------------------------------------------------------- | :------: | :---: | :-----: |
+| [AllNewsAPI](https://allnewsapi.com/) | Real-time and historical news and top headlines from global sources with AI sentiment and entity filtering | `apiKey` | Yes | Yes |
 |            [Associated Press](https://developer.ap.org/)            | Search for news and metadata from Associated Press                                          | `apiKey` |  Yes  | Unknown |
 | [Chronicling America](http://chroniclingamerica.loc.gov/about/api/) | Provides access to millions of pages of historic US newspapers from the Library of Congress |    No    |  No   | Unknown |
 |              [Currents](https://currentsapi.services/)              | Latest news published in various news sources, blogs and forums                             | `apiKey` |  Yes  |   Yes   |
