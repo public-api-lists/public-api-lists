@@ -147,6 +147,7 @@
 |                   [markerapi](http://www.markerapi.com/)                   | Trademark Search                                                          |    No    |  No   | Unknown |
 |          [Mydentify](https://mydentify.com/openapi.json)                   | Discover software by task through structured product directories and weekly leaderboards |    No    |  Yes  |   Yes   |
 |              [SCALA Score](https://score.get-scala.com)                    | Search 250M+ company records across 50+ countries with revenue, employees, and credit scores |    No    |  Yes  | Unknown |
+| [SendRaven](https://sendraven.ai/docs/api) | Email API for AI agents: send email, receive replies as threads, with per-key send limits and approvals | `apiKey` | Yes | No |
 |                  [Tomba Email finder](https://tomba.io/)                   | Email Finder for B2B sales and email marketing                            | `apiKey` |  Yes  |   Yes   |
 |                  [Trello](https://developers.trello.com/)                  | Boards, lists and cards to help you organize and prioritize your projects | `OAuth`  |  Yes  | Unknown |
 
