@@ -1006,6 +1006,7 @@
 |                  [Twitch](https://dev.twitch.tv/docs)                  | Game Streaming API                                                                                | `OAuth`  |  Yes  | Unknown |
 |            [Twitter](https://developer.twitter.com/en/docs)            | Read and write Twitter data                                                                       | `OAuth`  |  Yes  |   No    |
 |                  [TwitterApi](http://twitterapi.io/)                   | Mass Twitter data read API                                                                        | `apiKey` |  Yes  |   No    |
+|              [Upload-Post](https://www.upload-post.com)                | API to publish and schedule videos, photos and text posts to TikTok, Instagram, YouTube, X and more | `apiKey` |  Yes  |   Yes   |
 |                     [vk](https://vk.com/dev/sites)                     | Read and write vk data                                                                            | `OAuth`  |  Yes  | Unknown |
 |       [Xquik](https://docs.xquik.com/api-reference/overview)           | X/Twitter data for tweets, profiles, search, and trends                                           | `apiKey` |  Yes  | Unknown |
 
