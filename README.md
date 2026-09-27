@@ -318,6 +318,7 @@
 |                          [FontDownloader](https://fontdownloader.org/#API)                          | A hassle free API for managing web fonts provided by Google Fonts                                   |       No        |  Yes  |   Yes   |
 |                                [Genderize.io](https://genderize.io)                                 | Estimates a gender from a first name                                                                |       No        |  Yes  |   Yes   |
 |                             [GitHub](https://developer.github.com/v3/)                              | Make use of GitHub repositories, code and user info programmatically                                |     `OAuth`     |  Yes  |   Yes   |
+| [GitHub Stats Card](https://167.233.135.161:8083) | Generate beautiful GitHub profile stats cards as SVG for READMEs |  No  |  Yes  |  Yes |
 |                              [Gitlab](https://docs.gitlab.com/ee/api/)                              | Automate GitLab interaction programmatically                                                        |     `OAuth`     |  Yes  | Unknown |
 |                             [Gitter](https://github.com/gitterHQ/docs)                              | Chat for GitHub                                                                                     |     `OAuth`     |  Yes  | Unknown |
 |                                   [GoQR](http://goqr.me/api/)                                    | Generate and decode / read QR code graphics                                                         |       No        |  Yes  | Unknown |
@@ -427,7 +428,8 @@
 |                    [Pocket](https://getpocket.com/developer/)                     | Bookmarking service                                            | `OAuth`  |  Yes  | Unknown |
 |                         [PrexView](https://prexview.com)                          | Data from XML or JSON to PDF, HTML or Image                    | `apiKey` |  Yes  | Unknown |
 |                         [Restpack](https://restpack.io/)                          | Provides screenshot, HTML to PDF and content extraction APIs   | `apiKey` |  Yes  | Unknown |
-|                     [Todoist](https://developer.todoist.com)                      | Todo Lists                                                     | `OAuth`  |  Yes  | Unknown |
+| [Web2MD](https://167.233.135.161:9999/) | Convert any public URL to clean, readable Markdown with one GET request | No | Yes | Yes |
+|                    [Todoist](https://developer.todoist.com)                      | Todo Lists                                                     | `OAuth`  |  Yes  | Unknown |
 |                      [Vector Express](http://vector.express)                      | Free vector file converting API                                |    No    |  No   |   Yes   |
 |               [Vertopal](https://www.vertopal.com/en/developer/api)               | Convert files using Vertopal API                               | `apiKey` |  Yes  |   No    |
 |                    [WakaTime](https://wakatime.com/developers)                    | Automated time tracking leaderboards for programmers           |    No    |  Yes  | Unknown |
