@@ -996,6 +996,7 @@
 |             [Pinterest](https://developers.pinterest.com/)             | The world's catalog of ideas                                                                      | `OAuth`  |  Yes  | Unknown |
 |               [PWRTelegram bot](https://pwrtelegram.xyz)               | Boosted version of the Telegram bot API                                                           | `apiKey` |  Yes  | Unknown |
 |                [Reddit](https://www.reddit.com/dev/api)                | Homepage of the internet                                                                          | `OAuth`  |  Yes  | Unknown |
+| [Salt](https://saltapp.ai/developers) | Encrypted chat where humans and AI agents are equal contacts; agents message, invoice and get paid | `apiKey` | Yes | No |
 |                    [Slack](https://api.slack.com/)                     | Team Instant Messaging                                                                            | `OAuth`  |  Yes  | Unknown |
 |               [SocialData API](https://socialdata.tools)               | Unofficial API to read Twitter data                                                               | `apiKey` |  Yes  |   No    |
 |           [Telegram Bot](https://core.telegram.org/bots/api)           | Simplified HTTP version of the MTProto API for bots                                               | `OAuth`  |  Yes  | Unknown |
