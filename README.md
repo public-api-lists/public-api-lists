@@ -809,6 +809,7 @@
 |            [Associated Press](https://developer.ap.org/)            | Search for news and metadata from Associated Press                                          | `apiKey` |  Yes  | Unknown |
 | [Chronicling America](http://chroniclingamerica.loc.gov/about/api/) | Provides access to millions of pages of historic US newspapers from the Library of Congress |    No    |  No   | Unknown |
 |              [Currents](https://currentsapi.services/)              | Latest news published in various news sources, blogs and forums                             | `apiKey` |  Yes  |   Yes   |
+| [daily.dev](https://docs.daily.dev/public-api/) | Developer news feeds, posts, bookmarks, tags and search from daily.dev | `apiKey` | Yes | No |
 |          [Feedbin](https://github.com/feedbin/feedbin-api)          | RSS reader                                                                                  | `OAuth`  |  Yes  | Unknown |
 |                   [Finlight](https://finlight.me)                   | Realtime financial news with sentiment and article content                                  | `apiKey` |  Yes  |   Yes   |
 |          [New York Times](https://developer.nytimes.com/)           | Provides news                                                                               | `apiKey` |  Yes  | Unknown |
