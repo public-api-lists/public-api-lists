@@ -685,6 +685,7 @@
 |                            [Code.gov](https://code.gov)                             | The primary platform for Open Source and code sharing for the U.S. Federal Government     | `apiKey` |  Yes  | Unknown |
 |                  [Colorado Data Engine](http://codataengine.org/)                   | Formatted and geolocated Colorado public data                                             |    No    |  Yes  | Unknown |
 |           [Colorado Information Marketplace](https://data.colorado.gov/)            | Colorado State Government Open Data                                                       |    No    |  Yes  | Unknown |
+| [Court Rules](https://www.courtrules.app/api) | Free reference for U.S. federal court rules, local rules, judge standing orders and court holidays, with a deadline calculator | `apiKey` | Yes | Unknown |
 |                       [Crime Brasil](https://crimebrasil.com.br)                    | Brazilian public-safety data — 3M geocoded crime incidents, PRF highway accidents, DATASUS violence (CC BY 4.0) |    No    |  Yes  | Unknown |
 |                          [Data.gov](https://api.data.gov/)                          | US Government Data                                                                        | `apiKey` |  Yes  | Unknown |
 |      [District of Columbia Open Data](http://opendata.dc.gov/pages/using-apis)      | Contains D.C. government public datasets, including crime, GIS, financial data, and so on |    No    |  Yes  | Unknown |
