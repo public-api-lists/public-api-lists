@@ -1044,6 +1044,7 @@
 | :---------------------------------------------------------------------------: | ----------------------------------------------------------- | :------: | :---: | :-----: |
 |                [Bacon Ipsum](https://baconipsum.com/json-api/)                | A Meatier Lorem Ipsum Generator                             |    No    |  Yes  | Unknown |
 | [Beeceptor's CRUD APIs](https://beeceptor.com/crud-api/?ref=public-api-lists) | Free stateful CRUD APIs                                     |    No    |  Yes  |   Yes   |
+| [DataMockSeed](https://datamockseed.firstflip.es/docs?utm_source=public-api-lists) | Fictional Spanish test data (DNI, IBAN, cards) with valid checksums and reproducible seeds | No | Yes | Yes |
 |               [Dicebear Avatars](https://avatars.dicebear.com/)               | Generate random pixel-art avatars                           |    No    |  Yes  |   No    |
 |                       [FakeJSON](https://fakejson.com)                        | Service to generate test and fake data                      | `apiKey` |  Yes  |   Yes   |
 |                   [FakeNamely](https://fakenamely.com/api)                    | Fictional identities, addresses and names for tests         |    No    |  Yes  |   Yes   |
