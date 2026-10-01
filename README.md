@@ -370,6 +370,7 @@
 |                                   [SerpApi](https://serpapi.com/)                                   | Scrape Google and other search engines with a simple API                                                               |    `apiKey`     |  Yes  |   No    |
 |                          [Shadify](https://github.com/cheatsnake/shadify)                           | Service for generating data and executing logic to create various games and puzzles                 |       No        |  Yes  |   Yes   |
 |                                 [SHOUTCLOUD](http://shoutcloud.io/)                                 | ALL-CAPS AS A SERVICE                                                                               |       No        |  No   | Unknown |
+| [SnapForge](https://snapforge-hq.netlify.app) | Screenshot, PDF and Open Graph image generation API | `apiKey` | Yes | Yes |
 | [SpryTools Screenshot](https://sprytools.com/apis/screenshot) | Capture full-page or viewport website screenshots (PNG/JPEG/WebP) | `apiKey` | Yes | Unknown |
 | [SpryTools Web Scraping](https://sprytools.com/apis/scraping) | Extract HTML/text/CSS-selector data, Cloudflare-bypass | `apiKey` | Yes | Unknown |
 |                              [SQLable](https://sqlable.com/validator/)                              | Validate SQL query                                                                                  |       No        |  Yes  |   Yes   |
