@@ -1193,6 +1193,7 @@
 |                                [TVMaze](http://www.tvmaze.com/api)                                 | TV Show Data                                                                                                     |    No    |  No   | Unknown |
 |                             [VidWords](https://vidwords.com/api-docs)                              | YouTube transcripts and subtitles as TXT, SRT, VTT or DOCX, plus AI video analysis                               | `apiKey` |  Yes  |   No    |
 |                               [Vimeo](https://developer.vimeo.com/)                                | Vimeo Developer API                                                                                              | `OAuth`  |  Yes  | Unknown |
+|                                 [VideoGen](https://docs.videogen.io)                                 | Generate and edit videos through the VideoGen developer API                                                      | `apiKey` |  Yes  | Unknown |
 |                         [YouTube](https://developers.google.com/youtube/)                          | Add YouTube functionality to your sites and apps                                                                 | `OAuth`  |  Yes  | Unknown |
 
 **[⬆ Back to Index](#index)**
