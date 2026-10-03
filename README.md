@@ -427,6 +427,7 @@
 |                    [Pocket](https://getpocket.com/developer/)                     | Bookmarking service                                            | `OAuth`  |  Yes  | Unknown |
 |                         [PrexView](https://prexview.com)                          | Data from XML or JSON to PDF, HTML or Image                    | `apiKey` |  Yes  | Unknown |
 |                         [Restpack](https://restpack.io/)                          | Provides screenshot, HTML to PDF and content extraction APIs   | `apiKey` |  Yes  | Unknown |
+| [thirds.ai](https://thirds.ai/docs/api) | Create branded PDFs and images from HTML or reusable templates | `apiKey` | Yes | No |
 |                     [Todoist](https://developer.todoist.com)                      | Todo Lists                                                     | `OAuth`  |  Yes  | Unknown |
 |                      [Vector Express](http://vector.express)                      | Free vector file converting API                                |    No    |  No   |   Yes   |
 |               [Vertopal](https://www.vertopal.com/en/developer/api)               | Convert files using Vertopal API                               | `apiKey` |  Yes  |   No    |
