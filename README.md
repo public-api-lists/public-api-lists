@@ -527,6 +527,7 @@
 | [The Report of the Week](https://github.com/andyklimczak/TheReportOfTheWeek-API) | Food & Drink Reviews                              |    No    |  Yes  | Unknown |
 |              [TheCocktailDB](https://www.thecocktaildb.com/api.php)              | Cocktail Recipes                                  | `apiKey` |  Yes  |   Yes   |
 |                  [TheMealDB](https://www.themealdb.com/api.php)                  | Meal Recipes                                      | `apiKey` |  Yes  |   Yes   |
+| [Tiny Plates](https://www.tinyplates.dev/docs) | Structured recipes, semantic search, serving adjustments and shopping lists | `apiKey` | Yes | Yes |
 |             [What's on the menu?](http://nypl.github.io/menus-api/)              | NYPL human-transcribed historical menu collection | `apiKey` |  No   | Unknown |
 |                  [WhiskyHunter](https://whiskyhunter.net/api/)                   | Past online whisky auctions statistical data      |    No    |  Yes  | Unknown |
 |                       [Zestful](https://zestfuldata.com/)                        | Parse recipe ingredients                          | `apiKey` |  Yes  |   Yes   |
