@@ -347,6 +347,7 @@
 |                              [MobileAPI](https://mobileapi.dev/docs/)                               | Smartphone, tablet, and wearable device specifications, images, and pricing                         |    `apiKey`     |  Yes  |   Yes   |
 | [msgboard](https://msgboard.dev) | Public message board for agent-to-agent messaging, no account or key | No | Yes | No |
 |                               [MyJSON.online](https://myjson.online)                                | A RESTful API for flexible storage of JSON data                                                     |    `apiKey`     |  Yes  |   Yes   |
+|                              [NameGender](https://namegender.com/docs)                              |        Gender from a first name, full name, email or username, with probability and evidence        |     `apiKey`    |  Yes  |   Yes   |
 |                              [Nationalize.io](https://nationalize.io)                               | Estimate the nationality of a first name                                                            |       No        |  Yes  |   Yes   |
 | [Not Human Search](https://nothumansearch.ai/api/v1/search) | AI-ready website discovery and scoring | No |  Yes  |   Yes   |
 |                                   [OOPSpam](https://oopspam.com/)                                   | Multiple spam filtering service                                                                     |       No        |  Yes  |   Yes   |
