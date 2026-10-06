@@ -705,6 +705,7 @@
 |                   [Open Government, Taiwan](https://data.gov.tw/)                   | Taiwan Government Open Data                                                               |    No    |  Yes  | Unknown |
 |                    [Open Government, USA](https://www.data.gov/)                    | United States Government Open Data                                                        |    No    |  Yes  | Unknown |
 |          [OpenMercantil](https://openmercantil.es/api/documentacion)                  | Spanish company public data and BORME event timelines                                     |    No    |  Yes  |   Yes   |
+| [ParcelGPS](https://www.parcelgps.com/en/developers) | European cadastral parcels (29 countries) by reference or point: coordinates, area, land use and GeoJSON geometry | `apiKey` | Yes | Yes |
 |                      [PermisAPI](https://permisapi.fr)                               | 311k French building permits (Sitadel) with geocoding, webhooks, Python SDK               | `apiKey` |  Yes  |   Yes   |
 |                      [PolitiData](https://politidata.ca)                            | Canadian political financing, lobbying registrations and communications                    | `apiKey` |  Yes  | Unknown |
 |                     [ProcureData](https://procuredata.ca)                           | Canadian federal procurement contracts, tenders and awards                                 | `apiKey` |  Yes  | Unknown |
