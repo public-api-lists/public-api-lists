@@ -769,6 +769,7 @@
 | [HOL Registry Broker](https://hol.org/docs/registry-broker/) | Search and verify AI agents & MCP servers | `apiKey` |  Yes  |   Yes   |
 |                            [Keen IO](https://keen.io/)                            | Data Analytics                                          | `apiKey` |  Yes  | Unknown |
 |                  [Kiprio AI Content Detector](https://kiprio.com/ai-detect-api)                   | Detect AI-generated text with per-sentence confidence scoring         | `apiKey` |  Yes  |   Yes   |
+| [Neuronto ARD Registry](https://neuronto.com/api-docs) | Search MCP servers, A2A agents, skills and APIs across Agentic Resource Discovery registries | No | Yes | Yes |
 |                         [Replicate](https://replicate.com/docs/reference/http)    | Run and deploy machine learning models in the cloud     | `apiKey` |  Yes  |   Yes   |
 |                     [Unplugg](https://unplu.gg/test_api.html)                     | Forecasting API for timeseries data                     | `apiKey` |  Yes  | Unknown |
 |                             [Wit.ai](https://wit.ai/)                             | Natural Language Processing                             | `OAuth`  |  Yes  | Unknown |
