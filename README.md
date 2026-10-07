@@ -769,6 +769,7 @@
 | [HOL Registry Broker](https://hol.org/docs/registry-broker/) | Search and verify AI agents & MCP servers | `apiKey` |  Yes  |   Yes   |
 |                            [Keen IO](https://keen.io/)                            | Data Analytics                                          | `apiKey` |  Yes  | Unknown |
 |                  [Kiprio AI Content Detector](https://kiprio.com/ai-detect-api)                   | Detect AI-generated text with per-sentence confidence scoring         | `apiKey` |  Yes  |   Yes   |
+| [MapleAI Embeddings](https://sol.mapleai.shop/free-embeddings) | Free 2048-dim text embeddings (NVIDIA Nemotron Embed 1B), OpenAI-compatible, up to 128 texts per request | No | Yes | No |
 |                         [Replicate](https://replicate.com/docs/reference/http)    | Run and deploy machine learning models in the cloud     | `apiKey` |  Yes  |   Yes   |
 |                     [Unplugg](https://unplu.gg/test_api.html)                     | Forecasting API for timeseries data                     | `apiKey` |  Yes  | Unknown |
 |                             [Wit.ai](https://wit.ai/)                             | Natural Language Processing                             | `OAuth`  |  Yes  | Unknown |
