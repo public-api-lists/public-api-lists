@@ -924,6 +924,7 @@
 |                                      API                                       | Description                                                                                             |   Auth   | HTTPS |  CORS   |
 | :----------------------------------------------------------------------------: | ------------------------------------------------------------------------------------------------------- | :------: | :---: | :-----: |
 |                   [arcsecond.io](https://api.arcsecond.io/)                    | Multiple astronomy data sources                                                                         |    No    |  Yes  | Unknown |
+| [Chempirical](https://chempirical.com/api/) | Chemical compounds with physical data, reactions and substructure search | No | Yes | Yes |
 |                    [CORE](https://core.ac.uk/services#api)                     | Access the world's Open Access research papers                                                          | `apiKey` |  Yes  | Unknown |
 |                        [GBIF](http://api.gbif.org/v1/)                         | Global Biodiversity Information Facility                                                                |    No    |  Yes  |   Yes   |
 |         [iDigBio](https://github.com/idigbio/idigbio-search-api/wiki)          | Access millions of museum specimens from organizations around the world                                 |    No    |  Yes  | Unknown |
