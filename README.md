@@ -841,6 +841,7 @@
 |       [Recreation Information Database](https://ridb.recreation.gov/)       | Recreational areas, federal lands, historic sites, museums, and other attractions/resources(US)    | `apiKey` |  Yes  | Unknown |
 | [Rope Drop News](https://ropedropnews.com/developers) | Live Disney and Universal theme park wait times, ride reliability, crowds, and Lightning Lane prices | No | Yes | No |
 |                     [Scoop.it](http://www.scoop.it/dev)                     | Content Curation Service                                                                           | `apiKey` |  No   | Unknown |
+|                    [SlashYear](https://slashyear.com/api)                   | Dated historical events by year, day or subject, each quoted from a cited Wikipedia revision       |    No    |  Yes  |   Yes   |
 |    [Universities List](https://github.com/Hipo/university-domains-list)     | University names, countries and domains                                                            |    No    |  Yes  | Unknown |
 |                 [University of Oslo](https://data.uio.no/)                  | Courses, lecture videos, detailed information for courses etc. for the University of Oslo (Norway) |    No    |  Yes  | Unknown |
 |                 [UPC database](https://upcdatabase.org/api)                 | More than 1.5 million barcode numbers from all around the world                                    | `apiKey` |  Yes  | Unknown |
