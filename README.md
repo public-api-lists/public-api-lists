@@ -1031,6 +1031,7 @@
 |       [NHL Records and Stats](https://gitlab.com/dword4/nhlapi)       | NHL historical data and statistics                                                          |       No        |  Yes  | Unknown |
 |               [ParlayAPI](https://parlay-api.com/docs)                | Sports betting odds and player props from 30+ sportsbooks plus Kalshi and Polymarket |    `apiKey`     |  Yes  |   Yes   |
 |               [PropLine](https://prop-line.com)                | Real-time player-props betting odds with graded prop resolution across 13 books incl. Pinnacle |    `apiKey`     |  Yes  | Unknown |
+|     [Realtime Sports](https://www.realtimesportsapi.com/docs)     | Live scores, play-by-play, schedules and odds for NFL, NBA, MLB, NHL, NCAA and soccer |    `apiKey`     |  Yes  |   Yes   |
 |               [SharpAPI](https://docs.sharpapi.io)                | Real-time sports betting odds from 20+ sportsbooks with +EV detection                      |    `apiKey`     |  Yes  |   Yes   |
 |                [Strava](https://strava.github.io/api/)                | Connect with athletes, activities and more                                                  |     `OAuth`     |  Yes  | Unknown |
 |          [TheSportsDB](https://www.thesportsdb.com/api.php)           | Crowd-Sourced Sports Data and Artwork                                                       |    `apiKey`     |  Yes  |   Yes   |
