@@ -710,6 +710,7 @@
 |                     [ProcureData](https://procuredata.ca)                           | Canadian federal procurement contracts, tenders and awards                                 | `apiKey` |  Yes  | Unknown |
 |             [Represent by Open North](https://represent.opennorth.ca/)              | Find Canadian Government Representatives                                                  |    No    |  Yes  | Unknown |
 |               [State, New York State Opendata](https://data.ny.gov/)               | New York State Open Data                                                                  | `OAuth`  |  Yes  | Unknown |
+| [Travel Risk](https://travelriskapi.com/docs/risk) | Government travel advisories, disaster and conflict alerts and country risk scores | `apiKey` | Yes | Yes |
 |                   [USAspending.gov](https://api.usaspending.gov/)                   | US federal spending data                                                                  |    No    |  Yes  | Unknown |
 | [Watercare IGC (NZ)](https://devstack.co.nz/calculators/watercare-icg) | Auckland water and wastewater Infrastructure Growth Charge calculations | No | Yes | Yes |
 | [Zornade](https://zornade.com/api-particelle-catastali) | Italian cadastral parcels enriched with hydrogeological risk, OMI valuations, demographics and land cover across 85M parcels | `apiKey` | Yes | Unknown |
@@ -1133,6 +1134,7 @@
 |                              [Transport for The Netherlands](http://www.ns.nl/reisinformatie/ns-api)                               | NS, only trains                                                                                  | `apiKey` |  No   | Unknown |
 |                        [Transport for United States](http://www.nextbus.com/xmlFeedDocs/NextBusXMLFeed.pdf)                        | NextBus API                                                                                      |    No    |  No   | Unknown |
 |                                    [Transport for Washington, US](https://developer.wmata.com/)                                    | Washington Metro transport API                                                                   | `OAuth`  |  Yes  | Unknown |
+| [Travel Risk Aviation](https://api.travelriskapi.com/ext/reference/) | Flight status, airports, airlines, airline safety and in-flight Wi-Fi data | `apiKey` | Yes | Yes |
 |                                          [VOLO](https://www.flyvolo.ai/for-agents)                                                 | Private aviation charter search, quotes, fleet, and empty legs                                   | `apiKey` |  Yes  |   Yes   |
 
 **[⬆ Back to Index](#index)**
