@@ -753,6 +753,7 @@
 |                  [The Muse](https://www.themuse.com/developers/api/v2)                   | Job board and company profiles                                                  | `apiKey` |  Yes  | Unknown |
 |                         [Upwork](https://developers.upwork.com/)                         | Freelance job board and management system                                       | `OAuth`  |  Yes  | Unknown |
 |                        [USAJOBS](https://developer.usajobs.gov/)                         | US government job board                                                         | `apiKey` |  Yes  | Unknown |
+| [Wadifa Info](https://www.wadifa-info.com/developpeurs) | Morocco public-sector job competitions (concours) and civil-service salaries by grade, JSON, CC BY 4.0 | No | Yes | Yes |
 |                       [Worklittle](https://docs.worklittle.com)                       | Job search, over 4 million jobs                                                 | `apiKey` |  Yes  |   Yes   |
 |                 [ZipRecruiter](https://www.ziprecruiter.com/publishers)                  | Job search app and website                                                      | `apiKey` |  Yes  | Unknown |
 
