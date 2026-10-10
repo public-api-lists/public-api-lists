@@ -204,6 +204,7 @@
 |                                   API                                    | Description                                                                                                                        |   Auth   | HTTPS |  CORS   |
 | :----------------------------------------------------------------------: | ---------------------------------------------------------------------------------------------------------------------------------- | :------: | :---: | :-----: |
 | [Binance](https://github.com/binance-exchange/binance-official-api-docs) | Exchange for Trading Cryptocurrencies based in China                                                                               | `apiKey` |  Yes  | Unknown |
+| [Bitcoin Barometer](https://nakamotonotes.com/open) | Bitcoin market-cycle Heat Score (0-100) from 8 indicators; on-chain inputs computed from own node | No | Yes | Yes |
 | [Bitcoin Halving](https://why21million.com/halving-api/) | Halving era, block reward, and schedule arithmetic for any Bitcoin block height | No | Yes | Yes |
 |                 [Bithumb](https://apidocs.bithumb.com/)                  | Cryptocurrency Trading Platform                                                                                                    | `apiKey` |  Yes  | Unknown |
 |             [Bitmex](https://www.bitmex.com/app/apiOverview)             | Real-Time Cryptocurrency derivatives trading platform based in Hong Kong                                                           | `apiKey` |  Yes  | Unknown |
