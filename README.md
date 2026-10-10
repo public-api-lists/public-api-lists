@@ -361,6 +361,7 @@
 |                          [QR Code](https://fungenerators.com/api/qrcode/)                           | Create new QR Code or decode existing one                                                           |    `apiKey`     |  Yes  |   Yes   |
 | [QR Code Crafter](https://qrcodecrafter.com/qr-code-api) | Generate static QR code assets in SVG, PNG, JPG, WebP, PDF, or EPS | No | Yes | Yes |
 |                                  [QR Tag](http://qrtag.net/api/)                                   | Create an easy to read QR code and URL shortener                                                    |       No        |  Yes  |   Yes   |
+| [QRX](https://qrx.codes/developers) | Artistic, branded QR codes from a text prompt and a link, checked to scan | `apiKey` | Yes | No |
 |                                [QuickChart](https://quickchart.io/)                                 | Generate chart and graph images                                                                     |       No        |  Yes  |   Yes   |
 |                                    [ReqRes](https://reqres.in/)                                     | A hosted REST-API ready to respond to your AJAX requests                                            |       No        |  Yes  | Unknown |
 |                              [ScraperApi](https://www.scraperapi.com)                               | Easily build scalable web scrapers                                                                  |    `apiKey`     |  Yes  | Unknown |
