@@ -258,7 +258,7 @@
 |                               [Frankfurter](https://www.frankfurter.app/docs)                                | Exchange rates, currency conversion and time series                |    No    |  Yes  |   Yes   |
 |                                   [FXMacroData](https://fxmacrodata.com)                                    | Real-time forex macroeconomic data from central bank announcements | `apiKey` |  Yes  |   Yes   |
 |                                    [FxRatesAPI](https://fxratesapi.com/)                                     | Real-time exchange rates, historical rates and currency conversion | `apiKey` |  Yes  |   No    |
-|                                       [ratesapi](https://ratesapi.io)                                        | Free exchange rates and historical rates                           |    No    |  Yes  | Unknown |
+|                [AllRatesToday Central Bank Rates](https://allratestoday.com/central-bank-rates-api/)              | Official central-bank reference rates (121 banks), keyless         |    No    |  Yes  |   Yes   |
 
 **[⬆ Back to Index](#index)**
 
