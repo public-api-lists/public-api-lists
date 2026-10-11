@@ -688,6 +688,7 @@
 |                       [Crime Brasil](https://crimebrasil.com.br)                    | Brazilian public-safety data — 3M geocoded crime incidents, PRF highway accidents, DATASUS violence (CC BY 4.0) |    No    |  Yes  | Unknown |
 |                          [Data.gov](https://api.data.gov/)                          | US Government Data                                                                        | `apiKey` |  Yes  | Unknown |
 |      [District of Columbia Open Data](http://opendata.dc.gov/pages/using-apis)      | Contains D.C. government public datasets, including crime, GIS, financial data, and so on |    No    |  Yes  | Unknown |
+| [Election.org](https://election.org/data/api) | Source-linked U.S. election and civic records with documented coverage limits | No | Yes | Yes |
 |                   [EPA](https://www.epa.gov/developers)                   | Web services and data sets from the US Environmental Protection Agency                    |    No    |  Yes  | Unknown |
 |                     [FEC](https://api.open.fec.gov/developers/)                     | Information on campaign donations in federal elections                                    | `apiKey` |  Yes  | Unknown |
 | [Federal Register](https://www.federalregister.gov/reader-aids/developer-resources) | The Daily Journal of the United States Government                                         |    No    |  Yes  | Unknown |
