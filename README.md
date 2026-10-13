@@ -142,6 +142,7 @@
 |                       [LogoKit](https://logokit.com)                       | Logo API for brands, stocks, and cryptocurrencies                         | `apiKey` |  Yes  | Unknown |
 | [MailboxValidator](https://www.mailboxvalidator.com/api-single-validation) | Validate email address to improve deliverability                          | `apiKey` |  Yes  | Unknown |
 |                    [mailgun](https://www.mailgun.com/)                     | Email Service                                                             | `apiKey` |  Yes  | Unknown |
+|                     [Mailtrap](https://mailtrap.io)                        | Email API and SMTP for sending transactional and bulk emails, with 4,000 free emails/month | `apiKey` | Yes | Unknown |
 |                    [Mailjet](https://www.mailjet.com/)                     | Email Service                                                             | `apiKey` |  Yes  | Unknown |
 |                     [Markbase](https://markbase.co)                        | Search 14M+ USPTO trademarks with fuzzy search and autocomplete           |    No    |  Yes  |   Yes   |
 |                   [markerapi](http://www.markerapi.com/)                   | Trademark Search                                                          |    No    |  No   | Unknown |
