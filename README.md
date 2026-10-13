@@ -266,6 +266,7 @@
 
 |                                     API                                     | Description                                                           |   Auth   | HTTPS |  CORS   |
 | :-------------------------------------------------------------------------: | --------------------------------------------------------------------- | :------: | :---: | :-----: |
+| [BounceLens](https://bouncelens.com/email-check-api/) | Check emails for bad format, dead domains, typos and disposable domains, no mailbox check | No | Yes | Yes |
 |       [Cloudmersive Validate](https://cloudmersive.com/validate-api)        | Validate email addresses, phone numbers, VAT numbers and domain names | `apiKey` |  Yes  |   Yes   |
 |       [DataScreenIQ](https://datascreeniq.com)                              | Screen data for schema drift, type mismatches, and null rate anomalies| `apiKey`  |  Yes  |  Yes    |
 | [Kiprio Email Validation](https://kiprio.com/email-validation-api) | Email address validation with MX, disposable, role and typo detection | `apiKey` |  Yes  |   Yes   |
