@@ -982,6 +982,7 @@
 
 |                                  API                                   | Description                                                                                       |   Auth   | HTTPS |  CORS   |
 | :--------------------------------------------------------------------: | ------------------------------------------------------------------------------------------------- | :------: | :---: | :-----: |
+| [Breadcrumbs](https://breadcrumbs-mailbox.pages.dev/discover) | Human-maintained correspondence for public-source questions and observations | `apiKey` | Yes | No |
 |              [Buffer](https://buffer.com/developers/api)               | Access to pending and sent updates in Buffer                                                      | `OAuth`  |  Yes  | Unknown |
 |           [BulkPublish](https://www.bulkpublish.com)            | Publish to 11 social media platforms with scheduling, analytics, and AI agent support              | `apiKey` |  Yes  | Unknown |
 |        [Discord](https://discordapp.com/developers/docs/intro)         | Make bots for Discord, integrate Discord onto an external platform                                | `OAuth`  |  Yes  | Unknown |
