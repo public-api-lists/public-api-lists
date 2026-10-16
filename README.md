@@ -1020,8 +1020,11 @@
 |                [City Bikes](http://api.citybik.es/v2/)                | City Bikes around the world                                                                 |       No        |  No   | Unknown |
 |                 [CricData](https://cricketdata.org/)                  | Ultimate Cricket data API - Score, Scorecard, Players data, Fantasy API                     |    `apiKey`     |  Yes  | Unknown |
 |                [DiscGolf](https://discgolfapi.com/docs/)              | Structured disc golf course data                                                            |       No        |  Yes  |   Yes   |
+| [DunkAPI](https://dunkapi.com) | NBA, WNBA and college basketball play-by-play, shot locations, box scores and odds, free tier with paid plans | `apiKey` | Yes | Unknown |
+| [EndzoneAPI](https://endzoneapi.com) | NFL play-by-play with EPA, weekly stats, injuries and odds, free tier with paid plans | `apiKey` | Yes | Yes |
 |                      [F1 API](https://f1api.dev)                      | Free F1 data in real time with his own NPM package                                          |       No        |  Yes  | Unknown |
 |        [F1 Data API](https://github.com/Jacobbrewer1/f1-data)         | Formula 1 data API that delivers data from the F1 Archive dating back to 1950               |       No        |  Yes  |   No    |
+| [FastballAPI](https://fastballapi.com) | MLB pitch-by-pitch data, plate appearances, box scores and odds, free tier with paid plans | `apiKey` | Yes | Unknown |
 |                   [Fitbit](https://dev.fitbit.com/)                   | Fitbit Information                                                                          |     `OAuth`     |  Yes  | Unknown |
 |    [Football (Soccer) Videos](https://www.scorebat.com/video-api/)    | Embed codes for goals and highlights from Premier League, Bundesliga, Serie A and many more |       No        |  Yes  |   Yes   |
 |      [Football Prediction](https://boggio-analytics.com/fp-api/)      | Predictions for upcoming football matches, odds, results and stats                          | `X-Mashape-Key` |  Yes  | Unknown |
@@ -1031,8 +1034,10 @@
 |       [NHL Records and Stats](https://gitlab.com/dword4/nhlapi)       | NHL historical data and statistics                                                          |       No        |  Yes  | Unknown |
 |               [ParlayAPI](https://parlay-api.com/docs)                | Sports betting odds and player props from 30+ sportsbooks plus Kalshi and Polymarket |    `apiKey`     |  Yes  |   Yes   |
 |               [PropLine](https://prop-line.com)                | Real-time player-props betting odds with graded prop resolution across 13 books incl. Pinnacle |    `apiKey`     |  Yes  | Unknown |
+| [PuckAPI](https://puckapi.com) | NHL play-by-play, shots, standings and odds history, free tier with paid plans | `apiKey` | Yes | Yes |
 |               [SharpAPI](https://docs.sharpapi.io)                | Real-time sports betting odds from 20+ sportsbooks with +EV detection                      |    `apiKey`     |  Yes  |   Yes   |
 |                [Strava](https://strava.github.io/api/)                | Connect with athletes, activities and more                                                  |     `OAuth`     |  Yes  | Unknown |
+| [StrikerAPI](https://strikerapi.com) | Soccer lineups, shot maps, xG, tables and odds for major leagues, free tier with paid plans | `apiKey` | Yes | Unknown |
 |          [TheSportsDB](https://www.thesportsdb.com/api.php)           | Crowd-Sourced Sports Data and Artwork                                                       |    `apiKey`     |  Yes  |   Yes   |
 |                [Wger](https://wger.de/en/software/api)                | Workout manager data as exercises, muscles or equipment                                     |    `apiKey`     |  Yes  | Unknown |
 
