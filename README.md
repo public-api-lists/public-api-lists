@@ -727,6 +727,7 @@
 |          [NPPES](https://npiregistry.cms.hhs.gov/registry/help-api)           | National Plan & Provider Enumeration System, info on healthcare providers registered in US   |    No    |  Yes  | Unknown |
 |               [Nutritionix](https://developer.nutritionix.com/)               | Worlds largest verified nutrition database                                                   | `apiKey` |  Yes  | Unknown |
 |                        [openFDA](https://open.fda.gov)                        | Public FDA data about drugs, devices and foods                                               |    No    |  Yes  | Unknown |
+| [Peptide Library](https://peptidelibrary.app/developers) | Peptide research profiles, cited studies and regulatory status, plus vendor prices with a free key | No | Yes | Yes |
 | [Urgences Québec](https://sante.handled.tools/en/donnees) | Hourly ER occupancy, patients waiting and mean stay duration for every ER in the Québec health ministry feed, archived since 10 Aug 2026 | No | Yes | Yes |
 | [Verified Supplement Data](https://verifiedsupplementdata.com/api/v1/recommend/index.json) | Supplement dosing, form comparisons and drug-nutrient interactions with PubMed citations | No | Yes | Yes |
 
