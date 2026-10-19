@@ -963,6 +963,7 @@
 |                          [UK Police](https://data.police.uk/docs/)                          | UK Police data                                                                                                                                                       |    No    |  Yes  | Unknown |
 |                           [Whoisfreaks](https://whoisfreaks.com/)                           | Domain and DNS related information that will equip organizaion with comprehensive threat intelligence and attack surface analysis capabilities for enhanced security | `apiKey` |  Yes  |   No    |
 |                          [WhoisJSONApi](https://whoisjsonapi.com/)                          | Domain WHOIS information to detect and prevent online threats, enhancing overall online safety for individuals and organizations                                     | `apiKey` |  Yes  |   No    |
+| [XposedOrNot](https://xposedornot.com/api_doc) | Email breach history: which known data breaches an email appears in, when, and what data leaked | No | Yes | Yes |
 
 **[⬆ Back to Index](#index)**
 
