@@ -146,6 +146,7 @@
 |                     [Markbase](https://markbase.co)                        | Search 14M+ USPTO trademarks with fuzzy search and autocomplete           |    No    |  Yes  |   Yes   |
 |                   [markerapi](http://www.markerapi.com/)                   | Trademark Search                                                          |    No    |  No   | Unknown |
 |          [Mydentify](https://mydentify.com/openapi.json)                   | Discover software by task through structured product directories and weekly leaderboards |    No    |  Yes  |   Yes   |
+| [PlaceCall](https://voygr.tech/placecall/) | AI agent places outbound phone calls to US businesses and returns the outcome and transcript | `apiKey` | Yes | No |
 |              [SCALA Score](https://score.get-scala.com)                    | Search 250M+ company records across 50+ countries with revenue, employees, and credit scores |    No    |  Yes  | Unknown |
 |                  [Tomba Email finder](https://tomba.io/)                   | Email Finder for B2B sales and email marketing                            | `apiKey` |  Yes  |   Yes   |
 |                  [Trello](https://developers.trello.com/)                  | Boards, lists and cards to help you organize and prioritize your projects | `OAuth`  |  Yes  | Unknown |
