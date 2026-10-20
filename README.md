@@ -272,6 +272,7 @@
 |                 [languagelayer](https://languagelayer.com)                  | Language detection                                                    |    No    |  Yes  | Unknown |
 |                         [Lob.com](https://lob.com/)                         | US Address Verification                                               | `apiKey` |  Yes  | Unknown |
 |                  [mailboxlayer](https://mailboxlayer.com)                   | Email address validation                                              |    No    |  Yes  | Unknown |
+| [mailfloss](https://developers.mailfloss.com) | Email verification for signup forms and lists. Stops spam signups by blocking disposable and invalid emails and suggests typo fixes, with 500 free a month | `apiKey` | Yes | Yes |
 |                   [NumValidate](https://numvalidate.com)                    | Open Source phone number validation                                   |    No    |  Yes  | Unknown |
 |                     [numverify](https://numverify.com)                      | Phone number validation                                               |    No    |  Yes  | Unknown |
 |                   [PurgoMalum](http://www.purgomalum.com)                   | Content validator against profanity & obscenity                       |    No    |  No   | Unknown |
