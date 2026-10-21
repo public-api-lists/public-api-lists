@@ -781,6 +781,7 @@
 | :--------------------------------------------------------------------------------------------------------------: | --------------------------------------------------------------------------------- | :------: | :---: | :-----: |
 |                                [AI Mastering](https://aimastering.com/api_docs/)                                 | Automated Music Mastering                                                         | `apiKey` |  Yes  |   Yes   |
 |                    [Bandsintown](https://app.swaggerhub.com/apis/Bandsintown/PublicAPI/3.0.1)                    | Music Events                                                                      |    No    |  Yes  | Unknown |
+| [Cucutime](https://cucutime.org/developers) | Personalized kids-song ideas and search over the CucuTime YouTube catalog | No | Yes | Yes |
 |                                   [Deezer](https://developers.deezer.com/api)                                    | Music                                                                             | `OAuth`  |  Yes  | Unknown |
 |                                  [Discogs](https://www.discogs.com/developers/)                                  | Music                                                                             | `OAuth`  |  Yes  | Unknown |
 |                                   [Freesound](https://freesound.org/docs/api/)                                   | Music Samples                                                                     | `apiKey` |  Yes  | Unknown |
