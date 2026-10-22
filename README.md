@@ -767,6 +767,7 @@
 | [Cloudmersive](https://www.cloudmersive.com/image-recognition-and-processing-api) | Image captioning, face recognition, NSFW classification | `apiKey` |  Yes  |   Yes   |
 | [CrowdSorcerer](https://crowdsourcerer.rebaselabs.online/docs) | Web research, entity enrichment, document parsing, code execution, LLM generation, PII detection | `apiKey` |  Yes  |   Yes   |
 | [HOL Registry Broker](https://hol.org/docs/registry-broker/) | Search and verify AI agents & MCP servers | `apiKey` |  Yes  |   Yes   |
+| [isGenAI](https://isgenai.com/api) | Check images, text and URLs for recorded evidence of AI use: C2PA Content Credentials, IPTC AI labels and saved prompts | No | Yes | No |
 |                            [Keen IO](https://keen.io/)                            | Data Analytics                                          | `apiKey` |  Yes  | Unknown |
 |                  [Kiprio AI Content Detector](https://kiprio.com/ai-detect-api)                   | Detect AI-generated text with per-sentence confidence scoring         | `apiKey` |  Yes  |   Yes   |
 |                         [Replicate](https://replicate.com/docs/reference/http)    | Run and deploy machine learning models in the cloud     | `apiKey` |  Yes  |   Yes   |
