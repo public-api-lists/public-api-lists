@@ -721,6 +721,7 @@
 |                                      API                                      | Description                                                                                  |   Auth   | HTTPS |  CORS   |
 | :---------------------------------------------------------------------------: | -------------------------------------------------------------------------------------------- | :------: | :---: | :-----: |
 |                    [Diabetes](http://predictbgl.com/api/)                     | Logging and retrieving diabetes information                                                  |    No    |  No   | Unknown |
+| [FertilityClinics](https://fertilityclinics.fyi/developers) | US fertility and IVF clinics built from CDC public data | No | Yes | Yes |
 |           [Healthcare.gov](https://www.healthcare.gov/developers/)            | Educational content about the US Health Insurance Marketplace                                |    No    |  Yes  | Unknown |
 | [ICD-10 Codes](https://clinicaltables.nlm.nih.gov/apidoc/icd10cm/v3/doc.html) | List of all healthcare diagnosis codes                                                       |    No    |  Yes  | Unknown |
 |                 [Longevity World Cup](https://longevityworldcup.com/swagger)                 | Public biological age competition data with biomarkers and rankings                                |    No    |  Yes  |   Yes   |
