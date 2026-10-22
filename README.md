@@ -840,6 +840,7 @@
 |                      [Quandl](https://www.quandl.com/)                      | Stock Market Data                                                                                  |    No    |  Yes  | Unknown |
 |       [Recreation Information Database](https://ridb.recreation.gov/)       | Recreational areas, federal lands, historic sites, museums, and other attractions/resources(US)    | `apiKey` |  Yes  | Unknown |
 | [Rope Drop News](https://ropedropnews.com/developers) | Live Disney and Universal theme park wait times, ride reliability, crowds, and Lightning Lane prices | No | Yes | No |
+| [Scento Perfume API](https://www.scento.com/developers/perfume-api) | Perfume notes, families, houses and raw materials, each tied to a page on scento.com | No | Yes | Yes |
 |                     [Scoop.it](http://www.scoop.it/dev)                     | Content Curation Service                                                                           | `apiKey` |  No   | Unknown |
 |    [Universities List](https://github.com/Hipo/university-domains-list)     | University names, countries and domains                                                            |    No    |  Yes  | Unknown |
 |                 [University of Oslo](https://data.uio.no/)                  | Courses, lecture videos, detailed information for courses etc. for the University of Oslo (Norway) |    No    |  Yes  | Unknown |
