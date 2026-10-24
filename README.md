@@ -180,6 +180,7 @@
 |                         API                          | Description              |   Auth   | HTTPS |  CORS   |
 | :--------------------------------------------------: | ------------------------ | :------: | :---: | :-----: |
 |          [Box](https://developer.box.com/)           | File Sharing and Storage | `OAuth`  |  Yes  | Unknown |
+| [Deed](https://deed.page/docs) | Publish HTML files or a folder to a permanent HTTPS URL with one PUT request | No | Yes | Yes |
 |    [Dropbox](https://www.dropbox.com/developers)     | File Sharing and Storage | `OAuth`  |  Yes  | Unknown |
 | [Google Drive](https://developers.google.com/drive/) | File Sharing and Storage | `OAuth`  |  Yes  | Unknown |
 |        [Mega.nz](https://mega.io/developers)         | File Sharing And Storage |    No    |  Yes  | Unknown |
