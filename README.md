@@ -179,6 +179,7 @@
 
 |                         API                          | Description              |   Auth   | HTTPS |  CORS   |
 | :--------------------------------------------------: | ------------------------ | :------: | :---: | :-----: |
+| [anon.li Drop](https://anon.li/docs/api/drop) | End-to-end encrypted file sharing with expiring links and download limits | `apiKey` | Yes | No |
 |          [Box](https://developer.box.com/)           | File Sharing and Storage | `OAuth`  |  Yes  | Unknown |
 |    [Dropbox](https://www.dropbox.com/developers)     | File Sharing and Storage | `OAuth`  |  Yes  | Unknown |
 | [Google Drive](https://developers.google.com/drive/) | File Sharing and Storage | `OAuth`  |  Yes  | Unknown |
