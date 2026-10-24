@@ -811,6 +811,7 @@
 |              [Currents](https://currentsapi.services/)              | Latest news published in various news sources, blogs and forums                             | `apiKey` |  Yes  |   Yes   |
 |          [Feedbin](https://github.com/feedbin/feedbin-api)          | RSS reader                                                                                  | `OAuth`  |  Yes  | Unknown |
 |                   [Finlight](https://finlight.me)                   | Realtime financial news with sentiment and article content                                  | `apiKey` |  Yes  |   Yes   |
+|               [Kiwi News](https://news.kiwistand.com)               | Community-curated crypto and Ethereum news: hot, new and best feeds as JSON                 |    No    |  Yes  |   Yes   |
 |          [New York Times](https://developer.nytimes.com/)           | Provides news                                                                               | `apiKey` |  Yes  | Unknown |
 |                    [News](https://newsapi.org/)                     | Headlines currently published on a range of news sources and blogs                          | `apiKey` |  Yes  | Unknown |
 |                     [OkSurf](https://ok.surf/)                      | Free Google News with OG Images                                                             |    No    |  Yes  |   Yes   |
