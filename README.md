@@ -592,6 +592,7 @@
 |                       [TCGdex](https://www.tcgdex.dev/)                       | A Multilanguage Pokémon TCG Database with Cards Pictures and most of the informations contained on the cards |       No        |  Yes  |   Yes   |
 |        [TheGamestracker](https://thegamestracker.com/server-info-api)         | Game servers informations in JSON format                                                                     |    `apiKey`     |  Yes  |   Yes   |
 |         [Traveller Map](https://travellermap.com/doc/api)                     | [Traveller TTRPG](https://www.mongoosepublishing.com/collections/traveller-rpgs) map world, sub sector and sector information in json, PDF and other formats|       No        |  Yes  |   No    |
+| [Unicum](https://unicum.gg/docs) | World of Tanks player, clan and tank stats, ratings and leaderboards for EU, NA and Asia | No | Yes | Yes |
 |              [Wargaming.net](https://developers.wargaming.net/)               | Wargaming.net info and stats                                                                                 |    `apiKey`     |  Yes  |   No    |
 |                      [xkcd](https://xkcd.com/json.html)                       | Retrieve xkcd comics as JSON                                                                                 |       No        |  Yes  |   No    |
 
