@@ -116,6 +116,7 @@
 |                                    API                                    | Description                                                                              |  Auth   | HTTPS |  CORS   |
 | :-----------------------------------------------------------------------: | ---------------------------------------------------------------------------------------- | :-----: | :---: | :-----: |
 |               [Bhagavad Gita](https://bhagavadgita.io/api)                | Bhagavad Gita text                                                                       | `OAuth` |  Yes  |   Yes   |
+|             [BookRank](https://openbookrank.com/en/open-data)             | Book scores from reader ratings, rankings, reading orders and ISBN/Wikidata lookups      |   No    |  Yes  |   Yes   |
 |           [Google Books](https://developers.google.com/books/)            | Books                                                                                    | `OAuth` |  Yes  | Unknown |
 |        [Harry Potter API](https://github.com/fedeperin/potterapi)         | API to get data from Harry Potter books, movies, characters and spells                   |   No    |  Yes  |   Yes   |
 |          [Open Library](https://openlibrary.org/developers/api)           | Books, book covers and related data                                                      |   No    |  Yes  | Unknown |
