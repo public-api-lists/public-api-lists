@@ -157,6 +157,7 @@
 |                                       API                                       | Description                                                                                            |   Auth   | HTTPS |  CORS   |
 | :-----------------------------------------------------------------------------: | ------------------------------------------------------------------------------------------------------ | :------: | :---: | :-----: |
 |       [Abstract's Holiday API](https://www.abstractapi.com/holidays-api)        | National, regional, and religious holidays for 120+ countries & 100+ years                             | `apiKey` |  Yes  |   Yes   |
+| [Bankday](https://bankday.dev/docs) | Business days and bank holidays per payment system (ACH, Fedwire, TARGET2, Bacs, Payments Canada), 28 exchanges and 247 countries | `apiKey` | Yes | Yes |
 | [Byabbe](https://byabbe.se/on-this-day/#/default/get__month___day__events_json) | Seach histories from wikipedia for a particular day                                                    |    No    |  Yes  | Unknown |
 | [caldays](https://caldays.com/api) | Public holidays for 195+ countries | No | Yes | Yes |
 |                [Calendar Index](https://www.calendarindex.com/)                 | Worldwide Holidays and Working Days                                                                    | `apiKey` |  Yes  |   Yes   |
