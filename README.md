@@ -1018,6 +1018,7 @@
 |                 [balldontlie](https://balldontlie.io)                 | Ballldontlie provides access to stats data from the NBA                                     |       No        |  Yes  |   Yes   |
 |        [Cartola FC](https://github.com/wgenial/cartrolandofc)         | The Cartola FC API serves to check the partial points of your team                          |       No        |  Yes  | Unknown |
 |                [City Bikes](http://api.citybik.es/v2/)                | City Bikes around the world                                                                 |       No        |  No   | Unknown |
+|                [Clutch](https://clutchledger.com/data/)               | Pregame NBA win probabilities for every game, graded after the final, as JSON and CSV       |        No       |  Yes  |   Yes   |
 |                 [CricData](https://cricketdata.org/)                  | Ultimate Cricket data API - Score, Scorecard, Players data, Fantasy API                     |    `apiKey`     |  Yes  | Unknown |
 |                [DiscGolf](https://discgolfapi.com/docs/)              | Structured disc golf course data                                                            |       No        |  Yes  |   Yes   |
 |                      [F1 API](https://f1api.dev)                      | Free F1 data in real time with his own NPM package                                          |       No        |  Yes  | Unknown |
