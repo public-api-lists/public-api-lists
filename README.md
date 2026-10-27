@@ -1035,6 +1035,7 @@
 |                [Strava](https://strava.github.io/api/)                | Connect with athletes, activities and more                                                  |     `OAuth`     |  Yes  | Unknown |
 |          [TheSportsDB](https://www.thesportsdb.com/api.php)           | Crowd-Sourced Sports Data and Artwork                                                       |    `apiKey`     |  Yes  |   Yes   |
 |                [Wger](https://wger.de/en/software/api)                | Workout manager data as exercises, muscles or equipment                                     |    `apiKey`     |  Yes  | Unknown |
+|        [Your Move - Exercise API](https://ymove.app/exercise-api)        | 2,005+ HD exercise videos with instructions and muscles, workout generation and program builder |    `apiKey`     |  Yes  |   Yes   |
 
 **[⬆ Back to Index](#index)**
 
