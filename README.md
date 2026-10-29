@@ -456,6 +456,7 @@
 | [Open-Meteo Marine](https://open-meteo.com/en/docs/marine-weather-api)                                 | Ocean wave height, swell, sea temperature and marine weather data                 |    No    |  Yes  | Yes |
 |                      [PVWatts](https://developer.nrel.gov/docs/solar/pvwatts/v6/)                      | Energy production photovoltaic (PV) energy systems                                | `apiKey` |  Yes  | Unknown |
 | [UK Carbon Intensity](https://carbon-intensity.github.io/api-definitions/#carbon-intensity-api-v1-0-0) | The Official Carbon Intensity API for Great Britain developed by National Grid    |    No    |  Yes  | Unknown |
+| [US Grow Zones](https://usgrowzones.com/developers/) | USDA plant hardiness zone (2023 and 2012 maps) for any U.S. ZIP code | No | Yes | Yes |
 | [WattFigure](https://api.wattfigure.com/) | US electricity rates by state, with appliance and EV charging running costs | No | Yes | Yes |
 |                         [WeatherStack](https://weatherstack.com/documentation)                         | Humidity & Air & Pressure API                                                     | `apiKey` |  Yes  | Unknown |
 |                     [ZipCheckup](https://api.zipcheckup.com/v1)                                        | U.S. drinking water quality data by ZIP code from EPA and 20+ federal sources     |    No    |  Yes  |   Yes   |
