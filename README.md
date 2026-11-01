@@ -106,6 +106,7 @@
 |            [Iconfinder](https://developer.iconfinder.com)            | Icons                                                                         | `apiKey` |  Yes  | Unknown |
 |      [Metropolitan Museum of Art](https://metmuseum.github.io/)      | Art                                                                           |    No    |  Yes  | Unknown |
 |       [Noun Project](http://api.thenounproject.com/index.html)       | Icons                                                                         | `OAuth`  |  No   | Unknown |
+| [Pic2SVG](https://pic2svg.com/mcp/) | Trace PNG, JPG, WebP or GIF images into editable SVG vector paths, free within a daily allowance | No | Yes | No |
 |           [Rijksmuseum](https://www.rijksmuseum.nl/en/api)           | Art                                                                           | `apiKey` |  Yes  | Unknown |
 |                    [svg.new](https://svg.new)                    | AI-powered image to SVG vectorization                                         | `apiKey` |  Yes  |   Yes   |
 
