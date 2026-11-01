@@ -991,6 +991,7 @@
 |      [Full Contact](https://www.fullcontact.com/developer/docs/)       | Get Social Media profiles and contact Information                                                 | `OAuth`  |  Yes  | Unknown |
 |            [HackerNews](https://github.com/HackerNews/API)             | Social news for CS and entrepreneurship                                                           |    No    |  Yes  | Unknown |
 |           [Instagram](https://www.instagram.com/developer/)            | Instagram Login, Share on Instagram, Social Plugins and more                                      | `OAuth`  |  Yes  | Unknown |
+|                  [LurkAPI](https://lurkapi.com/docs)                   | Public posts, profiles, ads and video transcripts from 16 social platforms, free tier             | `apiKey` |  Yes  |   Yes   |
 |                 [MySocialApp](https://mysocialapp.io)                  | Seamless Social Networking features, API, SDK to any app                                          | `apiKey` |  Yes  | Unknown |
 | [Open Collective](https://docs.opencollective.com/help/developers/api) | Get Open Collective data                                                                          |    No    |  Yes  | Unknown |
 |             [Pinterest](https://developers.pinterest.com/)             | The world's catalog of ideas                                                                      | `OAuth`  |  Yes  | Unknown |
