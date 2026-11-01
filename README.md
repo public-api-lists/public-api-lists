@@ -392,6 +392,7 @@
 |     [Lingua Robot](https://www.linguarobot.io)      | Word definitions, pronunciations, synonyms, antonyms and others | `apiKey` |  Yes  |   Yes   |
 |    [Merriam-Webster](https://dictionaryapi.com/)    | Dictionary and Thesaurus Data                                   | `apiKey` |  Yes  | Unknown |
 | [Oxford](https://developer.oxforddictionaries.com/) | Dictionary Data                                                 | `apiKey` |  Yes  |   No    |
+| [VocaFlare Clips](https://clips.vocaflare.com/) | YouTube clips where a word is spoken, with the exact second and transcript line | `apiKey` | Yes | Yes |
 |       [Wordnik](http://developer.wordnik.com)       | Dictionary Data                                                 | `apiKey` |  No   | Unknown |
 |         [Words](https://www.wordsapi.com/)          | Definitions and synonyms for more than 150,000 words            | `apiKey` |  Yes  | Unknown |
 
