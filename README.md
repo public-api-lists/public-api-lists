@@ -360,6 +360,7 @@
 |                              [Pythonium](https://pythonium.net/linter)                              | Validate Python code                                                                                |       No        |  Yes  |   Yes   |
 |                          [QR Code](https://fungenerators.com/api/qrcode/)                           | Create new QR Code or decode existing one                                                           |    `apiKey`     |  Yes  |   Yes   |
 | [QR Code Crafter](https://qrcodecrafter.com/qr-code-api) | Generate static QR code assets in SVG, PNG, JPG, WebP, PDF, or EPS | No | Yes | Yes |
+| [QR Kept](https://qrkept.com/free-qr-code-api) | Free QR code API: one GET request returns an SVG, no key or account | No | Yes | Yes |
 |                                  [QR Tag](http://qrtag.net/api/)                                   | Create an easy to read QR code and URL shortener                                                    |       No        |  Yes  |   Yes   |
 |                                [QuickChart](https://quickchart.io/)                                 | Generate chart and graph images                                                                     |       No        |  Yes  |   Yes   |
 |                                    [ReqRes](https://reqres.in/)                                     | A hosted REST-API ready to respond to your AJAX requests                                            |       No        |  Yes  | Unknown |
