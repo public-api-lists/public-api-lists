@@ -338,6 +338,7 @@
 |                      [jsDelivr](https://github.com/jsdelivr/data.jsdelivr.com)                      | Package info and download stats on jsDelivr CDN                                                     |       No        |  Yes  |   Yes   |
 |                               [JSON 2 JSONP](https://json2jsonp.com/)                               | Convert JSON to JSONP (on-the-fly) for easy cross-domain data requests using client-side JavaScript |       No        |  Yes  | Unknown |
 |                                  [JSONbin.io](https://jsonbin.io)                                   | Free JSON storage service. Ideal for small scale Web apps, Websites and Mobile apps                 |    `apiKey`     |  Yes  |   Yes   |
+| [Keenable](https://docs.keenable.ai) | Web search and page fetch API for AI agents, backed by an independent web index | `apiKey` | Yes | Unknown |
 | [Kiprio IP Lookup](https://kiprio.com/ip-api) | IP geolocation and reputation with proxy, VPN, and hosting detection | `apiKey` |  Yes  |   Yes   |
 |                        [Kiprio OG Image](https://kiprio.com/og-api)                        | Generate Open Graph social preview images from URL metadata           | `apiKey` |  Yes  |   Yes   |
 | [Kiprio Screenshot](https://kiprio.com/screenshot-api) | Full-page website screenshots with mobile and desktop emulation | `apiKey` |  Yes  |   Yes   |
