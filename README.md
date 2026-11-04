@@ -691,6 +691,7 @@
 |                   [EPA](https://www.epa.gov/developers)                   | Web services and data sets from the US Environmental Protection Agency                    |    No    |  Yes  | Unknown |
 |                     [FEC](https://api.open.fec.gov/developers/)                     | Information on campaign donations in federal elections                                    | `apiKey` |  Yes  | Unknown |
 | [Federal Register](https://www.federalregister.gov/reader-aids/developer-resources) | The Daily Journal of the United States Government                                         |    No    |  Yes  | Unknown |
+| [Fonciq](https://fonciq.ca) | Registre foncier du Québec : données de lots et d'actes (FR/EN). Indépendant, non affilié / Quebec land registry data, independent, not affiliated |  `apiKey`  |  Yes  | Unknown |
 | [Japan Neighborhoods](https://japanneighborhoods.com/developers) | Tokyo neighborhood crime statistics, safety scores, and station data (5,078 areas, 2018-2024) |    No    |  Yes  |   Yes   |
 | [Neotimo DGFiP Mirror](https://neotimo.com/annuaire-dgfip) | French DGFiP registry of certified e-invoicing platforms (Plateformes Agréées), searchable by SIRET | No | Yes | Unknown |
 |               [Open Government, Australia](https://www.data.gov.au/)                | Australian Government Open Data                                                           |    No    |  Yes  | Unknown |
