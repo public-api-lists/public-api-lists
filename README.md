@@ -2,7 +2,7 @@
 
 [![Validate PR](https://github.com/public-api-lists/public-api-lists/actions/workflows/validate-pr.yml/badge.svg)](https://github.com/public-api-lists/public-api-lists/actions/workflows/validate-pr.yml)
 [![Stars](https://img.shields.io/github/stars/public-api-lists/public-api-lists?style=flat-square)](https://github.com/public-api-lists/public-api-lists/stargazers)
-[![Fork](https://img.shields.io/github/forks/public-api-lists/public-api-lists?style=flat-square)](https://github.com/public-api-lists/public-api-lists/fork)
+[![Fork](https://img.shields.io/github/forks/public-api-lists/public-api-lists?hstyle=flat-square)](https://github.com/public-api-lists/public-api-lists/fork)
 [![Issues](https://img.shields.io/github/issues/public-api-lists/public-api-lists?style=flat-square)](https://github.com/public-api-lists/public-api-lists/issues/new)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/public-api-lists/public-api-lists/pulls)
 
@@ -117,6 +117,7 @@
 | :-----------------------------------------------------------------------: | ---------------------------------------------------------------------------------------- | :-----: | :---: | :-----: |
 |               [Bhagavad Gita](https://bhagavadgita.io/api)                | Bhagavad Gita text                                                                       | `OAuth` |  Yes  |   Yes   |
 |           [Google Books](https://developers.google.com/books/)            | Books                                                                                    | `OAuth` |  Yes  | Unknown |
+| [Greek Mythology](https://acenes-of-sparta.pages.dev/api/) | Greek gods, monsters, heroes, places and Spartan customs, with ancient source citations | No | Yes | Yes |
 |        [Harry Potter API](https://github.com/fedeperin/potterapi)         | API to get data from Harry Potter books, movies, characters and spells                   |   No    |  Yes  |   Yes   |
 |          [Open Library](https://openlibrary.org/developers/api)           | Books, book covers and related data                                                      |   No    |  Yes  | Unknown |
 | [Penguin Publishing](http://www.penguinrandomhouse.biz/webservices/rest/) | Books, book covers and related data                                                      |   No    |  Yes  | Unknown |
