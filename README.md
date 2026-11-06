@@ -1032,6 +1032,7 @@
 |               [ParlayAPI](https://parlay-api.com/docs)                | Sports betting odds and player props from 30+ sportsbooks plus Kalshi and Polymarket |    `apiKey`     |  Yes  |   Yes   |
 |               [PropLine](https://prop-line.com)                | Real-time player-props betting odds with graded prop resolution across 13 books incl. Pinnacle |    `apiKey`     |  Yes  | Unknown |
 |               [SharpAPI](https://docs.sharpapi.io)                | Real-time sports betting odds from 20+ sportsbooks with +EV detection                      |    `apiKey`     |  Yes  |   Yes   |
+| [SportStatsAPI](https://sportstatsapi.com/) | Live scores, fixtures, standings and historical sports data across 10 sports; free tier: 300 requests/day | `apiKey` | Yes | Unknown |
 |                [Strava](https://strava.github.io/api/)                | Connect with athletes, activities and more                                                  |     `OAuth`     |  Yes  | Unknown |
 |          [TheSportsDB](https://www.thesportsdb.com/api.php)           | Crowd-Sourced Sports Data and Artwork                                                       |    `apiKey`     |  Yes  |   Yes   |
 |                [Wger](https://wger.de/en/software/api)                | Workout manager data as exercises, muscles or equipment                                     |    `apiKey`     |  Yes  | Unknown |
