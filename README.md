@@ -259,6 +259,8 @@
 |                                   [FXMacroData](https://fxmacrodata.com)                                    | Real-time forex macroeconomic data from central bank announcements | `apiKey` |  Yes  |   Yes   |
 |                                    [FxRatesAPI](https://fxratesapi.com/)                                     | Real-time exchange rates, historical rates and currency conversion | `apiKey` |  Yes  |   No    |
 |                                       [ratesapi](https://ratesapi.io)                                        | Free exchange rates and historical rates                           |    No    |  Yes  | Unknown |
+| [VeriApi.Pro](https://veriapi.pro/dokumantasyon) | Turkish exchange rates, gold prices, prayer times, earthquakes and holidays | `apiKey` | Yes | Yes |
+
 
 **[⬆ Back to Index](#index)**
 
