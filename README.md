@@ -237,6 +237,7 @@
 |               [Sharpe](https://www.sharpe.ai/docs/free-api)              | Crypto derivatives, funding, arbitrage, narratives, listings, and news data                                                        |    No    |  Yes  | Unknown |
 |          [WealthVille](https://wealthville.net/developers)               | Liquidity pool scores and Enter/Hold/Exit verdicts for Solana and EVM chains                                                        |    No    |  Yes  |   Yes   |
 |       [WorldCoinIndex](https://www.worldcoinindex.com/apiservice)        | Cryptocurrencies Prices                                                                                                            | `apiKey` |  Yes  | Unknown |
+| [XMRList](https://xmrlist.com/api) | Directory of businesses that accept Monero (XMR): listings, categories, grades and economy stats | No | Yes | Yes |
 
 **[⬆ Back to Index](#index)**
 
