@@ -266,6 +266,7 @@
 
 |                                     API                                     | Description                                                           |   Auth   | HTTPS |  CORS   |
 | :-------------------------------------------------------------------------: | --------------------------------------------------------------------- | :------: | :---: | :-----: |
+| [Autentify Verify](https://www.autentify.com.br/docs/) | Brazilian email verification: deliverable, undeliverable, risky or unknown, with the reason | `apiKey` | Yes | No |
 |       [Cloudmersive Validate](https://cloudmersive.com/validate-api)        | Validate email addresses, phone numbers, VAT numbers and domain names | `apiKey` |  Yes  |   Yes   |
 |       [DataScreenIQ](https://datascreeniq.com)                              | Screen data for schema drift, type mismatches, and null rate anomalies| `apiKey`  |  Yes  |  Yes    |
 | [Kiprio Email Validation](https://kiprio.com/email-validation-api) | Email address validation with MX, disposable, role and typo detection | `apiKey` |  Yes  |   Yes   |
