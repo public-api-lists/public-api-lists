@@ -740,6 +740,7 @@
 | [Agentic Engineering Jobs](https://agentic-engineering-jobs.com/api-reference)           | Job board for engineers building agentic systems (LangChain, LlamaIndex, CrewAI)|    No    |  Yes  |   Yes   |
 | [AI Dev Jobs](https://aidevboard.com/api/v1/jobs) | AI and ML job listings from 289+ companies | No |  Yes  |   Yes   |
 |                   [Careerjet](https://www.careerjet.com/partners/api/)                   | Job search engine                                                               | `apiKey` |  No   | Unknown |
+| [ClockInToday](https://clockintoday.com/developers/) | US jobs and gig apps you can start without an interview, with age, background check and pay data | No | Yes | Yes |
 |                     [DevITjobs](https://devitjobs.us/api/jobsLight)                      | Jobs for software developers                                                    |    No    |  Yes  | Unknown |
 |                      [Himalayas](https://himalayas.app/api)                         | Remote job board and search engine                                              |    No    |  Yes  |   Yes   |
 |                        [Jobicy](https://jobicy.com/jobs-rss-feed)                        | The latest remote job listings from a diverse range of industries and companies |    No    |  Yes  |   Yes   |
