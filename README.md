@@ -237,6 +237,7 @@
 |               [Sharpe](https://www.sharpe.ai/docs/free-api)              | Crypto derivatives, funding, arbitrage, narratives, listings, and news data                                                        |    No    |  Yes  | Unknown |
 |          [WealthVille](https://wealthville.net/developers)               | Liquidity pool scores and Enter/Hold/Exit verdicts for Solana and EVM chains                                                        |    No    |  Yes  |   Yes   |
 |       [WorldCoinIndex](https://www.worldcoinindex.com/apiservice)        | Cryptocurrencies Prices                                                                                                            | `apiKey` |  Yes  | Unknown |
+| [XRPL.to](https://xrpl.to/docs) | XRP Ledger token prices, holders, trades and NFT data | No | Yes | Yes |
 
 **[⬆ Back to Index](#index)**
 
