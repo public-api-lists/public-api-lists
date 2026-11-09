@@ -1015,6 +1015,7 @@
 
 |                                  API                                  | Description                                                                                 |      Auth       | HTTPS |  CORS   |
 | :-------------------------------------------------------------------: | ------------------------------------------------------------------------------------------- | :-------------: | :---: | :-----: |
+|      [AI Football Predictor](https://aifootpredictor.com/api/)       | Football match probabilities, expected goals and most likely score for 29 competitions      |    `apiKey`     |  Yes  |   Yes   |
 |                 [balldontlie](https://balldontlie.io)                 | Ballldontlie provides access to stats data from the NBA                                     |       No        |  Yes  |   Yes   |
 |        [Cartola FC](https://github.com/wgenial/cartrolandofc)         | The Cartola FC API serves to check the partial points of your team                          |       No        |  Yes  | Unknown |
 |                [City Bikes](http://api.citybik.es/v2/)                | City Bikes around the world                                                                 |       No        |  No   | Unknown |
