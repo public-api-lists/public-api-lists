@@ -1030,6 +1030,7 @@
 | [NBA Stats](https://any-api.com/nba_com/nba_com/docs/API_Description) | Current and historical NBA Statistics                                                       |       No        |  Yes  | Unknown |
 |       [NHL Records and Stats](https://gitlab.com/dword4/nhlapi)       | NHL historical data and statistics                                                          |       No        |  Yes  | Unknown |
 |               [ParlayAPI](https://parlay-api.com/docs)                | Sports betting odds and player props from 30+ sportsbooks plus Kalshi and Polymarket |    `apiKey`     |  Yes  |   Yes   |
+|                    [PinnFeed](https://pinnfeed.io)                    | Real-time Pinnacle odds over REST and WebSocket, with no-vig prices, drops and closing lines |    `apiKey`     |  Yes  |   Yes   |
 |               [PropLine](https://prop-line.com)                | Real-time player-props betting odds with graded prop resolution across 13 books incl. Pinnacle |    `apiKey`     |  Yes  | Unknown |
 |               [SharpAPI](https://docs.sharpapi.io)                | Real-time sports betting odds from 20+ sportsbooks with +EV detection                      |    `apiKey`     |  Yes  |   Yes   |
 |                [Strava](https://strava.github.io/api/)                | Connect with athletes, activities and more                                                  |     `OAuth`     |  Yes  | Unknown |
