@@ -156,7 +156,7 @@
 
 |                                       API                                       | Description                                                                                            |   Auth   | HTTPS |  CORS   |
 | :-----------------------------------------------------------------------------: | ------------------------------------------------------------------------------------------------------ | :------: | :---: | :-----: |
-|       [Abstract's Holiday API](https://www.abstractapi.com/holidays-api)        | National, regional, and religious holidays for 120+ countries & 100+ years                             | `apiKey` |  Yes  |   Yes   |
+|       [Abstract's Holiday API](https://www.abstractapi.com/holidays-api)        | National, regional, and religious holidays. 100 free requests on signup                             | `apiKey` |  Yes  |   Yes   |
 | [Byabbe](https://byabbe.se/on-this-day/#/default/get__month___day__events_json) | Seach histories from wikipedia for a particular day                                                    |    No    |  Yes  | Unknown |
 | [caldays](https://caldays.com/api) | Public holidays for 195+ countries | No | Yes | Yes |
 |                [Calendar Index](https://www.calendarindex.com/)                 | Worldwide Holidays and Working Days                                                                    | `apiKey` |  Yes  |   Yes   |
@@ -293,7 +293,7 @@
 | :-------------------------------------------------------------------------------------------------: | --------------------------------------------------------------------------------------------------- | :-------------: | :---: | :-----: |
 |                         [24 Pull Requests](https://24pullrequests.com/api)                          | Project to promote open source collaboration during December                                        |       No        |  Yes  |   No    |
 |                              [Abacus](https://abacus.jasoncameron.dev)                              | Free and simple counting service. You can use it to track page hits and specific events             |       No        |  Yes  |   Yes   |
-|                      [Abstract API](https://www.abstractapi.com/)                                   | Suite of APIs including email validation, IP geolocation, phone validation, exchange rates and more |    `apiKey`     |  Yes  |   Yes   |
+|                      [Abstract API](https://www.abstractapi.com/)                                   | Email, phone, IP, and company enrichment. 100 free requests on signup |    `apiKey`     |  Yes  |   Yes   |
 |                              [AgentDeals](https://agentdeals.dev/api)                               | Search and compare developer free tiers, startup credits, and pricing changes                       |       No        |  Yes  |   Yes   |
 |                                    [Agify.io](https://agify.io)                                     | Estimates the age from a first name                                                                 |       No        |  Yes  |   Yes   |
 |                               [API Snap](https://api-snap.com)                                     | Free utility API platform. QR codes, screenshots, PDFs, image resize, hashing, and more            |    `apiKey`     |  Yes  |   Yes   |
