@@ -258,6 +258,7 @@
 |                               [Frankfurter](https://www.frankfurter.app/docs)                                | Exchange rates, currency conversion and time series                |    No    |  Yes  |   Yes   |
 |                                   [FXMacroData](https://fxmacrodata.com)                                    | Real-time forex macroeconomic data from central bank announcements | `apiKey` |  Yes  |   Yes   |
 |                                    [FxRatesAPI](https://fxratesapi.com/)                                     | Real-time exchange rates, historical rates and currency conversion | `apiKey` |  Yes  |   No    |
+| [Quotelinks Exchange Rates](https://www.quotelinks.com/api/exchange-rates/) | ECB daily euro reference rates for 30 currencies since 1999, with conversion | No | Yes | Yes |
 |                                       [ratesapi](https://ratesapi.io)                                        | Free exchange rates and historical rates                           |    No    |  Yes  | Unknown |
 
 **[⬆ Back to Index](#index)**
@@ -500,6 +501,7 @@
 | [Polish Bank Branches](https://ksefekburczymucha.pl/api/bank/) | Polish bank branch lookup by 8-digit clearing number (Numer Rozliczeniowy) or full 26-digit IBAN, free, no API key | No | Yes | Yes |
 |                    [Polygon.io](https://polygon.io/docs/)                | Real-time and historical stock market data, crypto and forex  | `apiKey` |  Yes  |   Yes   |
 |       [PredScope](https://predscope.com/api/markets.json)        | Free prediction market odds and analytics data from Polymarket |    No    |  Yes  |   Yes   |
+| [Quotelinks SEC Fundamentals](https://www.quotelinks.com/api/sec-fundamentals/) | Standardized SEC EDGAR financial statements, profiles and filings for 21,000+ companies by ticker or CIK | No | Yes | Yes |
 |               [Razorpay IFSC](https://ifsc.razorpay.com/)                | Indian Financial Systems Code (Bank Branch Codes)             |    No    |  Yes  | Unknown |
 | [Statistics of the World](https://statisticsoftheworld.com/api-docs) | GDP, population, inflation & 440+ indicators for 218 countries |    No    |  Yes  |   Yes   |
 |              [Stock Sentiment](https://api.adanos.org/docs)              | Reddit & X/Twitter sentiment analysis for stocks with buzz scores    | `apiKey` |  Yes  |   Yes   |
