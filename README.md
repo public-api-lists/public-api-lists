@@ -501,6 +501,7 @@
 | [Polish Bank Branches](https://ksefekburczymucha.pl/api/bank/) | Polish bank branch lookup by 8-digit clearing number (Numer Rozliczeniowy) or full 26-digit IBAN, free, no API key | No | Yes | Yes |
 |                    [Polygon.io](https://polygon.io/docs/)                | Real-time and historical stock market data, crypto and forex  | `apiKey` |  Yes  |   Yes   |
 |       [PredScope](https://predscope.com/api/markets.json)        | Free prediction market odds and analytics data from Polymarket |    No    |  Yes  |   Yes   |
+| [Quotelinks Credit Market Data](https://www.quotelinks.com/api/credit-market-data/) | NY Fed corporate bond distress index, Treasury HQM yield curve and CFTC credit default swap aggregates | No | Yes | Yes |
 | [Quotelinks SEC Fundamentals](https://www.quotelinks.com/api/sec-fundamentals/) | Standardized SEC EDGAR financial statements, profiles and filings for 21,000+ companies by ticker or CIK | No | Yes | Yes |
 |               [Razorpay IFSC](https://ifsc.razorpay.com/)                | Indian Financial Systems Code (Bank Branch Codes)             |    No    |  Yes  | Unknown |
 | [Statistics of the World](https://statisticsoftheworld.com/api-docs) | GDP, population, inflation & 440+ indicators for 218 countries |    No    |  Yes  |   Yes   |
