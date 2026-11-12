@@ -162,6 +162,7 @@
 |                [Calendar Index](https://www.calendarindex.com/)                 | Worldwide Holidays and Working Days                                                                    | `apiKey` |  Yes  |   Yes   |
 |              [Czech Namedays Calendar](http://svatky.adresa.info/)              | Lookup for a name and returns nameday date                                                             |    No    |  No   | Unknown |
 |              [Feriados API](https://feriadosapi.com)               | Brazilian holidays API covering national, state, and municipal holidays for 5,570+ municipalities      | `apiKey` |  Yes  |   Yes   |
+| [Free Calendar Dates](https://udrwu9c0tjuedqy2.github.io/free-calendar-feeds/api/) | Easter and church dates, US federal holidays, DST and tax deadlines as static JSON and CSV | No | Yes | Yes |
 |     [Google Calendar](https://developers.google.com/google-apps/calendar/)      | Display, create and modify Google calendar events                                                      | `OAuth`  |  Yes  | Unknown |
 |          [Hebrew Calendar](https://www.hebcal.com/home/developer-apis)          | Convert between Gregorian and Hebrew, fetch Shabbat and Holiday times, etc                             |    No    |  No   | Unknown |
 |                       [Holidays](https://holidayapi.com/)                       | Historical data regarding holidays                                                                     | `apiKey` |  Yes  | Unknown |
