@@ -248,6 +248,7 @@
 |                              [AllRatesToday](https://allratestoday.com)                                       | Real-time mid-market exchange rates for 160+ currencies with SDKs   | `apiKey` |  Yes  | Unknown |
 |                            [Cambio Uruguay](https://cambio-uruguay.com)                                       | Real-time buy/sell rates from every Uruguayan exchange house with conversion and history | No | Yes | Yes |
 |                              [Coinnect](https://coinnect.bot/docs)                                           | Open money transfer routing across fiat, crypto and P2P networks   | `apiKey` |  Yes  |   Yes   |
+| [Crystal Ball Markets](https://crystalballmarkets.com/markets/rates-api) | Free exchange rates for 60 currencies, gold prices in 69 countries and 212 market quotes | No | Yes | Yes |
 |                                [CurrencyFreaks](https://currencyfreaks.com/)                                 | Currency conversion with latest & historical forex exchange rates  | `apiKey` |  Yes  | Unknown |
 |                           [Currencylayer](https://currencylayer.com/documentation)                           | Exchange rates and currency conversion                             | `apiKey` |  Yes  | Unknown |
 | [Czech National Bank](https://www.cnb.cz/cs/financni_trhy/devizovy_trh/kurzy_devizoveho_trhu/denni_kurz.xml) | A collection of exchange rates                                     |    No    |  Yes  | Unknown |
