@@ -590,6 +590,7 @@
 |         [TCG Price Lookup](https://tcgpricelookup.com/tcg-api)          | Live trading card prices across Pokemon, MTG, Yu-Gi-Oh, Lorcana, One Piece, Star Wars Unlimited, Flesh and Blood |    `apiKey`     |  Yes  |   Yes   |
 | [TCGApi](https://tcgapi.dev/introduction/) | Trading card game prices and historical data across 89+ games | `apiKey` | Yes | No |
 |                       [TCGdex](https://www.tcgdex.dev/)                       | A Multilanguage Pokémon TCG Database with Cards Pictures and most of the informations contained on the cards |       No        |  Yes  |   Yes   |
+| [The Trivia API](https://the-trivia-api.com/docs/) | Multiple choice trivia questions filterable by category, difficulty, region and 2,000+ topic tags | No | Yes | Yes |
 |        [TheGamestracker](https://thegamestracker.com/server-info-api)         | Game servers informations in JSON format                                                                     |    `apiKey`     |  Yes  |   Yes   |
 |         [Traveller Map](https://travellermap.com/doc/api)                     | [Traveller TTRPG](https://www.mongoosepublishing.com/collections/traveller-rpgs) map world, sub sector and sector information in json, PDF and other formats|       No        |  Yes  |   No    |
 |              [Wargaming.net](https://developers.wargaming.net/)               | Wargaming.net info and stats                                                                                 |    `apiKey`     |  Yes  |   No    |
