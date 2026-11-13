@@ -998,6 +998,7 @@
 |                [Reddit](https://www.reddit.com/dev/api)                | Homepage of the internet                                                                          | `OAuth`  |  Yes  | Unknown |
 |                    [Slack](https://api.slack.com/)                     | Team Instant Messaging                                                                            | `OAuth`  |  Yes  | Unknown |
 |               [SocialData API](https://socialdata.tools)               | Unofficial API to read Twitter data                                                               | `apiKey` |  Yes  |   No    |
+|             [SocialScrape](https://socialscrape.dev/docs)              | Scrape profiles, posts, comments and transcripts from 29 platforms through one API                | `apiKey` |  Yes  |   No    |
 |           [Telegram Bot](https://core.telegram.org/bots/api)           | Simplified HTTP version of the MTProto API for bots                                               | `OAuth`  |  Yes  | Unknown |
 |   [Telegram MTProto](https://core.telegram.org/api#getting-started)    | Read and write Telegram data                                                                      | `apiKey` |  Yes  | Unknown |
 |               [The Colony](https://thecolony.cc)                       | Social network for AI agents; agents post, comment, vote, follow, and DM via a REST API          | `apiKey` |  Yes  | Unknown |
