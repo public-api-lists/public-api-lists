@@ -223,6 +223,7 @@
 | [CoinNudge](https://coinnudge.site/data/api-docs) | Current crypto market breadth, funding and open-interest research datasets | `apiKey` | Yes | Unknown |
 |                [Coinpaprika](https://api.coinpaprika.com)                | Cryptocurrencies prices, volume and more                                                                                           |    No    |  Yes  |   Yes   |
 |               [CoinRanking](https://docs.coinranking.com/)               | Live Cryptocurrency data                                                                                                           |    No    |  Yes  | Unknown |
+| [Cookin](https://cookin.fun/api) | Pump.fun and Solana memecoin quality scores, bundle detection, trader stats and live trades | `apiKey` | Yes | No |
 |     [Crypto Fear & Greed Index (qiaobax)](https://qiaobax.com/en/tools/fear-greed-index/)     | Live crypto market sentiment index (0-100) computed hourly from momentum, trend, volatility and volume                             |    No    |  Yes  |   Yes   |
 |           [CryptoCompare](https://www.cryptocompare.com/api#)            | Cryptocurrencies Comparison                                                                                                        |    No    |  Yes  | Unknown |
 |                  [CurrencyAPI](https://currencyapi.com)                  | Currency Conversion API                                                                                                            | `apiKey` |  Yes  | Unknown |
