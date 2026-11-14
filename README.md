@@ -931,6 +931,7 @@
 |         [Launch Library](https://launchlibrary.net/docs/1.3/api.html)          | Upcoming Space Launches                                                                                 |    No    |  Yes  | Unknown |
 |               [Minor Planet Center](http://www.asterank.com/mpc)               | Asterank.com Information                                                                                |    No    |  No   | Unknown |
 |                          [NASA](https://api.nasa.gov)                          | NASA data, including imagery                                                                            |    No    |  Yes  | Unknown |
+| [Natal Chart Lab](https://natalchartlab.com/astrology-api) | Tropical zodiac planet positions 1800–2200, Moon phase, void-of-course Moon and retrogrades | No | Yes | Yes |
 |                        [Newton](https://newton.now.sh/)                        | Symbolic and Arithmetic Math Calculator                                                                 |    No    |  Yes  | Unknown |
 |                   [Numbers](https://math.tools/api/numbers/)                   | Number of the day, random number generation, number facts and anything else you want to do with numbers | `apiKey` |  Yes  |   Yes   |
 |             [Open Notify](http://open-notify.org/Open-Notify-API/)             | ISS astronauts, current location, etc                                                                   |    No    |  No   | Unknown |
