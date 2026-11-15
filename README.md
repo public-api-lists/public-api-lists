@@ -284,6 +284,7 @@
 |                      [vatlayer](https://vatlayer.com)                       | VAT number validation                                                 |    No    |  Yes  | Unknown |
 |                   [VerifyEd](https://verifyed.org/docs)                    | Verify academic credentials — 912K+ schools, 2,592 diploma mills       | `apiKey` |  Yes  |   Yes   |
 |                      [Veriphone](https://veriphone.io)                      | Phone number validation & carrier lookup                              | `apiKey` |  Yes  |   Yes   |
+| [W System EU Business Data](https://api.wsystem.dev/docs) | Free official EU company-registry lookup, VAT (VIES) and EORI validation, and EU/UN/OFAC/UK sanctions screening | No | Yes | Yes |
 
 **[⬆ Back to Index](#index)**
 
