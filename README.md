@@ -417,6 +417,7 @@
 |                          [Doqlo](https://doqlo.com)                               | Bulk fill and mail merge PDF forms from CSV                    | `apiKey` |  Yes  | Unknown |
 |                       [DynamicDocs](https://advicement.io)                        | Generate dynamic PDFs with JSON to PDF API based on LaTeX      | `apiKey` |  Yes  | Unknown |
 |                          [File.io](https://www.file.io)                           | File Sharing                                                   |    No    |  Yes  | Unknown |
+| [HumanPen](https://api.humanpen.net/v1/docs.md) | Document-level humanize, translate, condense, citation format correction, and research projects API (100 signup credits) | piKey | Yes | Unknown |
 | [IDPhotoSnap Passport Photo Specs](https://idphotosnap.com/api/specs)             | Passport, visa, and ID photo specifications for 100+ countries with government source citations |    No    |  Yes  |   Yes   |
 | [Kiprio HTML to PDF](https://kiprio.com/html-to-pdf-api) | Convert HTML or URLs to PDF with custom page sizes and margins | `apiKey` |  Yes  |   Yes   |
 | [PaperClean](https://paperclean.ip1.cc/api/docs) | Clean document photos for printing, remove shadows, fix lighting | `apiKey` |  Yes  |   Yes   |
