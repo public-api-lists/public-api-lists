@@ -1194,6 +1194,7 @@
 |                             [VidWords](https://vidwords.com/api-docs)                              | YouTube transcripts and subtitles as TXT, SRT, VTT or DOCX, plus AI video analysis                               | `apiKey` |  Yes  |   No    |
 |                               [Vimeo](https://developer.vimeo.com/)                                | Vimeo Developer API                                                                                              | `OAuth`  |  Yes  | Unknown |
 |                         [YouTube](https://developers.google.com/youtube/)                          | Add YouTube functionality to your sites and apps                                                                 | `OAuth`  |  Yes  | Unknown |
+| [YouTubeTranscriptAPI](https://youtubetranscriptapi.com/docs) | YouTube transcripts, search, and channel and playlist videos as JSON | `apiKey` | Yes | Yes |
 
 **[⬆ Back to Index](#index)**
 
