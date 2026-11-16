@@ -452,6 +452,7 @@
 |                                 [AirVisual](https://airvisual.com/api)                                 | Air quality and weather data                                                      | `apiKey` |  Yes  | Unknown |
 |                                     [AQICN](http://aqicn.org/api)                                      | Real-time air quality index                                                       | `apiKey` |  No   | Unknown |
 | [DC Hub](https://dchub.cloud/playground)                                                               | Live data on data-center facilities, power markets, grid telemetry, and fiber infrastructure |    No    |  Yes  |   Yes   |
+| [Jour Tempo](https://jourtempo.fr/api/#english) | French EDF Tempo colour for today and tomorrow, EJP peak days and daily history since 2014 | No | Yes | Yes |
 |                                   [OpenAQ](https://docs.openaq.org/)                                   | Open air quality data                                                             | `apiKey` |  Yes  | Unknown |
 | [Open-Meteo Marine](https://open-meteo.com/en/docs/marine-weather-api)                                 | Ocean wave height, swell, sea temperature and marine weather data                 |    No    |  Yes  | Yes |
 |                      [PVWatts](https://developer.nrel.gov/docs/solar/pvwatts/v6/)                      | Energy production photovoltaic (PV) energy systems                                | `apiKey` |  Yes  | Unknown |
