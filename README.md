@@ -1157,6 +1157,7 @@
 | [Brazilian Vehicles and Prices](https://deividfortuna.github.io/fipe/) | Vehicles information from Fundação Instituto de Pesquisas Econômicas - Fipe                      |    No    |  Yes  | Unknown |
 |                    [CarAPI](https://carapi.dev/)                       | Vehicle specs, VIN decoder, and market data for 21+ million vehicles                             | `apiKey` |  Yes  |   No    |
 |      [CarsXE API](https://api.carsxe.com/?ref=public-apis-github)      | Vehicle data and vin decoder, specs, plates, market value, ownership cost and images             | `apiKey` |  Yes  | Unknown |
+| [Census EV](https://censusev.com/api/v1) | Electric and plug-in hybrid cars for sale in the US, with price, mileage, range and price history |    No    |  Yes  |   Yes   |
 |     [Kelley Blue Book](http://developer.kbb.com/#!/data/1-Default)     | Vehicle info, pricing, configuration, plus much more                                             | `apiKey` |  Yes  |   No    |
 |       [Mercedes-Benz](https://developer.mercedes-benz.com/apis)        | Telematics data, remotely access vehicle functions, car configurator, locate service dealers     | `apiKey` |  Yes  |   No    |
 |                 [Motomarks](https://motomarks.io/docs)                 | Car manufacturer logos over an image CDN: badge, wordmark, or full mark by slug                  | `apiKey` |  Yes  | Unknown |
