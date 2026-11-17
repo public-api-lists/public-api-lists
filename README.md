@@ -104,6 +104,7 @@
 |                  [Freepik](https://freepik.com/api)                  | Stock resources(Icons, videos, photos), AI image generation and editing tools | `apiKey` |  Yes  | Unknown |
 | [Harvard Art Museums](https://github.com/harvardartmuseums/api-docs) | Art                                                                           | `apiKey` |  No   | Unknown |
 |            [Iconfinder](https://developer.iconfinder.com)            | Icons                                                                         | `apiKey` |  Yes  | Unknown |
+| [Islam Museum](https://api.islam.museum/api/v1/) | Islamic history knowledge graph — people, places, events and texts in Arabic, English and Urdu | No | Yes | Unknown |
 |      [Metropolitan Museum of Art](https://metmuseum.github.io/)      | Art                                                                           |    No    |  Yes  | Unknown |
 |       [Noun Project](http://api.thenounproject.com/index.html)       | Icons                                                                         | `OAuth`  |  No   | Unknown |
 |           [Rijksmuseum](https://www.rijksmuseum.nl/en/api)           | Art                                                                           | `apiKey` |  Yes  | Unknown |
