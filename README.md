@@ -1023,6 +1023,7 @@
 |                      [F1 API](https://f1api.dev)                      | Free F1 data in real time with his own NPM package                                          |       No        |  Yes  | Unknown |
 |        [F1 Data API](https://github.com/Jacobbrewer1/f1-data)         | Formula 1 data API that delivers data from the F1 Archive dating back to 1950               |       No        |  Yes  |   No    |
 |                   [Fitbit](https://dev.fitbit.com/)                   | Fitbit Information                                                                          |     `OAuth`     |  Yes  | Unknown |
+|                      [Footalytics](https://footalytics.farvor.com)                      | AI football match predictions: win/draw/loss probabilities, confidence tiers, over/under 2.5 goals, BTTS and graded past results for the top leagues                          |    `apiKey`    |  Yes  | Unknown |
 |    [Football (Soccer) Videos](https://www.scorebat.com/video-api/)    | Embed codes for goals and highlights from Premier League, Bundesliga, Serie A and many more |       No        |  Yes  |   Yes   |
 |      [Football Prediction](https://boggio-analytics.com/fp-api/)      | Predictions for upcoming football matches, odds, results and stats                          | `X-Mashape-Key` |  Yes  | Unknown |
 |      [Golf-Data](https://github.com/Jacobbrewer1/golf-data-docs)      | Golf data API with golf course, club and hole information                                   |       No        |  Yes  |   No    |
