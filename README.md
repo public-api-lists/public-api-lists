@@ -63,7 +63,7 @@
 |                 [Petfinder](https://www.petfinder.com/developers/v2/docs/)                 | Information and images of dog breeds       |    No    |  Yes  |   Yes   |
 |                         [RandomDog](https://random.dog/woof.json)                          | Random pictures of dogs                    |    No    |  Yes  |   Yes   |
 |                          [RandomFox](https://randomfox.ca/floof/)                          | Random pictures of foxes                   |    No    |  Yes  |   No    |
-| [RescueGroups](https://userguide.rescuegroups.org/display/APIDG/API+Developers+Guide+Home) | Adoption                                   |    No    |  Yes  | Unknown |
+| [RescueGroups](https://api.rescuegroups.org/v5/public/docs) | Adoption                                   |    No    |  Yes  | Unknown |
 
 **[⬆ Back to Index](#index)**
 
@@ -71,7 +71,7 @@
 
 |                                    API                                    | Description                                       |   Auth   | HTTPS |  CORS   |
 | :-----------------------------------------------------------------------: | ------------------------------------------------- | :------: | :---: | :-----: |
-|         [AniList](https://github.com/AniList/ApiV2-GraphQL-Docs)          | Anime discovery & tracking                        | `OAuth`  |  Yes  | Unknown |
+|         [AniList](https://github.com/AniList/docs)          | Anime discovery & tracking                        | `OAuth`  |  Yes  | Unknown |
 | [AnimeNewsNetwork](https://www.animenewsnetwork.com/encyclopedia/api.php) | Anime industry news                               |    No    |  Yes  |   Yes   |
 |           [AOT quotes](https://attackontitanquotes.vercel.app/)           | Attack on Titan Quotes API                        |    No    |  Yes  |   Yes   |
 |                        [Jikan](https://jikan.moe)                         | Unofficial MyAnimeList API                        |    No    |  Yes  |   Yes   |
@@ -88,7 +88,7 @@
 |               [AbuseIPDB](https://docs.abuseipdb.com/)                | IP/domain/URL reputation                                                                                                       | `apiKey` |  Yes  | Unknown |
 |               [Dymo API](https://dymo.tpeoficial.com/)                | Multi-account and fraud detection. Sending emails without ending up in SPAM                                                   | `apiKey` |  Yes  |   Yes   |
 |   [Google Safe Browse](https://developers.google.com/safe-browsing/)  | Google Link/Domain Flagging                                                                                                    | `apiKey` |  Yes  | Unknown |
-| [VirusTotal](https://www.virustotal.com/en/documentation/public-api/) | VirusTotal File/URL Analysis                                                                                                   | `apiKey` |  Yes  | Unknown |
+| [VirusTotal](https://docs.virustotal.com/reference/overview) | VirusTotal File/URL Analysis                                                                                                   | `apiKey` |  Yes  | Unknown |
 |        [Web Of Trust (WOT)](https://www.mywot.com/developers/)        | Website reputation                                                                                                             | `apiKey` |  Yes  | Unknown |
 
 **[⬆ Back to Index](#index)**
@@ -106,7 +106,7 @@
 |            [Iconfinder](https://developer.iconfinder.com)            | Icons                                                                         | `apiKey` |  Yes  | Unknown |
 |      [Metropolitan Museum of Art](https://metmuseum.github.io/)      | Art                                                                           |    No    |  Yes  | Unknown |
 |       [Noun Project](http://api.thenounproject.com/index.html)       | Icons                                                                         | `OAuth`  |  No   | Unknown |
-|           [Rijksmuseum](https://www.rijksmuseum.nl/en/api)           | Art                                                                           | `apiKey` |  Yes  | Unknown |
+|           [Rijksmuseum](https://data.rijksmuseum.nl/docs/)           | Art                                                                           | `apiKey` |  Yes  | Unknown |
 |                    [svg.new](https://svg.new)                    | AI-powered image to SVG vectorization                                         | `apiKey` |  Yes  |   Yes   |
 
 **[⬆ Back to Index](#index)**
@@ -115,7 +115,7 @@
 
 |                                    API                                    | Description                                                                              |  Auth   | HTTPS |  CORS   |
 | :-----------------------------------------------------------------------: | ---------------------------------------------------------------------------------------- | :-----: | :---: | :-----: |
-|               [Bhagavad Gita](https://bhagavadgita.io/api)                | Bhagavad Gita text                                                                       | `OAuth` |  Yes  |   Yes   |
+|               [Bhagavad Gita](https://api.bhagavadgita.io/docs)                | Bhagavad Gita text                                                                       | `OAuth` |  Yes  |   Yes   |
 |           [Google Books](https://developers.google.com/books/)            | Books                                                                                    | `OAuth` |  Yes  | Unknown |
 |        [Harry Potter API](https://github.com/fedeperin/potterapi)         | API to get data from Harry Potter books, movies, characters and spells                   |   No    |  Yes  |   Yes   |
 |          [Open Library](https://openlibrary.org/developers/api)           | Books, book covers and related data                                                      |   No    |  Yes  | Unknown |
@@ -682,7 +682,6 @@
 |              [City, Bologna Opendata](https://dati.comune.bologna.it)               | Bologna(IT) City Open Data                                                                |    No    |  Yes  | Unknown |
 |        [City, Nantes Opendata](https://data.nantesmetropole.fr/pages/home/)         | Nantes(FR) City Open Data                                                                 | `apiKey` |  Yes  | Unknown |
 |         [City, New York City Opendata](https://opendata.cityofnewyork.us/)         | New York City (NYC)(US) Open Data                                                         | `OAuth`  |  Yes  | Unknown |
-|                            [Code.gov](https://code.gov)                             | The primary platform for Open Source and code sharing for the U.S. Federal Government     | `apiKey` |  Yes  | Unknown |
 |                  [Colorado Data Engine](http://codataengine.org/)                   | Formatted and geolocated Colorado public data                                             |    No    |  Yes  | Unknown |
 |           [Colorado Information Marketplace](https://data.colorado.gov/)            | Colorado State Government Open Data                                                       |    No    |  Yes  | Unknown |
 |                       [Crime Brasil](https://crimebrasil.com.br)                    | Brazilian public-safety data — 3M geocoded crime incidents, PRF highway accidents, DATASUS violence (CC BY 4.0) |    No    |  Yes  | Unknown |
@@ -706,7 +705,6 @@
 |                    [Open Government, USA](https://www.data.gov/)                    | United States Government Open Data                                                        |    No    |  Yes  | Unknown |
 |          [OpenMercantil](https://openmercantil.es/api/documentacion)                  | Spanish company public data and BORME event timelines                                     |    No    |  Yes  |   Yes   |
 |                      [PermisAPI](https://permisapi.fr)                               | 311k French building permits (Sitadel) with geocoding, webhooks, Python SDK               | `apiKey` |  Yes  |   Yes   |
-|                      [PolitiData](https://politidata.ca)                            | Canadian political financing, lobbying registrations and communications                    | `apiKey` |  Yes  | Unknown |
 |                     [ProcureData](https://procuredata.ca)                           | Canadian federal procurement contracts, tenders and awards                                 | `apiKey` |  Yes  | Unknown |
 |             [Represent by Open North](https://represent.opennorth.ca/)              | Find Canadian Government Representatives                                                  |    No    |  Yes  | Unknown |
 |               [State, New York State Opendata](https://data.ny.gov/)               | New York State Open Data                                                                  | `OAuth`  |  Yes  | Unknown |
@@ -948,7 +946,6 @@
 
 |                                             API                                             | Description                                                                                                                                                          |   Auth   | HTTPS |  CORS   |
 | :-----------------------------------------------------------------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------: | :---: | :-----: |
-| [Blooms](https://blooms-production.up.railway.app/api)  | Distribute keys once for serverless applications | No |  Yes  | No |
 | [ClassiFinder](https://classifinder.ai) | Detect leaked secrets and prompt-injection in text and return redacted output | `apiKey` | Yes | Yes |
 | [CVE.report](https://cve.report/api) | CVE records with NVD KEV and EPSS enrichment | No | Yes | Yes |
 |                              [FishFish](https://fishfish.gg/)                               | A volunteer cybersecurity project focused on providing resources and services that improve safety across Discord                                                     |    No    |  Yes  | Unknown |
@@ -971,7 +968,7 @@
 |                                  API                                  | Description                                                                |   Auth   | HTTPS |  CORS   |
 | :-------------------------------------------------------------------: | -------------------------------------------------------------------------- | :------: | :---: | :-----: |
 | [Best Buy](https://bestbuyapis.github.io/api-documentation/#overview) | Products, Buying Options, Categories, Recommendations, Stores and Commerce | `apiKey` |  Yes  | Unknown |
-|                [eBay](https://go.developer.ebay.com/)                 | Sell and Buy on eBay                                                       | `OAuth`  |  Yes  | Unknown |
+|                [eBay](https://developer.ebay.com/develop/guides/sell/get-started-with-ebay-apis)                 | Sell and Buy on eBay                                                       | `OAuth`  |  Yes  | Unknown |
 | [Folderwijzer Folders](https://folderwijzer.nl/folder-api/) | Dutch store folders currently running, with each folder's validity dates and a deeplink (beer & wine) | No | Yes | Unknown |
 | [Profitvana](https://www.profitvana.com/developers) | Seller fees for 31 marketplaces and payment processors, verified monthly | No | Yes | Yes |
 |          [ShopSavvy](https://shopsavvy.com/data)                      | Product pricing and price history across thousands of retailers             | `apiKey` |  Yes  |   Yes   |
@@ -1133,7 +1130,6 @@
 |                              [Transport for The Netherlands](http://www.ns.nl/reisinformatie/ns-api)                               | NS, only trains                                                                                  | `apiKey` |  No   | Unknown |
 |                        [Transport for United States](http://www.nextbus.com/xmlFeedDocs/NextBusXMLFeed.pdf)                        | NextBus API                                                                                      |    No    |  No   | Unknown |
 |                                    [Transport for Washington, US](https://developer.wmata.com/)                                    | Washington Metro transport API                                                                   | `OAuth`  |  Yes  | Unknown |
-|                                          [VOLO](https://www.flyvolo.ai/for-agents)                                                 | Private aviation charter search, quotes, fleet, and empty legs                                   | `apiKey` |  Yes  |   Yes   |
 
 **[⬆ Back to Index](#index)**
 
@@ -1188,7 +1184,7 @@
 |               [South Park Quotes](https://github.com/Thatskat/southpark-quotes-api)                | A pretty simple API to let you retrieve some of the best quotes from South Park, mmkay                           |    No    |  Yes  |   Yes   |
 |                                     [STAPI](https://stapi.co)                                      | Information on all things Star Trek                                                                              |    No    |  Yes  |   Yes   |
 |                        [TMDb](https://www.themoviedb.org/documentation/api)                        | Community-based movie data                                                                                       | `apiKey` |  Yes  | Unknown |
-|                                [Trakt](https://trakt.tv/b/api-docs)                                | Movie and TV Data                                                                                                | `apiKey` |  Yes  |   Yes   |
+|                                [Trakt](https://developer.trakt.tv/)                                | Movie and TV Data                                                                                                | `apiKey` |  Yes  |   Yes   |
 |                        [TranscriptFetch](https://transcriptfetch.com/docs)                         | Transcripts for YouTube, TikTok, Instagram videos and podcasts as clean text or timestamped JSON                | `apiKey` |  Yes  | Unknown |
 |                                [TVMaze](http://www.tvmaze.com/api)                                 | TV Show Data                                                                                                     |    No    |  No   | Unknown |
 |                             [VidWords](https://vidwords.com/api-docs)                              | YouTube transcripts and subtitles as TXT, SRT, VTT or DOCX, plus AI video analysis                               | `apiKey` |  Yes  |   No    |
