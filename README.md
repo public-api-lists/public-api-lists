@@ -1087,6 +1087,7 @@
 | :----------------------------------------------: | ----------------------------------------------------------------------- | :------: | :---: | :-----: |
 |     [Let's Count](https://letscountapi.com)      | Create, retrieve, update, increment, and decrement counters             |    No    |  Yes  | Unknown |
 |         [Postmon](http://postmon.com.br)         | An API to query Brazilian ZIP codes and orders easily, quickly and free |    No    |  No   | Unknown |
+| [ShipmentTrackingAPI](https://shipmenttrackingapi.com) | Free USPS, UPS, FedEx and DHL package tracking, normalized to nine statuses | `apiKey` |  Yes  |   Yes   |
 |  [Sweden](https://developer.postnord.com/docs2)  | Provides information about parcels in transport                         | `apiKey` |  No   | Unknown |
 
 **[⬆ Back to Index](#index)**
