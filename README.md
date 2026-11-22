@@ -1015,6 +1015,7 @@
 
 |                                  API                                  | Description                                                                                 |      Auth       | HTTPS |  CORS   |
 | :-------------------------------------------------------------------: | ------------------------------------------------------------------------------------------- | :-------------: | :---: | :-----: |
+|                  [AsianScore](https://asianscore.com)                  | Real-time football and NBA live scores, win probabilities, and verifiable xG ledger         |       No        |  Yes  |   Yes   |
 |                 [balldontlie](https://balldontlie.io)                 | Ballldontlie provides access to stats data from the NBA                                     |       No        |  Yes  |   Yes   |
 |        [Cartola FC](https://github.com/wgenial/cartrolandofc)         | The Cartola FC API serves to check the partial points of your team                          |       No        |  Yes  | Unknown |
 |                [City Bikes](http://api.citybik.es/v2/)                | City Bikes around the world                                                                 |       No        |  No   | Unknown |
