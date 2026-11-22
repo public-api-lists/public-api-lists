@@ -741,6 +741,7 @@
 | [AI Dev Jobs](https://aidevboard.com/api/v1/jobs) | AI and ML job listings from 289+ companies | No |  Yes  |   Yes   |
 |                   [Careerjet](https://www.careerjet.com/partners/api/)                   | Job search engine                                                               | `apiKey` |  No   | Unknown |
 |                     [DevITjobs](https://devitjobs.us/api/jobsLight)                      | Jobs for software developers                                                    |    No    |  Yes  | Unknown |
+| [EuroJobs](https://eurojobs.ai/docs/api) | Live IT jobs in Europe read hourly from employers' own job boards, attribution required | No | Yes | Yes |
 |                      [Himalayas](https://himalayas.app/api)                         | Remote job board and search engine                                              |    No    |  Yes  |   Yes   |
 |                        [Jobicy](https://jobicy.com/jobs-rss-feed)                        | The latest remote job listings from a diverse range of industries and companies |    No    |  Yes  |   Yes   |
 |                 [Jobs2Careers](http://api.jobs2careers.com/api/spec.pdf)                 | Job aggregator                                                                  | `apiKey` |  Yes  | Unknown |
