@@ -729,6 +729,7 @@
 |                        [openFDA](https://open.fda.gov)                        | Public FDA data about drugs, devices and foods                                               |    No    |  Yes  | Unknown |
 | [Urgences Québec](https://sante.handled.tools/en/donnees) | Hourly ER occupancy, patients waiting and mean stay duration for every ER in the Québec health ministry feed, archived since 10 Aug 2026 | No | Yes | Yes |
 | [Verified Supplement Data](https://verifiedsupplementdata.com/api/v1/recommend/index.json) | Supplement dosing, form comparisons and drug-nutrient interactions with PubMed citations | No | Yes | Yes |
+| [WIMSTA](https://wimsta.com/tools/#calculation-api) | Body-composition and energy formulas by id, plus calculations of BMI, body fat, BMR, TDEE and max heart rate as ranges | No | Yes | Yes |
 
 **[⬆ Back to Index](#index)**
 
