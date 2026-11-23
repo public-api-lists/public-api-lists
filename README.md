@@ -440,6 +440,7 @@
 | :--------------------------------------------------------------------------------: | ---------------------------------------------------------------- | :------: | :---: | :----: |
 | [College ROI](https://le-teen.com/api) | Lifetime ROI of US colleges and majors — free static JSON, CC BY 4.0 | No | Yes | Yes |
 | [Current Affairs](https://rapidapi.com/malaithiru370/api/current-affairs-of-india) | Current International Affairs, quizzes and more                  | `apiKey` |  Yes  |   No   |
+| [GMAT MX](https://api.gmat.mx/) | Official GMAT Focus percentiles, GMAC fees for Latin America, exam rules and practice questions | No | Yes | Yes |
 |                    [NationNode](https://nationnode.vercel.app)                     | Used to fetch the specific details about a country               |    No    |  Yes  |  Yes   |
 |                 [Secrets-APi](https://secrets-api.appbrewery.com/)                 | Used For Learning purpose Learn all security types with this api |   `apiKey`    |  Yes  | Unknown |
 
