@@ -1007,6 +1007,7 @@
 |            [Twitter](https://developer.twitter.com/en/docs)            | Read and write Twitter data                                                                       | `OAuth`  |  Yes  |   No    |
 |                  [TwitterApi](http://twitterapi.io/)                   | Mass Twitter data read API                                                                        | `apiKey` |  Yes  |   No    |
 |                     [vk](https://vk.com/dev/sites)                     | Read and write vk data                                                                            | `OAuth`  |  Yes  | Unknown |
+| [XCROP](https://xcrop.io/docs) | X/Twitter data: profiles, tweets, search, followers, trends and interaction checks, free monthly tier | `apiKey` | Yes | No |
 |       [Xquik](https://docs.xquik.com/api-reference/overview)           | X/Twitter data for tweets, profiles, search, and trends                                           | `apiKey` |  Yes  | Unknown |
 
 **[⬆ Back to Index](#index)**
