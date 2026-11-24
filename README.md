@@ -517,6 +517,7 @@
 | :------------------------------------------------------------------------------: | ------------------------------------------------- | :------: | :---: | :-----: |
 |                        [BoozeAPI](https://boozeapi.com/)                         | REST API Cocktail Recipes                         | `apiKey` |  Yes  |   Yes   |
 |                     [Edamam](https://developer.edamam.com/)                      | Recipe Search                                     | `apiKey` |  Yes  | Unknown |
+| [Mealary](https://www.mealary.com/docs/api) | Recipe nutrition and FDA Nutrition Facts panels from USDA FoodData Central | `apiKey` | Yes | No |
 |                 [Open Brewery DB](https://www.openbrewerydb.org)                 | Breweries, Cideries and Craft Beer Bottle Shops   |    No    |  Yes  |   Yes   |
 |             [Open Food Facts](https://world.openfoodfacts.org/data)              | Food Products Database                            |    No    |  Yes  | Unknown |
 |                   [PunkAPI](https://github.com/alxiw/punkapi)                    | BrewDog's DIY Dog beer catalogue as an API        |    No    |  Yes  |   Yes   |
