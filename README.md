@@ -837,6 +837,7 @@
 | [LottoLens PH](https://remo65588-boop.github.io/lottolens-ph-public-data/api/) | Fixed Philippine PCSO draw results and schedules with row-level provenance | No | Yes | Yes |
 |                    [Microlink.io](https://microlink.io)                     | Extract structured data from any website                                                           |    No    |  Yes  |   Yes   |
 | [OpenCorporates](http://api.opencorporates.com/documentation/API-Reference) | Data on corporate entities and directors in many countries                                         | `apiKey` |  Yes  | Unknown |
+| [Prince George Pulse](https://princegeorgepulse.ca/developers/) | Local data for Prince George, BC: events, businesses, weather, transit and civic services, with source attribution | No | Yes | Yes |
 |                      [Quandl](https://www.quandl.com/)                      | Stock Market Data                                                                                  |    No    |  Yes  | Unknown |
 |       [Recreation Information Database](https://ridb.recreation.gov/)       | Recreational areas, federal lands, historic sites, museums, and other attractions/resources(US)    | `apiKey` |  Yes  | Unknown |
 | [Rope Drop News](https://ropedropnews.com/developers) | Live Disney and Universal theme park wait times, ride reliability, crowds, and Lightning Lane prices | No | Yes | No |
