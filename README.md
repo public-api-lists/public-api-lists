@@ -975,6 +975,7 @@
 | [Folderwijzer Folders](https://folderwijzer.nl/folder-api/) | Dutch store folders currently running, with each folder's validity dates and a deeplink (beer & wine) | No | Yes | Unknown |
 | [Profitvana](https://www.profitvana.com/developers) | Seller fees for 31 marketplaces and payment processors, verified monthly | No | Yes | Yes |
 |          [ShopSavvy](https://shopsavvy.com/data)                      | Product pricing and price history across thousands of retailers             | `apiKey` |  Yes  |   Yes   |
+| [within](https://shopwithin.co/agents) | Live stock at independent fashion boutiques with sizes, prices, delivered cost and boutiques in 140+ cities | No | Yes | Yes |
 
 **[⬆ Back to Index](#index)**
 
