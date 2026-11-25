@@ -1034,6 +1034,7 @@
 |               [SharpAPI](https://docs.sharpapi.io)                | Real-time sports betting odds from 20+ sportsbooks with +EV detection                      |    `apiKey`     |  Yes  |   Yes   |
 | [Sports Odds API (BetRivers, Unibet & 22 more books)](https://apify.com/publicrecords/sports-odds-api) | Live odds from 24 Kambi-powered sportsbooks incl. BetRivers & Unibet, best price per outcome | `apiKey` | Yes | Unknown |
 |                [Strava](https://strava.github.io/api/)                | Connect with athletes, activities and more                                                  |     `OAuth`     |  Yes  | Unknown |
+| [Tennis Scores API (ATP & WTA)](https://apify.com/publicrecords/tennis-scores-api) | ATP and WTA match scores, results and rankings | `apiKey` | Yes | Unknown |
 |          [TheSportsDB](https://www.thesportsdb.com/api.php)           | Crowd-Sourced Sports Data and Artwork                                                       |    `apiKey`     |  Yes  |   Yes   |
 |                [Wger](https://wger.de/en/software/api)                | Workout manager data as exercises, muscles or equipment                                     |    `apiKey`     |  Yes  | Unknown |
 
