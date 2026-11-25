@@ -134,6 +134,7 @@
 |             [Charity Search](http://charityapi.orghunter.com/)             | Non-profit charity data                                                   | `apiKey` |  No   | Unknown |
 |            [Clearbit Logo](https://clearbit.com/docs#logo-api)             | Search for company logos and embed them in your projects                  | `apiKey` |  Yes  | Unknown |
 |                    [Clientsbee](https://clientsbee.com)                    | Free leads for bussiness and technographics data                          | `apiKey` |  Yes  |   No    |
+| [Deedz](https://www.deedz.fr/developpeurs) | French company, director and trademark autocomplete with SIREN, SIRET and VAT number | `apiKey` | Yes | Yes |
 |                 [Domainsdb.info](https://domainsdb.info/)                  | Registered Domain Names Search                                            |    No    |  Yes  | Unknown |
 |                      [Favicon.im](https://favicon.im)                      | Instantly fetch and display the favicon for any website                   |    No    |  Yes  |   No    |
 |              [Freelancer](https://developers.freelancer.com)               | Hire freelancers to get work done                                         | `OAuth`  |  Yes  | Unknown |
