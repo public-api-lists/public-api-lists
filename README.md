@@ -829,7 +829,7 @@
 |                    [Callook.info](https://callook.info)                     | United States ham radio callsigns                                                                  |    No    |  Yes  | Unknown |
 |                         [CARTO](https://carto.com/)                         | Location Information Prediction                                                                    | `apiKey` |  Yes  | Unknown |
 |               [CivicFeed](https://developers.civicfeed.com/)                | News articles and public datasets                                                                  | `apiKey` |  Yes  | Unknown |
-| [CosmeScan](https://github.com/guillaumefric0-del/cosmescan-open-api) | Cosmetic & perfume batch code metadata for 2,375 brands | No | Yes | Yes |
+| [CosmeScan](https://cosmescan.com/api-docs/) | Decode cosmetic & perfume batch codes and search 2,375 beauty brands | No | Yes | Yes |
 |     [Enigma Public](http://docs.enigma.com/public/public_v20_api_about)     | Broadest collection of public data                                                                 | `apiKey` |  Yes  |   Yes   |
 |          [French Address Search](https://geo.api.gouv.fr/adresse)           | Address search via the French Government                                                           |    No    |  Yes  | Unknown |
 |              [Fruits](https://fruits-api.netlify.app/graphql)               | Information of fruit trees of the world                                                            |    No    |  Yes  |   No    |
