@@ -575,6 +575,7 @@
 |                         [mod.io](https://docs.mod.io)                         | Cross Platform Mod API                                                                                       |    `apiKey`     |  Yes  | Unknown |
 |               [Open Trivia](https://opentdb.com/api_config.php)               | Trivia Questions                                                                                             |       No        |  Yes  | Unknown |
 |                    [PandaScore](https://api.pandascore.co)                    | E-sports games and results                                                                                   |    `apiKey`     |  Yes  | Unknown |
+| [PkmnPrices](https://www.pkmnprices.com/docs) | Pokemon TCG card and sealed product prices from TCGPlayer, Cardmarket and eBay sold listings | `apiKey` | Yes | No |
 |        [PlayerUnknown's Battlegrounds](https://tracker.gg/developers)         | PUBG Stats                                                                                                   |    `apiKey`     |  Yes  | Unknown |
 | [Pokemon Price Tracker](https://www.pokemonpricetracker.com/pokemon-card-price-api) | Real-time and historical Pokemon card pricing from TCGPlayer and eBay graded sales | `apiKey` | Yes | Yes |
 |                         [Pokéapi](https://pokeapi.co)                         | Pokémon Information                                                                                          |       No        |  Yes  | Unknown |
