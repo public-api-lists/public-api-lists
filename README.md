@@ -970,6 +970,7 @@
 
 |                                  API                                  | Description                                                                |   Auth   | HTTPS |  CORS   |
 | :-------------------------------------------------------------------: | -------------------------------------------------------------------------- | :------: | :---: | :-----: |
+| [Barcodes.GG](https://barcodes.gg/barcode-lookup-api) | Sneaker and streetwear barcode lookup: UPC, EAN or GTIN to product, size and style code | `apiKey` | Yes | Yes |
 | [Best Buy](https://bestbuyapis.github.io/api-documentation/#overview) | Products, Buying Options, Categories, Recommendations, Stores and Commerce | `apiKey` |  Yes  | Unknown |
 |                [eBay](https://go.developer.ebay.com/)                 | Sell and Buy on eBay                                                       | `OAuth`  |  Yes  | Unknown |
 | [Folderwijzer Folders](https://folderwijzer.nl/folder-api/) | Dutch store folders currently running, with each folder's validity dates and a deeplink (beer & wine) | No | Yes | Unknown |
