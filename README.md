@@ -482,6 +482,7 @@
 | [AlphaAI](https://alphai.io/developers) | Financial news scored 1-10 for relevance and tagged with stock tickers, plus SEC Form 4 insider and 8-K event data; free tier 100 requests/day | `apiKey` | Yes | No |
 | [AlphaSMO](https://alphasmo.com/developer/docs) | SEC 13F institutional holdings, Form 4 insider trading, and smart money convergence signals | No | Yes | Yes |
 |        [Barchart OnDemand](https://www.barchartondemand.com/free)        | Stock, Futures and Forex Market Data                          | `apiKey` |  Yes  | Unknown |
+| [Can I Bet In?](https://canibetin.com/data/prices.json) | Live Kalshi, Polymarket and PredictIt prices for matched event contracts | No | Yes | No |
 |           [CommodityPriceAPI](https://commoditypriceapi.com/)            | Real-time & historical commodity prices (metals, energy, etc) | `apiKey` |  Yes  | Unknown |
 | [Congressional Stock Brain](https://congressionalstockbrain.com) | AI-powered tool scoring U.S. STOCK Act lawmaker trade disclosures for retail investors | No | Yes | Yes |
 |             [Earnings Feed](https://earningsfeed.com/api)                | Real-time SEC filings, insider trades, and institutional holdings | `apiKey` |  Yes  |   No    |
