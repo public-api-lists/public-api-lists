@@ -463,12 +463,13 @@
 
 ### Events
 
-|                                            API                                            | Description                           |   Auth   | HTTPS |  CORS   |
-| :---------------------------------------------------------------------------------------: | ------------------------------------- | :------: | :---: | :-----: |
-|                  [Eventbrite](https://www.eventbrite.com/developer/v3/)                   | Find events                           | `OAuth`  |  Yes  | Unknown |
-|                        [SeatGeek](https://platform.seatgeek.com/)                         | Search events, venues and performers  | `apiKey` |  Yes  | Unknown |
-|                      [Songkick](https://www.songkick.com/developer)                       | Upcoming Concerts API                 | `apiKey` |  Yes  | Unknown |
-| [Ticketmaster](http://developer.ticketmaster.com/products-and-docs/apis/getting-started/) | Search events, attractions, or venues | `apiKey` |  Yes  | Unknown |
+|                                            API                                            | Description                                                                   |   Auth   | HTTPS |  CORS   |
+| :---------------------------------------------------------------------------------------: | ----------------------------------------------------------------------------- | :------: | :---: | :-----: |
+|                  [Eventbrite](https://www.eventbrite.com/developer/v3/)                   | Find events                                                                   | `OAuth`  |  Yes  | Unknown |
+|                   [EventCompletion](https://eventcompletion.com/agents)                   | Source-verified dates for sports events, festivals and French school holidays |    No    |  Yes  |   No    |
+|                        [SeatGeek](https://platform.seatgeek.com/)                         | Search events, venues and performers                                          | `apiKey` |  Yes  | Unknown |
+|                      [Songkick](https://www.songkick.com/developer)                       | Upcoming Concerts API                                                         | `apiKey` |  Yes  | Unknown |
+| [Ticketmaster](http://developer.ticketmaster.com/products-and-docs/apis/getting-started/) | Search events, attractions, or venues                                         | `apiKey` |  Yes  | Unknown |
 
 **[⬆ Back to Index](#index)**
 
