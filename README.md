@@ -949,6 +949,7 @@
 |                                             API                                             | Description                                                                                                                                                          |   Auth   | HTTPS |  CORS   |
 | :-----------------------------------------------------------------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------: | :---: | :-----: |
 | [Blooms](https://blooms-production.up.railway.app/api)  | Distribute keys once for serverless applications | No |  Yes  | No |
+| [CheckLeaked](https://checkleaked.cc/developers) | Data-breach search by email, username, phone or domain, plus free k-anonymity password and email checks | `apiKey` | Yes | Yes |
 | [ClassiFinder](https://classifinder.ai) | Detect leaked secrets and prompt-injection in text and return redacted output | `apiKey` | Yes | Yes |
 | [CVE.report](https://cve.report/api) | CVE records with NVD KEV and EPSS enrichment | No | Yes | Yes |
 |                              [FishFish](https://fishfish.gg/)                               | A volunteer cybersecurity project focused on providing resources and services that improve safety across Discord                                                     |    No    |  Yes  | Unknown |
