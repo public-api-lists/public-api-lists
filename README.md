@@ -275,6 +275,7 @@
 |                   [NumValidate](https://numvalidate.com)                    | Open Source phone number validation                                   |    No    |  Yes  | Unknown |
 |                     [numverify](https://numverify.com)                      | Phone number validation                                               |    No    |  Yes  | Unknown |
 |                   [PurgoMalum](http://www.purgomalum.com)                   | Content validator against profanity & obscenity                       |    No    |  No   | Unknown |
+| [Qelka](https://qelka.com) | Phone, email and IP validation with IBAN, VAT and domain checks | `apiKey` | Yes | No |
 | [SpryTools Email Validation](https://sprytools.com/apis/email-validation) | Syntax + MX + disposable/role-based email validation | `apiKey` | Yes | Unknown |
 | [TaxID](https://www.taxid.dev/docs) | EU VAT number validation with company name and address lookup across 27 member states | `apiKey` | Yes | Unknown |
 |       [Trestle](https://trestleiq.com/phone-validation-api/)                | Validates the phone number and provides phone metadata                | `apiKey` |  Yes  |   Yes   |
