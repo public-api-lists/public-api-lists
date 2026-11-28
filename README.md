@@ -972,6 +972,7 @@
 | :-------------------------------------------------------------------: | -------------------------------------------------------------------------- | :------: | :---: | :-----: |
 | [Best Buy](https://bestbuyapis.github.io/api-documentation/#overview) | Products, Buying Options, Categories, Recommendations, Stores and Commerce | `apiKey` |  Yes  | Unknown |
 |                [eBay](https://go.developer.ebay.com/)                 | Sell and Buy on eBay                                                       | `OAuth`  |  Yes  | Unknown |
+| [eBay Data](https://rapidapi.com/apiwren-apiwren-default/api/ebay-data-api-search-item-details-seller) | eBay search, item details, UPC/ISBN lookup and seller data for 14 eBay sites as JSON, without an eBay developer account | `apiKey` | Yes | Yes |
 | [Folderwijzer Folders](https://folderwijzer.nl/folder-api/) | Dutch store folders currently running, with each folder's validity dates and a deeplink (beer & wine) | No | Yes | Unknown |
 | [Profitvana](https://www.profitvana.com/developers) | Seller fees for 31 marketplaces and payment processors, verified monthly | No | Yes | Yes |
 |          [ShopSavvy](https://shopsavvy.com/data)                      | Product pricing and price history across thousands of retailers             | `apiKey` |  Yes  |   Yes   |
