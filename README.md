@@ -1218,3 +1218,5 @@
 | [World Time & Weather](https://worldtimeweather.com/api.html) | Local time, UTC offset, DST rules, current weather and climate normals for 400 cities | No | Yes | Yes |
 
 **[⬆ Back to Index](#index)**
+
+|                                        [Japan Places](https://japan-places.com)                                         | Comprehensive Japanese facilities and locations database with geocoding and location intelligence                     |       No       |  Yes  |   Yes   |
